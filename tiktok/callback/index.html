@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="referrer" content="no-referrer">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TikTok sign-in</title>
+<style>
+body{font:16px/1.5 system-ui,sans-serif;max-width:40rem;margin:3rem auto;padding:0 1rem;color:#1c1c1c}
+h1{font-size:1.4rem}
+.box{display:block;width:100%;box-sizing:border-box;padding:.6rem;border:1px solid #bbb;border-radius:6px;background:#f6f6f6;font:14px/1.4 ui-monospace,monospace;white-space:pre-wrap;word-break:break-all;user-select:all}
+button{margin:.4rem 0 1.2rem;padding:.4rem .9rem;font:inherit;cursor:pointer}
+.err{color:#b00020}
+.note{color:#555;font-size:.9rem}
+.hide{display:none}
+</style>
+</head>
+<body>
+<h1>TikTok sign-in</h1>
+<p id="status">Waiting for TikTok&hellip;</p>
+
+<div id="errBlock" class="hide">
+  <h2>Error</h2>
+  <div id="err" class="box err"></div>
+  <div id="errDesc" class="box err hide"></div>
+</div>
+
+<div id="okBlock" class="hide">
+  <h2>Authorization code</h2>
+  <div id="code" class="box"></div>
+  <button type="button" data-copy="code">Copy code</button>
+  <h2>State</h2>
+  <div id="state" class="box"></div>
+  <h2>Full address</h2>
+  <div id="full" class="box"></div>
+  <button type="button" data-copy="full">Copy full address</button>
+</div>
+
+<p class="note">Nothing on this page is stored or sent anywhere: no cookies, no analytics, no external scripts. The code is single-use and sensitive. Do not share it.</p>
+
+<script>
+(function () {
+  "use strict";
+  var q = new URLSearchParams(location.search);
+  var code = q.get("code"), state = q.get("state"), error = q.get("error"), desc = q.get("error_description");
+  var $ = function (id) { return document.getElementById(id); };
+  function show(id) { $(id).classList.remove("hide"); }
+
+  if (error) {
+    $("status").textContent = "TikTok returned an error.";
+    $("err").textContent = error;
+    if (desc) { $("errDesc").textContent = desc; show("errDesc"); }
+    show("errBlock");
+  }
+  if (code) {
+    $("status").textContent = error ? "TikTok returned an error and a code." : "Authorized. Copy the code below (or the full address).";
+    $("code").textContent = code;
+    $("state").textContent = state || "(no state in the address)";
+    $("full").textContent = location.href;
+    show("okBlock");
+  } else if (!error) {
+    $("status").textContent = "No code in this address. Start the sign-in from the Syzigy uploader.";
+  }
+
+  function selectAll(el) {
+    var r = document.createRange(); r.selectNodeContents(el);
+    var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+  }
+  document.addEventListener("click", function (e) {
+    var id = e.target && e.target.getAttribute && e.target.getAttribute("data-copy");
+    if (!id) return;
+    var el = $(id), text = el.textContent, b = e.target;
+    function done(ok) { b.textContent = ok ? "Copied" : "Press Ctrl/Cmd+C"; if (!ok) selectAll(el); }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { done(true); }, function () { selectAll(el); done(document.execCommand && document.execCommand("copy")); });
+    } else { selectAll(el); done(document.execCommand && document.execCommand("copy")); }
+  });
+})();
+</script>
+</body>
+</html>

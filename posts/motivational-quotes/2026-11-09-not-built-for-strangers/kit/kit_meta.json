@@ -1,0 +1,38 @@
+{
+  "post": "motivational-quotes/2026-11-09-not-built-for-strangers",
+  "format": "carousel",
+  "version": "v5",
+  "review_status": "posted",
+  "slot": "3",
+  "slot_time": "",
+  "placeholders": [
+    "{{CIRCLE_NAME}}",
+    "{{TRACKED_LINK}}"
+  ],
+  "built": "2026-11-09T17:52:14-05:00",
+  "files": {
+    "4x5/01.jpg": "9dc7c46c0856185237a9a85ca8f571507718a32a598092e3cfd558a8cbc22497",
+    "4x5/02.jpg": "5b2093bb49bb1f44845c4b27cdfdcff6d1c4cea12faed2a58796ad3c062ca18b",
+    "4x5/03.jpg": "71b12e41e9751eadc4d1127102b09ac0ee7138984fc43e12a4f36c9794801149",
+    "4x5/04.jpg": "c375b7c51a328cffbef043699a61eba3f1c8140f66cb149e5aa7740180365438",
+    "4x5/05.jpg": "c0f4e94f16705a084dcf65a84d3062956d06d14b315926be2689a9d4eeed916c",
+    "4x5/06.jpg": "6460f71e1f0da45f493eb0fff823bb05cbe866255de1a836fae3a4cbe7472722",
+    "4x5/07.jpg": "74933fb9ce4fab2325b72d46b7edd708274cd0274667daa5f2956845ed17087f",
+    "cover.jpg": "b4e66fbd1a8ae6dd7a1bacfa7483de15c3c624f4b77b51fc35e5d2127067b7f7",
+    "kit/README.md": "8dae60265ac798defe4dfa11736500fbe7a89e90a22659288c649041958a7e4b",
+    "kit/index.html": "f40e45c68a47e85507c453f1231d2c825d9e036614958a28f25c5c2653819ba4",
+    "kit/instagram_caption.txt": "ba0d74149bd97001e53d2779bd1b9a04739911db4d7147fa86af90952e2670db",
+    "kit/tiktok_caption.txt": "23ff735333a4b02feec2691bcfde83010d8860d9194efba95974b657503a3658",
+    "reel-4x5.mp4": "4a76b98d3b35a86d4c06557a984d379a40be89834525b7327aa5edc1199edcdc",
+    "reel.mp4": "54dae5ab474c3087c618b2cbaa920f521470bbad1bf8f88f0d7e5f45de4e85d2",
+    "slides/01.jpg": "b4e66fbd1a8ae6dd7a1bacfa7483de15c3c624f4b77b51fc35e5d2127067b7f7",
+    "slides/02.jpg": "192539b5effda7a0cf2ea901a452171a4e8c7769415f3cf2e8930d3470a84440",
+    "slides/03.jpg": "77311b45ab82133825c80ca41be29ce2fc3644eb643ad2e783a90143b75ebbff",
+    "slides/04.jpg": "b85ea2dd2eda836544b3b6be806448559ed76429e58ab2f48b19e2c539f0fed5",
+    "slides/05.jpg": "912821e490f7f0af3ff26cc52083e0861bb2b075d02abf791f15586467b2fb59",
+    "slides/06.jpg": "733c3426594f94a4541397e9106e3fbb7f60f0a63009a19e1e5a15a7eac539eb",
+    "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides-4x5.zip": "b3ef033afafef81127038469921cfd811449da665b7de1da35728419385f7e68",
+    "slides.zip": "5b2e894b483390c9116fc11fc72fff203f34b7d90d396fbe65f8de9c5c29a095"
+  }
+}

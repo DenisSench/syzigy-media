@@ -1,7 +1,7 @@
 # Kit: 2026-11-09-enemies-to-lovers-starter
 
 Approval: In review: NOT approved yet. Do not post.
-Slot: Mon Nov 9, 12:30 PM ET
+Slot: Mon Nov 9, time TBD
 Source: posts/book-clubs/2026-11-09-enemies-to-lovers-starter/v5
 Placeholders: {{CIRCLE_NAME}}, {{TRACKED_LINK}}
 

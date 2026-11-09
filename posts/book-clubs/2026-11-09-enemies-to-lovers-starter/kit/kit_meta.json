@@ -3,16 +3,16 @@
   "format": "carousel",
   "version": "v5",
   "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:30",
+  "slot": "",
+  "slot_time": "",
   "placeholders": [
     "{{CIRCLE_NAME}}",
     "{{TRACKED_LINK}}"
   ],
-  "built": "2026-11-09T18:01:30-05:00",
+  "built": "2026-11-09T18:04:30-05:00",
   "files": {
-    "kit/README.md": "dfd12c33fca4321fc0450ba15e5d8250a28dca90c8973c7b8d3e412fdb479963",
-    "kit/index.html": "2730cbda4e59dcf0f6cd35a5107c1f6b226297097ab6950a9822c13caea846ef",
+    "kit/README.md": "03005bd8126dc974558d0fd29a5f0eba4512ac6f58d9ba877607acd86e6f6a9b",
+    "kit/index.html": "dd8c1b4f216e5eeef83be32ec18e416835406c3c6b9acea8be750c657e188656",
     "kit/instagram_caption.txt": "b48b48eba6e1b6d264a01a91b66305a22478160b2a2337e1afd2ba19bb429a24",
     "kit/tiktok_caption.txt": "3736872fb2eff75d91fccbaa1caa3931e772ee01eac89a5149f94d221ea3e8ca"
   }

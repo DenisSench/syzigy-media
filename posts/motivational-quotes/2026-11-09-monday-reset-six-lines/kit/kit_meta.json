@@ -3,15 +3,21 @@
   "format": "native-reel",
   "version": "v8",
   "review_status": "approved",
-  "slot": "2",
-  "slot_time": "18:00",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "auto-derived",
+    "reel_seconds": 22.533333,
+    "over_60s": false
+  },
   "placeholders": [],
-  "built": "2026-11-10T12:13:03-05:00",
+  "built": "2026-11-10T15:12:00-05:00",
   "files": {
     "cover.jpg": "aced837980b2dbec532d93d0281fc055513791fed6b11ce0c6b340a55f38ae79",
-    "kit/README.md": "c5feecd992895aa261dc720fb214659b4a37e46dc246478d22b3bfe92de5372d",
-    "kit/index.html": "581084248c0c9fcc187b8c46a22f64aa2eba082a850fb97ef895f6b771b2b34d",
+    "kit/README.md": "0fbae3fb5eff5d7ed8fa69bc47ecb6db9d301cf102e6697ba78a5fd65497dd20",
+    "kit/index.html": "419e80b9f7b4e5338736121bbfaeb8b6e363dfe869d92fc2043bc05e3ec253fb",
     "kit/instagram_caption.txt": "cf5cd0055c099213d42807544edf5a373ebd051ef12ac2a5d48377f3286c6e8c",
+    "kit/snapchat_caption.txt": "5ded748e42da4bf3aac2786e40d2f30704e347943650ff407fb73cca5ea2e5e0",
     "kit/tiktok_caption.txt": "17e4c518d2ed96a4fdc504b908ceac386861dda60a9e63762f491ea96baa5db2",
     "reel-4x5.mp4": "8fe774b5d1273d24bff8ef28bd0acf9f4e76609f0442d90a965ece57f75f5735",
     "reel.mp4": "ec066d4822a50668df22c85c4f6fcdd8bb358cdb37ac8c9459596d89ed1aa8c6"

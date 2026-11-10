@@ -1,7 +1,7 @@
 # Kit: 2026-11-10-bravest-text-is-hey
 
-Approval: Approved by Denis: one approval for TikTok and Instagram (same asset).
-Slot: Tue Nov 10, 8:00 PM ET
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Slot: Tue Nov 10, 10:00 PM ET
 Source: posts/motivational-quotes/2026-11-10-bravest-text-is-hey/v7
 Placeholders: none
 
@@ -24,4 +24,10 @@ Skip the bare "hey." Ask the thing you actually want to know. 💬 Save this for
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
 
 #dailyreminder #newfriends #friendship #quotes #motivationalquotes #syzigy
+```
+
+## Snapchat caption (auto-derived, pending Ella)
+
+```
+The best opener isn't "hey." Link in bio. #motivationalquotes #dailyreminder #syzigy
 ```

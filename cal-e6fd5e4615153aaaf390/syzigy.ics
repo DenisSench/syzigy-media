@@ -57,15 +57,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261110T163906Z
-SEQUENCE:0
+DTSTAMP:20261110T202113Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261110T110600
 DTEND;TZID=America/New_York:20261110T112100
-SUMMARY:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram\nTikTok: posted.\nI
- nstagram: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-c
- lubs/2026-11-09-enemies-to-lovers-starter/kit/\nDashboard: https://syzigy-
- media.vijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/book-clubs/2026-11-09-enemies-to-lovers-starter/kit/
+ \nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-09-enemies
  -to-lovers-starter/kit/
 TRANSP:TRANSPARENT
@@ -73,13 +73,13 @@ STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG
- ] in 30 min
+ /SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG
- ] in 5 min
+ /SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

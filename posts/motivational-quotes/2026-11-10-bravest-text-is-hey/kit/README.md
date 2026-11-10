@@ -2,7 +2,7 @@
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Tue Nov 10, 10:00 PM ET
-Source: posts/motivational-quotes/2026-11-10-bravest-text-is-hey/v7
+Source: posts/motivational-quotes/2026-11-10-bravest-text-is-hey/v8
 Placeholders: none
 
 ## TikTok caption

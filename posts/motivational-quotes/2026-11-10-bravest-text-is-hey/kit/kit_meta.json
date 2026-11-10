@@ -1,7 +1,7 @@
 {
   "post": "motivational-quotes/2026-11-10-bravest-text-is-hey",
   "format": "native-reel",
-  "version": "v7",
+  "version": "v8",
   "review_status": "approved",
   "slot": "3",
   "slot_time": "22:00",
@@ -11,11 +11,11 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-10T15:47:18-05:00",
+  "built": "2026-11-10T15:52:43-05:00",
   "files": {
-    "cover.jpg": "e169998a3c6d4d7e8be311a94a5ffb946635246f48a262ec7da751da179c1e41",
-    "kit/README.md": "e327343be9e20d5c42eebe23e5d595882484a87c1f8b86a98878ce0f4b5da49d",
-    "kit/index.html": "8da3f990a28b243cdcb4fd36ad8f46f5f3dfc8f2d8ab56e51016d43f8725c2b6",
+    "cover.jpg": "a368728a3a172d56470ec2b990f723eec6859c0f48a5772f3fcdd1739477b194",
+    "kit/README.md": "47ef307b7c308dc9d777ff222a71b2e8f98272430115d54e07d4438c3f26f4d1",
+    "kit/index.html": "b978edd8ac644b0ecc027675cb5ca35d45b95d02b42eb0d6b8373074ade419f7",
     "kit/instagram_caption.txt": "54730fb666428fcd33956b02147b0669b3ff758ba9f14e9fb231701e978f817b",
     "kit/snapchat_caption.txt": "6aa4f322bf8224d9eb8866ccea90b311e463e3ae94f9cd8ec6ab04dc226ac066",
     "kit/tiktok_caption.txt": "a83280a9fe5b1f1f02b5ae6ce1905fc4ce9c48d0abb0578411b1eaf1c942edc1",

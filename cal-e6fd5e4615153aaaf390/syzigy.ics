@@ -56,33 +56,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:monday-reset-six-lines@syzigy-media.vijostudio.com
-DTSTAMP:20261110T163906Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261109T180000
-DTEND;TZID=America/New_York:20261109T181500
-SUMMARY:Post: Monday reset in 6 calm lines [TT/IG]
-DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
- aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
- .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
- 26-11-09-monday-reset-six-lines/kit/\nDashboard: https://syzigy-media.vijo
- studio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
- 9-monday-reset-six-lines/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
 DTSTAMP:20261110T163906Z
 SEQUENCE:0
@@ -134,6 +107,33 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post: The feed isn’t a friend group [TT/IG] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-reset-six-lines@syzigy-media.vijostudio.com
+DTSTAMP:20261110T164422Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261110T180000
+DTEND;TZID=America/New_York:20261110T181500
+SUMMARY:Post: Monday reset in 6 calm lines [TT/IG]
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
+ aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
+ .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
+ 26-11-09-monday-reset-six-lines/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
+ 9-monday-reset-six-lines/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

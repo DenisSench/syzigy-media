@@ -85,55 +85,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-isnt-friend-group@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261110T123000
-DTEND;TZID=America/New_York:20261110T124500
-SUMMARY:✅ Posted: The feed isn’t a friend group [TT/IG]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram\nTikTok: posted.\nI
- nstagram: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/motiva
- tional-quotes/2026-11-10-feed-isnt-friend-group/kit/\nDashboard: https://s
- yzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261110T183641Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20261110T180000
+DTEND;TZID=America/New_York:20261110T181500
+SUMMARY:Post: The feed isn’t a friend group [TT/IG]
+DESCRIPTION:⚠ One-off time: one-off time today\; standard slots are 12/5/
+ 9.\nStatus: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox draft\, t
+ hen publish in the app.\nInstagram: hand-post the Reel from the kit.\n\nKi
+ t: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
+ 0-feed-isnt-friend-group/kit/\nDashboard: https://syzigy-media.vijostudio.
+ com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  0-feed-isnt-friend-group/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: The feed isn’t a friend group [TT/IG] in 30 min
+DESCRIPTION:Post: The feed isn’t a friend group [TT/IG] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: The feed isn’t a friend group [TT/IG] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:monday-reset-six-lines@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:2
-DTSTART;TZID=America/New_York:20261110T180000
-DTEND;TZID=America/New_York:20261110T181500
-SUMMARY:Post: Monday reset in 6 calm lines [TT/IG]
-DESCRIPTION:⚠ One-off time: one-off time today\; standard slots are 12/5/
- 9.\nStatus: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox draft\, t
- hen publish in the app.\nInstagram: hand-post the Reel from the kit.\n\nKi
- t: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
- 9-monday-reset-six-lines/kit/\nDashboard: https://syzigy-media.vijostudio.
- com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
- 9-monday-reset-six-lines/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
+DESCRIPTION:Post: The feed isn’t a friend group [TT/IG] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -166,11 +140,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:midweek-thriller-checkin@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
+UID:monday-reset-six-lines@syzigy-media.vijostudio.com
+DTSTAMP:20261110T183641Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261111T120000
 DTEND;TZID=America/New_York:20261111T121500
+SUMMARY:Post: Monday reset in 6 calm lines [TT/IG]
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
+ aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
+ .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
+ 26-11-09-monday-reset-six-lines/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
+ 9-monday-reset-six-lines/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:midweek-thriller-checkin@syzigy-media.vijostudio.com
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261111T170000
+DTEND;TZID=America/New_York:20261111T171500
 SUMMARY:Post: Midweek thriller check-in (theories welcome\, spoilers in com
  ments) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
@@ -197,10 +198,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:small-rooms-over-follows@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261111T170000
-DTEND;TZID=America/New_York:20261111T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261111T210000
+DTEND;TZID=America/New_York:20261111T211500
 SUMMARY:Post: Small rooms > big follow counts [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -224,10 +225,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261111T210000
-DTEND;TZID=America/New_York:20261111T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261112T120000
+DTEND;TZID=America/New_York:20261112T121500
 SUMMARY:Post: Found-family books hit different when you’re 28+ [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -253,10 +254,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belong-without-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261112T120000
-DTEND;TZID=America/New_York:20261112T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261112T170000
+DTEND;TZID=America/New_York:20261112T171500
 SUMMARY:Post: Soft rewrite: “belong where you don’t perform” [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -282,10 +283,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chapter-a-day-energy@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261112T170000
-DTEND;TZID=America/New_York:20261112T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261112T210000
+DTEND;TZID=America/New_York:20261112T211500
 SUMMARY:Post: Chapter-a-day club energy (no perfection required) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -311,10 +312,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:average-day-counts@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261112T210000
-DTEND;TZID=America/New_York:20261112T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261113T120000
+DTEND;TZID=America/New_York:20261113T121500
 SUMMARY:Post: Permission slip: average day still counts [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -340,10 +341,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261113T120000
-DTEND;TZID=America/New_York:20261113T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261113T170000
+DTEND;TZID=America/New_York:20261113T171500
 SUMMARY:Post: Thriller Thursday: locked-room vibes only [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -369,10 +370,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stop-refreshing-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261113T170000
-DTEND;TZID=America/New_York:20261113T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261113T210000
+DTEND;TZID=America/New_York:20261113T211500
 SUMMARY:Post: Stop refreshing. Go where people reply. [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -396,10 +397,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:romance-like-groupchat@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261113T210000
-DTEND;TZID=America/New_York:20261113T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T121500
 SUMMARY:Post: Romance that felt like a warm group chat [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -424,10 +425,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:want-a-third-place@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261114T120000
-DTEND;TZID=America/New_York:20261114T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261114T170000
+DTEND;TZID=America/New_York:20261114T171500
 SUMMARY:Post: You’re allowed to want a third place online [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -453,10 +454,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slow-burn-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261114T170000
-DTEND;TZID=America/New_York:20261114T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261114T210000
+DTEND;TZID=America/New_York:20261114T211500
 SUMMARY:Post: Slow-burn signs (book edition) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -480,10 +481,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261114T210000
-DTEND;TZID=America/New_York:20261114T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261115T120000
+DTEND;TZID=America/New_York:20261115T121500
 SUMMARY:Post: Scripts for saying hi in a new group chat [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -509,10 +510,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-currently-reading@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261115T120000
-DTEND;TZID=America/New_York:20261115T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261115T170000
+DTEND;TZID=America/New_York:20261115T171500
 SUMMARY:Post: Saturday currently-reading roll call [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -536,10 +537,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-soft-no-flex@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261115T170000
-DTEND;TZID=America/New_York:20261115T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261115T210000
+DTEND;TZID=America/New_York:20261115T211500
 SUMMARY:Post: Weekend soft life without the flex [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -563,10 +564,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261116T120000
+DTEND;TZID=America/New_York:20261116T121500
 SUMMARY:Post: Cozy Saturday: pick a short book\, talk as you go [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -592,10 +593,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-boring-tuesdays@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261116T120000
-DTEND;TZID=America/New_York:20261116T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261116T170000
+DTEND;TZID=America/New_York:20261116T171500
 SUMMARY:Post: Remixed: “friendship is built on boring Tuesdays” [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -621,10 +622,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dnfs-i-still-think-about@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261116T170000
-DTEND;TZID=America/New_York:20261116T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261116T210000
+DTEND;TZID=America/New_York:20261116T211500
 SUMMARY:Post: DNFs I still think about (and why that’s fine) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -650,10 +651,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunday-scaries-fyp@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261116T210000
-DTEND;TZID=America/New_York:20261116T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261117T120000
+DTEND;TZID=America/New_York:20261117T121500
 SUMMARY:Post: Sunday scaries are lonelier with only a For You page [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -679,10 +680,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-mystery-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T120000
-DTEND;TZID=America/New_York:20261117T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261117T170000
+DTEND;TZID=America/New_York:20261117T171500
 SUMMARY:Post: Cozy-mystery starter kit for rainy evenings [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -708,10 +709,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belonging-is-a-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T170000
-DTEND;TZID=America/New_York:20261117T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261117T210000
+DTEND;TZID=America/New_York:20261117T211500
 SUMMARY:Post: Belonging isn’t a vibe you post — it’s a reply you get 
  [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
@@ -738,10 +739,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fresh-week-buddy-seats@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T210000
-DTEND;TZID=America/New_York:20261117T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261118T120000
+DTEND;TZID=America/New_York:20261118T121500
 SUMMARY:Post: Fresh week\, fresh buddy-read seats [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -765,10 +766,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-week-same-you@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T120000
-DTEND;TZID=America/New_York:20261118T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261118T170000
+DTEND;TZID=America/New_York:20261118T171500
 SUMMARY:Post: New week\, same you — that’s enough [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -792,10 +793,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fantasy-monday-small-party@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T170000
-DTEND;TZID=America/New_York:20261118T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261118T210000
+DTEND;TZID=America/New_York:20261118T211500
 SUMMARY:Post: Fantasy Monday: one world\, small reading party [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -821,10 +822,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:awkward-intro-ok@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T210000
-DTEND;TZID=America/New_York:20261118T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261119T120000
+DTEND;TZID=America/New_York:20261119T121500
 SUMMARY:Post: Send the awkward intro. Circles forgive awkward. [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -850,10 +851,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:morally-gray-defense@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T120000
-DTEND;TZID=America/New_York:20261119T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261119T170000
+DTEND;TZID=America/New_York:20261119T171500
 SUMMARY:Post: Morally gray characters we defend too hard [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -879,10 +880,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lurking-wont-invent-friends@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T170000
-DTEND;TZID=America/New_York:20261119T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261119T210000
+DTEND;TZID=America/New_York:20261119T211500
 SUMMARY:Post: Lurking forever won’t invent your friend group [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -908,10 +909,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:horror-messed-me-up@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T210000
-DTEND;TZID=America/New_York:20261119T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261120T120000
+DTEND;TZID=America/New_York:20261120T121500
 SUMMARY:Post: Horror/thriller that messed me up (spoiler-free) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -937,10 +938,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:one-hobby-away@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T120000
-DTEND;TZID=America/New_York:20261120T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261120T170000
+DTEND;TZID=America/New_York:20261120T171500
 SUMMARY:Post: Your people might be one shared hobby away [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -966,10 +967,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rate-your-tbr-chaos@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T170000
-DTEND;TZID=America/New_York:20261120T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261120T210000
+DTEND;TZID=America/New_York:20261120T211500
 SUMMARY:Post: Rate your TBR chaos 1–10 [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -993,10 +994,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:phone-facedown-one-chat@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T210000
-DTEND;TZID=America/New_York:20261120T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261121T120000
+DTEND;TZID=America/New_York:20261121T121500
 SUMMARY:Post: Midweek: put the phone face-down for one real chat [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1022,10 +1023,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nonfiction-buddy-read@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T120000
-DTEND;TZID=America/New_York:20261121T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261121T170000
+DTEND;TZID=America/New_York:20261121T171500
 SUMMARY:Post: Nonfiction buddy read? Yes — essays welcome [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1051,10 +1052,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:connection-over-content@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T170000
-DTEND;TZID=America/New_York:20261121T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261121T210000
+DTEND;TZID=America/New_York:20261121T211500
 SUMMARY:Post: Remixed: “connection > content” [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1078,10 +1079,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thriller-thursday-unreliable@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T210000
-DTEND;TZID=America/New_York:20261121T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261122T120000
+DTEND;TZID=America/New_York:20261122T121500
 SUMMARY:Post: Thriller Thursday round 2: unreliable narrators [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1107,10 +1108,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:outgrow-watch-time-apps@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261122T120000
-DTEND;TZID=America/New_York:20261122T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261122T170000
+DTEND;TZID=America/New_York:20261122T171500
 SUMMARY:Post: You can outgrow apps that only want your watch time [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1136,10 +1137,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fake-dating-trope-why@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261122T170000
-DTEND;TZID=America/New_York:20261122T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261122T210000
+DTEND;TZID=America/New_York:20261122T211500
 SUMMARY:Post: Fake-dating trope — why we keep falling for it [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1165,10 +1166,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:join-before-ready@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261122T210000
-DTEND;TZID=America/New_York:20261122T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261123T120000
+DTEND;TZID=America/New_York:20261123T121500
 SUMMARY:Post: Join the Circle before you feel “ready” [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1194,10 +1195,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:book-felt-like-friend@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261123T120000
-DTEND;TZID=America/New_York:20261123T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261123T170000
+DTEND;TZID=America/New_York:20261123T171500
 SUMMARY:Post: 5 slides: a book that felt like making a friend [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1223,10 +1224,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-exhale-no-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261123T170000
-DTEND;TZID=America/New_York:20261123T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261123T210000
+DTEND;TZID=America/New_York:20261123T211500
 SUMMARY:Post: Friday exhale without performing wellness [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1252,10 +1253,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-novella-buddy@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261123T210000
-DTEND;TZID=America/New_York:20261123T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261124T120000
+DTEND;TZID=America/New_York:20261124T121500
 SUMMARY:Post: Weekend buddy read: short story or novella only [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1281,10 +1282,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:only-social-is-scrolling@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T120000
-DTEND;TZID=America/New_York:20261124T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261124T170000
+DTEND;TZID=America/New_York:20261124T171500
 SUMMARY:Post: If your only social is scrolling\, try a small room [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1310,10 +1311,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-tropes-bingo@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T170000
-DTEND;TZID=America/New_York:20261124T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261124T210000
+DTEND;TZID=America/New_York:20261124T211500
 SUMMARY:Post: Cozy tropes bingo (comment your card) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1337,10 +1338,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chosen-people-not-aesthetics@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T210000
-DTEND;TZID=America/New_York:20261124T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261125T120000
+DTEND;TZID=America/New_York:20261125T121500
 SUMMARY:Post: Chosen people\, not chosen aesthetics [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1364,10 +1365,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:currently-reading-no-guilt@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261125T120000
-DTEND;TZID=America/New_York:20261125T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261125T170000
+DTEND;TZID=America/New_York:20261125T171500
 SUMMARY:Post: Spill your currently-reading without the guilt [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1393,10 +1394,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-one-and-one@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261125T170000
-DTEND;TZID=America/New_York:20261125T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261125T210000
+DTEND;TZID=America/New_York:20261125T211500
 SUMMARY:Post: Saturday plan: one thing just for you\, one thing with someon
  e [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
@@ -1423,10 +1424,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:underrated-tiny-circle@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261125T210000
-DTEND;TZID=America/New_York:20261125T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261126T120000
+DTEND;TZID=America/New_York:20261126T121500
 SUMMARY:Post: Underrated picks worth a tiny book Circle [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1452,10 +1453,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lonely-sunday-talk@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261126T120000
-DTEND;TZID=America/New_York:20261126T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261126T170000
+DTEND;TZID=America/New_York:20261126T171500
 SUMMARY:Post: Lonely Sunday? Don’t just double-tap — talk [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1481,10 +1482,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:next-week-buddy-poll@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261126T170000
-DTEND;TZID=America/New_York:20261126T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261126T210000
+DTEND;TZID=America/New_York:20261126T211500
 SUMMARY:Post: Next week’s buddy-read poll (3 options\, you vote) [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1510,10 +1511,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:inside-joke-two-weeks@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261126T210000
-DTEND;TZID=America/New_York:20261126T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261127T120000
+DTEND;TZID=America/New_York:20261127T121500
 SUMMARY:Post: Two weeks from now you could have an inside joke with someone
   new [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
@@ -1540,10 +1541,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:low-pressure-buddy-read@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261127T120000
-DTEND;TZID=America/New_York:20261127T121500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261127T170000
+DTEND;TZID=America/New_York:20261127T171500
 SUMMARY:Post: Anyone want a low-pressure buddy read this week? [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1569,10 +1570,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbr-judging-you@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261127T170000
-DTEND;TZID=America/New_York:20261127T171500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261127T210000
+DTEND;TZID=America/New_York:20261127T211500
 SUMMARY:Post: Be honest: how long has that TBR been judging you? [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the
@@ -1598,10 +1599,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:three-star-circle-worthy@syzigy-media.vijostudio.com
-DTSTAMP:20261110T173649Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261127T210000
-DTEND;TZID=America/New_York:20261127T211500
+DTSTAMP:20261110T183641Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T121500
 SUMMARY:Post: 3-star books that still deserve a book-club chat [TT/IG]
 DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram\nTikTok: inbo
  x draft\, then publish in the app.\nInstagram: hand-post the Reel from the

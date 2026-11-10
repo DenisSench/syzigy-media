@@ -1,6 +1,6 @@
 # Kit: 2026-11-09-enemies-to-lovers-starter
 
-Approval: Approved by Denis: one approval for TikTok and Instagram (same asset).
+Approval: Posted.
 Slot: Mon Nov 9, 12:30 PM ET
 Source: posts/book-clubs/2026-11-09-enemies-to-lovers-starter/v5
 Placeholders: {{CIRCLE_NAME}}, {{TRACKED_LINK}}

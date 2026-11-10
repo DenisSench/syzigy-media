@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Mon Nov 9, 8:00 PM ET
-Source: posts/motivational-quotes/2026-11-09-monday-reset-six-lines/v5
+Source: posts/motivational-quotes/2026-11-09-monday-reset-six-lines/v7
 Placeholders: {{CIRCLE_NAME}}, {{TRACKED_LINK}}
 
 ## TikTok caption

@@ -1,7 +1,7 @@
 {
   "post": "motivational-quotes/2026-11-09-monday-reset-six-lines",
   "format": "native-reel",
-  "version": "v5",
+  "version": "v7",
   "review_status": "review",
   "slot": "2",
   "slot_time": "20:00",
@@ -9,10 +9,10 @@
     "{{CIRCLE_NAME}}",
     "{{TRACKED_LINK}}"
   ],
-  "built": "2026-11-10T10:39:38-05:00",
+  "built": "2026-11-10T11:07:09-05:00",
   "files": {
-    "kit/README.md": "9e97dac794a3d0e44286b36e9944ee6a01496865e2815fd75b52bfb3b382274d",
-    "kit/index.html": "6f53c3489d97e8d065c4145553d8838e41ba4485f4b859d90d788719943e49e5",
+    "kit/README.md": "e5c56ac73481140ef639157934af721d1d01961c85f7aca9cdf5aa46005b57f1",
+    "kit/index.html": "7baaa59a44eedbe376a53be4271d25b4b7d408f6b8a606ed713a1f1fd4bc9b8e",
     "kit/instagram_caption.txt": "8ee8c19350c147b81ab26f9c6a065d8c6f45119cddcbafcfea09c5b5f86ac390",
     "kit/tiktok_caption.txt": "6d1b07efc9d90e8eb5577f039ad19fe2d6759f5cdb1a0300e6b70453b9417c2b"
   }

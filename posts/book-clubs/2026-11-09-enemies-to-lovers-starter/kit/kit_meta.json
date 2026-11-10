@@ -2,14 +2,14 @@
   "post": "book-clubs/2026-11-09-enemies-to-lovers-starter",
   "format": "carousel",
   "version": "v5",
-  "review_status": "approved",
+  "review_status": "posted",
   "slot": "1",
   "slot_time": "12:30",
   "placeholders": [
     "{{CIRCLE_NAME}}",
     "{{TRACKED_LINK}}"
   ],
-  "built": "2026-11-10T10:39:37-05:00",
+  "built": "2026-11-10T11:07:08-05:00",
   "files": {
     "4x5/01.jpg": "c482566cd4962de7ab1ebf0c5505ff09b3e3d45da4bb91c808c3f86b017db0ee",
     "4x5/02.jpg": "793a089875671baa6ab30e6293fbbcef9daa827e2b71c53cc74b36b291906982",
@@ -20,8 +20,8 @@
     "4x5/07.jpg": "9b6245a1899670b29e567e0573007328dca450ea3148662cda1dc4bbcb89b272",
     "4x5/08.jpg": "74933fb9ce4fab2325b72d46b7edd708274cd0274667daa5f2956845ed17087f",
     "cover.jpg": "623797f1bb80f378c41690c2801222f1d819b93355234f0919247affe5d94598",
-    "kit/README.md": "b42c591b876a59130426080d2a285eae0d07a681623b9b5bbafa90c404ecd25b",
-    "kit/index.html": "625915ba4e8a6d95d564ccac624079e042b7ce7c6373588692eb17ac1c619577",
+    "kit/README.md": "7c0df786bd3ffb14b6ff2891b5e9167ff98f552a3e8411261dc03cbb766fa689",
+    "kit/index.html": "41b0f097fa823bbcf2d38eecd9b46a9b8bece0be70b74a27deb33cb3817be88b",
     "kit/instagram_caption.txt": "b48b48eba6e1b6d264a01a91b66305a22478160b2a2337e1afd2ba19bb429a24",
     "kit/tiktok_caption.txt": "3736872fb2eff75d91fccbaa1caa3931e772ee01eac89a5149f94d221ea3e8ca",
     "reel-4x5.mp4": "096986895767625dda13c3fae2a691851363e2f68a7120f1446ddb59b50be633",

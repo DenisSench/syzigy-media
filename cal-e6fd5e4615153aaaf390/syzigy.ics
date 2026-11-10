@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Syzigy//Posting calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Syzigy posting
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:not-built-for-strangers@syzigy-media.vijostudio.com
+DTSTAMP:20261110T163906Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261109T174000
+DTEND;TZID=America/New_York:20261109T175500
+SUMMARY:✅ Posted: You weren’t built for an audience of strangers [TT/IG
+ ]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram\nTikTok: posted.\nI
+ nstagram: not posted yet — hand-post the Reel from the kit.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-09-not-b
+ uilt-for-strangers/kit/\nDashboard: https://syzigy-media.vijostudio.com/ca
+ l-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
+ 9-not-built-for-strangers/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: You weren’t built for an audience of strangers [T
+ T/IG] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: You weren’t built for an audience of strangers [T
+ T/IG] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:monday-reset-six-lines@syzigy-media.vijostudio.com
+DTSTAMP:20261110T163906Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261109T180000
+DTEND;TZID=America/New_York:20261109T181500
+SUMMARY:Post: Monday reset in 6 calm lines [TT/IG]
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
+ aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
+ .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
+ 26-11-09-monday-reset-six-lines/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
+ 9-monday-reset-six-lines/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
+DTSTAMP:20261110T163906Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261110T110600
+DTEND;TZID=America/New_York:20261110T112100
+SUMMARY:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram\nTikTok: posted.\nI
+ nstagram: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-c
+ lubs/2026-11-09-enemies-to-lovers-starter/kit/\nDashboard: https://syzigy-
+ media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-09-enemies
+ -to-lovers-starter/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG
+ ] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Enemies-to-lovers starter pack (no spoilers) [TT/IG
+ ] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-isnt-friend-group@syzigy-media.vijostudio.com
+DTSTAMP:20261110T163906Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261110T123000
+DTEND;TZID=America/New_York:20261110T124500
+SUMMARY:Post: The feed isn’t a friend group [TT/IG]
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
+ aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
+ .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
+ 26-11-10-feed-isnt-friend-group/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
+ 0-feed-isnt-friend-group/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: The feed isn’t a friend group [TT/IG] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: The feed isn’t a friend group [TT/IG] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

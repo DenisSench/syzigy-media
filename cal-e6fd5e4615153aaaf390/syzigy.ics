@@ -137,4 +137,33 @@ DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:bravest-text-is-hey@syzigy-media.vijostudio.com
+DTSTAMP:20261110T171018Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261110T200000
+DTEND;TZID=America/New_York:20261110T201500
+SUMMARY:Post: The bravest text is just “hey\, want to hang?” [TT/IG]
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram\nTikTok: inbox dr
+ aft\, then publish in the app.\nInstagram: hand-post the Reel from the kit
+ .\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/20
+ 26-11-10-bravest-text-is-hey/kit/\nDashboard: https://syzigy-media.vijostu
+ dio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
+ 0-bravest-text-is-hey/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: The bravest text is just “hey\, want to hang?” [TT/IG
+ ] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: The bravest text is just “hey\, want to hang?” [TT/IG
+ ] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

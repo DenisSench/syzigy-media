@@ -5,15 +5,12 @@
   "review_status": "review",
   "slot": "2",
   "slot_time": "20:00",
-  "placeholders": [
-    "{{CIRCLE_NAME}}",
-    "{{TRACKED_LINK}}"
-  ],
-  "built": "2026-11-10T11:16:00-05:00",
+  "placeholders": [],
+  "built": "2026-11-10T11:32:38-05:00",
   "files": {
-    "kit/README.md": "e3bc6471b66787e8172b95cf004035964747926e3e8ac2eaab63245ed047f050",
-    "kit/index.html": "2e047468477bde70d623f807f87bd6b6075bb9af2badebf39d134a5f67be1091",
-    "kit/instagram_caption.txt": "8ee8c19350c147b81ab26f9c6a065d8c6f45119cddcbafcfea09c5b5f86ac390",
-    "kit/tiktok_caption.txt": "6d1b07efc9d90e8eb5577f039ad19fe2d6759f5cdb1a0300e6b70453b9417c2b"
+    "kit/README.md": "8431190777d8008436ba2287db44715d33694b1573bcb049fc148ca3a6e9bf17",
+    "kit/index.html": "b9f46b44e893551d305bf94fd3c139b59c5c8d32667e7e9b535cd207241f5ecb",
+    "kit/instagram_caption.txt": "cf5cd0055c099213d42807544edf5a373ebd051ef12ac2a5d48377f3286c6e8c",
+    "kit/tiktok_caption.txt": "17e4c518d2ed96a4fdc504b908ceac386861dda60a9e63762f491ea96baa5db2"
   }
 }

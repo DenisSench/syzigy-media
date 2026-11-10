@@ -5,11 +5,8 @@
   "review_status": "posted",
   "slot": "1",
   "slot_time": "12:30",
-  "placeholders": [
-    "{{CIRCLE_NAME}}",
-    "{{TRACKED_LINK}}"
-  ],
-  "built": "2026-11-10T11:15:59-05:00",
+  "placeholders": [],
+  "built": "2026-11-10T11:32:23-05:00",
   "files": {
     "4x5/01.jpg": "c482566cd4962de7ab1ebf0c5505ff09b3e3d45da4bb91c808c3f86b017db0ee",
     "4x5/02.jpg": "793a089875671baa6ab30e6293fbbcef9daa827e2b71c53cc74b36b291906982",
@@ -20,10 +17,10 @@
     "4x5/07.jpg": "9b6245a1899670b29e567e0573007328dca450ea3148662cda1dc4bbcb89b272",
     "4x5/08.jpg": "74933fb9ce4fab2325b72d46b7edd708274cd0274667daa5f2956845ed17087f",
     "cover.jpg": "623797f1bb80f378c41690c2801222f1d819b93355234f0919247affe5d94598",
-    "kit/README.md": "7c0df786bd3ffb14b6ff2891b5e9167ff98f552a3e8411261dc03cbb766fa689",
-    "kit/index.html": "1159805eb8544bb5dc4845e3877bb6f699ffa20fdeaa8d9b0d3bf4fe0670c31a",
-    "kit/instagram_caption.txt": "b48b48eba6e1b6d264a01a91b66305a22478160b2a2337e1afd2ba19bb429a24",
-    "kit/tiktok_caption.txt": "3736872fb2eff75d91fccbaa1caa3931e772ee01eac89a5149f94d221ea3e8ca",
+    "kit/README.md": "10451cc6e5a1d57fd9e7cf2fe47518500a17fcc08a10cbda0f283a6008465b8b",
+    "kit/index.html": "2ddee908ac214c77ec69aace65d3d0c66eda598b4e05940ab93240fe3cf39ac2",
+    "kit/instagram_caption.txt": "ed251a6f9b25699779d4dba697efbde9b616860f5c2275a8c26cf9847a44e35f",
+    "kit/tiktok_caption.txt": "29a7a11bc6137faaf2807682aade8656be4bad9e9dc2ae01b50114623d5d1590",
     "reel-4x5.mp4": "096986895767625dda13c3fae2a691851363e2f68a7120f1446ddb59b50be633",
     "reel.mp4": "12edf9fd2b10f9c17ddbc58fee3a2ec1b8be955b3689d59adae9da9833ac7a22",
     "slides/01.jpg": "623797f1bb80f378c41690c2801222f1d819b93355234f0919247affe5d94598",

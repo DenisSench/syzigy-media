@@ -1,7 +1,7 @@
 # Kit: 2026-11-09-enemies-to-lovers-starter
 
 Approval: Posted.
-Slot: Mon Nov 9, 12:30 PM ET
+Slot: Posted (planned slot retired; real times are on the dashboard)
 Source: posts/book-clubs/2026-11-09-enemies-to-lovers-starter/v5
 Placeholders: none
 

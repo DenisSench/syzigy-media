@@ -1,7 +1,7 @@
 # Kit: 2026-11-09-not-built-for-strangers
 
 Approval: Posted.
-Slot: Mon Nov 9, time TBD
+Slot: Posted (planned slot retired; real times are on the dashboard)
 Source: posts/motivational-quotes/2026-11-09-not-built-for-strangers/v5
 Placeholders: none
 

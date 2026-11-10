@@ -11,15 +11,14 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-10T15:19:12-05:00",
+  "built": "2026-11-10T15:47:18-05:00",
   "files": {
     "cover.jpg": "e169998a3c6d4d7e8be311a94a5ffb946635246f48a262ec7da751da179c1e41",
     "kit/README.md": "e327343be9e20d5c42eebe23e5d595882484a87c1f8b86a98878ce0f4b5da49d",
-    "kit/index.html": "4cec8d9fa7c9119471613c88a1eee5ad8da545c4b43835781093528959b8cacb",
+    "kit/index.html": "8da3f990a28b243cdcb4fd36ad8f46f5f3dfc8f2d8ab56e51016d43f8725c2b6",
     "kit/instagram_caption.txt": "54730fb666428fcd33956b02147b0669b3ff758ba9f14e9fb231701e978f817b",
     "kit/snapchat_caption.txt": "6aa4f322bf8224d9eb8866ccea90b311e463e3ae94f9cd8ec6ab04dc226ac066",
     "kit/tiktok_caption.txt": "a83280a9fe5b1f1f02b5ae6ce1905fc4ce9c48d0abb0578411b1eaf1c942edc1",
-    "reel-4x5.mp4": "9fb054b9f60e52332f7ac89bdfe0f5b8788402cc3db1537fa9d5129e91772755",
     "reel.mp4": "d944765296889257aea7d8b1fd820ad222be421d6fec40e7607144f3ea5e2209"
   }
 }

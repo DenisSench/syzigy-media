@@ -2,7 +2,7 @@
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Tue Nov 10, 6:00 PM ET
-Source: posts/motivational-quotes/2026-11-10-feed-isnt-friend-group/v5
+Source: posts/motivational-quotes/2026-11-10-feed-isnt-friend-group/v8
 Placeholders: none
 
 ## TikTok caption

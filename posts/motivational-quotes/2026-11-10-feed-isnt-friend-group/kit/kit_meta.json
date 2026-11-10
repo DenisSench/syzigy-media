@@ -1,33 +1,25 @@
 {
   "post": "motivational-quotes/2026-11-10-feed-isnt-friend-group",
   "format": "carousel",
-  "version": "v5",
+  "version": "v8",
   "review_status": "approved",
   "slot": "2",
   "slot_time": "18:00",
   "snapchat": {
     "caption_source": "auto-derived",
-    "reel_seconds": 23.866667,
+    "reel_seconds": 20.5,
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-10T15:19:11-05:00",
+  "built": "2026-11-10T15:47:18-05:00",
   "files": {
-    "4x5/01.jpg": "e535c80fdfcd2a482339d115813a8f4119d28fc1fa3a506ae65a3698e98fff60",
-    "4x5/02.jpg": "ccde6704ef67767dd972cd15bc6615ba6adc335fd8f0adbfb2c8e4537160a292",
-    "4x5/03.jpg": "ce599e7763747e66b28d5caa681898fe097bcc31151d6507bf01b38a599cbe31",
-    "4x5/04.jpg": "c3ee64110ac712f8c196594557bd520f1357b9055e71a99b4f4721bf56b1a11f",
-    "4x5/05.jpg": "d024b3845c45ea3489025d928e734d29bfa14c5914d54c0226bce710c9722a37",
-    "4x5/06.jpg": "71391ed920fed3ca26ccf3cf21391bc24d50287264d98ffaa3c676fc2432da8d",
-    "4x5/07.jpg": "74933fb9ce4fab2325b72d46b7edd708274cd0274667daa5f2956845ed17087f",
     "cover.jpg": "f9aa89e9406f2b3aafd18d1669093be6ece0e3ed035d37e83e0798d9d5722c90",
-    "kit/README.md": "7311bfcfcc559d18769db4e7550bbf92d1490d0643c453362652906a0666affb",
-    "kit/index.html": "fee4c9ac5b6aad9a5845e37c63d469e77bd72837717af57c19ca307097b6a3a5",
+    "kit/README.md": "f1c1be3b3d5cfb548e6bd3ea45733a16b3d523e51b81a73c9b7d20c8818abba3",
+    "kit/index.html": "6bec2ee08f851c0a1a5f21c4cb92acf989961120fd02c63e288586d331f31f53",
     "kit/instagram_caption.txt": "6f5c4f8e4b77e126823f4ac90c0d978fbaf875259496a073fd98872d6d2e9ae5",
     "kit/snapchat_caption.txt": "ef3f977b68135f282759cf53bd809863aecf744336a93c914d07c51d8e9bd6d5",
     "kit/tiktok_caption.txt": "c54c31a0af8b09163fb64f5e2112728ff1d9bcef00821e34b0b05903615d2139",
-    "reel-4x5.mp4": "6fd1a81dbb6f787bb636fc6da8bb5890f8daf8740c0beb06d36e2df778843f21",
-    "reel.mp4": "50c5553d5a52bc6f31acc651530d21ce93c878154deb49f56047888ef65afaf5",
+    "reel.mp4": "8f65c4e679cc25d50c62ad140a5173a10c7f76e2bab8ee00a58620ce1f8261e8",
     "slides/01.jpg": "f9aa89e9406f2b3aafd18d1669093be6ece0e3ed035d37e83e0798d9d5722c90",
     "slides/02.jpg": "813a4b3944c4da7ecaf0a8ae66d0b0727b760e8f5aa53d74116b3848969b2c5a",
     "slides/03.jpg": "14b010de6ade216aa9aad590466fbe02c92345243fceef05a21e262d48779e6e",
@@ -35,7 +27,6 @@
     "slides/05.jpg": "350868ce53eb01cfd423536e6be13cdc27d2ceede396cad629db1b0cbb04fc08",
     "slides/06.jpg": "96a72ab9500cb26501efb264ab834210e2cee635a3ed2ec5dc2421fa7af8d0d5",
     "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
-    "slides-4x5.zip": "c074ccce5dcca30b13801ecaa447957e69720cf764af7c9d33482d444db111f9",
     "slides.zip": "927852d47251a52c44790fc08ded478e3055c8f66862983ef685ce480d9359fb"
   }
 }

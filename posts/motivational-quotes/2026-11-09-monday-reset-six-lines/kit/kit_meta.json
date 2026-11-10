@@ -2,15 +2,18 @@
   "post": "motivational-quotes/2026-11-09-monday-reset-six-lines",
   "format": "native-reel",
   "version": "v8",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "2",
-  "slot_time": "20:00",
+  "slot_time": "18:00",
   "placeholders": [],
-  "built": "2026-11-10T11:32:38-05:00",
+  "built": "2026-11-10T11:36:27-05:00",
   "files": {
-    "kit/README.md": "8431190777d8008436ba2287db44715d33694b1573bcb049fc148ca3a6e9bf17",
-    "kit/index.html": "b9f46b44e893551d305bf94fd3c139b59c5c8d32667e7e9b535cd207241f5ecb",
+    "cover.jpg": "aced837980b2dbec532d93d0281fc055513791fed6b11ce0c6b340a55f38ae79",
+    "kit/README.md": "c5feecd992895aa261dc720fb214659b4a37e46dc246478d22b3bfe92de5372d",
+    "kit/index.html": "055616aa544ea1cadef1bc3ef4b0a45bf6a4eac19cea1f55a282f8298e035fb2",
     "kit/instagram_caption.txt": "cf5cd0055c099213d42807544edf5a373ebd051ef12ac2a5d48377f3286c6e8c",
-    "kit/tiktok_caption.txt": "17e4c518d2ed96a4fdc504b908ceac386861dda60a9e63762f491ea96baa5db2"
+    "kit/tiktok_caption.txt": "17e4c518d2ed96a4fdc504b908ceac386861dda60a9e63762f491ea96baa5db2",
+    "reel-4x5.mp4": "8fe774b5d1273d24bff8ef28bd0acf9f4e76609f0442d90a965ece57f75f5735",
+    "reel.mp4": "ec066d4822a50668df22c85c4f6fcdd8bb358cdb37ac8c9459596d89ed1aa8c6"
   }
 }

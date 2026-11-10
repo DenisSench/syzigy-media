@@ -1,7 +1,7 @@
 # Kit: 2026-11-09-monday-reset-six-lines
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Mon Nov 9, 8:00 PM ET
+Approval: Approved by Denis: one approval for TikTok and Instagram (same asset).
+Slot: Mon Nov 9, 6:00 PM ET
 Source: posts/motivational-quotes/2026-11-09-monday-reset-six-lines/v8
 Placeholders: none
 

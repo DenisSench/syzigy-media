@@ -9,7 +9,7 @@
     "{{CIRCLE_NAME}}",
     "{{TRACKED_LINK}}"
   ],
-  "built": "2026-11-10T11:07:08-05:00",
+  "built": "2026-11-10T11:15:59-05:00",
   "files": {
     "4x5/01.jpg": "c482566cd4962de7ab1ebf0c5505ff09b3e3d45da4bb91c808c3f86b017db0ee",
     "4x5/02.jpg": "793a089875671baa6ab30e6293fbbcef9daa827e2b71c53cc74b36b291906982",
@@ -21,7 +21,7 @@
     "4x5/08.jpg": "74933fb9ce4fab2325b72d46b7edd708274cd0274667daa5f2956845ed17087f",
     "cover.jpg": "623797f1bb80f378c41690c2801222f1d819b93355234f0919247affe5d94598",
     "kit/README.md": "7c0df786bd3ffb14b6ff2891b5e9167ff98f552a3e8411261dc03cbb766fa689",
-    "kit/index.html": "41b0f097fa823bbcf2d38eecd9b46a9b8bece0be70b74a27deb33cb3817be88b",
+    "kit/index.html": "1159805eb8544bb5dc4845e3877bb6f699ffa20fdeaa8d9b0d3bf4fe0670c31a",
     "kit/instagram_caption.txt": "b48b48eba6e1b6d264a01a91b66305a22478160b2a2337e1afd2ba19bb429a24",
     "kit/tiktok_caption.txt": "3736872fb2eff75d91fccbaa1caa3931e772ee01eac89a5149f94d221ea3e8ca",
     "reel-4x5.mp4": "096986895767625dda13c3fae2a691851363e2f68a7120f1446ddb59b50be633",

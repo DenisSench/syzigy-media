@@ -171,36 +171,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:midweek-thriller-checkin@syzigy-media.vijostudio.com
-DTSTAMP:20261111T173151Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261111T170000
-DTEND;TZID=America/New_York:20261111T171500
-SUMMARY:Post: Midweek thriller check-in (theories welcome\, spoilers in com
- ments) [TT/IG/SC]
-DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
-  inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fro
- m the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:1
- 6 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the c
- amera to open Memories\, then the Camera Roll tab\, and pick the video. 3)
-  Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then Po
- st. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vide
- o\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijos
- tudio.com/posts/book-clubs/2026-11-11-midweek-thriller-checkin/kit/\nDashb
- oard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261111T221313Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261111T170732
+DTEND;TZID=America/New_York:20261111T172232
+SUMMARY:✅ Posted: Midweek thriller check-in (theories welcome\, spoilers 
+ in comments) [TT/IG/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/book-clubs/2026-11-11-midweek-thriller-checkin/kit/\
+ nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-midweek
  -thriller-checkin/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Midweek thriller check-in (theories welcome\, spoilers in
-  comments) [TT/IG/SC] in 30 min
+DESCRIPTION:✅ Posted: Midweek thriller check-in (theories welcome\, spoil
+ ers in comments) [TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Midweek thriller check-in (theories welcome\, spoilers in
-  comments) [TT/IG/SC] in 5 min
+DESCRIPTION:✅ Posted: Midweek thriller check-in (theories welcome\, spoil
+ ers in comments) [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

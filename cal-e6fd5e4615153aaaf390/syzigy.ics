@@ -87,6 +87,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-small-rooms-over-follows@syzigy-media.vijostudio.com
+DTSTAMP:20261111T163259Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261110T090000
+DTEND;TZID=America/New_York:20261110T091500
+SUMMARY:Approve: Small rooms > big follow counts
+DESCRIPTION:small-rooms-over-follows is 'In review' and is due 2026-11-11 2
+ 1:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
+ Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
+ ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
+ motivational-quotes/2026-11-11-small-rooms-over-follows/kit/\nDashboard: h
+ ttps://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
+ 1-small-rooms-over-follows/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Small rooms > big follow counts in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Small rooms > big follow counts in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
 DTSTAMP:20261110T202113Z
 SEQUENCE:1
@@ -237,22 +265,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:small-rooms-over-follows@syzigy-media.vijostudio.com
-DTSTAMP:20261110T201912Z
-SEQUENCE:3
+DTSTAMP:20261111T163259Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261111T210000
 DTEND;TZID=America/New_York:20261111T211500
 SUMMARY:Post: Small rooms > big follow counts [TT/IG/SC]
-DESCRIPTION:Status: design-ready\nPlatforms: TikTok+Instagram+Snapchat\nTik
- Tok: inbox draft\, then publish in the app.\nInstagram: hand-post the Reel
-  from the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the
-  9:16 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from t
- he camera to open Memories\, then the Camera Roll tab\, and pick the video
- . 3) Tap Send To\, choose Spotlight\, paste the caption and hashtags\, the
- n Post. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical 
- video\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.v
- ijostudio.com/posts/motivational-quotes/2026-11-11-small-rooms-over-follow
- s/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overv
- iew
+DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fr
+ om the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:
+ 16 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the 
+ camera to open Memories\, then the Camera Roll tab\, and pick the video. 3
+ ) Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then P
+ ost. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vid
+ eo\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijo
+ studio.com/posts/motivational-quotes/2026-11-11-small-rooms-over-follows/k
+ it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  1-small-rooms-over-follows/kit/
 TRANSP:TRANSPARENT

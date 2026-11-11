@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-midweek-thriller-checkin
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Wed Nov 11, 5:00 PM ET
 Source: posts/book-clubs/2026-11-11-midweek-thriller-checkin/v8
 Placeholders: none

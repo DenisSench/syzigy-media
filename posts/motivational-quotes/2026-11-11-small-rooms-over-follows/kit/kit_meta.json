@@ -2,7 +2,7 @@
   "post": "motivational-quotes/2026-11-11-small-rooms-over-follows",
   "format": "carousel",
   "version": "v8",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
   "snapchat": {
@@ -11,11 +11,11 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-11T11:32:59-05:00",
+  "built": "2026-11-11T12:31:51-05:00",
   "files": {
     "cover.jpg": "ddcedc1785231c17949306f416ac98d5a08ed392a25ac0c6a691c1ebe876aed5",
-    "kit/README.md": "2179758c1ae2a15cb3086248931f0833ed2c8e138ab5c87a97c25e269eec6e11",
-    "kit/index.html": "b1536191c1f27a009f2e831849933297ca2c431359e7b4e6239475acb0e819bc",
+    "kit/README.md": "4f8bd852ca41f2aa3c06cb66381d40538f68995a1c83faec32e1ebd9a8b8dda7",
+    "kit/index.html": "0c92ca9b249b4e05acd407d821c306f32e0500fc0a71e6a72579198c7e358b84",
     "kit/instagram_caption.txt": "671f93bf90dded5f43c303f93f87580ffd61aec7951c6c6de765b88869420260",
     "kit/snapchat_caption.txt": "94884101b320140f8d124f09f83b591a78369eb6f77829ab78a3d1c2170339b9",
     "kit/tiktok_caption.txt": "7ffc61963d60325c79989c8cebf0d63089ff2b4e882b6e8b4b8904c5d8934dba",

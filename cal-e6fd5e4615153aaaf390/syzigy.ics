@@ -56,65 +56,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-midweek-thriller-checkin@syzigy-media.vijostudio.com
-DTSTAMP:20261111T163057Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261110T090000
-DTEND;TZID=America/New_York:20261110T091500
-SUMMARY:Approve: Midweek thriller check-in (theories welcome\, spoilers in 
- comments)
-DESCRIPTION:midweek-thriller-checkin is 'In review' and is due 2026-11-11 1
- 7:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
- Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
- ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
- book-clubs/2026-11-11-midweek-thriller-checkin/kit/\nDashboard: https://sy
- zigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-midweek
- -thriller-checkin/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Midweek thriller check-in (theories welcome\, spoilers
-  in comments) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Midweek thriller check-in (theories welcome\, spoilers
-  in comments) in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-small-rooms-over-follows@syzigy-media.vijostudio.com
-DTSTAMP:20261111T163259Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261110T090000
-DTEND;TZID=America/New_York:20261110T091500
-SUMMARY:Approve: Small rooms > big follow counts
-DESCRIPTION:small-rooms-over-follows is 'In review' and is due 2026-11-11 2
- 1:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
- Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
- ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
- motivational-quotes/2026-11-11-small-rooms-over-follows/kit/\nDashboard: h
- ttps://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 1-small-rooms-over-follows/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Small rooms > big follow counts in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Small rooms > big follow counts in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
 DTSTAMP:20261110T202113Z
 SEQUENCE:1
@@ -230,22 +171,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:midweek-thriller-checkin@syzigy-media.vijostudio.com
-DTSTAMP:20261111T163057Z
-SEQUENCE:4
+DTSTAMP:20261111T173151Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261111T170000
 DTEND;TZID=America/New_York:20261111T171500
 SUMMARY:Post: Midweek thriller check-in (theories welcome\, spoilers in com
  ments) [TT/IG/SC]
-DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fr
- om the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:
- 16 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the 
- camera to open Memories\, then the Camera Roll tab\, and pick the video. 3
- ) Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then P
- ost. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vid
- eo\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijo
- studio.com/posts/book-clubs/2026-11-11-midweek-thriller-checkin/kit/\nDash
- board: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
+  inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fro
+ m the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:1
+ 6 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the c
+ amera to open Memories\, then the Camera Roll tab\, and pick the video. 3)
+  Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then Po
+ st. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vide
+ o\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijos
+ tudio.com/posts/book-clubs/2026-11-11-midweek-thriller-checkin/kit/\nDashb
+ oard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-midweek
  -thriller-checkin/kit/
 TRANSP:TRANSPARENT
@@ -265,21 +206,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:small-rooms-over-follows@syzigy-media.vijostudio.com
-DTSTAMP:20261111T163259Z
-SEQUENCE:4
+DTSTAMP:20261111T173151Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261111T210000
 DTEND;TZID=America/New_York:20261111T211500
 SUMMARY:Post: Small rooms > big follow counts [TT/IG/SC]
-DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fr
- om the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:
- 16 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the 
- camera to open Memories\, then the Camera Roll tab\, and pick the video. 3
- ) Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then P
- ost. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vid
- eo\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijo
- studio.com/posts/motivational-quotes/2026-11-11-small-rooms-over-follows/k
- it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
+  inbox draft\, then publish in the app.\nInstagram: hand-post the Reel fro
+ m the kit.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:1
+ 6 reel to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the c
+ amera to open Memories\, then the Camera Roll tab\, and pick the video. 3)
+  Tap Send To\, choose Spotlight\, paste the caption and hashtags\, then Po
+ st. Or on a computer: my.snapchat.com > Upload to Spotlight. Vertical vide
+ o\, 60s or less. Caption is in the kit.\n\nKit: https://syzigy-media.vijos
+ tudio.com/posts/motivational-quotes/2026-11-11-small-rooms-over-follows/ki
+ t/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  1-small-rooms-over-follows/kit/
 TRANSP:TRANSPARENT

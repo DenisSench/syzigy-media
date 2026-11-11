@@ -2,7 +2,7 @@
   "post": "book-clubs/2026-11-11-midweek-thriller-checkin",
   "format": "carousel",
   "version": "v8",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "2",
   "slot_time": "17:00",
   "snapchat": {
@@ -11,11 +11,11 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-11T11:32:59-05:00",
+  "built": "2026-11-11T12:31:51-05:00",
   "files": {
     "cover.jpg": "e7b4ba951e1ebf59795971749ca58a58acb28b27493cc64d8bb6d36faddc8302",
-    "kit/README.md": "976e21b88dd215b77907a52b1253e660081b07650dc5e8524f8539a6c300a4e3",
-    "kit/index.html": "d6855031a8bbf5a97cb3ed12e9848c152dad79795dd29e9a26f92a6c0988c4ee",
+    "kit/README.md": "986f806b2e2ac26010f313efec56edbcb69ccc8e74e24f15ab032b51c21738bf",
+    "kit/index.html": "3de8741840d4ded4552bcf48a324ce9749d9c3e17892093132134f34bb5391ac",
     "kit/instagram_caption.txt": "c6d5e90ef732079121052372d0dcc0d63047014db76d4fc54baa0ddbeb50e132",
     "kit/snapchat_caption.txt": "8152dd3762dfbd2b2510ef1cbd0963128f4afdc53720ff5fd31ee2a8e18be750",
     "kit/tiktok_caption.txt": "e81ca9bd490aab1fc383486fc934e2d812cb5c14cd90a4c910f85227154b0180",

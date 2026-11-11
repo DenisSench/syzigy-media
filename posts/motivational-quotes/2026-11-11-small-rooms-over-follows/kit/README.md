@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-small-rooms-over-follows
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Wed Nov 11, 9:00 PM ET
 Source: posts/motivational-quotes/2026-11-11-small-rooms-over-follows/v8
 Placeholders: none

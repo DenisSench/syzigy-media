@@ -1,6 +1,6 @@
 # Kit: 2026-11-10-feed-isnt-friend-group
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Approval: Posted.
 Slot: Tue Nov 10, 6:00 PM ET
 Source: posts/motivational-quotes/2026-11-10-feed-isnt-friend-group/v8
 Placeholders: none
@@ -25,10 +25,4 @@ Save this for the next 1 a.m. scroll.
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
 
 #quotes #dailyreminder #belonging #newfriends #digitalbalance #syzigy
-```
-
-## Snapchat caption (auto-derived, pending Ella)
-
-```
-The feed isn't a friend group. Link in bio. #motivationalquotes #dailyreminder #syzigy
 ```

@@ -1,0 +1,32 @@
+{
+  "post": "book-clubs/2026-11-11-midweek-thriller-checkin",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "auto-derived",
+    "reel_seconds": 22.1,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-11T11:31:30-05:00",
+  "files": {
+    "cover.jpg": "e7b4ba951e1ebf59795971749ca58a58acb28b27493cc64d8bb6d36faddc8302",
+    "kit/README.md": "976e21b88dd215b77907a52b1253e660081b07650dc5e8524f8539a6c300a4e3",
+    "kit/index.html": "a323d8fcbf70841c10953326ebfe28cad7c60bfda2ac4a9b65e22a9dfdc59376",
+    "kit/instagram_caption.txt": "c6d5e90ef732079121052372d0dcc0d63047014db76d4fc54baa0ddbeb50e132",
+    "kit/snapchat_caption.txt": "8152dd3762dfbd2b2510ef1cbd0963128f4afdc53720ff5fd31ee2a8e18be750",
+    "kit/tiktok_caption.txt": "e81ca9bd490aab1fc383486fc934e2d812cb5c14cd90a4c910f85227154b0180",
+    "reel.mp4": "dba12b36d115dd7a43958e44ed586b7d7dd67c3a3b75fe6c33bf1fef1aefc63a",
+    "slides/01.jpg": "e7b4ba951e1ebf59795971749ca58a58acb28b27493cc64d8bb6d36faddc8302",
+    "slides/02.jpg": "5bd847bad88c6ef40ebd101bb04e903e835dd046ae4905c6bdd6f3ef0dee28be",
+    "slides/03.jpg": "bd5d1bf53a2c64ec9ca8e6c099945205223abd61ff31b167f1cc998f299908a4",
+    "slides/04.jpg": "6c71fd0a60a3479f6b2b19181688006932ba42aae34a805abc854d0b14e2ec1a",
+    "slides/05.jpg": "21034422b9ad5d09b24d7db1f763cfcb3eb7b07a8d73881f79dd86b0cab0e077",
+    "slides/06.jpg": "f5928b17df47b2585cbabb9bed2c951f3f63eba52247ab9049b37c8c3458e991",
+    "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "3b19dc9e60d4afb940605ed077a732810777f373bb1844372bf738d50f37857c"
+  }
+}

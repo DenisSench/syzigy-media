@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Mon Nov 23, time TBD
-Source: posts/pets/2026-11-23-nicknames-make-zero-sense/v9
+Source: posts/pets/2026-11-23-nicknames-make-zero-sense/v10
 Placeholders: none
 
 ## TikTok caption

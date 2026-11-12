@@ -1,7 +1,7 @@
 {
   "post": "gaming-squads/2026-11-24-comfort-game-friend-type",
   "format": "carousel",
-  "version": "v9",
+  "version": "v10",
   "review_status": "review",
   "slot": "",
   "slot_time": "",
@@ -11,23 +11,23 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T11:04:47-05:00",
+  "built": "2026-11-12T14:42:03-05:00",
   "files": {
-    "cover.jpg": "f1d34902ffd26c270809272b9133f15d7350159a68b5194f7d78d9e94cd3b371",
-    "kit/README.md": "74a72d54eb40b18a9d494e5d233e020169cd1885eb55708dd6192eb34db4cfc3",
-    "kit/index.html": "a4e2259c7f54d5a34ad2d4ad7abf7a930271dc70feb466fefed38617e783ec81",
+    "cover.jpg": "9eddc954ab7c21d63d1dc194d6308dcf5777a2e8f3c58d5f86b6b68057a24e86",
+    "kit/README.md": "e9e231e565e91050ace7cfcb96301c91c80e6c9440ee4a4d108d842f0a2398cb",
+    "kit/index.html": "66306a1e6177084a3052b47ef1f0be3fd7cd094b8427af59b6a31dfb9898e505",
     "kit/instagram_caption.txt": "8e23f63dda627f0bedee6ea4f06cde5784794310e653ef723dc1a69f0dd1391c",
     "kit/snapchat_caption.txt": "06d93be9de707d7fccdb3b0e954e7e943e97361dd8cff9f769baae2381149b2d",
     "kit/tiktok_caption.txt": "de0608df3d7252b03162a44a404169b6f48a4a12ff25eff76926fa097cc9f7e1",
-    "reel.mp4": "b6f1e53000789f377c94f29cd8a97662c54c3d05f7112cfd0f09615a9cf52730",
-    "slides/01.jpg": "f1d34902ffd26c270809272b9133f15d7350159a68b5194f7d78d9e94cd3b371",
-    "slides/02.jpg": "891e05b615885b3e67c1ebd65974df4007872873773672fc0b23bef469618b26",
-    "slides/03.jpg": "7bb1b159515261afb3878a03dd5b0727f92d504f129f79565364518f15e2921d",
-    "slides/04.jpg": "832606576ad661aeac9ae603692710f351a6d394bedbaefaf44dc84fd62f36f6",
-    "slides/05.jpg": "1e53307fa15cf8c49ad3667a809bec9110d2f8a39f19005b32152ebb52ce4678",
-    "slides/06.jpg": "a21573dcd4528a39f2b49c664893249356401c77f398e66f2c697f6440441619",
-    "slides/07.jpg": "d8bf90c07fb4dcb0a13da94770a142123e4ed576f120ad0d2170f86b99606ff5",
-    "slides/08.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
-    "slides.zip": "68559e069f821348c2dcf7fa07a66b6f9f42afa874934ec40ccca61fab172fb2"
+    "reel.mp4": "8fc4de072b194d9616f64e7b97acb9e8ac08b82b94536f78b7a12a315013f8c9",
+    "slides/01.jpg": "9eddc954ab7c21d63d1dc194d6308dcf5777a2e8f3c58d5f86b6b68057a24e86",
+    "slides/02.jpg": "f855d7368dca12dbb0d8b57e4c540e0f34d50a9f9d9b61f3db582abb4814b06a",
+    "slides/03.jpg": "179bbb4b931e1f7ed112d492473ab30714095ddd7e75e43ad6578c83583b43de",
+    "slides/04.jpg": "6b670aa2a17edcea2039f97648141547f031f36db00f0640552db248e9a0b30a",
+    "slides/05.jpg": "dce0c2786e8a259b9d22396bdcaee8ba670058993fe8f86babb4a6c70be5e452",
+    "slides/06.jpg": "1f382de32398356f4e6706ef3bab30319703fc2e8cae0368fb4c4a9a9a7eabc5",
+    "slides/07.jpg": "4b10b86148a7ebba7412fc56f759a9f21227878d9531334e1cda087b011e3dd4",
+    "slides/08.jpg": "9b8a64cafea00c4bc926606bb71d54f0499c75a9153fd7bb7019238b3c5f37b4",
+    "slides.zip": "aed52f3ff08c992dd4d00329a2fc65293f0c854c6620ef56f5e7270f97b02598"
   }
 }

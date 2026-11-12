@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Mon Nov 23, time TBD
-Source: posts/gaming-squads/2026-11-23-friend-group-games/v9
+Source: posts/gaming-squads/2026-11-23-friend-group-games/v10
 Placeholders: none
 
 ## TikTok caption

@@ -1,8 +1,8 @@
 # Kit: 2026-11-24-nickname-evolution
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Tue Nov 24, time TBD
-Source: posts/pets/2026-11-24-nickname-evolution/v11
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Slot: Tue Dec 1, 5:00 PM ET
+Source: posts/pets/2026-11-24-nickname-evolution/v12
 Placeholders: none
 
 ## TikTok caption

@@ -1,8 +1,8 @@
 # Kit: 2026-11-24-comfort-game-friend-type
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Tue Nov 24, time TBD
-Source: posts/gaming-squads/2026-11-24-comfort-game-friend-type/v11
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Slot: Mon Nov 30, 12:00 PM ET
+Source: posts/gaming-squads/2026-11-24-comfort-game-friend-type/v12
 Placeholders: none
 
 ## TikTok caption

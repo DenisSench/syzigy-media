@@ -1951,4 +1951,146 @@ DESCRIPTION:[Planned] 3-star books that still deserve a book-club chat [TT/
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:friend-group-games@syzigy-media.vijostudio.com
+DTSTAMP:20261112T202155Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261128T170000
+DTEND;TZID=America/New_York:20261128T171500
+SUMMARY:[Scheduled] Games to play with your friend group after work [TT/IG/
+ SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
+ /2026-11-23-friend-group-games/kit/\nDashboard: https://syzigy-media.vijos
+ tudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-frie
+ nd-group-games/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
+ /IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
+ /IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
+DTSTAMP:20261112T202155Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261129T210000
+DTEND;TZID=America/New_York:20261129T211500
+SUMMARY:[Scheduled] The nicknames we call our pets that make zero sense out
+  loud [TT/IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
+ 23-nicknames-make-zero-sense/kit/\nDashboard: https://syzigy-media.vijostu
+ dio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
+ e-zero-sense/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
+  out loud [TT/IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
+  out loud [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:comfort-game-friend-type@syzigy-media.vijostudio.com
+DTSTAMP:20261112T202155Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T120000
+DTEND;TZID=America/New_York:20261130T121500
+SUMMARY:[Scheduled] Your comfort game says what kind of friend you are [TT/
+ IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
+ /2026-11-24-comfort-game-friend-type/kit/\nDashboard: https://syzigy-media
+ .vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comf
+ ort-game-friend-type/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
+ [TT/IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
+ [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nickname-evolution@syzigy-media.vijostudio.com
+DTSTAMP:20261112T202155Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T170000
+DTEND;TZID=America/New_York:20261201T171500
+SUMMARY:[Scheduled] How your pet's nickname evolves [TT/IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
+ 24-nickname-evolution/kit/\nDashboard: https://syzigy-media.vijostudio.com
+ /cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
+ ution/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 30 mi
+ n
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

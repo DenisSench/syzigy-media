@@ -1,8 +1,8 @@
 # Kit: 2026-11-23-friend-group-games
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Mon Nov 23, time TBD
-Source: posts/gaming-squads/2026-11-23-friend-group-games/v11
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Slot: Sat Nov 28, 5:00 PM ET
+Source: posts/gaming-squads/2026-11-23-friend-group-games/v12
 Placeholders: none
 
 ## TikTok caption

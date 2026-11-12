@@ -1,8 +1,8 @@
 # Kit: 2026-11-23-nicknames-make-zero-sense
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Mon Nov 23, time TBD
-Source: posts/pets/2026-11-23-nicknames-make-zero-sense/v11
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Slot: Sun Nov 29, 9:00 PM ET
+Source: posts/pets/2026-11-23-nicknames-make-zero-sense/v12
 Placeholders: none
 
 ## TikTok caption

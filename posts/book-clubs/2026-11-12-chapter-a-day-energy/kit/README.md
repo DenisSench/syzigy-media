@@ -2,7 +2,7 @@
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Thu Nov 12, 9:00 PM ET
-Source: posts/book-clubs/2026-11-12-chapter-a-day-energy/v8
+Source: posts/book-clubs/2026-11-12-chapter-a-day-energy/v9
 Placeholders: none
 
 ## TikTok caption

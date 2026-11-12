@@ -358,11 +358,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
+UID:friend-group-games@syzigy-media.vijostudio.com
+DTSTAMP:20261112T205155Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261113T170000
 DTEND;TZID=America/New_York:20261113T171500
+SUMMARY:[Scheduled] Games to play with your friend group after work [TT/IG/
+ SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
+ /2026-11-23-friend-group-games/kit/\nDashboard: https://syzigy-media.vijos
+ tudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-frie
+ nd-group-games/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
+ /IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
+ /IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261113T210000
+DTEND;TZID=America/New_York:20261113T211500
 SUMMARY:[Planned] Thriller Thursday: locked-room vibes only [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -394,10 +430,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stop-refreshing-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261113T210000
-DTEND;TZID=America/New_York:20261113T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T121500
 SUMMARY:[Planned] Stop refreshing. Go where people reply. [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -429,10 +465,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:romance-like-groupchat@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261114T120000
-DTEND;TZID=America/New_York:20261114T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261114T170000
+DTEND;TZID=America/New_York:20261114T171500
 SUMMARY:[Planned] Romance that felt like a warm group chat [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -464,10 +500,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:want-a-third-place@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261114T170000
-DTEND;TZID=America/New_York:20261114T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261114T210000
+DTEND;TZID=America/New_York:20261114T211500
 SUMMARY:[Planned] You’re allowed to want a third place online [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -498,11 +534,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
+DTSTAMP:20261112T205155Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261115T120000
+DTEND;TZID=America/New_York:20261115T121500
+SUMMARY:[Scheduled] The nicknames we call our pets that make zero sense out
+  loud [TT/IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
+ 23-nicknames-make-zero-sense/kit/\nDashboard: https://syzigy-media.vijostu
+ dio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
+ e-zero-sense/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
+  out loud [TT/IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
+  out loud [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:slow-burn-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261114T210000
-DTEND;TZID=America/New_York:20261114T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261115T170000
+DTEND;TZID=America/New_York:20261115T171500
 SUMMARY:[Planned] Slow-burn signs (book edition) [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -532,10 +604,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261115T120000
-DTEND;TZID=America/New_York:20261115T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261115T210000
+DTEND;TZID=America/New_York:20261115T211500
 SUMMARY:[Planned] Scripts for saying hi in a new group chat [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -567,10 +639,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-currently-reading@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261115T170000
-DTEND;TZID=America/New_York:20261115T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261116T120000
+DTEND;TZID=America/New_York:20261116T121500
 SUMMARY:[Planned] Saturday currently-reading roll call [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -602,10 +674,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-soft-no-flex@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261116T170000
+DTEND;TZID=America/New_York:20261116T171500
 SUMMARY:[Planned] Weekend soft life without the flex [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -637,10 +709,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261116T120000
-DTEND;TZID=America/New_York:20261116T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261116T210000
+DTEND;TZID=America/New_York:20261116T211500
 SUMMARY:[Planned] Cozy Saturday: pick a short book\, talk as you go [TT/IG/
  SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -673,10 +745,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-boring-tuesdays@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261116T170000
-DTEND;TZID=America/New_York:20261116T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261117T120000
+DTEND;TZID=America/New_York:20261117T121500
 SUMMARY:[Planned] Remixed: “friendship is built on boring Tuesdays” [TT
  /IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -709,10 +781,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dnfs-i-still-think-about@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261116T210000
-DTEND;TZID=America/New_York:20261116T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261117T170000
+DTEND;TZID=America/New_York:20261117T171500
 SUMMARY:[Planned] DNFs I still think about (and why that’s fine) [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -744,11 +816,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:comfort-game-friend-type@syzigy-media.vijostudio.com
+DTSTAMP:20261112T205155Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261117T210000
+DTEND;TZID=America/New_York:20261117T211500
+SUMMARY:[Scheduled] Your comfort game says what kind of friend you are [TT/
+ IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
+ /2026-11-24-comfort-game-friend-type/kit/\nDashboard: https://syzigy-media
+ .vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comf
+ ort-game-friend-type/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
+ [TT/IG/SC] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
+ [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sunday-scaries-fyp@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261117T120000
-DTEND;TZID=America/New_York:20261117T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261118T120000
+DTEND;TZID=America/New_York:20261118T121500
 SUMMARY:[Planned] Sunday scaries are lonelier with only a For You page [TT/
  IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -781,10 +889,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-mystery-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261117T170000
-DTEND;TZID=America/New_York:20261117T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261118T170000
+DTEND;TZID=America/New_York:20261118T171500
 SUMMARY:[Planned] Cozy-mystery starter kit for rainy evenings [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -816,10 +924,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belonging-is-a-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261117T210000
-DTEND;TZID=America/New_York:20261117T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261118T210000
+DTEND;TZID=America/New_York:20261118T211500
 SUMMARY:[Planned] Belonging isn’t a vibe you post — it’s a reply you 
  get [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -852,10 +960,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fresh-week-buddy-seats@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261118T120000
-DTEND;TZID=America/New_York:20261118T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261119T120000
+DTEND;TZID=America/New_York:20261119T121500
 SUMMARY:[Planned] Fresh week\, fresh buddy-read seats [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -886,11 +994,45 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:nickname-evolution@syzigy-media.vijostudio.com
+DTSTAMP:20261112T205155Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261119T170000
+DTEND;TZID=America/New_York:20261119T171500
+SUMMARY:[Scheduled] How your pet's nickname evolves [TT/IG/SC]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
+ : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
+ n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
+ st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
+  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
+  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
+ ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
+ chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
+ n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
+ 24-nickname-evolution/kit/\nDashboard: https://syzigy-media.vijostudio.com
+ /cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
+ ution/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 30 mi
+ n
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:new-week-same-you@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261118T170000
-DTEND;TZID=America/New_York:20261118T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261119T210000
+DTEND;TZID=America/New_York:20261119T211500
 SUMMARY:[Planned] New week\, same you — that’s enough [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -922,10 +1064,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fantasy-monday-small-party@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261118T210000
-DTEND;TZID=America/New_York:20261118T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261120T120000
+DTEND;TZID=America/New_York:20261120T121500
 SUMMARY:[Planned] Fantasy Monday: one world\, small reading party [TT/IG/SC
  ]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -958,10 +1100,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:awkward-intro-ok@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261119T120000
-DTEND;TZID=America/New_York:20261119T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261120T170000
+DTEND;TZID=America/New_York:20261120T171500
 SUMMARY:[Planned] Send the awkward intro. Circles forgive awkward. [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -994,10 +1136,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:morally-gray-defense@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261119T170000
-DTEND;TZID=America/New_York:20261119T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261120T210000
+DTEND;TZID=America/New_York:20261120T211500
 SUMMARY:[Planned] Morally gray characters we defend too hard [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1029,10 +1171,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lurking-wont-invent-friends@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261119T210000
-DTEND;TZID=America/New_York:20261119T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261121T120000
+DTEND;TZID=America/New_York:20261121T121500
 SUMMARY:[Planned] Lurking forever won’t invent your friend group [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1065,10 +1207,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:horror-messed-me-up@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261120T120000
-DTEND;TZID=America/New_York:20261120T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261121T170000
+DTEND;TZID=America/New_York:20261121T171500
 SUMMARY:[Planned] Horror/thriller that messed me up (spoiler-free) [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1101,10 +1243,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:one-hobby-away@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261120T170000
-DTEND;TZID=America/New_York:20261120T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261121T210000
+DTEND;TZID=America/New_York:20261121T211500
 SUMMARY:[Planned] Your people might be one shared hobby away [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1136,10 +1278,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rate-your-tbr-chaos@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261120T210000
-DTEND;TZID=America/New_York:20261120T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261122T120000
+DTEND;TZID=America/New_York:20261122T121500
 SUMMARY:[Planned] Rate your TBR chaos 1–10 [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1169,10 +1311,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:phone-facedown-one-chat@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261121T120000
-DTEND;TZID=America/New_York:20261121T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261122T170000
+DTEND;TZID=America/New_York:20261122T171500
 SUMMARY:[Planned] Midweek: put the phone face-down for one real chat [TT/IG
  /SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1205,10 +1347,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nonfiction-buddy-read@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261121T170000
-DTEND;TZID=America/New_York:20261121T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261122T210000
+DTEND;TZID=America/New_York:20261122T211500
 SUMMARY:[Planned] Nonfiction buddy read? Yes — essays welcome [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1240,10 +1382,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:connection-over-content@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261121T210000
-DTEND;TZID=America/New_York:20261121T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261123T120000
+DTEND;TZID=America/New_York:20261123T121500
 SUMMARY:[Planned] Remixed: “connection > content” [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1275,10 +1417,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thriller-thursday-unreliable@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261122T120000
-DTEND;TZID=America/New_York:20261122T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261123T170000
+DTEND;TZID=America/New_York:20261123T171500
 SUMMARY:[Planned] Thriller Thursday round 2: unreliable narrators [TT/IG/SC
  ]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1311,10 +1453,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:outgrow-watch-time-apps@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261122T170000
-DTEND;TZID=America/New_York:20261122T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261123T210000
+DTEND;TZID=America/New_York:20261123T211500
 SUMMARY:[Planned] You can outgrow apps that only want your watch time [TT/I
  G/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1347,10 +1489,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fake-dating-trope-why@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261122T210000
-DTEND;TZID=America/New_York:20261122T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261124T120000
+DTEND;TZID=America/New_York:20261124T121500
 SUMMARY:[Planned] Fake-dating trope — why we keep falling for it [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1383,10 +1525,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:join-before-ready@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261123T120000
-DTEND;TZID=America/New_York:20261123T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261124T170000
+DTEND;TZID=America/New_York:20261124T171500
 SUMMARY:[Planned] Join the Circle before you feel “ready” [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1418,10 +1560,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:book-felt-like-friend@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261123T170000
-DTEND;TZID=America/New_York:20261123T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261124T210000
+DTEND;TZID=America/New_York:20261124T211500
 SUMMARY:[Planned] 5 slides: a book that felt like making a friend [TT/IG/SC
  ]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1454,10 +1596,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-exhale-no-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261123T210000
-DTEND;TZID=America/New_York:20261123T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261125T120000
+DTEND;TZID=America/New_York:20261125T121500
 SUMMARY:[Planned] Friday exhale without performing wellness [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1489,10 +1631,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-novella-buddy@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261124T120000
-DTEND;TZID=America/New_York:20261124T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261125T170000
+DTEND;TZID=America/New_York:20261125T171500
 SUMMARY:[Planned] Weekend buddy read: short story or novella only [TT/IG/SC
  ]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1525,10 +1667,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:only-social-is-scrolling@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261124T170000
-DTEND;TZID=America/New_York:20261124T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261125T210000
+DTEND;TZID=America/New_York:20261125T211500
 SUMMARY:[Planned] If your only social is scrolling\, try a small room [TT/I
  G/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1561,10 +1703,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-tropes-bingo@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261124T210000
-DTEND;TZID=America/New_York:20261124T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261126T120000
+DTEND;TZID=America/New_York:20261126T121500
 SUMMARY:[Planned] Cozy tropes bingo (comment your card) [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1596,10 +1738,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chosen-people-not-aesthetics@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261125T120000
-DTEND;TZID=America/New_York:20261125T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261126T170000
+DTEND;TZID=America/New_York:20261126T171500
 SUMMARY:[Planned] Chosen people\, not chosen aesthetics [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1631,10 +1773,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:currently-reading-no-guilt@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261125T170000
-DTEND;TZID=America/New_York:20261125T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261126T210000
+DTEND;TZID=America/New_York:20261126T211500
 SUMMARY:[Planned] Spill your currently-reading without the guilt [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1666,10 +1808,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-one-and-one@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261125T210000
-DTEND;TZID=America/New_York:20261125T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261127T120000
+DTEND;TZID=America/New_York:20261127T121500
 SUMMARY:[Planned] Saturday plan: one thing just for you\, one thing with so
  meone [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1702,10 +1844,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:underrated-tiny-circle@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261126T120000
-DTEND;TZID=America/New_York:20261126T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261127T170000
+DTEND;TZID=America/New_York:20261127T171500
 SUMMARY:[Planned] Underrated picks worth a tiny book Circle [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in 
@@ -1737,10 +1879,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lonely-sunday-talk@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261126T170000
-DTEND;TZID=America/New_York:20261126T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261127T210000
+DTEND;TZID=America/New_York:20261127T211500
 SUMMARY:[Planned] Lonely Sunday? Don’t just double-tap — talk [TT/IG/SC
  ]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1773,10 +1915,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:next-week-buddy-poll@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261126T210000
-DTEND;TZID=America/New_York:20261126T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T121500
 SUMMARY:[Planned] Next week’s buddy-read poll (3 options\, you vote) [TT/
  IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1809,10 +1951,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:inside-joke-two-weeks@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261127T120000
-DTEND;TZID=America/New_York:20261127T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261128T170000
+DTEND;TZID=America/New_York:20261128T171500
 SUMMARY:[Planned] Two weeks from now you could have an inside joke with som
  eone new [TT/IG/SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1845,10 +1987,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:low-pressure-buddy-read@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261127T170000
-DTEND;TZID=America/New_York:20261127T171500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261128T210000
+DTEND;TZID=America/New_York:20261128T211500
 SUMMARY:[Planned] Anyone want a low-pressure buddy read this week? [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1881,10 +2023,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbr-judging-you@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261127T210000
-DTEND;TZID=America/New_York:20261127T211500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261129T120000
+DTEND;TZID=America/New_York:20261129T121500
 SUMMARY:[Planned] Be honest: how long has that TBR been judging you? [TT/IG
  /SC]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1917,10 +2059,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:three-star-circle-worthy@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261128T120000
-DTEND;TZID=America/New_York:20261128T121500
+DTSTAMP:20261112T205155Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261129T170000
+DTEND;TZID=America/New_York:20261129T171500
 SUMMARY:[Planned] 3-star books that still deserve a book-club chat [TT/IG/S
  C]
 DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: 
@@ -1948,148 +2090,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Planned] 3-star books that still deserve a book-club chat [TT/
  IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:friend-group-games@syzigy-media.vijostudio.com
-DTSTAMP:20261112T202155Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261128T170000
-DTEND;TZID=America/New_York:20261128T171500
-SUMMARY:[Scheduled] Games to play with your friend group after work [TT/IG/
- SC]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
- /2026-11-23-friend-group-games/kit/\nDashboard: https://syzigy-media.vijos
- tudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-frie
- nd-group-games/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
- /IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
- /IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
-DTSTAMP:20261112T202155Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261129T210000
-DTEND;TZID=America/New_York:20261129T211500
-SUMMARY:[Scheduled] The nicknames we call our pets that make zero sense out
-  loud [TT/IG/SC]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
- 23-nicknames-make-zero-sense/kit/\nDashboard: https://syzigy-media.vijostu
- dio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
- e-zero-sense/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
-  out loud [TT/IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
-  out loud [TT/IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:comfort-game-friend-type@syzigy-media.vijostudio.com
-DTSTAMP:20261112T202155Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261130T120000
-DTEND;TZID=America/New_York:20261130T121500
-SUMMARY:[Scheduled] Your comfort game says what kind of friend you are [TT/
- IG/SC]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads
- /2026-11-24-comfort-game-friend-type/kit/\nDashboard: https://syzigy-media
- .vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comf
- ort-game-friend-type/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
- [TT/IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Your comfort game says what kind of friend you are 
- [TT/IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nickname-evolution@syzigy-media.vijostudio.com
-DTSTAMP:20261112T202155Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261201T170000
-DTEND;TZID=America/New_York:20261201T171500
-SUMMARY:[Scheduled] How your pet's nickname evolves [TT/IG/SC]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-
- 24-nickname-evolution/kit/\nDashboard: https://syzigy-media.vijostudio.com
- /cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
- ution/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 30 mi
- n
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

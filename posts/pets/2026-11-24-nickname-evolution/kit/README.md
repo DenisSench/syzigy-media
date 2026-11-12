@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Tue Nov 24, time TBD
-Source: posts/pets/2026-11-24-nickname-evolution/v10
+Source: posts/pets/2026-11-24-nickname-evolution/v11
 Placeholders: none
 
 ## TikTok caption

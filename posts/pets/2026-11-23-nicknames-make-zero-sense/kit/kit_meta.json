@@ -1,7 +1,7 @@
 {
   "post": "pets/2026-11-23-nicknames-make-zero-sense",
   "format": "carousel",
-  "version": "v10",
+  "version": "v11",
   "review_status": "review",
   "slot": "",
   "slot_time": "",
@@ -11,23 +11,23 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T14:42:04-05:00",
+  "built": "2026-11-12T15:01:21-05:00",
   "files": {
-    "cover.jpg": "5662b45bc9dc11ffd70b2eb9216f021205ad1eed2a85e28bc2c9fb9418cd028f",
-    "kit/README.md": "8865118967a612566cff86ff514a1e90adc092c0e9309949f274093632d7cca5",
-    "kit/index.html": "50ad2b86622d533c70ddb5089950123a8048be5730919d107d84fb36bce19126",
+    "cover.jpg": "4e32f1fdd527863dc612499f389a4c8f163bc5f92c5f41cf1857538d90cab345",
+    "kit/README.md": "9f483d48e853116a16bb914fc19f29abc119d39a86011285d395776907810d3f",
+    "kit/index.html": "7c5fb94de6e95b5f7fac9ddca5174c1cdeda5ada8695ea2a7367bfb6659f79a7",
     "kit/instagram_caption.txt": "a84fa33876a07a66d9d8fae998f12dfd87ab975c678cadb7baccf91123160878",
     "kit/snapchat_caption.txt": "c2a6144d100d8a30899009edf63ee7822ef721f00bd57924b842c57a885b5767",
     "kit/tiktok_caption.txt": "0f84b4d031355ecd08b73ade1524397db5050fdf889159c47cdda1a68f904fc0",
-    "reel.mp4": "5872c752172d6154b15ac50d630ef514103af5cc3c7e5bad9dc01b692fde32a8",
-    "slides/01.jpg": "5662b45bc9dc11ffd70b2eb9216f021205ad1eed2a85e28bc2c9fb9418cd028f",
-    "slides/02.jpg": "f66355e4a02789cd20efc0a463826855f6a8245300f322f23f34ceb4a798933b",
-    "slides/03.jpg": "c9a0e138f1af468fe3bf55ec22aa6f83a5f6d557d77564e0db4976fb75889c89",
-    "slides/04.jpg": "ca456571c43cd31d5a6ffe77f8f35cfbf8daec5c05f968c3c5ee169ba1dd93cc",
-    "slides/05.jpg": "beda9d912fb285589f6203ca095cbde11bd688ed31dc3becb093b334e61a8b16",
-    "slides/06.jpg": "c99062bb1487fcf679a242f230cd68cd6b06e26d12f8832c47d55d038a8eb234",
-    "slides/07.jpg": "0cb4c1f6eead692a1577e1e9348b088b2e35e9131c3bcb1ce89a51f142111ac9",
-    "slides/08.jpg": "9b8a64cafea00c4bc926606bb71d54f0499c75a9153fd7bb7019238b3c5f37b4",
-    "slides.zip": "2881c51b67c0457903c5f66b8808e97af2d0ce64a9be1dd2c41cc3f506b21425"
+    "reel.mp4": "6439f32c923c5804a2546bd3f98e416299c1c4b9386aa832bd93ff41a108d75b",
+    "slides/01.jpg": "4e32f1fdd527863dc612499f389a4c8f163bc5f92c5f41cf1857538d90cab345",
+    "slides/02.jpg": "9bbd1b24b54497da20451fa2284e227374c3f8d55b8a14af4555b1e9cf9aaebe",
+    "slides/03.jpg": "83ff4497c8f9fc1bbe86e8f3e02858da8c4b800b8f072f9a7f901c637a02dc53",
+    "slides/04.jpg": "bde16ed86ae718ddeb27ec6148afe90e5d4bb1c5b539f2ecb19e112b97cdadb3",
+    "slides/05.jpg": "bea4c3000a326dd3eb0857900c2f0e86de59f22e36440c0dc3d562201f0a642b",
+    "slides/06.jpg": "245012123b682da6a7627943a4243c51ffce5c9bb1e4211e54860a4b7de35633",
+    "slides/07.jpg": "7a69898d11a24c68fb0b136d26675b81cad7b16812ecb1f99af82badfe7404ab",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "85ba3f51c4aca0b201798f5a38dcd9e6189282fbd1e1c023bf983948b1ada58b"
   }
 }

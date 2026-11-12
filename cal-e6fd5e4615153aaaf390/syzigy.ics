@@ -223,31 +223,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261112T181020Z
-SEQUENCE:7
-DTSTART;TZID=America/New_York:20261112T120000
-DTEND;TZID=America/New_York:20261112T121500
-SUMMARY:Post: Found-family books hit different when you’re 28+ [TT/IG/SC]
-DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
-  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
-  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: posted.\
- n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-fo
- und-family-28/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3
- d5sy2/#overview
+DTSTAMP:20261112T183145Z
+SEQUENCE:8
+DTSTART;TZID=America/New_York:20261112T133002
+DTEND;TZID=America/New_York:20261112T134502
+SUMMARY:✅ Posted: Found-family books hit different when you’re 28+ [TT/
+ IG/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/book-clubs/2026-11-11-found-family-28/kit/\nDashboar
+ d: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-found-f
  amily-28/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Found-family books hit different when you’re 28+ [TT/IG
- /SC] in 30 min
+DESCRIPTION:✅ Posted: Found-family books hit different when you’re 28+ 
+ [TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Found-family books hit different when you’re 28+ [TT/IG
- /SC] in 5 min
+DESCRIPTION:✅ Posted: Found-family books hit different when you’re 28+ 
+ [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

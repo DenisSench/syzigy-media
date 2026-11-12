@@ -1,32 +1,32 @@
 {
   "post": "motivational-quotes/2026-11-12-average-day-counts",
   "format": "carousel",
-  "version": "v8",
-  "review_status": "review",
+  "version": "v9",
+  "review_status": "approved",
   "slot": "1",
   "slot_time": "12:00",
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 22.1,
+    "reel_seconds": 21.7,
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T15:56:17-05:00",
+  "built": "2026-11-12T17:21:26-05:00",
   "files": {
     "cover.jpg": "2fe3b40f3d2f287b8df5cbf6aeddc26859badd842666cd6e2dcaf8f43dae8bae",
-    "kit/README.md": "c295737ce0936059e23eb73ab707b14823bdd74b5199b8a7cb963934745fc445",
-    "kit/index.html": "71a1f2e996e5a17bf9ca0f460162b366e7755c712ab36197fea458c0a88c6eb1",
+    "kit/README.md": "896028844daa398270bc9aa3dd6b93fc3129a60ec23ec7abc40d987a380aee49",
+    "kit/index.html": "5806349668339c65f33b18a6c6a76a25ef3f68f0935fd2f67b55fca653cf1332",
     "kit/instagram_caption.txt": "b7a5f098c962cd2a77717b2379f65785776fbdc70fdcc00b196508d2f5c1b789",
     "kit/snapchat_caption.txt": "b0c75a259b0261359e5a509a742d2f1a23338259d07251523d28f19edb860265",
-    "kit/tiktok_caption.txt": "6ffa809cc4dd6c1340a6fc5def918690269f0ae105d4875fae9cfae948dc93e9",
-    "reel.mp4": "0ce4e455c8bb2f9eff9113c817662d28154a6acce0e257f4e22417c94dd1ae53",
+    "kit/tiktok_caption.txt": "83026627bb3e82637e65e89b5e99c9dad25c2af172789685a737e61d51ea7601",
+    "reel.mp4": "97a53134da79bbf853114ffd465a4486628d54ff39be5938d9616866336897cf",
     "slides/01.jpg": "2fe3b40f3d2f287b8df5cbf6aeddc26859badd842666cd6e2dcaf8f43dae8bae",
     "slides/02.jpg": "596813fa5cbb6a00f84d9eb6f94e16bff64bcb9c4f0a4bd8a4b6dd65560070fc",
     "slides/03.jpg": "af32249d3d73d1f19c1e31d2d8effdc5f033f85f48311a0f3fe8f7742518517a",
     "slides/04.jpg": "e61fd7a8e1369f3778328d49950f46660a63268d4ef5278bd42d9ef59391152c",
     "slides/05.jpg": "2e3e3c4a871bbeab408667d595e010770263efdd77d98803ec7f91093fc62f51",
-    "slides/06.jpg": "20f950e6380dbf12bf781ee3edcad092c3ffb115a83057c98e054dd3c3c246b7",
+    "slides/06.jpg": "532c72bf9dc43a16d6f566c215f693c71a7d569e3a32e544c600a78552d25ba7",
     "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "f07e0a65d955300a23adbe23a9e696de2a29f01154496bcb3ce4fcefb5e5cf7e"
+    "slides.zip": "230bcfcbaf8b995ffab80fd3dedec7b9c1e9ccfee7c999696dc5b412726bea88"
   }
 }

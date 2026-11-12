@@ -1,8 +1,8 @@
 {
   "post": "book-clubs/2026-11-12-thriller-thursday-locked-room",
   "format": "carousel",
-  "version": "v8",
-  "review_status": "review",
+  "version": "v9",
+  "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
   "snapchat": {
@@ -11,22 +11,22 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T15:56:17-05:00",
+  "built": "2026-11-12T17:21:26-05:00",
   "files": {
-    "cover.jpg": "6440e8332b56d03eda2237374c4e0dae650966eeb341714f499bfbc9f205a901",
-    "kit/README.md": "b65e2cda6a7ba641a9668c7be833533f6c8e931f9d2cc8169c07eb5c8573cc8a",
-    "kit/index.html": "6a8492d086c0bdf5fd521a822b4c8e35dfab07c2ea974f098a9610557b4bd8b5",
-    "kit/instagram_caption.txt": "9c83d05671120ff0a41fcdc0ffe8e7ee7417a811d9002d5d004e3917a5556fe8",
-    "kit/snapchat_caption.txt": "9b40e4c74105804785765893526e1bf857293692ec4fe6c68a45eaa74b425949",
-    "kit/tiktok_caption.txt": "b94e82b86d3e095d329b77ca33509184a619c1eb6e2b9f4fdaf81fa489cec268",
-    "reel.mp4": "9862d00f39dd01be58a0133118706f4b41235540ad3d20902fd6461359b0c2f9",
-    "slides/01.jpg": "6440e8332b56d03eda2237374c4e0dae650966eeb341714f499bfbc9f205a901",
+    "cover.jpg": "34167af0c8f5fe5ab9efcbce157ef72312dd8ef7f2ddcd2ca8139f62c96420ce",
+    "kit/README.md": "e98decd9b4b18eda12b10fd097cf4a1f58df67d733992924ed4c4e08ebdc455a",
+    "kit/index.html": "0ef17f469c99878b1f42598cc352aa3153c40276e963b23a5aabcd5dcf631288",
+    "kit/instagram_caption.txt": "dd9ed6cd5103e602c9e169951991a9877c4bab67407a6223721bd26a4bfdf988",
+    "kit/snapchat_caption.txt": "5076ef68fa3d10644d5e492d5b3d722a3861e28756951edd8a67f9d29732c4cd",
+    "kit/tiktok_caption.txt": "dd7eb88a26141b3d0ede4ad89bc7d6a7a6f4259d0596eb07ca2f7028c8fa92a0",
+    "reel.mp4": "2ff94d49afa840237117ed7576832021fb131cd55fd68ebfebd593550ea4175c",
+    "slides/01.jpg": "34167af0c8f5fe5ab9efcbce157ef72312dd8ef7f2ddcd2ca8139f62c96420ce",
     "slides/02.jpg": "273982cde5c1c5e8d1fc7c799579e7fe916f08daa84e638ae4f223cc0e1346ec",
     "slides/03.jpg": "c8c18491897e0c4ca49ef9e033f63cf089160b626c7d0cdd0192382da3c8f3ec",
     "slides/04.jpg": "a6a7bb4e529a9821ad275f32d28428531f1b2733212b2d7860d483f4313373b0",
     "slides/05.jpg": "5e0bf8fedc166a670d838121baab029f3a154afbbaaffa0a3cdfc52665e32b83",
     "slides/06.jpg": "998acb5d87b0aa6ef8b760198ca91212c876117ade0eb821f1c323360d40d871",
     "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "556800b069747dbb4a09e2bcca786f5aa75ef649e8e67ea774f29913b864371b"
+    "slides.zip": "b7b478593584a6fc6747e872f32cf2f3b4d3c3050103bc3a4b65c28cb9981e82"
   }
 }

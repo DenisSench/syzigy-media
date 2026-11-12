@@ -1,7 +1,7 @@
 {
   "post": "book-clubs/2026-11-12-chapter-a-day-energy",
   "format": "carousel",
-  "version": "v9",
+  "version": "v10",
   "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
@@ -11,22 +11,22 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T15:15:09-05:00",
+  "built": "2026-11-12T15:47:09-05:00",
   "files": {
-    "cover.jpg": "a0edc3f6c369d492a92bc719882c782dc04829758afadda2fc3f38262dc57b47",
-    "kit/README.md": "b1e194bc5501fae04b28ff354c3336c7086b453f260836dd30da9fe3908c106d",
-    "kit/index.html": "f6c3b864687aac54dfa27c7edd37de957ddf5750a23ab66fc9f983f07c044e68",
+    "cover.jpg": "397f8441ccc2af9310989e089e7621740725dcb8228c7499c07f6208e74835d2",
+    "kit/README.md": "afe570e979339b343d41a87331afb2ed5562a824390cd0a63e1afc7c64b67b5f",
+    "kit/index.html": "7fe686da96a44946575c51716beaafd6f73c1017994ec8c6a44d2d696e467ac6",
     "kit/instagram_caption.txt": "7d093c3fde6024e706dcdd91ac2e8466a4bfb6a68085a87f20aebc5b41650568",
     "kit/snapchat_caption.txt": "44b5e18f0ed96c4b2c22f917f49327700074424fcf9d33d187fcbadb58c1c5af",
     "kit/tiktok_caption.txt": "66e61bcfc9a05e2fa20b3ec08657302c9ec5be91353b16152306e8beb2ba2be1",
-    "reel.mp4": "1c9110458cde93a5828cada2b538385fb7e75db38896f71001d5fe6a88c62925",
-    "slides/01.jpg": "a0edc3f6c369d492a92bc719882c782dc04829758afadda2fc3f38262dc57b47",
-    "slides/02.jpg": "e0a9c66c086998b3666d298e367ff9e9a843a21e5fc29bc06b40543edf13a786",
-    "slides/03.jpg": "4a37be8fc07f54a6fa3aa2619793fd888e214ed78ddc7a01418aa90c1dd90ab8",
-    "slides/04.jpg": "02a9d77d034dc09a594c81dc0499a95b1007679360e7623071b4f025c651dd78",
-    "slides/05.jpg": "68065f260970bbc06a5aeff03ba63d642f43d93badd121fd84c8f5a5f9f469ce",
+    "reel.mp4": "b8ae1e3877a1c29bee79786b79e336962333b3b352520ef6ecf995890bbedd55",
+    "slides/01.jpg": "397f8441ccc2af9310989e089e7621740725dcb8228c7499c07f6208e74835d2",
+    "slides/02.jpg": "d6978de113743d5e386f6b91a9d72a05a94c58d2b47f3ca8bf659aab5d4528dc",
+    "slides/03.jpg": "24f14fc74968650db9dd094e9ca9dc7c951e8455aa856c23748512b682af7e01",
+    "slides/04.jpg": "92ae2bc393c3263e1185f56928dc24258d0fad25357850e29422e1dbd28c1f41",
+    "slides/05.jpg": "1e2e5e837792b36a68e2f5f12d901d971098c656612827236b6f65bbbad2e5b9",
     "slides/06.jpg": "5562d578637b3c938e6ba773d7047df7a45755a40b04d5511204a40acfd32ba5",
     "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
-    "slides.zip": "877880ce258bf44136b715b176fff9962c7364f7d9d87520a6f9f1249dec07ba"
+    "slides.zip": "5044145430cb6fc72bb46bc8f6ee5cef7a351796192c748dc2d6b08fc8e85c5e"
   }
 }

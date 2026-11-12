@@ -139,34 +139,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-reset-six-lines@syzigy-media.vijostudio.com
-DTSTAMP:20261112T025222Z
-SEQUENCE:6
-DTSTART;TZID=America/New_York:20261111T120000
-DTEND;TZID=America/New_York:20261111T121500
-SUMMARY:Post: Monday reset in 6 calm lines [TT/IG/SC]
-DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
-  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
-  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-pos
- t the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open 
- Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then 
- the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotligh
- t\, paste the caption and hashtags\, then Post. Or on a computer: my.snapc
- hat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is in
-  the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-q
- uotes/2026-11-09-monday-reset-six-lines/kit/\nDashboard: https://syzigy-me
- dia.vijostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261112T032736Z
+SEQUENCE:7
+DTSTART;TZID=America/New_York:20261111T121822
+DTEND;TZID=America/New_York:20261111T123322
+SUMMARY:✅ Posted: Monday reset in 6 calm lines [TT/IG/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https://syzigy-m
+ edia.vijostudio.com/posts/motivational-quotes/2026-11-09-monday-reset-six-
+ lines/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#o
+ verview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
  9-monday-reset-six-lines/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG/SC] in 30 min
+DESCRIPTION:✅ Posted: Monday reset in 6 calm lines [TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Monday reset in 6 calm lines [TT/IG/SC] in 5 min
+DESCRIPTION:✅ Posted: Monday reset in 6 calm lines [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

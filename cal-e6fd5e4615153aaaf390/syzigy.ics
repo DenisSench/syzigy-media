@@ -139,16 +139,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:monday-reset-six-lines@syzigy-media.vijostudio.com
-DTSTAMP:20261112T032736Z
-SEQUENCE:7
+DTSTAMP:20261112T181020Z
+SEQUENCE:8
 DTSTART;TZID=America/New_York:20261111T121822
 DTEND;TZID=America/New_York:20261111T123322
 SUMMARY:✅ Posted: Monday reset in 6 calm lines [TT/IG/SC]
 DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
- osted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https://syzigy-m
- edia.vijostudio.com/posts/motivational-quotes/2026-11-09-monday-reset-six-
- lines/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#o
- verview
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/motivational-quotes/2026-11-09-monday-reset-six-line
+ s/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overv
+ iew
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
  9-monday-reset-six-lines/kit/
 TRANSP:TRANSPARENT
@@ -223,22 +223,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261112T031846Z
-SEQUENCE:6
+DTSTAMP:20261112T181020Z
+SEQUENCE:7
 DTSTART;TZID=America/New_York:20261112T120000
 DTEND;TZID=America/New_York:20261112T121500
 SUMMARY:Post: Found-family books hit different when you’re 28+ [TT/IG/SC]
 DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
   photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
-  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-pos
- t the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open 
- Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then 
- the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotligh
- t\, paste the caption and hashtags\, then Post. Or on a computer: my.snapc
- hat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is in
-  the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/202
- 6-11-11-found-family-28/kit/\nDashboard: https://syzigy-media.vijostudio.c
- om/cal-tn3d5sy2/#overview
+  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: posted.\
+ n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-fo
+ und-family-28/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3
+ d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-found-f
  amily-28/kit/
 TRANSP:TRANSPARENT

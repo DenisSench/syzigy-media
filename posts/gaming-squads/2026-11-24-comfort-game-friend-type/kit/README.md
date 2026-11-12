@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Tue Nov 24, time TBD
-Source: posts/gaming-squads/2026-11-24-comfort-game-friend-type/v8
+Source: posts/gaming-squads/2026-11-24-comfort-game-friend-type/v9
 Placeholders: none
 
 ## TikTok caption

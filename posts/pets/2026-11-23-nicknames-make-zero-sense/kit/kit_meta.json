@@ -1,33 +1,33 @@
 {
   "post": "pets/2026-11-23-nicknames-make-zero-sense",
   "format": "carousel",
-  "version": "v8",
+  "version": "v9",
   "review_status": "review",
   "slot": "",
   "slot_time": "",
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 24.133333,
+    "reel_seconds": 24.533333,
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-12T10:08:43-05:00",
+  "built": "2026-11-12T11:04:47-05:00",
   "files": {
     "cover.jpg": "aa9e699d1059df9fd0a089ddf08e48a2c426ad8f37baaa3895b6d8ea29343921",
-    "kit/README.md": "ea83f44a2bc9c2f8047eb3a9b996248439eb1249598f78dcb4512403baec97bb",
-    "kit/index.html": "66a425fce5a7f8ee9495b1b1640263135c237ff3b02e3db66c6aa7cdf8411745",
+    "kit/README.md": "7e02fb517cb01b7b92d1e07c65f9d148d929e43984f8a8fe110828659d08c541",
+    "kit/index.html": "89f88fa279a15cf6c87731c492e6f0587d7a39113507232964de91dbd88e8992",
     "kit/instagram_caption.txt": "a84fa33876a07a66d9d8fae998f12dfd87ab975c678cadb7baccf91123160878",
     "kit/snapchat_caption.txt": "c2a6144d100d8a30899009edf63ee7822ef721f00bd57924b842c57a885b5767",
     "kit/tiktok_caption.txt": "0f84b4d031355ecd08b73ade1524397db5050fdf889159c47cdda1a68f904fc0",
-    "reel.mp4": "c8958022ea76a717971ac235fccadf33ab77018219b89abae3a8e6556685fd08",
+    "reel.mp4": "0975b5a51c54d8cf2101d6ce6140041234504e6f510f0ed207542c416f72100b",
     "slides/01.jpg": "aa9e699d1059df9fd0a089ddf08e48a2c426ad8f37baaa3895b6d8ea29343921",
-    "slides/02.jpg": "04243f03620853daf149f7ef3eca7159eaf427809985df27c29b9c3659cda52c",
-    "slides/03.jpg": "4e51d4f35ab501b6d842c4e85d50489a08e84f94d529e034100a30ab5e244338",
-    "slides/04.jpg": "bfbf01f007817ca90fac6ffc7a81f3987c27d3f1040c12eb9db3de6cb4cdefd5",
+    "slides/02.jpg": "ffae2a8abba9028544bc3ae45fb044f0056e45e9f89cbdd95282e0b6be771242",
+    "slides/03.jpg": "27dbec2151473d272ddf1db1a3aa15654a67e63034e8ef8c605ae56db138ee8c",
+    "slides/04.jpg": "ec5f2bea49af6273cc8c4c24a85fc600185585044c20cc1d64e15490529d9e00",
     "slides/05.jpg": "cc8198bebd6126f34eee2bf627668ea4d30010a78426def2710f8f659f892db0",
     "slides/06.jpg": "5fdc977c3e59ee4d37fbbaf2151bde2bbb1c95d8c69a6cca8cabf8053c5833a8",
     "slides/07.jpg": "b1655f147c6a1f053c9d501703407e134af0130806c9b3fa94cc089d71533249",
     "slides/08.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
-    "slides.zip": "dec3d73df28ebd48debe13f40865a751d7eb5a4aa1b5e1d5fcd4ce5259dbf237"
+    "slides.zip": "ca486e9236ca5297504263d99814ccba5153e991260e18f1f1ebb29011856bf5"
   }
 }

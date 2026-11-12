@@ -1,0 +1,33 @@
+{
+  "post": "gaming-squads/2026-11-24-comfort-game-friend-type",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "",
+  "slot_time": "",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 25.333333,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-12T10:08:43-05:00",
+  "files": {
+    "cover.jpg": "f1d34902ffd26c270809272b9133f15d7350159a68b5194f7d78d9e94cd3b371",
+    "kit/README.md": "45e479fdd41cbb46451d7ba39e5fa33bd829aaf5dab498debe2387a1a13fac4d",
+    "kit/index.html": "09096de617204cc9bc182571bcb3633f63784faf7c74d1c311f3ce83b1aa033f",
+    "kit/instagram_caption.txt": "8e23f63dda627f0bedee6ea4f06cde5784794310e653ef723dc1a69f0dd1391c",
+    "kit/snapchat_caption.txt": "06d93be9de707d7fccdb3b0e954e7e943e97361dd8cff9f769baae2381149b2d",
+    "kit/tiktok_caption.txt": "de0608df3d7252b03162a44a404169b6f48a4a12ff25eff76926fa097cc9f7e1",
+    "reel.mp4": "165f70a58ab38dc9b70e794f912f06d930a9279ab968463622d584c961aa517a",
+    "slides/01.jpg": "f1d34902ffd26c270809272b9133f15d7350159a68b5194f7d78d9e94cd3b371",
+    "slides/02.jpg": "16e9c86f7b3ec6297020973dad920bd93085d944149dd9ca56d76969332a93c1",
+    "slides/03.jpg": "468aaf2418c8ee12b27035b312995db0879fc1140607f83018270f1c5e4abcf0",
+    "slides/04.jpg": "850e232dc1743cc1d7c1c205d85032dbf196d6c3b8d03034513e1db95a031f0e",
+    "slides/05.jpg": "336f15da77e466cfbc448b995c0bf2a7ce5687d8a30aae3e27ea916c71b0f640",
+    "slides/06.jpg": "bef393b2c6cecf46e71af858b0aa6a82599a4270a4f409cf8b9fa40bd83471cb",
+    "slides/07.jpg": "d8bf90c07fb4dcb0a13da94770a142123e4ed576f120ad0d2170f86b99606ff5",
+    "slides/08.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "e8fea395bb889817be6529ed8414920abfe4e9298650ea8ecf990557e1531bf0"
+  }
+}

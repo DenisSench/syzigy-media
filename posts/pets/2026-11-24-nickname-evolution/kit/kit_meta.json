@@ -1,0 +1,33 @@
+{
+  "post": "pets/2026-11-24-nickname-evolution",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "",
+  "slot_time": "",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.533333,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-12T10:08:43-05:00",
+  "files": {
+    "cover.jpg": "2804e9d094ca49408a2bc4999ac47c93d8f74c45b40728de83a818cbf7fecf76",
+    "kit/README.md": "d04a4e31cfc6b2c5f78f0d609fcb7555937f86a9c0b304e0fae493ed8af86db0",
+    "kit/index.html": "4fbb1ab533c90a9e545601a44e1de6b4410a4e731eb6c41cde3d60294caf06d8",
+    "kit/instagram_caption.txt": "ef4835ba4bea5b64180c56f10b9e90600a74da37f4fa4c41b1aca9890b7d4d01",
+    "kit/snapchat_caption.txt": "605a90e4f6c94e76662449010e669f8f9ce150ff7561dc13bad9643b9befa263",
+    "kit/tiktok_caption.txt": "d6f74b3aeddcbc197b158cd541a45d6998536ded2075c029a6db45af3abb4881",
+    "reel.mp4": "802a9baf37970be855230540e4b3046e84e7320555226f17650c818fc7366c05",
+    "slides/01.jpg": "2804e9d094ca49408a2bc4999ac47c93d8f74c45b40728de83a818cbf7fecf76",
+    "slides/02.jpg": "3a738d822cf1084e907f68755e1b6e8d95a2913373d80cf7bb091680d1c302e9",
+    "slides/03.jpg": "51a1360e58114131ac9f0af2f0b880a70bef1efd6c0e08a4529dd1c69d86871c",
+    "slides/04.jpg": "b370c4172c2436e690f24b45124a98ba116e00b35427fc8c5a4b563a61d0ac56",
+    "slides/05.jpg": "3cff252d2f58a53d360b32a2022c6fdecac491e2dc0441758d6f0a7e7a78c063",
+    "slides/06.jpg": "3dd96d57fa64e08d610f8b732948baabb0abf7be7aac902dac87fb6d4ce9d433",
+    "slides/07.jpg": "3557ae3ee69bebbb27f61592f57c7febeb0a2d88af2880800219bbb236d08452",
+    "slides/08.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "2d9f035b6ed4f4861ebd0d4bdad112b0323973b336af00500e22bb1a69dfe51e"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "post": "book-clubs/2026-11-11-found-family-28",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "auto-derived",
+    "reel_seconds": 20.9,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-11T22:01:20-05:00",
+  "files": {
+    "cover.jpg": "e1619a18cc86e53bd2496a6d05da9918add1c9ce0d1e273d9dc2b2c3dbc60ff9",
+    "kit/README.md": "78d4de9c04d2ef680cdee7b5dd2af9e6ce5b068bf61c2802d1b44996f40bab86",
+    "kit/index.html": "87cc2b17bf5c53ce97d4973ac1526c028f1399f7d279c07dc67eef32e48bfa59",
+    "kit/instagram_caption.txt": "5b0ad06a8647357d532182b851ab374d14d6967a5138d93a8d62ea18d996a20a",
+    "kit/snapchat_caption.txt": "244c1a4c96a4ffbb4d451d0a44ca2d6cad031fa068ce40ceb8c082d4d81e3409",
+    "kit/tiktok_caption.txt": "b19bbe9c048ea5ca8b034808f55dcef17318859fdfca8e0a175cdb4aeaa7c037",
+    "reel.mp4": "dccc2d0ff2c438f9511fe2d362df3f8a12961e3cffc9ff61cb351649b313e2ec",
+    "slides/01.jpg": "e1619a18cc86e53bd2496a6d05da9918add1c9ce0d1e273d9dc2b2c3dbc60ff9",
+    "slides/02.jpg": "75d98efdc08aa1f46e79f0994ec929773d0a7ad695eb669fd43de107ab26370d",
+    "slides/03.jpg": "bce2a0e0429c2e19093c35179909b526ec8ab8d1fd6184f3ecd89d71511bce87",
+    "slides/04.jpg": "367698ef4db6e7916b8343bf37ce2e12316afd4fa1cfb797f34eb3f98d1a9d8a",
+    "slides/05.jpg": "022ecf8753f86569611b4cd9f2e84cc1ec8d89f9061118707e803c7880d7a615",
+    "slides/06.jpg": "62d22c987eabfe6ec55844c108410bd76da643c13eb29dc8e79a5c1c1bd2ac52",
+    "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "ae86ef74360c36292d9a685dd5767bdc88a8a031f1e2a6f899a74af317230dd2"
+  }
+}

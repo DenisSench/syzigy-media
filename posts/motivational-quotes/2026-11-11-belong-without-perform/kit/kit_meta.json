@@ -1,0 +1,32 @@
+{
+  "post": "motivational-quotes/2026-11-11-belong-without-perform",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "auto-derived",
+    "reel_seconds": 20.5,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-11T22:01:20-05:00",
+  "files": {
+    "cover.jpg": "8cf6dc811e16e3f18c797663d454a784978f8f92a959f958aa7b07852e9d7eeb",
+    "kit/README.md": "c083bf1b8651608fd5e7692a6f5a9fa7e4e2041a1b40607d550cc8d2fe98d6d8",
+    "kit/index.html": "3c0fb5712d03b58fd004e11f79cd3270aea549afe2e6b5963a732633487d1290",
+    "kit/instagram_caption.txt": "e58045487c7e491d51c5a1972ea6b6601d0d3357c356074a632c20822b3538f0",
+    "kit/snapchat_caption.txt": "3750d91e0367e35cd43a4894a2c40ef603702c45655773078fb535391c8f0463",
+    "kit/tiktok_caption.txt": "061b2790355623c1cba8a865333d8dba5f76d926ef3fd7cb8bd9228793cf6ce0",
+    "reel.mp4": "ce66b372388e090947d9eafaab1694f1d76dafc7dfe191d1715d33b5dd5a2aed",
+    "slides/01.jpg": "8cf6dc811e16e3f18c797663d454a784978f8f92a959f958aa7b07852e9d7eeb",
+    "slides/02.jpg": "a39b97e9b9638d63789b1eb42b8c333498dedb4dc160709309d12df30beca33d",
+    "slides/03.jpg": "3c2351527849cc8627ea90469f90549dc54da68ca8ee28ea0246acd3e39f11b5",
+    "slides/04.jpg": "3bb22b6d5b57ad56b55c6cf08fdb37073b13560c0acbf4a7f841be798074f81f",
+    "slides/05.jpg": "9739ac49c2d5c919e10047583ef7f0125ec5a0e8da99d9b8e4b78f4bae686f43",
+    "slides/06.jpg": "e90fcef1d423bb3ee0ca8e4985e3ab335d914e1515d305cf290d316c77d4613a",
+    "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "1278d9d821da5c57e2f1f59bb712ce420b44ba25b60abdf94c8073d3b5f89c67"
+  }
+}

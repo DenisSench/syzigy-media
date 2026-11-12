@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-small-rooms-over-follows
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Approval: Posted.
 Slot: Wed Nov 11, 9:00 PM ET
 Source: posts/motivational-quotes/2026-11-11-small-rooms-over-follows/v8
 Placeholders: none
@@ -23,10 +23,4 @@ A follower count can't remember your birthday. A small room can. 🪑 Send this 
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
 
 #quotes #dailyreminder #belonging #friendship #smallcircle #syzigy
-```
-
-## Snapchat caption (auto-derived, pending Ella)
-
-```
-Small rooms > big follow counts. Link in bio. #motivationalquotes #dailyreminder #syzigy
 ```

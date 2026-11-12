@@ -1,0 +1,32 @@
+{
+  "post": "book-clubs/2026-11-12-chapter-a-day-energy",
+  "format": "carousel",
+  "version": "v8",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "auto-derived",
+    "reel_seconds": 22.9,
+    "over_60s": false
+  },
+  "placeholders": [],
+  "built": "2026-11-11T22:01:20-05:00",
+  "files": {
+    "cover.jpg": "a0edc3f6c369d492a92bc719882c782dc04829758afadda2fc3f38262dc57b47",
+    "kit/README.md": "c6e63b68e8395a15775e2d34ecc6b0405af48fe36d61aa8f796d95b4622ae982",
+    "kit/index.html": "d9e6d32cad8d36c00ec5c817398eccc45b302e09264c7d79dbb3bce761716ffe",
+    "kit/instagram_caption.txt": "7d093c3fde6024e706dcdd91ac2e8466a4bfb6a68085a87f20aebc5b41650568",
+    "kit/snapchat_caption.txt": "6a150cd534c92b823515e6029b5196a16a695cdd5be91c52f93aa376b62f4ddd",
+    "kit/tiktok_caption.txt": "66e61bcfc9a05e2fa20b3ec08657302c9ec5be91353b16152306e8beb2ba2be1",
+    "reel.mp4": "a94a28221ab5f26c8b9acf5ee3d89950b7120c033dc299a10afc772192925c36",
+    "slides/01.jpg": "a0edc3f6c369d492a92bc719882c782dc04829758afadda2fc3f38262dc57b47",
+    "slides/02.jpg": "e0a9c66c086998b3666d298e367ff9e9a843a21e5fc29bc06b40543edf13a786",
+    "slides/03.jpg": "4a37be8fc07f54a6fa3aa2619793fd888e214ed78ddc7a01418aa90c1dd90ab8",
+    "slides/04.jpg": "02a9d77d034dc09a594c81dc0499a95b1007679360e7623071b4f025c651dd78",
+    "slides/05.jpg": "68065f260970bbc06a5aeff03ba63d642f43d93badd121fd84c8f5a5f9f469ce",
+    "slides/06.jpg": "bef4796e94f8537bfd75b7e2ac1db17c2f8d4d42d6ddae7ac5fe5ba769dc70c5",
+    "slides/07.jpg": "273ab59c67ecb9bddcbb98b34c7320eaffb6dd8bd6016364bdd939eaf4db6dd7",
+    "slides.zip": "bb639c19ed612466a40dcbb92eba45b2bdf86373b9cd38ac403e34d122e118e8"
+  }
+}

@@ -26,8 +26,8 @@ Join a small book Circle on Syzigy (up to 8 readers) - buddy reads that actually
 #bookstagram #foundfamily #bookrecommendations #scifibooks #cozyreads #syzigy
 ```
 
-## Snapchat caption (auto-derived, pending Ella)
+## Snapchat caption (post.md)
 
 ```
-Found-family books hit different after 28. Link in bio. #booktok #foundfamily #syzigy
+Found-family books hit different after 28. 📚🫶 What's your comfort read? Find buddy reads that actually reply on Syzigy - link in bio. #booktok #foundfamily
 ```

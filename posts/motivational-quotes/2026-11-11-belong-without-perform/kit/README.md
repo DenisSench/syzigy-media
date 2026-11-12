@@ -25,8 +25,8 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 #quotes #motivationalquotes #softlife #belonging #dailyreminder #syzigy
 ```
 
-## Snapchat caption (auto-derived, pending Ella)
+## Snapchat caption (post.md)
 
 ```
-Belong where you don't have to perform. Link in bio. #motivationalquotes #quotes #syzigy
+Belong where you don't have to perform. 🤍 Where do you get to be off-duty? Find small groups that talk back on Syzigy - link in bio. #belonging #dailyreminder
 ```

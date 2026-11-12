@@ -26,8 +26,8 @@ Join a small book Circle on Syzigy (up to 8 readers) - buddy reads that actually
 #bookstagram #readinghabit #currentlyreading #readalong #bookclub #syzigy
 ```
 
-## Snapchat caption (auto-derived, pending Ella)
+## Snapchat caption (post.md)
 
 ```
-Chapter-a-day club: no perfection required. Link in bio. #booktok #readingchallenge #syzigy
+Chapter-a-day club: no streaks, no guilt. 📖☕ What would you read? Find buddy reads that actually reply on Syzigy - link in bio. #booktok #bookclub
 ```

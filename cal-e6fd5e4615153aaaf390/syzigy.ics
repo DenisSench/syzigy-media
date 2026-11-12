@@ -138,96 +138,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-belong-without-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261111T090000
-DTEND;TZID=America/New_York:20261111T091500
-SUMMARY:Approve: Soft rewrite: “belong where you don’t perform”
-DESCRIPTION:belong-without-perform is 'In review' and is due 2026-11-12 17:
- 00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, In
- stagram and Snapchat. Approve or skip it in the Commander chat (or the das
- hboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/mo
- tivational-quotes/2026-11-11-belong-without-perform/kit/\nDashboard: https
- ://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 1-belong-without-perform/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Soft rewrite: “belong where you don’t perform” i
- n 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Soft rewrite: “belong where you don’t perform” i
- n 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-chapter-a-day-energy@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261111T090000
-DTEND;TZID=America/New_York:20261111T091500
-SUMMARY:Approve: Chapter-a-day club energy (no perfection required)
-DESCRIPTION:chapter-a-day-energy is 'In review' and is due 2026-11-12 21:00
-  ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Inst
- agram and Snapchat. Approve or skip it in the Commander chat (or the dashb
- oard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/book
- -clubs/2026-11-12-chapter-a-day-energy/kit/\nDashboard: https://syzigy-med
- ia.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter
- -a-day-energy/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Chapter-a-day club energy (no perfection required) in 
- 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Chapter-a-day club energy (no perfection required) in 
- 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261111T090000
-DTEND;TZID=America/New_York:20261111T091500
-SUMMARY:Approve: Found-family books hit different when you’re 28+
-DESCRIPTION:found-family-28 is 'In review' and is due 2026-11-12 12:00 ET o
- n TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram
-  and Snapchat. Approve or skip it in the Commander chat (or the dashboard 
- Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/book-club
- s/2026-11-11-found-family-28/kit/\nDashboard: https://syzigy-media.vijostu
- dio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-found-f
- amily-28/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Found-family books hit different when you’re 28+ in 
- 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Found-family books hit different when you’re 28+ in 
- 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:monday-reset-six-lines@syzigy-media.vijostudio.com
 DTSTAMP:20261112T025222Z
 SEQUENCE:6
@@ -319,22 +229,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:5
+DTSTAMP:20261112T031846Z
+SEQUENCE:6
 DTSTART;TZID=America/New_York:20261112T120000
 DTEND;TZID=America/New_York:20261112T121500
 SUMMARY:Post: Found-family books hit different when you’re 28+ [TT/IG/SC]
-DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/20
- 26-11-11-found-family-28/kit/\nDashboard: https://syzigy-media.vijostudio.
- com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
+  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
+  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-pos
+ t the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open 
+ Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then 
+ the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotligh
+ t\, paste the caption and hashtags\, then Post. Or on a computer: my.snapc
+ hat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is in
+  the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/202
+ 6-11-11-found-family-28/kit/\nDashboard: https://syzigy-media.vijostudio.c
+ om/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-found-f
  amily-28/kit/
 TRANSP:TRANSPARENT
@@ -354,23 +264,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belong-without-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:5
+DTSTAMP:20261112T031846Z
+SEQUENCE:6
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T171500
 SUMMARY:Post: Soft rewrite: “belong where you don’t perform” [TT/IG/S
  C]
-DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-
- quotes/2026-11-11-belong-without-perform/kit/\nDashboard: https://syzigy-m
- edia.vijostudio.com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
+  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
+  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-pos
+ t the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open 
+ Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then 
+ the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotligh
+ t\, paste the caption and hashtags\, then Post. Or on a computer: my.snapc
+ hat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is in
+  the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-q
+ uotes/2026-11-11-belong-without-perform/kit/\nDashboard: https://syzigy-me
+ dia.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  1-belong-without-perform/kit/
 TRANSP:TRANSPARENT
@@ -390,22 +300,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chapter-a-day-energy@syzigy-media.vijostudio.com
-DTSTAMP:20261112T030120Z
-SEQUENCE:5
+DTSTAMP:20261112T031846Z
+SEQUENCE:6
 DTSTART;TZID=America/New_York:20261112T210000
 DTEND;TZID=America/New_York:20261112T211500
 SUMMARY:Post: Chapter-a-day club energy (no perfection required) [TT/IG/SC]
-DESCRIPTION:Status: In review\nPlatforms: TikTok+Instagram+Snapchat\nTikTok
- : photo-carousel inbox draft (lands ~2 h before the slot)\, then publish i
- n the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-po
- st the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open
-  Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then
-  the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotlig
- ht\, paste the caption and hashtags\, then Post. Or on a computer: my.snap
- chat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is i
- n the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/20
- 26-11-12-chapter-a-day-energy/kit/\nDashboard: https://syzigy-media.vijost
- udio.com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Approved\nPlatforms: TikTok+Instagram+Snapchat\nTikTok:
+  photo-carousel inbox draft (lands ~2 h before the slot)\, then publish in
+  the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: hand-pos
+ t the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2) Open 
+ Snapchat as @syzigyapp\, swipe up from the camera to open Memories\, then 
+ the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose Spotligh
+ t\, paste the caption and hashtags\, then Post. Or on a computer: my.snapc
+ hat.com > Upload to Spotlight. Vertical video\, 60s or less. Caption is in
+  the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/202
+ 6-11-12-chapter-a-day-energy/kit/\nDashboard: https://syzigy-media.vijostu
+ dio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter
  -a-day-energy/kit/
 TRANSP:TRANSPARENT

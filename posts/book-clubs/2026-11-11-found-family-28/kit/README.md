@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-found-family-28
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Thu Nov 12, 12:00 PM ET
 Source: posts/book-clubs/2026-11-11-found-family-28/v8
 Placeholders: none

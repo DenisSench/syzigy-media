@@ -2,7 +2,7 @@
   "post": "book-clubs/2026-11-11-found-family-28",
   "format": "carousel",
   "version": "v8",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "1",
   "slot_time": "12:00",
   "snapchat": {
@@ -11,11 +11,11 @@
     "over_60s": false
   },
   "placeholders": [],
-  "built": "2026-11-11T22:01:20-05:00",
+  "built": "2026-11-11T22:18:46-05:00",
   "files": {
     "cover.jpg": "e1619a18cc86e53bd2496a6d05da9918add1c9ce0d1e273d9dc2b2c3dbc60ff9",
-    "kit/README.md": "78d4de9c04d2ef680cdee7b5dd2af9e6ce5b068bf61c2802d1b44996f40bab86",
-    "kit/index.html": "87cc2b17bf5c53ce97d4973ac1526c028f1399f7d279c07dc67eef32e48bfa59",
+    "kit/README.md": "fd4ec6090050df5f335540ff13387c2600138876c1ad22f66264c2efc568f541",
+    "kit/index.html": "118c1b8a9b49fd414ad5c8fc87fe065d3728f0daf176dd340a2f443508de6a2c",
     "kit/instagram_caption.txt": "5b0ad06a8647357d532182b851ab374d14d6967a5138d93a8d62ea18d996a20a",
     "kit/snapchat_caption.txt": "244c1a4c96a4ffbb4d451d0a44ca2d6cad031fa068ce40ceb8c082d4d81e3409",
     "kit/tiktok_caption.txt": "b19bbe9c048ea5ca8b034808f55dcef17318859fdfca8e0a175cdb4aeaa7c037",

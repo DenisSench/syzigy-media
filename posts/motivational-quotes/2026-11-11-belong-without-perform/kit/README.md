@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-belong-without-perform
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Thu Nov 12, 5:00 PM ET
 Source: posts/motivational-quotes/2026-11-11-belong-without-perform/v8
 Placeholders: none

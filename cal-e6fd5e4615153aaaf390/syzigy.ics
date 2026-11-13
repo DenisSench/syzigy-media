@@ -282,31 +282,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chapter-a-day-energy@syzigy-media.vijostudio.com
-DTSTAMP:20261113T033244Z
-SEQUENCE:9
+DTSTAMP:20261113T050027Z
+SEQUENCE:10
 DTSTART;TZID=America/New_York:20261112T211926
 DTEND;TZID=America/New_York:20261112T213426
-SUMMARY:[Waiting for Snap] Chapter-a-day club energy (no perfection require
- d) [TT/IG/SC]
-DESCRIPTION:Status: Waiting for Snap\nPlatforms: TikTok+Instagram+Snapchat\
- nTikTok: posted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https:
- //syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter-a-day-en
- ergy/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
- erview
+SUMMARY:[Partly: Snap] Chapter-a-day club energy (no perfection required) [
+ TT/IG/SC]
+DESCRIPTION:Status: Missing: Snap\nPlatforms: TikTok+Instagram+Snapchat\nTi
+ kTok: posted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https://s
+ yzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter-a-day-energ
+ y/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overv
+ iew
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter
  -a-day-energy/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Waiting for Snap] Chapter-a-day club energy (no perfection req
- uired) [TT/IG/SC] in 30 min
+DESCRIPTION:[Partly: Snap] Chapter-a-day club energy (no perfection require
+ d) [TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Waiting for Snap] Chapter-a-day club energy (no perfection req
- uired) [TT/IG/SC] in 5 min
+DESCRIPTION:[Partly: Snap] Chapter-a-day club energy (no perfection require
+ d) [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

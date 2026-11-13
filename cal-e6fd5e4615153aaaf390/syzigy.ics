@@ -252,68 +252,61 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belong-without-perform@syzigy-media.vijostudio.com
-DTSTAMP:20261112T230047Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261112T170000
-DTEND;TZID=America/New_York:20261112T171500
-SUMMARY:[Partly: IG] Soft rewrite: “belong where you don’t perform” [
- TT/IG/SC]
-DESCRIPTION:Status: Missing: IG\nPlatforms: TikTok+Instagram+Snapchat\nTikT
- ok: photo-carousel inbox draft (lands ~2 h before the slot)\, then publish
-  in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: poste
- d.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2
- 026-11-11-belong-without-perform/kit/\nDashboard: https://syzigy-media.vij
- ostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261113T033244Z
+SEQUENCE:10
+DTSTART;TZID=America/New_York:20261112T171522
+DTEND;TZID=America/New_York:20261112T173022
+SUMMARY:[Posted] Soft rewrite: “belong where you don’t perform” [TT/I
+ G/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/motivational-quotes/2026-11-11-belong-without-perfor
+ m/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overv
+ iew
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  1-belong-without-perform/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG] Soft rewrite: “belong where you don’t perform
- ” [TT/IG/SC] in 30 min
+DESCRIPTION:[Posted] Soft rewrite: “belong where you don’t perform” [
+ TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG] Soft rewrite: “belong where you don’t perform
- ” [TT/IG/SC] in 5 min
+DESCRIPTION:[Posted] Soft rewrite: “belong where you don’t perform” [
+ TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chapter-a-day-energy@syzigy-media.vijostudio.com
-DTSTAMP:20261113T020811Z
-SEQUENCE:8
-DTSTART;TZID=America/New_York:20261112T210000
-DTEND;TZID=America/New_York:20261112T211500
-SUMMARY:[Needs you] Chapter-a-day club energy (no perfection required) [TT/
- IG/SC]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
- ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
-  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
-  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
- s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
-  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
-  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
- ion is in the kit.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-
- clubs/2026-11-12-chapter-a-day-energy/kit/\nDashboard: https://syzigy-medi
- a.vijostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261113T033244Z
+SEQUENCE:9
+DTSTART;TZID=America/New_York:20261112T211926
+DTEND;TZID=America/New_York:20261112T213426
+SUMMARY:[Waiting for Snap] Chapter-a-day club energy (no perfection require
+ d) [TT/IG/SC]
+DESCRIPTION:Status: Waiting for Snap\nPlatforms: TikTok+Instagram+Snapchat\
+ nTikTok: posted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https:
+ //syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter-a-day-en
+ ergy/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
+ erview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-chapter
  -a-day-energy/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Chapter-a-day club energy (no perfection required) 
- [TT/IG/SC] in 30 min
+DESCRIPTION:[Waiting for Snap] Chapter-a-day club energy (no perfection req
+ uired) [TT/IG/SC] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Chapter-a-day club energy (no perfection required) 
- [TT/IG/SC] in 5 min
+DESCRIPTION:[Waiting for Snap] Chapter-a-day club energy (no perfection req
+ uired) [TT/IG/SC] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

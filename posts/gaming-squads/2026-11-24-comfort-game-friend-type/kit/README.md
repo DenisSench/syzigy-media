@@ -27,6 +27,18 @@ Your comfort game knows you. 🎮 Which one are you, and which one is your best 
 Your comfort game says what kind of friend you are. 🎮 Which one are you? Find your squad on Syzigy - link in bio. #comfortgames #cozygames
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+Your comfort game says what kind of friend you are #Shorts
+```
+
+**Description**
+
+```
+Stardew, Minecraft, Mario Kart, Animal Crossing or The Sims. Which one are you?
+Find people who play what you play on Syzigy - link in channel.
+#comfortgames #cozygames #gamingfriends
+```

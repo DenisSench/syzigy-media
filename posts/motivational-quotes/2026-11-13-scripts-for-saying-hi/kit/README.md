@@ -31,6 +31,18 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 5 openers that actually start a conversation. 💬 Steal one and send it. Find small groups that talk back on Syzigy - link in bio. #icebreakers #newfriends
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+5 openers that actually start a conversation #Shorts
+```
+
+**Description**
+
+```
+Save these. A real question gives people something to answer. Which one would you send?
+Join a small Circle on Syzigy - link in channel.
+#icebreakers #newfriends #conversationstarters
+```

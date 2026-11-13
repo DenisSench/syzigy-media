@@ -27,6 +27,18 @@ Official name: Luna. Actual name: Potato. 🐾 Tell us what you call yours. Peop
 Their name is Luna. You call her Potato. 🐾 What's yours? Find people who get your weird pet nicknames - link in bio. #petnames #petlife
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+Pet nicknames that make zero sense out loud #Shorts
+```
+
+**Description**
+
+```
+Their name is Luna. You call her Potato. What's yours?
+Find people who get your weird pet nicknames on Syzigy - link in channel.
+#petnames #petlife #dogs #cats
+```

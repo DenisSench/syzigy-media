@@ -32,6 +32,18 @@ Join a small book Circle on Syzigy (up to 8 readers) - buddy reads that actually
 Thriller Friday: locked-room vibes only. 🔐❄️ Which setup hooks you? Find buddy reads that actually reply on Syzigy - link in bio. #booktok #thrillerfriday
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+Thriller Friday: locked-room mysteries only #Shorts
+```
+
+**Description**
+
+```
+Snowed-in lodge, island house, or sealed train car - which setup hooks you? Try And Then There Were None (Agatha Christie) or The Hunting Party (Lucy Foley). No spoilers.
+Find buddy reads that actually reply on Syzigy - link in channel.
+#booktok #thrillerbooks #mysterybooks #lockedroom
+```

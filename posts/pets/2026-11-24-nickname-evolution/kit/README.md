@@ -27,6 +27,18 @@ Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet's name at this point? Peop
 Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet called these days? Find people who get your weird pet nicknames - link in bio. #petnames #doglife
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+How your pet's nickname evolves #Shorts
+```
+
+**Description**
+
+```
+It started as Biscuit. It is no longer Biscuit. Walk us through your pet's nickname timeline.
+Find people who get your weird pet nicknames on Syzigy - link in channel.
+#petnames #petlife #pets
+```

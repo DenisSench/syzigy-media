@@ -27,6 +27,18 @@ After work, after college, after everyone got busy - game night still works. ðŸŽ
 Game night after work? 5 picks for your friend group. ðŸŽ® Find people who play what you play on Syzigy - link in bio. #gamingfriends #cozygames
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+5 games to play with your friend group after work #Shorts
+```
+
+**Description**
+
+```
+Game night still works after everyone got busy. Send this to the group chat and pick one for Friday.
+Find people who play what you play on Syzigy - link in channel.
+#gamingfriends #cozygames #gamenight #coopgames
+```

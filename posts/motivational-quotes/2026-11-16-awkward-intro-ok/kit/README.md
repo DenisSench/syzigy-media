@@ -32,6 +32,18 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 Send the awkward intro, plus a real question. 💬 Everyone was new once. Find small groups that talk back on Syzigy - link in bio. #newfriends #makingfriends
 ```
 
-## YouTube Shorts (copy pending from Ella)
+## YouTube Shorts (from post.md)
 
-YouTube copy pending from Ella.
+**Title**
+
+```
+Send the awkward intro anyway #Shorts
+```
+
+**Description**
+
+```
+Send the awkward intro, then add one real thing. Everyone was new once.
+Join a small Circle on Syzigy - link in channel.
+#newfriends #makingfriends #socialconfidence
+```

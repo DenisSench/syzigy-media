@@ -312,31 +312,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:average-day-counts@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:10
+DTSTAMP:20261113T185254Z
+SEQUENCE:11
 DTSTART;TZID=America/New_York:20261113T122037
 DTEND;TZID=America/New_York:20261113T123537
-SUMMARY:[Partly: YT] Permission slip: average day still counts [TT/IG/SC/YT
- ]
-DESCRIPTION:Status: Missing: YT\nPlatforms: TikTok+Instagram+Snapchat+YouTu
- be\nTikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: not p
- osted.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quot
- es/2026-11-12-average-day-counts/kit/\nDashboard: https://syzigy-media.vij
- ostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] Permission slip: average day still counts [TT/IG/SC]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
+ osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
+ .vijostudio.com/posts/motivational-quotes/2026-11-12-average-day-counts/ki
+ t/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  2-average-day-counts/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] Permission slip: average day still counts [TT/IG/S
- C/YT] in 30 min
+DESCRIPTION:[Posted] Permission slip: average day still counts [TT/IG/SC] i
+ n 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] Permission slip: average day still counts [TT/IG/S
- C/YT] in 5 min
+DESCRIPTION:[Posted] Permission slip: average day still counts [TT/IG/SC] i
+ n 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

@@ -341,40 +341,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friend-group-games@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:2
+DTSTAMP:20261113T230712Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261113T170000
 DTEND;TZID=America/New_York:20261113T171500
-SUMMARY:[Scheduled] Games to play with your friend group after work [TT/IG/
- SC/YT]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
- \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
- ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
-  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
-  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
- s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
-  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
-  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
- ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
- kit. Title and description are in the kit's YouTube Shorts section when El
- la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-friend-gr
- oup-games/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy
- 2/#overview
+SUMMARY:[Partly: IG\, YT] Games to play with your friend group after work [
+ TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+
+ YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\,
+  then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSn
+ apchat: posted.\nYouTube Shorts: hand-post the same 9:16 reel from the kit
+ . Title and description are in the kit's YouTube Shorts section when Ella 
+ has written a ### YouTube block\; otherwise copy is pending.\n\nKit: https
+ ://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-friend-group
+ -games/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
+ overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-frie
  nd-group-games/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
- /IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, YT] Games to play with your friend group after wo
+ rk [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Games to play with your friend group after work [TT
- /IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, YT] Games to play with your friend group after wo
+ rk [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

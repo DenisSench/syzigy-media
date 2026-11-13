@@ -1,7 +1,7 @@
 # Kit: 2026-11-24-nickname-evolution
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Tue Dec 1, 5:00 PM ET
+Slot: Thu Nov 19, 5:00 PM ET
 Source: posts/pets/2026-11-24-nickname-evolution/v12
 Placeholders: none
 
@@ -26,3 +26,7 @@ Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet's name at this point? Peop
 ```
 Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet called these days? Find people who get your weird pet nicknames - link in bio. #petnames #doglife
 ```
+
+## YouTube Shorts (copy pending from Ella)
+
+YouTube copy pending from Ella.

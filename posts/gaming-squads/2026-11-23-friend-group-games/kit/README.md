@@ -1,7 +1,7 @@
 # Kit: 2026-11-23-friend-group-games
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Sat Nov 28, 5:00 PM ET
+Slot: Fri Nov 13, 5:00 PM ET
 Source: posts/gaming-squads/2026-11-23-friend-group-games/v12
 Placeholders: none
 
@@ -26,3 +26,7 @@ After work, after college, after everyone got busy - game night still works. ðŸŽ
 ```
 Game night after work? 5 picks for your friend group. ðŸŽ® Find people who play what you play on Syzigy - link in bio. #gamingfriends #cozygames
 ```
+
+## YouTube Shorts (copy pending from Ella)
+
+YouTube copy pending from Ella.

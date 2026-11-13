@@ -1,6 +1,6 @@
 # Kit: 2026-11-11-found-family-28
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Approval: Posted.
 Slot: Thu Nov 12, 12:00 PM ET
 Source: posts/book-clubs/2026-11-11-found-family-28/v8
 Placeholders: none
@@ -24,10 +24,4 @@ Found-family books after 28 = emotional support crews 📚🫶 Recs: *The House 
 Join a small book Circle on Syzigy (up to 8 readers) - buddy reads that actually reply. Link in bio.
 
 #bookstagram #foundfamily #bookrecommendations #scifibooks #cozyreads #syzigy
-```
-
-## Snapchat caption (post.md)
-
-```
-Found-family books hit different after 28. 📚🫶 What's your comfort read? Find buddy reads that actually reply on Syzigy - link in bio. #booktok #foundfamily
 ```

@@ -1,7 +1,7 @@
 # Kit: 2026-11-23-nicknames-make-zero-sense
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Sun Nov 29, 9:00 PM ET
+Slot: Sun Nov 15, 12:00 PM ET
 Source: posts/pets/2026-11-23-nicknames-make-zero-sense/v12
 Placeholders: none
 
@@ -26,3 +26,7 @@ Official name: Luna. Actual name: Potato. 🐾 Tell us what you call yours. Peop
 ```
 Their name is Luna. You call her Potato. 🐾 What's yours? Find people who get your weird pet nicknames - link in bio. #petnames #petlife
 ```
+
+## YouTube Shorts (copy pending from Ella)
+
+YouTube copy pending from Ella.

@@ -1,6 +1,6 @@
 # Kit: 2026-11-09-monday-reset-six-lines
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Approval: Posted.
 Slot: Wed Nov 11, 12:00 PM ET
 Source: posts/motivational-quotes/2026-11-09-monday-reset-six-lines/v8
 Placeholders: none
@@ -24,10 +24,4 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Maybe 
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Send one hi. Link in bio.
 
 #mondayreset #motivationalquotes #dailyreminder #softlife #quotes #syzigy
-```
-
-## Snapchat caption (auto-derived, pending Ella)
-
-```
-Monday reset in 6 calm lines. Link in bio. #mondayreset #motivationalquotes #syzigy
 ```

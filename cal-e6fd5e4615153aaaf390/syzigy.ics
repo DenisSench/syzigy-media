@@ -371,31 +371,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
-DTSTAMP:20261114T025319Z
-SEQUENCE:11
+DTSTAMP:20261114T052633Z
+SEQUENCE:12
 DTSTART;TZID=America/New_York:20261113T213744
 DTEND;TZID=America/New_York:20261113T215244
-SUMMARY:[Partly: Snap\, YT] Thriller Thursday: locked-room vibes only [TT/I
- G/SC/YT]
-DESCRIPTION:Status: Missing: Snap\, YT\nPlatforms: TikTok+Instagram+Snapcha
- t+YouTube\nTikTok: posted.\nInstagram: posted.\nSnapchat: not posted.\nYou
- Tube: not posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-c
- lubs/2026-11-12-thriller-thursday-locked-room/kit/\nDashboard: https://syz
- igy-media.vijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
+ ]
+DESCRIPTION:Status: Missing: YT\nPlatforms: TikTok+Instagram+Snapchat+YouTu
+ be\nTikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: not p
+ osted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-1
+ 1-12-thriller-thursday-locked-room/kit/\nDashboard: https://syzigy-media.v
+ ijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-thrille
  r-thursday-locked-room/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap\, YT] Thriller Thursday: locked-room vibes only [
- TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/S
+ C/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap\, YT] Thriller Thursday: locked-room vibes only [
- TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/S
+ C/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

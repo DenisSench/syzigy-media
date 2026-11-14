@@ -371,31 +371,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
-DTSTAMP:20261114T052633Z
-SEQUENCE:12
+DTSTAMP:20261114T192629Z
+SEQUENCE:13
 DTSTART;TZID=America/New_York:20261113T213744
 DTEND;TZID=America/New_York:20261113T215244
-SUMMARY:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
- ]
-DESCRIPTION:Status: Missing: YT\nPlatforms: TikTok+Instagram+Snapchat+YouTu
- be\nTikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: not p
- osted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-1
- 1-12-thriller-thursday-locked-room/kit/\nDashboard: https://syzigy-media.v
- ijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-thri
+ ller-thursday-locked-room/kit/\nDashboard: https://syzigy-media.vijostudio
+ .com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-thrille
  r-thursday-locked-room/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/S
- C/YT] in 30 min
+DESCRIPTION:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
+ ] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] Thriller Thursday: locked-room vibes only [TT/IG/S
- C/YT] in 5 min
+DESCRIPTION:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
+ ] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -434,6 +433,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Planned] Stop refreshing. Go where people reply. [TT/IG/SC/YT]
   in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
+DTSTAMP:20261114T192629Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261114T140815
+DTEND;TZID=America/New_York:20261114T142315
+SUMMARY:[Posted] The nicknames we call our pets that make zero sense out lo
+ ud [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-
+ make-zero-sense/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
+ n3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
+ e-zero-sense/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Posted] The nicknames we call our pets that make zero sense ou
+ t loud [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Posted] The nicknames we call our pets that make zero sense ou
+ t loud [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -511,45 +540,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Planned] You’re allowed to want a third place online [TT/IG/
  SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:2
-DTSTART;TZID=America/New_York:20261115T120000
-DTEND;TZID=America/New_York:20261115T121500
-SUMMARY:[Scheduled] The nicknames we call our pets that make zero sense out
-  loud [TT/IG/SC/YT]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
- \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
- ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
-  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
-  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
- s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
-  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
-  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
- ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
- kit. Title and description are in the kit's YouTube Shorts section when El
- la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-make-zer
- o-sense/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
- #overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
- e-zero-sense/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
-  out loud [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Scheduled] The nicknames we call our pets that make zero sense
-  out loud [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

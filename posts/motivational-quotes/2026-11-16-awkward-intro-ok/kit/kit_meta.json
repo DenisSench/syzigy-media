@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-14T14:26:59-05:00",
+  "built": "2026-11-14T14:34:15-05:00",
   "files": {
-    "kit/README.md": "34ff5637408c8e8ac84d0ff801e65aa3519e7dd6434a30872221ec428e240052",
-    "kit/index.html": "2b7165fd3d4ad3995ce57996531db5bcdd660346c579bd48a2cefaa202ff92c5",
-    "kit/instagram_caption.txt": "335a46afd7176ab51732f068b9e2f7f81042c2422de80f90a84cb823a16fcc97",
+    "kit/README.md": "bc1ff96c48dd12a1af5dbb38cda1aafbab4bd0f26048cc5ad86558d8df775779",
+    "kit/index.html": "863fc7571fb270c868221d4c1da9a8ecfaa3fdb2ca5645f2ebdd758f996e1a2e",
+    "kit/instagram_caption.txt": "98f4053168caf0ffb5784d90d1ee31be93d8785222905b57ee9bba013feca011",
     "kit/snapchat_caption.txt": "7c116972b059392e94a25aaa83028706783c5bf98d81bcef1fc6d14a1c340c0c",
     "kit/tiktok_caption.txt": "d74cfb8814fb593d91a7d4f2b783be07c176a5bf169296bfa071c61cb2f6a836",
     "kit/youtube_description.txt": "33747bf81a0b22ff035424ae8d8e4feef11cc443328b60295539540847d08ddf",

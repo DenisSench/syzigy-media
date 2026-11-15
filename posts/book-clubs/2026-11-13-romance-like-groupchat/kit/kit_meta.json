@@ -1,0 +1,38 @@
+{
+  "post": "book-clubs/2026-11-13-romance-like-groupchat",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "approved",
+  "slot": "1",
+  "slot_time": "15:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.3,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-15T14:34:35-05:00",
+  "files": {
+    "cover.jpg": "2069484ab7790c1bf8dafdc4d7b14a7032e56d6f1e8f6054a4a5849264b07ba5",
+    "kit/README.md": "58c7c0862f85dac853d4b581f0b75c354abdbfd0bd557bc2a202f2b713366f4b",
+    "kit/index.html": "48b217817f3e2bea8a3468e2a2e9c796c3c052903250078bb74d1540e2770f68",
+    "kit/instagram_caption.txt": "7f737898600ac065316b0b456201dc34906fc71d029b1de15853fd4be54f8779",
+    "kit/snapchat_caption.txt": "f755a083e337236b906196499e29655d912704c0b92f9defaff2e2e3ca06eeba",
+    "kit/tiktok_caption.txt": "d5b43160e0a5c521480a982c4fa879937bfaef958400ce161fd6848b5960592e",
+    "kit/youtube_description.txt": "1cb0769eb416e78a57bf7762dc925163e09371890082b62ec270e19066b2d3a3",
+    "kit/youtube_title.txt": "cba4fd5035084702a4c76dcd76cda44ab9cc84e64293a91a6d801017e542ba23",
+    "reel.mp4": "3fae705443eb6e93834e20e36d5bcf4cb22a0216b983c992dd653edeabad2d10",
+    "slides/01.jpg": "2069484ab7790c1bf8dafdc4d7b14a7032e56d6f1e8f6054a4a5849264b07ba5",
+    "slides/02.jpg": "c4472a1d495a09d2a6ae7781faebd1031beca792a86b3366f6ae3433553b4ce2",
+    "slides/03.jpg": "9a359ee8e9d47ff5f25b8e2289af38e507bdc0ba0da2955315875d602cb6e27a",
+    "slides/04.jpg": "e85439b523a6dea29e0bbed57785630da744509edf78b8ac8d359cd853fccb37",
+    "slides/05.jpg": "6df1fa48f741c114d964bfeb6be60c907fc3dfc782bd20d70fd8e5b5d2701f16",
+    "slides/06.jpg": "7e44930016d1aa13a830c8fba9ac9df7710fffd5655230005cde91ee201522c8",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "4fd893d59aebb9a701bc2ee8734120493baeeca9c5954de718562d87c92fa032"
+  }
+}

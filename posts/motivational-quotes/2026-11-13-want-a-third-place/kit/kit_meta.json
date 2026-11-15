@@ -1,0 +1,38 @@
+{
+  "post": "motivational-quotes/2026-11-13-want-a-third-place",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "approved",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 20.9,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-14T21:02:58-05:00",
+  "files": {
+    "cover.jpg": "946a1b07c1cd58b46cca62c7b8e15483445284add2a0f8531b90b6a6fbc17950",
+    "kit/README.md": "ce4c1739573ef121e70ee498e96d971cf470af112446bf848a753cfb85598414",
+    "kit/index.html": "4b107407aef1ce2b3573a6a6593f77af01fc9345cea3e59405f032265e4ca4ee",
+    "kit/instagram_caption.txt": "732d11db4b765a657f763009e43fe675429f11f57761fa9130a94a9e3902fe20",
+    "kit/snapchat_caption.txt": "ca76817c5748597c22fdbed3f014ce5ac1b534e8adfc411af27ddbc361079bc4",
+    "kit/tiktok_caption.txt": "25e6d9ced91c0daf1af61d607983b18479c655fb2c4119d160c43674db733242",
+    "kit/youtube_description.txt": "331963e527e61dc5ddb215d9c58e7df88302a9f8afcb97d3453b1afc239abd97",
+    "kit/youtube_title.txt": "eefbeb958494979f07599a469d8af84d49375a7f487cf77427ecfff0df9604f2",
+    "reel.mp4": "5d5771a7b856ab63126aa4eb99561446482be864b4f50588b3ff1e529b8195c6",
+    "slides/01.jpg": "946a1b07c1cd58b46cca62c7b8e15483445284add2a0f8531b90b6a6fbc17950",
+    "slides/02.jpg": "3b2144e16dc62ee9d2b55de99044da0e476ecebee37262e2f45f3dd982fc1e93",
+    "slides/03.jpg": "3f1245fe80fac43b9c33615ca0f26a5b1d7808ba61c5b2f80c83fc22d3fe1722",
+    "slides/04.jpg": "7133a28982e154ae3cae8d8cf0048e5cfc31ef7559b042048fb121ce103e5e71",
+    "slides/05.jpg": "9ce486f9446c918090bc1e7b25b69a762e1070ece171a21d6874a496e1126cf3",
+    "slides/06.jpg": "15b35727446fe20a0cc702b506b30e57a5ed4f9e1dc8b7ef013f445ee55407f2",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "6345ae48d10e4332abf8a10a82a11b1c4e545c16cb608ad9a8df0a34ebff09c1"
+  }
+}

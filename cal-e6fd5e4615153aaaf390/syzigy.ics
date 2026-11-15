@@ -506,13 +506,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:want-a-third-place@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:7
+DTSTAMP:20261115T020258Z
+SEQUENCE:8
 DTSTART;TZID=America/New_York:20261114T210000
 DTEND;TZID=America/New_York:20261114T211500
-SUMMARY:[Planned] You’re allowed to want a third place online [TT/IG/SC/Y
- T]
-DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+SUMMARY:[Needs you] You’re allowed to want a third place online [TT/IG/SC
+ /YT]
+DESCRIPTION:Status: Overdue\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
  and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
@@ -532,14 +532,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] You’re allowed to want a third place online [TT/IG/
- SC/YT] in 30 min
+DESCRIPTION:[Needs you] You’re allowed to want a third place online [TT/I
+ G/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] You’re allowed to want a third place online [TT/IG/
- SC/YT] in 5 min
+DESCRIPTION:[Needs you] You’re allowed to want a third place online [TT/I
+ G/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

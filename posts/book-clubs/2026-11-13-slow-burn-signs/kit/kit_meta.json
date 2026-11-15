@@ -1,0 +1,39 @@
+{
+  "post": "book-clubs/2026-11-13-slow-burn-signs",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "approved",
+  "slot": "2",
+  "slot_time": "17:30",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.933333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-15T17:22:44-05:00",
+  "files": {
+    "cover.jpg": "8fff0e7ce9326510d1e9f9ac4a89187e4c33396ec92a4f2eb95ebd5f76110b1e",
+    "kit/README.md": "5fe5a5a2f8e385e67a0545a101262d931ff0efb285e0b5672f88e2e5bff68136",
+    "kit/index.html": "ec8cd9b188ec1a2634c5825af47a3278fc3ad620274bab8726d387e6199ea6d4",
+    "kit/instagram_caption.txt": "727b5f1a34be8e065bc3387fba52b7a95ffc39c3488ab589adc0328d8c801048",
+    "kit/snapchat_caption.txt": "56347bf2810bf63bc0f31ed03e7c128d645d83e84f4d6fae6a4bade58ceb455c",
+    "kit/tiktok_caption.txt": "1a61fa5913053e95c46ff3aa3826dcc3649909f6a051695e011dcd29389e52a9",
+    "kit/youtube_description.txt": "0acb694874a84c90b8472e0aaefa135c225a6396acd9c168205c48732915afdf",
+    "kit/youtube_title.txt": "dc5a6ed4247d97c4ff940a6ea9bed5ec84a9bccdd3219f88753bdb655e1ef39e",
+    "reel.mp4": "c98264cd2d39bb7bd274d49779e7f7ad3340f0b0399c79992e86b387681c9b03",
+    "slides/01.jpg": "8fff0e7ce9326510d1e9f9ac4a89187e4c33396ec92a4f2eb95ebd5f76110b1e",
+    "slides/02.jpg": "38dda09ff7c0d65a7743c7973dfaf151fa443933a671e04b76ae0aabe85a009c",
+    "slides/03.jpg": "342e1e53b5a7880d464e8206b51d72b153c1d5da4aa45b99cc7169004a79eac8",
+    "slides/04.jpg": "5b19a6e5d43d76f707a4fa12bc465609f7839ee024feb8e6226f755c0739a26b",
+    "slides/05.jpg": "bcdd99f42dc3514312ac34f651ea2e367c71395f64f7f3c7d83d40bcd7786635",
+    "slides/06.jpg": "c189f71adea81555eddbb7ff3e96f1357991f614a5e7a802fad3b856d8c399c7",
+    "slides/07.jpg": "1f0dff41a495892f17657a00e6740d80cca1bdc05ff7953a9e778e01494f5de2",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "4cc81fdfa1e962010a6fb890f9d6bf7a926470b300fae6a8b55d714c1c9b77c5"
+  }
+}

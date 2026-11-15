@@ -533,38 +533,41 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slow-burn-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:7
-DTSTART;TZID=America/New_York:20261115T170000
-DTEND;TZID=America/New_York:20261115T171500
-SUMMARY:[Planned] Slow-burn signs (book edition) [TT/IG/SC/YT]
-DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-burn-sign
- s/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overv
- iew
+DTSTAMP:20261115T222244Z
+SEQUENCE:8
+DTSTART;TZID=America/New_York:20261115T173000
+DTEND;TZID=America/New_York:20261115T174500
+SUMMARY:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT]
+DESCRIPTION:⚠ One-off time: one-off: Denis asked for the kit at 5:20 PM E
+ T (Sun Nov 15) for today's 5 PM slot\; posting ~5:30 PM. Standard slots ar
+ e 12/5/9..\nStatus: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTub
+ e\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then 
+ publish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat
+ : hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone
+ . 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memori
+ es\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choos
+ e Spotlight\, paste the caption and hashtags\, then Post. Or on a computer
+ : my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Cap
+ tion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the
+  kit. Title and description are in the kit's YouTube Shorts section when E
+ lla has written a ### YouTube block\; otherwise copy is pending.\n\nKit: h
+ ttps://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-burn-s
+ igns/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
+ erview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-bu
  rn-signs/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Slow-burn signs (book edition) [TT/IG/SC/YT] in 30 mi
- n
+DESCRIPTION:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT] in 30 
+ min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Slow-burn signs (book edition) [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT] in 5 m
+ in
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

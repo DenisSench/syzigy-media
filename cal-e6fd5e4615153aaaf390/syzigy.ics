@@ -468,106 +468,87 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:want-a-third-place@syzigy-media.vijostudio.com
-DTSTAMP:20261115T022637Z
-SEQUENCE:10
+DTSTAMP:20261115T224237Z
+SEQUENCE:11
 DTSTART;TZID=America/New_York:20261114T211331
 DTEND;TZID=America/New_York:20261114T212831
-SUMMARY:[Partly: YT] You’re allowed to want a third place online [TT/IG/S
- C/YT]
-DESCRIPTION:Status: Missing: YT\nPlatforms: TikTok+Instagram+Snapchat+YouTu
- be\nTikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: not p
- osted.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivational-quot
- es/2026-11-13-want-a-third-place/kit/\nDashboard: https://syzigy-media.vij
- ostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] You’re allowed to want a third place online [TT/IG/SC/YT
+ ]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
+ 1-13-want-a-third-place/kit/\nDashboard: https://syzigy-media.vijostudio.c
+ om/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  3-want-a-third-place/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] You’re allowed to want a third place online [TT/
- IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] You’re allowed to want a third place online [TT/IG/S
+ C/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: YT] You’re allowed to want a third place online [TT/
- IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] You’re allowed to want a third place online [TT/IG/S
+ C/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:romance-like-groupchat@syzigy-media.vijostudio.com
-DTSTAMP:20261115T203908Z
-SEQUENCE:10
-DTSTART;TZID=America/New_York:20261115T150000
-DTEND;TZID=America/New_York:20261115T151500
-SUMMARY:[Partly: IG\, YT] Romance that felt like a warm group chat [TT/IG/S
- C/YT]
-DESCRIPTION:⚠ One-off time: one-off: Denis approved to post now (Sun Nov 
- 15 ~2:30 PM ET)\; approx 3 PM. Standard slots are 12/5/9..\nStatus: Missin
- g: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nTikTok: photo-ca
- rousel inbox draft (lands ~2 h before the slot)\, then publish in the app.
- \nInstagram: hand-post the Reel from the kit.\nSnapchat: posted.\nYouTube 
- Shorts: hand-post the same 9:16 reel from the kit. Title and description a
- re in the kit's YouTube Shorts section when Ella has written a ### YouTube
-  block\; otherwise copy is pending.\n\nKit: https://syzigy-media.vijostudi
- o.com/posts/book-clubs/2026-11-13-romance-like-groupchat/kit/\nDashboard: 
- https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DTSTAMP:20261115T224237Z
+SEQUENCE:11
+DTSTART;TZID=America/New_York:20261115T144642
+DTEND;TZID=America/New_York:20261115T150142
+SUMMARY:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-roma
+ nce-like-groupchat/kit/\nDashboard: https://syzigy-media.vijostudio.com/ca
+ l-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-romance
  -like-groupchat/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, YT] Romance that felt like a warm group chat [TT/
- IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
+  in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, YT] Romance that felt like a warm group chat [TT/
- IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
+  in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slow-burn-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261115T222244Z
-SEQUENCE:8
-DTSTART;TZID=America/New_York:20261115T173000
-DTEND;TZID=America/New_York:20261115T174500
-SUMMARY:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT]
-DESCRIPTION:⚠ One-off time: one-off: Denis asked for the kit at 5:20 PM E
- T (Sun Nov 15) for today's 5 PM slot\; posting ~5:30 PM. Standard slots ar
- e 12/5/9..\nStatus: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTub
- e\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then 
- publish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat
- : hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone
- . 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memori
- es\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choos
- e Spotlight\, paste the caption and hashtags\, then Post. Or on a computer
- : my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Cap
- tion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the
-  kit. Title and description are in the kit's YouTube Shorts section when E
- lla has written a ### YouTube block\; otherwise copy is pending.\n\nKit: h
- ttps://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-burn-s
- igns/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
- erview
+DTSTAMP:20261115T224237Z
+SEQUENCE:9
+DTSTART;TZID=America/New_York:20261115T174026
+DTEND;TZID=America/New_York:20261115T175526
+SUMMARY:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow
+ -burn-signs/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
+ sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-bu
  rn-signs/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT] in 30 
- min
+DESCRIPTION:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Slow-burn signs (book edition) [TT/IG/SC/YT] in 5 m
- in
+DESCRIPTION:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

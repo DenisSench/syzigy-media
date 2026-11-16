@@ -588,39 +588,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saturday-currently-reading@syzigy-media.vijostudio.com
-DTSTAMP:20261116T173901Z
-SEQUENCE:8
-DTSTART;TZID=America/New_York:20261116T120000
-DTEND;TZID=America/New_York:20261116T121500
-SUMMARY:[Needs you] Saturday currently-reading roll call [TT/IG/SC/YT]
-DESCRIPTION:Status: Overdue\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-saturday-curre
- ntly-reading/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
- 5sy2/#overview
+DTSTAMP:20261116T183858Z
+SEQUENCE:9
+DTSTART;TZID=America/New_York:20261116T131502
+DTEND;TZID=America/New_York:20261116T133002
+SUMMARY:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-satu
+ rday-currently-reading/kit/\nDashboard: https://syzigy-media.vijostudio.co
+ m/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-saturda
  y-currently-reading/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Saturday currently-reading roll call [TT/IG/SC/YT] 
- in 30 min
+DESCRIPTION:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT] in 
+ 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Saturday currently-reading roll call [TT/IG/SC/YT] 
- in 5 min
+DESCRIPTION:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT] in 
+ 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

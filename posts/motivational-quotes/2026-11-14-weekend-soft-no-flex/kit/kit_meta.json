@@ -1,0 +1,38 @@
+{
+  "post": "motivational-quotes/2026-11-14-weekend-soft-no-flex",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "approved",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 20.9,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-16T12:40:51-05:00",
+  "files": {
+    "cover.jpg": "34a8fc5c02558dfbf012a1dc4839ad4ec359c3facc07c8259e8441d1be82acff",
+    "kit/README.md": "ebddd827f5e479725d6ec211d08faf57d98717cb78a42a76983f25285b6f76c9",
+    "kit/index.html": "b98d5df0dd4f2583db32b67b013cb48a33589060caf82933cb205918d67f78ed",
+    "kit/instagram_caption.txt": "c21e57baca9bd3440d852d5b61b6b8a0d52f349a03ced338fabde68ce61dba92",
+    "kit/snapchat_caption.txt": "142ee0901ef9c51c68b82169937bc44f2a35d542b86365490a24915a9cf07d12",
+    "kit/tiktok_caption.txt": "ab816a63e133663d2afe2f12bbee6bef4bab0637372627363839242f1eeaa097",
+    "kit/youtube_description.txt": "9db8334cc31f6e580b6ce3dd6f78e0f91b2dc890f58e1f840139e855a80f639c",
+    "kit/youtube_title.txt": "9053d018086d2949424ccaf0a7039e1b7f01ac8fd4fe4f761657698af05d5ce4",
+    "reel.mp4": "9b725880af374e869eeb3cc5120d0cacde8c118ffd563bb3bd416b43a920edcd",
+    "slides/01.jpg": "34a8fc5c02558dfbf012a1dc4839ad4ec359c3facc07c8259e8441d1be82acff",
+    "slides/02.jpg": "74098a258665c7ca4f470f46e147a44feeaa4f67a484a354928342c215110e5c",
+    "slides/03.jpg": "090b95b476cdf29f0a9cdf32be60ddf8876a426c569660afc8240ba3688f5c8d",
+    "slides/04.jpg": "4833fe28d4836d6f69c228abdeca4dcba8fec2b6bf4446a3c17516eaffc59ce9",
+    "slides/05.jpg": "1a324b1496fee263337a57cd3a2f31449806fc23b172f155e52bba6550e1b2fe",
+    "slides/06.jpg": "2b0ae0e15bb4725734bf562aa5bc579c9e12bc379243c53f267963f467f9b16f",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "1cb00085bd4a202e4057a23cbd7dfdff3714e0a00132fdbbd204e176559e1dc1"
+  }
+}

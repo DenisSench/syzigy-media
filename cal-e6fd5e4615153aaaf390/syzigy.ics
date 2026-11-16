@@ -554,12 +554,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:7
+DTSTAMP:20261116T024916Z
+SEQUENCE:8
 DTSTART;TZID=America/New_York:20261115T210000
 DTEND;TZID=America/New_York:20261115T211500
-SUMMARY:[Planned] Scripts for saying hi in a new group chat [TT/IG/SC/YT]
-DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+SUMMARY:[Needs you] Scripts for saying hi in a new group chat [TT/IG/SC/YT]
+DESCRIPTION:Status: Overdue\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
  and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
@@ -579,14 +579,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Scripts for saying hi in a new group chat [TT/IG/SC/Y
- T] in 30 min
+DESCRIPTION:[Needs you] Scripts for saying hi in a new group chat [TT/IG/SC
+ /YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Scripts for saying hi in a new group chat [TT/IG/SC/Y
- T] in 5 min
+DESCRIPTION:[Needs you] Scripts for saying hi in a new group chat [TT/IG/SC
+ /YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

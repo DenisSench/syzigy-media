@@ -1,6 +1,6 @@
 # Kit: 2026-11-13-scripts-for-saying-hi
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Sun Nov 15, 9:00 PM ET
 Source: posts/motivational-quotes/2026-11-13-scripts-for-saying-hi/v10
 Placeholders: none
@@ -22,7 +22,7 @@ A good opener is a question someone can actually answer 💬 Save this for the n
 
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
 
-#dailyreminder #newfriends #friendship #makingfriends
+#dailyreminder #newfriends #icebreakers #syzigy
 ```
 
 ## Snapchat caption (post.md)

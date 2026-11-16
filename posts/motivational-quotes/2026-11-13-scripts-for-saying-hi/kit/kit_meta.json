@@ -2,7 +2,7 @@
   "post": "motivational-quotes/2026-11-13-scripts-for-saying-hi",
   "format": "carousel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
   "snapchat": {
@@ -15,14 +15,25 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-15T21:40:38-05:00",
+  "built": "2026-11-15T21:49:16-05:00",
   "files": {
-    "kit/README.md": "c4774831463f7be662e5817d4a2a310fe2ea146e3c1eb91d172f52e5e5979e09",
-    "kit/index.html": "5af6af52ac8330b164f976b45362894f2aa85cf2b04af55056c8acc25fb58b9a",
-    "kit/instagram_caption.txt": "ce30cc6b9de448baefe4e98e7fe08e3b7fae65cd473590987c4ac0882bd66e17",
+    "cover.jpg": "247a044c5ff929baf78b3781eec09ef9c26f3222a986678b3703bae4038de14e",
+    "kit/README.md": "4f7404731ddcd3de52942e9dabd8923609a64f53ec1e089a4295d9d328e7d006",
+    "kit/index.html": "7b0ede528563f75831828b15553efb27797bc6ffa0e51a8c009ecadb5e3aa988",
+    "kit/instagram_caption.txt": "5ecdaa3ea5a3d09d974617ae9a1d61b85f6d0b2dc907e50d41d502cd3627da9f",
     "kit/snapchat_caption.txt": "26c80a5b71e1896a0c43b2554787bda2017964508235d9a3c9afde79a894f7db",
     "kit/tiktok_caption.txt": "fe1ba9102f5a74432ee000f5b7981eaf8a23ec048a787ac24709aab84b560eba",
     "kit/youtube_description.txt": "d68bf9a162e8c7c3a880fee38d150427937ae7cd4442efdc84b9e46a5457cc54",
-    "kit/youtube_title.txt": "c2720244b12d78984007e3af3f303aff082d41c7ef3b8f4b2c856835da4bcb66"
+    "kit/youtube_title.txt": "c2720244b12d78984007e3af3f303aff082d41c7ef3b8f4b2c856835da4bcb66",
+    "reel.mp4": "365b72721aa9532f545d959c7a94acd36a1261a67f518de2fa7f378ba9e4ab03",
+    "slides/01.jpg": "247a044c5ff929baf78b3781eec09ef9c26f3222a986678b3703bae4038de14e",
+    "slides/02.jpg": "a04937696427a49703a49c00e2651db5eda2ce02df015302973c690ca51fb134",
+    "slides/03.jpg": "2ead7600f418e906356897326c52c1515dc5b64bbcbb65cab761aac981bd4463",
+    "slides/04.jpg": "989ddd8e66b3d8560ed7eda5405f2020b807c98d3ba8bedb23d50d2573b744c1",
+    "slides/05.jpg": "2730a862a54a25d21c697b57b8921c4dce96feb3028c703b4bdf64aee26ad5a5",
+    "slides/06.jpg": "2f3c6ef8cd48bae6685380120f51452386b7f28aeeac7ec1816466f50cba9703",
+    "slides/07.jpg": "4566b76b3d7a7d9ab0e96c887e2b8a9c75fb2d063d8bfb423757ac619d211351",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "fb52ed5866a276dd55d409d609518c32092cc36456e14e043389794a4b09b6f3"
   }
 }

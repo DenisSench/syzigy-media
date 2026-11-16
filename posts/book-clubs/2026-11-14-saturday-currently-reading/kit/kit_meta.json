@@ -1,0 +1,37 @@
+{
+  "post": "book-clubs/2026-11-14-saturday-currently-reading",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "approved",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 16.866667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-16T12:39:14-05:00",
+  "files": {
+    "cover.jpg": "e3db4a40eda97a2fd74902c287b05f0e60e3dac51a18080064bed7f7cbba753f",
+    "kit/README.md": "2e21ff53ce5733398479a4fa35a8ccca911e12b43966950fa3f7adce7c9922a5",
+    "kit/index.html": "1ed3cbfa94e69d55f893cf566ed9ef5f4d05efbf0d635054448cc4e8e936cc65",
+    "kit/instagram_caption.txt": "f7f6280a4bce083bd9b0952775b82caa988027d936a187141a0c3868307ead3c",
+    "kit/snapchat_caption.txt": "d883b65374960035bb48d6d51e220edb5233b977e233db06c122bb89e96e86f4",
+    "kit/tiktok_caption.txt": "173aa0e8dff5bd5e9546c996495a71acc3bf65429d228cf12fba58b4290df56b",
+    "kit/youtube_description.txt": "7430f992497f7b9e116fc27d29a4b1bfd09bb6bfae8018a0ac6dd169afa5acde",
+    "kit/youtube_title.txt": "a5d0d8b423485706b1420bf5157cc58b2e36763369e6dbbab6b20b24439d61c3",
+    "reel.mp4": "4ff1fd5c2d5d71bf0fa3904089a4f2f57563bf1d5b74f49e136af41a0b749dff",
+    "slides/01.jpg": "e3db4a40eda97a2fd74902c287b05f0e60e3dac51a18080064bed7f7cbba753f",
+    "slides/02.jpg": "3904c40a84f11a789d22307212e387be38c1ca8763730050c7331c2919861f6b",
+    "slides/03.jpg": "2571a1a1abac74924a2cbd1c855891db7a457928ecee34c9a39a0bcae417d000",
+    "slides/04.jpg": "7345d59c9345022d0306a70f14e43fe1d060f7038729b8d5667a3bceec7a2f0a",
+    "slides/05.jpg": "f16c186815c9a21911e14bcdc873855cc4fc257e428f3a9a01fefa76293dfb10",
+    "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "2ba39f6b584ff625f556fcdf8dc7aa2e8291d17b730980541936abae525d5fcd"
+  }
+}

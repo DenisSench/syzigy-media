@@ -664,40 +664,40 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261113T184748Z
-SEQUENCE:7
+DTSTAMP:20261116T174241Z
+SEQUENCE:8
 DTSTART;TZID=America/New_York:20261116T210000
 DTEND;TZID=America/New_York:20261116T211500
-SUMMARY:[Planned] Cozy Saturday: pick a short book\, talk as you go [TT/IG/
- SC/YT]
-DESCRIPTION:Status: Planned\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-saturday-
- short-book/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5s
- y2/#overview
+SUMMARY:[Scheduled] Cozy Saturday: pick a short book\, talk as you go [TT/I
+ G/SC/YT]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-saturda
+ y-short-book/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
+ 5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-sa
  turday-short-book/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Cozy Saturday: pick a short book\, talk as you go [TT
- /IG/SC/YT] in 30 min
+DESCRIPTION:[Scheduled] Cozy Saturday: pick a short book\, talk as you go [
+ TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Planned] Cozy Saturday: pick a short book\, talk as you go [TT
- /IG/SC/YT] in 5 min
+DESCRIPTION:[Scheduled] Cozy Saturday: pick a short book\, talk as you go [
+ TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

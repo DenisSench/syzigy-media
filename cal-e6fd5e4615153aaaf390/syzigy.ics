@@ -26,36 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:not-built-for-strangers@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261109T174000
-DTEND;TZID=America/New_York:20261109T175500
-SUMMARY:[Partly: IG] You weren’t built for an audience of strangers [TT/I
- G]
-DESCRIPTION:Status: Missing: IG\nPlatforms: TikTok+Instagram\nTikTok: poste
- d.\nInstagram: not posted yet — hand-post the Reel from the kit.\n\nKit:
-  https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-09-
- not-built-for-strangers/kit/\nDashboard: https://syzigy-media.vijostudio.c
- om/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-0
- 9-not-built-for-strangers/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Partly: IG] You weren’t built for an audience of strangers [
- TT/IG] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Partly: IG] You weren’t built for an audience of strangers [
- TT/IG] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
 DTSTAMP:20261112T193201Z
 SEQUENCE:2

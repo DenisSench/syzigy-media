@@ -524,35 +524,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
-DTSTAMP:20261116T053143Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T211500
-SUMMARY:[Partly: IG\, YT] Scripts for saying hi in a new group chat [TT/IG/
- SC/YT]
-DESCRIPTION:Status: Missing: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+
- YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\,
-  then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSn
- apchat: posted.\nYouTube Shorts: hand-post the same 9:16 reel from the kit
- . Title and description are in the kit's YouTube Shorts section when Ella 
- has written a ### YouTube block\; otherwise copy is pending.\n\nKit: https
- ://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-13-script
- s-for-saying-hi/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
+DTSTAMP:20261117T023653Z
+SEQUENCE:10
+DTSTART;TZID=America/New_York:20261115T220915
+DTEND;TZID=America/New_York:20261115T222415
+SUMMARY:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
+ 1-13-scripts-for-saying-hi/kit/\nDashboard: https://syzigy-media.vijostudi
+ o.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  3-scripts-for-saying-hi/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, YT] Scripts for saying hi in a new group chat [TT
- /IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT
+ ] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, YT] Scripts for saying hi in a new group chat [TT
- /IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT
+ ] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -616,40 +611,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261117T021639Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261116T210000
-DTEND;TZID=America/New_York:20261116T211500
-SUMMARY:[Needs you] Cozy Saturday: pick a short book\, talk as you go [TT/I
- G/SC/YT]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
- , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
- napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
- r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
-  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
- , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
- omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
- ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
- rom the kit. Title and description are in the kit's YouTube Shorts section
-  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy
- -saturday-short-book/kit/\nDashboard: https://syzigy-media.vijostudio.com/
- cal-tn3d5sy2/#overview
+DTSTAMP:20261117T023653Z
+SEQUENCE:10
+DTSTART;TZID=America/New_York:20261116T212826
+DTEND;TZID=America/New_York:20261116T214326
+SUMMARY:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as you g
+ o [TT/IG/SC/YT]
+DESCRIPTION:Status: Waiting for Snap\nPlatforms: TikTok+Instagram+Snapchat+
+ YouTube\nTikTok: posted.\nInstagram: posted.\nSnapchat: not posted.\nYouTu
+ be: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2
+ 026-11-14-cozy-saturday-short-book/kit/\nDashboard: https://syzigy-media.v
+ ijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-sa
  turday-short-book/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy Saturday: pick a short book\, talk as you go [
- TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as y
+ ou go [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy Saturday: pick a short book\, talk as you go [
- TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as y
+ ou go [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

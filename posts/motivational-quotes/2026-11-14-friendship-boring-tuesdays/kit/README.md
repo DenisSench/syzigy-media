@@ -36,7 +36,7 @@ Friendship is built on boring Tuesdays. 📆 Who's your 'ugh, same' person? Find
 **Title**
 
 ```
-Friendship is built on boring Tuesdays. #Shorts
+Friendship is built on boring Tuesdays #Shorts
 ```
 
 **Description**

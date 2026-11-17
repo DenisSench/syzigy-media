@@ -26,34 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:enemies-to-lovers-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:2
-DTSTART;TZID=America/New_York:20261110T110600
-DTEND;TZID=America/New_York:20261110T112100
-SUMMARY:[Posted] Enemies-to-lovers starter pack (no spoilers) [TT/IG/SC]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
- osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
- .vijostudio.com/posts/book-clubs/2026-11-09-enemies-to-lovers-starter/kit/
- \nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-09-enemies
- -to-lovers-starter/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Enemies-to-lovers starter pack (no spoilers) [TT/IG/SC
- ] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Enemies-to-lovers starter pack (no spoilers) [TT/IG/SC
- ] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-isnt-friend-group@syzigy-media.vijostudio.com
 DTSTAMP:20261112T193201Z
 SEQUENCE:6

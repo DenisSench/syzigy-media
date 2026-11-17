@@ -611,31 +611,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261117T023653Z
-SEQUENCE:10
+DTSTAMP:20261117T051159Z
+SEQUENCE:11
 DTSTART;TZID=America/New_York:20261116T212826
 DTEND;TZID=America/New_York:20261116T214326
-SUMMARY:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as you g
- o [TT/IG/SC/YT]
-DESCRIPTION:Status: Waiting for Snap\nPlatforms: TikTok+Instagram+Snapchat+
- YouTube\nTikTok: posted.\nInstagram: posted.\nSnapchat: not posted.\nYouTu
- be: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2
- 026-11-14-cozy-saturday-short-book/kit/\nDashboard: https://syzigy-media.v
- ijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/IG/S
+ C/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy
+ -saturday-short-book/kit/\nDashboard: https://syzigy-media.vijostudio.com/
+ cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-sa
  turday-short-book/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as y
- ou go [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/
+ IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Waiting for Snap] Cozy Saturday: pick a short book\, talk as y
- ou go [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/
+ IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

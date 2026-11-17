@@ -1,0 +1,39 @@
+{
+  "post": "book-clubs/2026-11-15-dnfs-i-still-think-about",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.933333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T12:30:14-05:00",
+  "files": {
+    "cover.jpg": "5218be3693c17673cb7aef92ed75183bf7aa4bc4ec1dc59be9317da42323a309",
+    "kit/README.md": "342092f269f54237a4481c1188d5c0e6efe56d01e4d4f8aa973678c38d1e607c",
+    "kit/index.html": "5f6657d7fd83e72aae4efbd9558a19ae932c5de654a00bbdee8fe6f3635f56f8",
+    "kit/instagram_caption.txt": "48d53c75ac55246203651897437b8db2cc8d265dbebc0b316f95b6108387fb42",
+    "kit/snapchat_caption.txt": "cc45b98ff7d253ffdeb8bedce1abe14ecaf828246b1b021fc132734696a41331",
+    "kit/tiktok_caption.txt": "fdfa8ed4ced7e04ed47eeab6ae1a369a9d3dcb1ab9954043c2d3ac1013759878",
+    "kit/youtube_description.txt": "055b08380cc786e5799c2f10657146f72bdb80780814999f83ba9adb5bdc33a5",
+    "kit/youtube_title.txt": "d2eb5fcaa6680f55af195ab7b00a99ef3d5153937884483ec352eecf10ffd575",
+    "reel.mp4": "63aa99be14f9b3c030daebd4a8f40a2f980c8fed95513b7215abdeee01db1310",
+    "slides/01.jpg": "5218be3693c17673cb7aef92ed75183bf7aa4bc4ec1dc59be9317da42323a309",
+    "slides/02.jpg": "750a709d0e8b8ffd8646f1d93720f7e68799bb5842db05c8235e7d0f3bc996eb",
+    "slides/03.jpg": "1d763d6550a4ee196894375fb40a264b430c12df5792034a950559fd8e278f0a",
+    "slides/04.jpg": "a3afbd56ee394f48235f0a7d79b66ff3ffe36566a0319201468801b0039ec838",
+    "slides/05.jpg": "d7b6123d1ae731a197122ee1f3193c1b573db8cad1c7152f2d083eb93f13a0d4",
+    "slides/06.jpg": "94eb58a724ebc609d2cae62bf168ada3ee7f10aebf229b8b646650d9b6f4affa",
+    "slides/07.jpg": "9d7123c665dee693343ea7d522e9ec25c6a00fe36ac5cc37375c2a8ec6ef5493",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "d6f0310201390f5314e8b0be2255de6d1510a64f72c00d208ca39f2e21992b1c"
+  }
+}

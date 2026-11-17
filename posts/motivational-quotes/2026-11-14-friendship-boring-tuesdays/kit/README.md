@@ -1,6 +1,6 @@
 # Kit: 2026-11-14-friendship-boring-tuesdays
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Tue Nov 17, 12:00 PM ET
 Source: posts/motivational-quotes/2026-11-14-friendship-boring-tuesdays/v10
 Placeholders: none

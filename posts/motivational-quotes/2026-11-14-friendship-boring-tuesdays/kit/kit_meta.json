@@ -2,7 +2,7 @@
   "post": "motivational-quotes/2026-11-14-friendship-boring-tuesdays",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "1",
   "slot_time": "12:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T12:33:57-05:00",
+  "built": "2026-11-17T12:42:42-05:00",
   "files": {
     "cover.jpg": "59cbf9d81d32f1791fc4674d63411db1334ec3c32e5122dc44fc6ff20132c7c1",
-    "kit/README.md": "27033256fe23f26a20571d331a4f1ed05f30f88451732091be13a60f99399a33",
-    "kit/index.html": "49a195c110189fbf4b6a95fec28a66276b41b70ad93a3a55c426f5fc33a967df",
+    "kit/README.md": "9022033f11284c1d377e5cdf12729185630767ae2e63d041bb2116043cad13ba",
+    "kit/index.html": "49a58ceedfe0a53f9c6e10bbf9f9ccde32f4d1a3ea931f31641ae550f9416797",
     "kit/instagram_caption.txt": "55d444699866cb225f6ee9b1e5ec99aee0519c7b1006c576777dbc262e908947",
     "kit/snapchat_caption.txt": "b61fce7ca5886c1c5df5e2ca423af3d41950d29b40867c81649b9ffaf2bc9354",
     "kit/tiktok_caption.txt": "8888c3980210476cf949365cc1e890b8e38df1b41f4ff25551619923368889cf",

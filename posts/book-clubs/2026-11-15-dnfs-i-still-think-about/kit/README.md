@@ -1,6 +1,6 @@
 # Kit: 2026-11-15-dnfs-i-still-think-about
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Tue Nov 17, 5:00 PM ET
 Source: posts/book-clubs/2026-11-15-dnfs-i-still-think-about/v10
 Placeholders: none

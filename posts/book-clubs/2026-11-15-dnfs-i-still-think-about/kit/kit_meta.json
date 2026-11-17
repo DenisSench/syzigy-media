@@ -2,7 +2,7 @@
   "post": "book-clubs/2026-11-15-dnfs-i-still-think-about",
   "format": "carousel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "2",
   "slot_time": "17:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T12:30:14-05:00",
+  "built": "2026-11-17T12:42:42-05:00",
   "files": {
     "cover.jpg": "5218be3693c17673cb7aef92ed75183bf7aa4bc4ec1dc59be9317da42323a309",
-    "kit/README.md": "342092f269f54237a4481c1188d5c0e6efe56d01e4d4f8aa973678c38d1e607c",
-    "kit/index.html": "5f6657d7fd83e72aae4efbd9558a19ae932c5de654a00bbdee8fe6f3635f56f8",
+    "kit/README.md": "c7033b077dbcfee47041b7cd88617c68651862d563668050ee7911be4ce52ad6",
+    "kit/index.html": "c44243df9d375977754adf31d7f0b6fbd401bfb47c6d616b440d19e5384df4a8",
     "kit/instagram_caption.txt": "48d53c75ac55246203651897437b8db2cc8d265dbebc0b316f95b6108387fb42",
     "kit/snapchat_caption.txt": "cc45b98ff7d253ffdeb8bedce1abe14ecaf828246b1b021fc132734696a41331",
     "kit/tiktok_caption.txt": "fdfa8ed4ced7e04ed47eeab6ae1a369a9d3dcb1ab9954043c2d3ac1013759878",

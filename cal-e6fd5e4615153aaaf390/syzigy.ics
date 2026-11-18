@@ -26,32 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bravest-text-is-hey@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:6
-DTSTART;TZID=America/New_York:20261110T224547
-DTEND;TZID=America/New_York:20261110T230047
-SUMMARY:[Posted] The best opener isn't "hey." [TT/IG/SC]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
- osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
- .vijostudio.com/posts/motivational-quotes/2026-11-10-bravest-text-is-hey/k
- it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 0-bravest-text-is-hey/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] The best opener isn't "hey." [TT/IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] The best opener isn't "hey." [TT/IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:monday-reset-six-lines@syzigy-media.vijostudio.com
 DTSTAMP:20261112T193201Z
 SEQUENCE:9
@@ -744,40 +718,40 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:comfort-game-friend-type@syzigy-media.vijostudio.com
-DTSTAMP:20261118T021609Z
-SEQUENCE:3
+DTSTAMP:20261118T051911Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261117T210000
 DTEND;TZID=America/New_York:20261117T211500
-SUMMARY:[Needs you] Your comfort game says what kind of friend you are [TT/
- IG/SC/YT]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
- , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
- napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
- r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
-  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
- , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
- omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
- ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
- rom the kit. Title and description are in the kit's YouTube Shorts section
-  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-c
- omfort-game-friend-type/kit/\nDashboard: https://syzigy-media.vijostudio.c
- om/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: IG\, Snap\, YT] Your comfort game says what kind of friend
+  you are [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
+ apchat+YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the 
+ slot)\, then publish in the app.\nInstagram: hand-post the Reel from the k
+ it.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel 
+ to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera t
+ o open Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Se
+ nd To\, choose Spotlight\, paste the caption and hashtags\, then Post. Or 
+ on a computer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s
+  or less. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 
+ reel from the kit. Title and description are in the kit's YouTube Shorts s
+ ection when Ella has written a ### YouTube block\; otherwise copy is pendi
+ ng.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-1
+ 1-24-comfort-game-friend-type/kit/\nDashboard: https://syzigy-media.vijost
+ udio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comf
  ort-game-friend-type/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your comfort game says what kind of friend you are 
- [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] Your comfort game says what kind of fr
+ iend you are [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your comfort game says what kind of friend you are 
- [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] Your comfort game says what kind of fr
+ iend you are [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -986,37 +960,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-dog-park-names-carousel@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011332Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T090000
-DTEND;TZID=America/New_York:20261119T091500
-SUMMARY:Approve: You know every dog at the park by name. Their owners? No i
- dea.
-DESCRIPTION:dog-park-names-carousel is 'Approve' and is due 2026-11-20 21:0
- 0 ET on TikTok and Instagram.\nOne approval covers TikTok and Instagram. A
- pprove or skip it in the Commander chat (or the dashboard Approve button).
- \nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-
- names-carousel/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
- 3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-name
- s-carousel/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: You know every dog at the park by name. Their owners? 
- No idea. in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: You know every dog at the park by name. Their owners? 
- No idea. in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:approve-dog-park-names-video@syzigy-media.vijostudio.com
 DTSTAMP:20261118T011332Z
 SEQUENCE:0
@@ -1072,6 +1015,37 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Approve: Morally gray characters we defend too hard in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-pet-saw-whole-week@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261119T090000
+DTEND;TZID=America/New_York:20261119T091500
+SUMMARY:Approve: Your cat saw your entire week. Your friends got "busy lol.
+ "
+DESCRIPTION:pet-saw-whole-week is 'Approve' and is due 2026-11-20 21:00 ET 
+ on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
+ m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
+  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/pets/202
+ 6-11-17-pet-saw-whole-week/kit/\nDashboard: https://syzigy-media.vijostudi
+ o.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole
+ -week/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Your cat saw your entire week. Your friends got "busy 
+ lol." in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Your cat saw your entire week. Your friends got "busy 
+ lol." in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1361,66 +1335,40 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dog-park-names-carousel@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011332Z
-SEQUENCE:1
+UID:pet-saw-whole-week@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
 DTSTART;TZID=America/New_York:20261120T210000
 DTEND;TZID=America/New_York:20261120T211500
-SUMMARY:[Needs you] You know every dog at the park by name. Their owners? N
- o idea. [TT/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+YouTube\nTikTok: photo-carou
- sel inbox draft (lands ~2 h before the slot)\, then publish in the app.\nI
- nstagram: hand-post the Reel from the kit.\nYouTube Shorts: hand-post the 
- same 9:16 reel from the kit. Title and description are in the kit's YouTub
- e Shorts section when Ella has written a ### YouTube block\; otherwise cop
- y is pending.\n\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-
- 11-20-dog-park-names-carousel/kit/\nDashboard: https://syzigy-media.vijost
- udio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-name
- s-carousel/kit/
+SUMMARY:[Needs you] Your cat saw your entire week. Your friends got "busy l
+ ol." [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole-week/k
+ it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole
+ -week/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] You know every dog at the park by name. Their owner
- s? No idea. [TT/YT] in 30 min
+DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
+ sy lol." [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] You know every dog at the park by name. Their owner
- s? No idea. [TT/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-game-night-lifecycle-carousel@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012104Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T091500
-SUMMARY:Approve: "We should play something" -> 2 hours picking a game -> 40
-  minutes of actually playing
-DESCRIPTION:game-night-lifecycle-carousel is 'Approve' and is due 2026-11-2
- 2 12:00 ET on TikTok and Instagram.\nOne approval covers TikTok and Instag
- ram. Approve or skip it in the Commander chat (or the dashboard Approve bu
- tton).\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-
- 11-22-game-night-lifecycle-carousel/kit/\nDashboard: https://syzigy-media.
- vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-22-game
- -night-lifecycle-carousel/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: "We should play something" -> 2 hours picking a game -
- > 40 minutes of actually playing in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: "We should play something" -> 2 hours picking a game -
- > 40 minutes of actually playing in 5 min
+DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
+ sy lol." [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1452,6 +1400,37 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Approve: "We should play something" -> 2 hours picking a game -
  > 40 minutes of actually playing in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-last-friend-buys-the-game@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T091500
+SUMMARY:Approve: What happens when the last friend finally buys the game th
+ e group chat has been begging them to get
+DESCRIPTION:last-friend-buys-the-game is 'Approve' and is due 2026-11-22 12
+ :00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, I
+ nstagram and Snapchat. Approve or skip it in the Commander chat (or the da
+ shboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/g
+ aming-squads/2026-11-17-last-friend-buys-the-game/kit/\nDashboard: https:/
+ /syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-17-last
+ -friend-buys-the-game/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: What happens when the last friend finally buys the gam
+ e the group chat has been begging them to get in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: What happens when the last friend finally buys the gam
+ e the group chat has been begging them to get in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1694,35 +1673,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-night-lifecycle-carousel@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012104Z
-SEQUENCE:1
+UID:last-friend-buys-the-game@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
 DTSTART;TZID=America/New_York:20261122T120000
 DTEND;TZID=America/New_York:20261122T121500
-SUMMARY:[Needs you] "We should play something" -> 2 hours picking a game ->
-  40 minutes of actually playing [TT/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+YouTube\nTikTok: photo-carou
- sel inbox draft (lands ~2 h before the slot)\, then publish in the app.\nI
- nstagram: hand-post the Reel from the kit.\nYouTube Shorts: hand-post the 
- same 9:16 reel from the kit. Title and description are in the kit's YouTub
- e Shorts section when Ella has written a ### YouTube block\; otherwise cop
- y is pending.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squ
- ads/2026-11-22-game-night-lifecycle-carousel/kit/\nDashboard: https://syzi
- gy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-22-game
- -night-lifecycle-carousel/kit/
+SUMMARY:[Needs you] What happens when the last friend finally buys the game
+  the group chat has been begging them to get [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-17-last-friend
+ -buys-the-game/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
+ 3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-17-last
+ -friend-buys-the-game/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] "We should play something" -> 2 hours picking a gam
- e -> 40 minutes of actually playing [TT/YT] in 30 min
+DESCRIPTION:[Needs you] What happens when the last friend finally buys the 
+ game the group chat has been begging them to get [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] "We should play something" -> 2 hours picking a gam
- e -> 40 minutes of actually playing [TT/YT] in 5 min
+DESCRIPTION:[Needs you] What happens when the last friend finally buys the 
+ game the group chat has been begging them to get [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1835,6 +1820,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-hosting-with-a-pet-starter@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261123T090000
+DTEND;TZID=America/New_York:20261123T091500
+SUMMARY:Approve: Having friends over when you have a pet: a starter pack
+DESCRIPTION:hosting-with-a-pet-starter is 'Approve' and is due 2026-11-24 2
+ 1:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
+ Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
+ ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
+ pets/2026-11-17-hosting-with-a-pet-starter/kit/\nDashboard: https://syzigy
+ -media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-hosting-with-
+ a-pet-starter/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Having friends over when you have a pet: a starter pac
+ k in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Having friends over when you have a pet: a starter pac
+ k in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:approve-one-hobby-away-video@syzigy-media.vijostudio.com
 DTSTAMP:20261118T013130Z
 SEQUENCE:0
@@ -1850,37 +1865,6 @@ DESCRIPTION:one-hobby-away-video is 'Approve' and is due 2026-11-24 12:00 E
  igy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-2
  4-one-hobby-away-video/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Adult friends don't come from parties. They come from 
- the same Tuesday thing\, every week. in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Adult friends don't come from parties. They come from 
- the same Tuesday thing\, every week. in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-one-hobby-away@syzigy-media.vijostudio.com
-DTSTAMP:20261118T013130Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261123T090000
-DTEND;TZID=America/New_York:20261123T091500
-SUMMARY:Approve: Adult friends don't come from parties. They come from the 
- same Tuesday thing\, every week.
-DESCRIPTION:one-hobby-away is 'Approve' and is due 2026-11-24 21:00 ET on T
- ikTok and Instagram.\nOne approval covers TikTok and Instagram. Approve or
-  skip it in the Commander chat (or the dashboard Approve button).\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-17-one
- -hobby-away/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
- sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 7-one-hobby-away/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -2091,35 +2075,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:one-hobby-away@syzigy-media.vijostudio.com
-DTSTAMP:20261118T013130Z
-SEQUENCE:9
+UID:hosting-with-a-pet-starter@syzigy-media.vijostudio.com
+DTSTAMP:20261118T033222Z
+SEQUENCE:0
 DTSTART;TZID=America/New_York:20261124T210000
 DTEND;TZID=America/New_York:20261124T211500
-SUMMARY:[Needs you] Adult friends don't come from parties. They come from t
- he same Tuesday thing\, every week. [TT/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+YouTube\nTikTok: photo-carou
- sel inbox draft (lands ~2 h before the slot)\, then publish in the app.\nI
- nstagram: hand-post the Reel from the kit.\nYouTube Shorts: hand-post the 
- same 9:16 reel from the kit. Title and description are in the kit's YouTub
- e Shorts section when Ella has written a ### YouTube block\; otherwise cop
- y is pending.\n\nKit: https://syzigy-media.vijostudio.com/posts/motivation
- al-quotes/2026-11-17-one-hobby-away/kit/\nDashboard: https://syzigy-media.
- vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 7-one-hobby-away/kit/
+SUMMARY:[Needs you] Having friends over when you have a pet: a starter pack
+  [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-17-hosting-with-a-pet-s
+ tarter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
+ overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-hosting-with-
+ a-pet-starter/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friends don't come from parties. They come fr
- om the same Tuesday thing\, every week. [TT/YT] in 30 min
+DESCRIPTION:[Needs you] Having friends over when you have a pet: a starter 
+ pack [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friends don't come from parties. They come fr
- om the same Tuesday thing\, every week. [TT/YT] in 5 min
+DESCRIPTION:[Needs you] Having friends over when you have a pet: a starter 
+ pack [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

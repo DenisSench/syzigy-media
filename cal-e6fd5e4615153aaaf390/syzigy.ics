@@ -592,116 +592,106 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dnfs-i-still-think-about@syzigy-media.vijostudio.com
-DTSTAMP:20261117T231135Z
-SEQUENCE:10
+DTSTAMP:20261118T171644Z
+SEQUENCE:11
 DTSTART;TZID=America/New_York:20261117T170000
 DTEND;TZID=America/New_York:20261117T171500
-SUMMARY:[Partly: IG\, Snap\, YT] DNFs I still think about (and why that’s
-  fine) [TT/IG/SC/YT]
-DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
- apchat+YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the 
- slot)\, then publish in the app.\nInstagram: hand-post the Reel from the k
- it.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel 
- to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera t
- o open Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Se
- nd To\, choose Spotlight\, paste the caption and hashtags\, then Post. Or 
- on a computer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s
-  or less. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 
- reel from the kit. Title and description are in the kit's YouTube Shorts s
- ection when Ella has written a ### YouTube block\; otherwise copy is pendi
- ng.\n\nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-1
- 5-dnfs-i-still-think-about/kit/\nDashboard: https://syzigy-media.vijostudi
- o.com/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: IG\, YT] DNFs I still think about (and why that’s fine) 
+ [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+
+ YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\,
+  then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSn
+ apchat: posted.\nYouTube Shorts: hand-post the same 9:16 reel from the kit
+ . Title and description are in the kit's YouTube Shorts section when Ella 
+ has written a ### YouTube block\; otherwise copy is pending.\n\nKit: https
+ ://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-dnfs-i-still-th
+ ink-about/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy
+ 2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-dnfs-i-
  still-think-about/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] DNFs I still think about (and why that
- ’s fine) [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, YT] DNFs I still think about (and why that’s fi
+ ne) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] DNFs I still think about (and why that
- ’s fine) [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, YT] DNFs I still think about (and why that’s fi
+ ne) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:comfort-game-friend-type@syzigy-media.vijostudio.com
-DTSTAMP:20261118T051911Z
-SEQUENCE:4
+DTSTAMP:20261118T171644Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261117T210000
 DTEND;TZID=America/New_York:20261117T211500
-SUMMARY:[Partly: IG\, Snap\, YT] Your comfort game says what kind of friend
-  you are [TT/IG/SC/YT]
-DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
- apchat+YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the 
- slot)\, then publish in the app.\nInstagram: hand-post the Reel from the k
- it.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel 
- to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera t
- o open Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Se
- nd To\, choose Spotlight\, paste the caption and hashtags\, then Post. Or 
- on a computer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s
-  or less. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 
- reel from the kit. Title and description are in the kit's YouTube Shorts s
- ection when Ella has written a ### YouTube block\; otherwise copy is pendi
- ng.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-1
- 1-24-comfort-game-friend-type/kit/\nDashboard: https://syzigy-media.vijost
- udio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: IG\, YT] Your comfort game says what kind of friend you ar
+ e [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+
+ YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\,
+  then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSn
+ apchat: posted.\nYouTube Shorts: hand-post the same 9:16 reel from the kit
+ . Title and description are in the kit's YouTube Shorts section when Ella 
+ has written a ### YouTube block\; otherwise copy is pending.\n\nKit: https
+ ://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comfort-game
+ -friend-type/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
+ 5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-comf
  ort-game-friend-type/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] Your comfort game says what kind of fr
- iend you are [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, YT] Your comfort game says what kind of friend yo
+ u are [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] Your comfort game says what kind of fr
- iend you are [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, YT] Your comfort game says what kind of friend yo
+ u are [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nickname-evolution@syzigy-media.vijostudio.com
-DTSTAMP:20261118T141138Z
-SEQUENCE:4
+DTSTAMP:20261118T171644Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261118T120000
 DTEND;TZID=America/New_York:20261118T121500
-SUMMARY:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
- \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
- ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
-  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
-  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
- s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
-  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
-  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
- ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
- kit. Title and description are in the kit's YouTube Shorts section when El
- la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evolution
- /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
- ew
+SUMMARY:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT]
+DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
+ +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
+ , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
+ napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
+ r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
+  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
+ , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
+ omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
+ ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
+ rom the kit. Title and description are in the kit's YouTube Shorts section
+  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-e
+ volution/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2
+ /#overview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
  ution/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT] in 30
+DESCRIPTION:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT] in 30
   min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT] in 5 
+DESCRIPTION:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT] in 5 
  min
 TRIGGER:-PT5M
 END:VALARM

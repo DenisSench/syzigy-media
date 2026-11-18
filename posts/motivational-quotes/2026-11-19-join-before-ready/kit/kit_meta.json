@@ -1,0 +1,37 @@
+{
+  "post": "motivational-quotes/2026-11-19-join-before-ready",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 18.866667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:28:44-05:00",
+  "files": {
+    "cover.jpg": "3811b0725429d566e9529f91a1150e07d1e9e7ac7819b2594cfb2b503b635ebc",
+    "kit/README.md": "5d23fa80f2ea98a3ff1c41d132dc8d49c6109f4925c9bb655c20c91e65798540",
+    "kit/index.html": "b9b4604ceba313042e658243b4492778f78c7dfe9c7fac5ee147e92d637e3a25",
+    "kit/instagram_caption.txt": "797ba9a1ae4366247c7aca91b82ae7995861534eb4d43743e23145221577687f",
+    "kit/snapchat_caption.txt": "5f17a7b0a1968c02035e186e2433494457ac10a9f58cfa9d84510f20a825be6a",
+    "kit/tiktok_caption.txt": "e5483cfa34fc423b3e4047a3991850ea067fe9fc76437431a7323510db36fb21",
+    "kit/youtube_description.txt": "f5337073ee67e2b5081c3b50d1e6b21d4591c5d3ec6c7c61a0a59b849a7a3619",
+    "kit/youtube_title.txt": "95399530f5f243fda49b12ae94f5bffebf1d4e48b2ef89d935a4e563b7477a88",
+    "reel.mp4": "4f20a15861e15b5831caa043f46dfbff996b2352ad4c7a75743b45a45411a213",
+    "slides/01.jpg": "3811b0725429d566e9529f91a1150e07d1e9e7ac7819b2594cfb2b503b635ebc",
+    "slides/02.jpg": "a13df1834867d80993c9952ed7292c1c23d25386fd2fc379417efcf88c83a660",
+    "slides/03.jpg": "a05cf98eef49d8f156ff1236de359ba4863764c0a88a67d5d553344f91098ac8",
+    "slides/04.jpg": "50386ef811ce4b948fd473d26bfa9dc5cbe089b480a1a4a961e6a50c264e6033",
+    "slides/05.jpg": "f7a9444e72fbecbbb6a900dd9e56ed12c84f9b40f8474d7b4ccc37e43d5ad447",
+    "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "d52c31584632a161152fd2c5bfa733fa263e30b050704a1bcf203c46e46962aa"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "post": "pets/2026-11-23-group-chat-pet-roles",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.5,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:28:44-05:00",
+  "files": {
+    "cover.jpg": "f07ea72f58ee7e180b1d93a713122fba23c227a5f4ffdd3ba5b8c7e0f6225554",
+    "kit/README.md": "6c6e0c83390b8a354f99cb2dee12f9b40805e2753338fa08c15fd6bd0a88c10b",
+    "kit/index.html": "0a46765a5ba110d18e83ceca4d3ba9ee2b7a5215d50942f994c311e69d935302",
+    "kit/instagram_caption.txt": "050a2e8c8dde5ff7d1522922069b0e9031dd595d31554d2c611979baa361f474",
+    "kit/snapchat_caption.txt": "cb06e929b5522426201ff8a65bf9253b654a0c38b9219e1684412a6e0db75de2",
+    "kit/tiktok_caption.txt": "daf1398e451ae669c56a7f5961a8e5fbe17b793ad9e5baea6fa43f14555b08a0",
+    "kit/youtube_description.txt": "fec94f6afa5f1912006e3b4ac6174c30da59f47436e29e377583d92ffce86589",
+    "kit/youtube_title.txt": "672c720a4b045a1cbb14c76aaa7057ef613b7c294144316275cf9c4e4ed07688",
+    "reel.mp4": "2c225d9aca2a01e9b646ffc230b70837a92ffa3e614b42ade026f551da8f0bc5",
+    "slides/01.jpg": "f07ea72f58ee7e180b1d93a713122fba23c227a5f4ffdd3ba5b8c7e0f6225554",
+    "slides/02.jpg": "142409ee5a4b22b7ab49f2ea9d8b99b15708386bd3a68dddf6077d7959786101",
+    "slides/03.jpg": "6e029c7c0955c129b9aadb474d429d54c027974692749c6c045945e2b7189582",
+    "slides/04.jpg": "27e0fdfb35d04113f5a70690d0159af999550a53145dcee204bba807f498892f",
+    "slides/05.jpg": "bb1c48d9dfe54926006088b2f8014722b3856bdb5fee40e64818c807c9ba6517",
+    "slides/06.jpg": "656b18e618c4c409df3aef8c383f85cff94650e0e8a9f9994915305b533fc9e4",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "e4aa56c15ab0f3facc50a2d4fa8f13e282441862adf756f2e794429a34c1aeac"
+  }
+}

@@ -669,95 +669,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-after-work-coop-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T090000
-DTEND;TZID=America/New_York:20261118T091500
-SUMMARY:Approve: After-work co-op night starter pack
-DESCRIPTION:after-work-coop-starter is 'Approve' and is due 2026-11-19 12:0
- 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
- tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
- board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/gam
- ing-squads/2026-11-19-after-work-coop-starter/kit/\nDashboard: https://syz
- igy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-afte
- r-work-coop-starter/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: After-work co-op night starter pack in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: After-work co-op night starter pack in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-lurking-wont-invent-friends@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T090000
-DTEND;TZID=America/New_York:20261118T091500
-SUMMARY:Approve: Making friends as an adult: you're in six group chats and 
- you talk in none of them
-DESCRIPTION:lurking-wont-invent-friends is 'Approve' and is due 2026-11-19 
- 17:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\,
-  Instagram and Snapchat. Approve or skip it in the Commander chat (or the 
- dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts
- /motivational-quotes/2026-11-17-lurking-wont-invent-friends/kit/\nDashboar
- d: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 7-lurking-wont-invent-friends/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Making friends as an adult: you're in six group chats 
- and you talk in none of them in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Making friends as an adult: you're in six group chats 
- and you talk in none of them in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-work-call-cameo@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261118T090000
-DTEND;TZID=America/New_York:20261118T091500
-SUMMARY:Approve: Your pet knows exactly when you unmute on a work call
-DESCRIPTION:work-call-cameo is 'Approve' and is due 2026-11-19 21:00 ET on 
- TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram a
- nd Snapchat. Approve or skip it in the Commander chat (or the dashboard Ap
- prove button).\nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-1
- 1-19-work-call-cameo/kit/\nDashboard: https://syzigy-media.vijostudio.com/
- cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cam
- eo/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Your pet knows exactly when you unmute on a work call 
- in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Your pet knows exactly when you unmute on a work call 
- in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nickname-evolution@syzigy-media.vijostudio.com
 DTSTAMP:20261118T141138Z
 SEQUENCE:4
@@ -965,115 +876,115 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:after-work-coop-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:1
+DTSTAMP:20261118T155758Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261119T120000
 DTEND;TZID=America/New_York:20261119T121500
-SUMMARY:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-after-work-
- coop-starter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
- 5sy2/#overview
+SUMMARY:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-after-wor
+ k-coop-starter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
+ 3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-afte
  r-work-coop-starter/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
+DESCRIPTION:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT] i
  n 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
+DESCRIPTION:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT] i
  n 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lurking-wont-invent-friends@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:9
+DTSTAMP:20261118T155758Z
+SEQUENCE:10
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T171500
-SUMMARY:[Needs you] Making friends as an adult: you're in six group chats a
+SUMMARY:[Scheduled] Making friends as an adult: you're in six group chats a
  nd you talk in none of them [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-17-lurki
- ng-wont-invent-friends/kit/\nDashboard: https://syzigy-media.vijostudio.co
- m/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-17-lur
+ king-wont-invent-friends/kit/\nDashboard: https://syzigy-media.vijostudio.
+ com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  7-lurking-wont-invent-friends/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Making friends as an adult: you're in six group cha
+DESCRIPTION:[Scheduled] Making friends as an adult: you're in six group cha
  ts and you talk in none of them [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Making friends as an adult: you're in six group cha
+DESCRIPTION:[Scheduled] Making friends as an adult: you're in six group cha
  ts and you talk in none of them [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:work-call-cameo@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010659Z
-SEQUENCE:1
+DTSTAMP:20261118T155758Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261119T210000
 DTEND;TZID=America/New_York:20261119T211500
-SUMMARY:[Needs you] Your pet knows exactly when you unmute on a work call [
+SUMMARY:[Scheduled] Your pet knows exactly when you unmute on a work call [
  TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cameo/kit/
- \nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cameo/ki
+ t/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cam
  eo/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your pet knows exactly when you unmute on a work ca
+DESCRIPTION:[Scheduled] Your pet knows exactly when you unmute on a work ca
  ll [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your pet knows exactly when you unmute on a work ca
+DESCRIPTION:[Scheduled] Your pet knows exactly when you unmute on a work ca
  ll [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM

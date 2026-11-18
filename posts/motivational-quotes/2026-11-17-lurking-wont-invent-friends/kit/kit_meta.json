@@ -2,7 +2,7 @@
   "post": "motivational-quotes/2026-11-17-lurking-wont-invent-friends",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "2",
   "slot_time": "17:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:30-05:00",
+  "built": "2026-11-18T10:57:59-05:00",
   "files": {
     "cover.jpg": "44b3e02f903f007f684697a4ea2991e80f01dd10585476af398051fd00458135",
     "kit/README.md": "9d88576eb0eaf2466e91641b1ac9399ae38c1bda496ed9efc1eda49bf2b0cc69",
-    "kit/index.html": "20b865c96d486c4703ea11b1148d3ce876e202b4f62ca7740f1573d6e3ac7c70",
+    "kit/index.html": "b446f1c7d4004f40118237e783b14c422212f8ef2107c700b7e93966263ad884",
     "kit/instagram_caption.txt": "1e30954556656cbd82a9ae8fbc2b365ec1ab97ed5a26ada008ee830c787902bb",
     "kit/snapchat_caption.txt": "e498e3200d738d80c0ad3afd90758633f05d80426c466a5e112a093d98f91562",
     "kit/tiktok_caption.txt": "f6ebb2219880a7d121f46b2dffd4b4693dc280564162dd26eac68b18d067504b",

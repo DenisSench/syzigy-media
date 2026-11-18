@@ -1,0 +1,38 @@
+{
+  "post": "gaming-squads/2026-11-21-gaming-chat-is-friend-group",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 23.3,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:17:47-05:00",
+  "files": {
+    "cover.jpg": "eb8f58ca25322cb6fae16b2f1fa663ace99e4f5001aa1ba1a40df8b7d8131c44",
+    "kit/README.md": "3f786514d484a000ee5cc219a5d7a4ffb8cd408bbb3e4ed0c49c86fcfb719466",
+    "kit/index.html": "7db444403d308e2d5e3182e18d7bc21b44f9f5c43746d38747a41aaa6fca3250",
+    "kit/instagram_caption.txt": "63c2864962b0cd6cef0a6560079a85e8eb59cd8301850d3eee54affde3e298b1",
+    "kit/snapchat_caption.txt": "ce295b7a0d6cca9556c1907a86d8816db4bba3e20ea972772b4e9c551a89fc3e",
+    "kit/tiktok_caption.txt": "b8f1589a48167b91f2f0984763c92ec2137bb79f6a898f7b2712f94e348f629f",
+    "kit/youtube_description.txt": "31b7066eb98642e48709c2969e7501b74ca4c1a440dacdf0b6bf2c997be30492",
+    "kit/youtube_title.txt": "b0747939c1809770d377bde44cba80a796f10c00ee7df63c62fd96b4b0788724",
+    "reel.mp4": "7bf6726ede634486774096436c52c37cf6133379cb3870d6d13bc7efbfc0ad27",
+    "slides/01.jpg": "eb8f58ca25322cb6fae16b2f1fa663ace99e4f5001aa1ba1a40df8b7d8131c44",
+    "slides/02.jpg": "8efaff6652c70af1e138af3c3f4ad9741010cf255b46b1537156c78d7c9ee3a6",
+    "slides/03.jpg": "a78af55de6581b110b9725acc54e61c2ca1a50a6f9d030fcdf8229381e31bdb3",
+    "slides/04.jpg": "4c78ca3346d659193ee44c2d08e95b23535b780581e26c0c9fb5d830804503ec",
+    "slides/05.jpg": "e3bde6b0d25abeb57a1f659eab1e0c475f48b97a9b86d214000cb8232914c0c0",
+    "slides/06.jpg": "27aec1bcb7547a351d57c91dcd78f98652d6f55f90a3f023fb2bc089740a45c5",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "23258377573412357d3b428f6ff5d44da1de732e8d0ade369119d575f785fa03"
+  }
+}

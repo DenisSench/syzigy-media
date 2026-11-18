@@ -1,13 +1,13 @@
 {
   "post": "motivational-quotes/2026-11-16-awkward-intro-ok",
-  "format": "native-reel",
+  "format": "carousel",
   "version": "v10",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 16.866667,
+    "reel_seconds": 22.9,
     "over_60s": false
   },
   "youtube": {
@@ -15,14 +15,24 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T19:27:04-05:00",
+  "built": "2026-11-17T20:17:47-05:00",
   "files": {
-    "kit/README.md": "bc1ff96c48dd12a1af5dbb38cda1aafbab4bd0f26048cc5ad86558d8df775779",
-    "kit/index.html": "0efc6fd09d2387ca6d64b747c151266359452c88e6881a067cdc3946b9daee5c",
-    "kit/instagram_caption.txt": "98f4053168caf0ffb5784d90d1ee31be93d8785222905b57ee9bba013feca011",
-    "kit/snapchat_caption.txt": "7c116972b059392e94a25aaa83028706783c5bf98d81bcef1fc6d14a1c340c0c",
-    "kit/tiktok_caption.txt": "d74cfb8814fb593d91a7d4f2b783be07c176a5bf169296bfa071c61cb2f6a836",
-    "kit/youtube_description.txt": "33747bf81a0b22ff035424ae8d8e4feef11cc443328b60295539540847d08ddf",
-    "kit/youtube_title.txt": "b629375ccddc383f48862deb68c2fb9e6a44e581dab4dab7171cca4974691cff"
+    "cover.jpg": "2a0a20a1c4c455eb6fb6518eef7982685862df38091c2902f188c5ede510de95",
+    "kit/README.md": "2ecc6a8501e7c556b22a0e7b783988d06ac831ca51ef5fe26c7893aabd15db82",
+    "kit/index.html": "888c76aa65fd599c22f072eb0c736467a185a474395055cb16cd2b809170ad91",
+    "kit/instagram_caption.txt": "bb4556e4b1a78511eb840b9b23b00cfe601fe571be1a437b0636a320163c19fb",
+    "kit/snapchat_caption.txt": "83a9e5476be0bc8f396b175245d27ba7d2aae8c37a84d36c22fab031114065a1",
+    "kit/tiktok_caption.txt": "4bb985a6beb710c1620a138c78676974e7257a364e9192fe6e63cd67f81cff2e",
+    "kit/youtube_description.txt": "f0a329de091c0f91d82349d43926a2f9a7fa456b698c69666b78942317918baa",
+    "kit/youtube_title.txt": "cd02123a9239cb4196273439efb677a46f6a46e2d6780519fe206fe50ba03726",
+    "reel.mp4": "95ffc7f0025f6d91a1020412c8901b1ee1f841d8f49eb152b362da21f5739e48",
+    "slides/01.jpg": "2a0a20a1c4c455eb6fb6518eef7982685862df38091c2902f188c5ede510de95",
+    "slides/02.jpg": "2742edfcefa6366a4325e9912462aa739728d1410da6d14b27472080111e657c",
+    "slides/03.jpg": "d54876d801346b75525b740f876730046192d839040913e66cad317ab0f9d106",
+    "slides/04.jpg": "5d7d8d36c40576992d674175205c71c4be51624586ee01cced4a83035451727c",
+    "slides/05.jpg": "852461a217ba240b0b9dd7bdb6d3a2639fc7d1fcd1912a4ad31d1170b7dbec01",
+    "slides/06.jpg": "ad64ea5465bac164c289b230b6f4fa73f831dba69fd47aeaa950954067d81d86",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "51e0df6e7e44a4b8e48c1ee8b7cb16b24a8938208e2e28d66cb2583440efb951"
   }
 }

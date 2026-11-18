@@ -1,0 +1,40 @@
+{
+  "post": "motivational-quotes/2026-11-24-one-hobby-away-video",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 14.966667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:31:30-05:00",
+  "files": {
+    "cover.jpg": "d6ec129848543414e0ddba5ff0920f553f886527647014f94a72152b5fbea227",
+    "kit/README.md": "8c46d211e2e6ffcb5cab91acd6ebce55e79491d8f2d6ff862ce955d788d35817",
+    "kit/index.html": "43a820f4d77f9b501f77e6b37899d73621b6937c48505e7449bacb7d58f6fa5b",
+    "kit/instagram_caption.txt": "72dee30aaca3bdc490e4ae5faa47081bbc0191f0d74715e4b38368fbba46dda6",
+    "kit/snapchat_caption.txt": "52bda36f83d240be794fde3cbfbef47b58c6cae8ea3aecab3874521e2fa47831",
+    "kit/tiktok_caption.txt": "a719e8c162fb763fb2e369a89bdecc5d4af37444210d5dcd3e3359b56c570542",
+    "kit/youtube_description.txt": "4462bca69ce7ce32e542380a68ccbbbfd55e5d87f530fcbab34220d01a7e488e",
+    "kit/youtube_title.txt": "8d5cc4f50f8b8ad27258b44d69c72b897a7c71e821b031e9a9b21eb2ee2693e0",
+    "reel.mp4": "963f80d44cf1eddf4ec6c66220c90cf304742dca36d7b7bccf2b7433886328c3",
+    "slides/01.jpg": "d6ec129848543414e0ddba5ff0920f553f886527647014f94a72152b5fbea227",
+    "slides/02.jpg": "7aea78796408c9832a6538b5efc355cc46386c2391538fb225798b08b9d05862",
+    "slides/03.jpg": "98bcc3be08338fb1cb71c22b416ac6ef95346f4eb2a12d4277d0721173dfa3fd",
+    "slides/04.jpg": "173a7340d2bb0daf58ca3a8eb5c300c36a6b78f9a81d2db9cf114ded921d49ae",
+    "slides/05.jpg": "bd6e4ead4ca5bd8ca22f3b375724a224b282284c2a30b6bc18ec9ab8c0e1b02d",
+    "slides/06.jpg": "d1cc131b22a452091230793c4e6897a460d1f077d6358ab4798e3fb936927daf",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "52d7339402f70f30b646293528247a22eed0bb04568c5e68a36147eccbae6a3e",
+    "video/cover.jpg": "ec964335592b659a8d6f284ce9f469766275d9116f323a0695eb13c6ef094729",
+    "video/pov.mp4": "56fa6c0ef34b212113ed09b39738419b767b07f6d3632ba2bfcf7fb00aee91e3"
+  }
+}

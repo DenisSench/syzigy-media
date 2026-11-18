@@ -1,6 +1,6 @@
 # Kit: 2026-11-24-one-hobby-away-video
 
-Approval: Frame stills
+Approval: Frame stills (review only)
 Slot: Tue Nov 24, 12:00 PM ET
 Source: posts/motivational-quotes/2026-11-24-one-hobby-away-video/v10
 Placeholders: none

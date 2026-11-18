@@ -1,6 +1,6 @@
 {
   "post": "motivational-quotes/2026-11-15-sunday-scaries-fyp",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "2",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:21:04-05:00",
+  "built": "2026-11-17T22:39:30-05:00",
   "files": {
     "cover.jpg": "082ddec3952b92d210e68306b14230e7a29887047262c26cfee62c39cf0dd822",
-    "kit/README.md": "f04579bff585fc151e7992d2a913fa73edcc808c18232dab2f8ebd9a1c91918d",
-    "kit/index.html": "3e31b6810e865a4ea69cd3259acf97dfe9f95782de5eedc67e94dad49047f9e7",
+    "kit/README.md": "84c36c0765daa57bfccee68feae1699fd85e163101b79cfa86c599fe80aff464",
+    "kit/index.html": "f77e9d561f59a3c252d271ca7f0e16b9e565c18f6f9dc93e830139323ae6a75a",
     "kit/instagram_caption.txt": "699f0dabcc060d8098f2a7dff2409af05543c61ae7ce979cbf44c1d0667e62ea",
     "kit/snapchat_caption.txt": "3949fd5e5a249d01c98ad315eab0206549262477bd53c772cc061b5d5e2d31e7",
     "kit/tiktok_caption.txt": "de2803e6c7963a2ee5cb100da97db8ad8bd8ee84537755f5053c3819056d72c9",

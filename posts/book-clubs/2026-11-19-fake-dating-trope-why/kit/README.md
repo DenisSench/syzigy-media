@@ -1,6 +1,6 @@
 # Kit: 2026-11-19-fake-dating-trope-why
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Sat Nov 21, 9:00 PM ET
 Source: posts/book-clubs/2026-11-19-fake-dating-trope-why/v10
 Placeholders: none

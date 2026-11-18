@@ -1,6 +1,6 @@
 {
   "post": "pets/2026-11-23-group-chat-pet-roles",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "1",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:28:44-05:00",
+  "built": "2026-11-17T22:39:31-05:00",
   "files": {
     "cover.jpg": "f07ea72f58ee7e180b1d93a713122fba23c227a5f4ffdd3ba5b8c7e0f6225554",
-    "kit/README.md": "6c6e0c83390b8a354f99cb2dee12f9b40805e2753338fa08c15fd6bd0a88c10b",
-    "kit/index.html": "0a46765a5ba110d18e83ceca4d3ba9ee2b7a5215d50942f994c311e69d935302",
+    "kit/README.md": "b49536eb03d348cb10be5a29b0b7d6d027271e08fd804e9065289512f5642260",
+    "kit/index.html": "a24fdc5068b93b31a8458fb0218191843e6f1aa7fe14115f64bf5d45e0fb467a",
     "kit/instagram_caption.txt": "050a2e8c8dde5ff7d1522922069b0e9031dd595d31554d2c611979baa361f474",
     "kit/snapchat_caption.txt": "cb06e929b5522426201ff8a65bf9253b654a0c38b9219e1684412a6e0db75de2",
     "kit/tiktok_caption.txt": "daf1398e451ae669c56a7f5961a8e5fbe17b793ad9e5baea6fa43f14555b08a0",

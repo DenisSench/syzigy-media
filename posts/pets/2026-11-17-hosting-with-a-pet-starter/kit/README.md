@@ -1,6 +1,6 @@
 # Kit: 2026-11-17-hosting-with-a-pet-starter
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Tue Nov 24, 9:00 PM ET
 Source: posts/pets/2026-11-17-hosting-with-a-pet-starter/v10
 Placeholders: none

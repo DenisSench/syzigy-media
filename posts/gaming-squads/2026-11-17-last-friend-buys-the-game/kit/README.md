@@ -1,6 +1,6 @@
 # Kit: 2026-11-17-last-friend-buys-the-game
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Sun Nov 22, 12:00 PM ET
 Source: posts/gaming-squads/2026-11-17-last-friend-buys-the-game/v10
 Placeholders: none

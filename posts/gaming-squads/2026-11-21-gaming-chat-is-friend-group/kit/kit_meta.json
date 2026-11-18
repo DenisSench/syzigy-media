@@ -1,6 +1,6 @@
 {
   "post": "gaming-squads/2026-11-21-gaming-chat-is-friend-group",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "1",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:17:47-05:00",
+  "built": "2026-11-17T22:39:30-05:00",
   "files": {
     "cover.jpg": "eb8f58ca25322cb6fae16b2f1fa663ace99e4f5001aa1ba1a40df8b7d8131c44",
-    "kit/README.md": "3f786514d484a000ee5cc219a5d7a4ffb8cd408bbb3e4ed0c49c86fcfb719466",
-    "kit/index.html": "7db444403d308e2d5e3182e18d7bc21b44f9f5c43746d38747a41aaa6fca3250",
+    "kit/README.md": "509f10fffea63407dc0a4f463fde76a7915e2d279f2ca3f86b1d129afddcadcb",
+    "kit/index.html": "7386ca99094a80bc86a52144614778eec1e6f783f4567a14d3f79d69c8d59290",
     "kit/instagram_caption.txt": "63c2864962b0cd6cef0a6560079a85e8eb59cd8301850d3eee54affde3e298b1",
     "kit/snapchat_caption.txt": "ce295b7a0d6cca9556c1907a86d8816db4bba3e20ea972772b4e9c551a89fc3e",
     "kit/tiktok_caption.txt": "b8f1589a48167b91f2f0984763c92ec2137bb79f6a898f7b2712f94e348f629f",

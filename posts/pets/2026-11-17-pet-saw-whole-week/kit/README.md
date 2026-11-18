@@ -1,6 +1,6 @@
 # Kit: 2026-11-17-pet-saw-whole-week
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Fri Nov 20, 9:00 PM ET
 Source: posts/pets/2026-11-17-pet-saw-whole-week/v10
 Placeholders: none

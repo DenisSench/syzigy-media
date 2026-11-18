@@ -1,6 +1,6 @@
 # Kit: 2026-11-22-game-night-lifecycle-video
 
-Approval: Frame stills
+Approval: Frame stills (review only)
 Slot: Sun Nov 22, 9:00 PM ET
 Source: posts/gaming-squads/2026-11-22-game-night-lifecycle-video/v10
 Placeholders: none

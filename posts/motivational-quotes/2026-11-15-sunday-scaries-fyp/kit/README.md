@@ -1,6 +1,6 @@
 # Kit: 2026-11-15-sunday-scaries-fyp
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Sun Nov 22, 5:00 PM ET
 Source: posts/motivational-quotes/2026-11-15-sunday-scaries-fyp/v10
 Placeholders: none

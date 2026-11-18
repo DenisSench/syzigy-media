@@ -1,6 +1,6 @@
 # Kit: 2026-11-23-co-op-only-friends
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Mon Nov 23, 9:00 PM ET
 Source: posts/gaming-squads/2026-11-23-co-op-only-friends/v10
 Placeholders: none

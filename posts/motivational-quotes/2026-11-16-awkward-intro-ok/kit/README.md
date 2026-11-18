@@ -1,6 +1,6 @@
 # Kit: 2026-11-16-awkward-intro-ok
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Sat Nov 21, 5:00 PM ET
 Source: posts/motivational-quotes/2026-11-16-awkward-intro-ok/v10
 Placeholders: none

@@ -1,6 +1,6 @@
 {
   "post": "gaming-squads/2026-11-23-co-op-only-friends",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "3",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:28:44-05:00",
+  "built": "2026-11-17T22:39:31-05:00",
   "files": {
     "cover.jpg": "b49abc17f54a639c3a7211ddef45217f19405846a130d0f57d5149f4a6b7f91f",
-    "kit/README.md": "a5b66bf125795a3e44a4f4c3b86f22877ea6ae3ba577dacd54d4ea93670274f8",
-    "kit/index.html": "80ddf0a867b13807978d4aebe09f011cc9365fd761412eb6342c462f2ccb5776",
+    "kit/README.md": "20548e11e77d20332a888df56379b6accf0f5617f558ed6abe34f574d13d95f9",
+    "kit/index.html": "0339274223a523d2e382170adae81e5d885ba50c8503eb1ea0953fbda177b36d",
     "kit/instagram_caption.txt": "69574febcfb4b92a466228a5149df02d8bf79bdda8ecf72e49d3dfcc45cf668d",
     "kit/snapchat_caption.txt": "d257c71eb96331e801e13cfced13936b8247f7adefaa0fcaf2e0b6f34152f306",
     "kit/tiktok_caption.txt": "af81bee5b33bda354b7e47215cb6aef26ec06492351fb62f283e7cd76ea2d58d",

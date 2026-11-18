@@ -1,6 +1,6 @@
 # Kit: 2026-11-24-nickname-evolution
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Wed Nov 18, 12:00 PM ET
 Source: posts/pets/2026-11-24-nickname-evolution/v13
 Placeholders: none

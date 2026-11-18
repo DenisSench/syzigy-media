@@ -1,6 +1,6 @@
 # Kit: 2026-11-19-work-call-cameo
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Thu Nov 19, 9:00 PM ET
 Source: posts/pets/2026-11-19-work-call-cameo/v10
 Placeholders: none

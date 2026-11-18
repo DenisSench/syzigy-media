@@ -1,6 +1,6 @@
 # Kit: 2026-11-20-dog-park-names-video
 
-Approval: Frame stills
+Approval: Frame stills (review only)
 Slot: Fri Nov 20, 12:00 PM ET
 Source: posts/pets/2026-11-20-dog-park-names-video/v10
 Placeholders: none

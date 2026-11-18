@@ -1,6 +1,6 @@
 # Kit: 2026-11-15-cozy-mystery-starter
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Wed Nov 18, 5:00 PM ET
 Source: posts/book-clubs/2026-11-15-cozy-mystery-starter/v10
 Placeholders: none

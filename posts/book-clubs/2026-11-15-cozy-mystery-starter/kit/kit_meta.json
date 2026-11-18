@@ -1,6 +1,6 @@
 {
   "post": "book-clubs/2026-11-15-cozy-mystery-starter",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "2",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:01:19-05:00",
+  "built": "2026-11-17T22:39:29-05:00",
   "files": {
     "cover.jpg": "bdb140e44c6691de4f599bdf1ea900388bbb86b1bc2fb17c3c2f0fc342f49ee8",
-    "kit/README.md": "722bd2e0f740aba81e5363f6fcd1fd46bcf943ddb412ad6e5e64220740ba2100",
-    "kit/index.html": "88a3f705a162005544d5ec039d798a2b6d310aeb8f3e1e51cf21cb9a5de06c9e",
+    "kit/README.md": "ac1e9c724eddccdfb8499886c8c1ee91f55c4069c3ae46c5783cfee04352d8b2",
+    "kit/index.html": "9daa750b7ce218a2089604f3f7bf2961aff07e4fde80695408a58fb43d5b6352",
     "kit/instagram_caption.txt": "3a5f9d019fea35e18b66a01c04c7fa2e336182b40ccb91c2b16070e3cac4b998",
     "kit/snapchat_caption.txt": "981249a2930d983643a40d6a1420e19466d9b277c7ec9a26d311c1e7351a28cc",
     "kit/tiktok_caption.txt": "17aba8c1e1218f03e28af16d19ce30adc72c10591b7ace5d71fa3b090e6ce321",

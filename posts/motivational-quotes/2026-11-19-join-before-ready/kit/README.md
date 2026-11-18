@@ -1,6 +1,6 @@
 # Kit: 2026-11-19-join-before-ready
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Mon Nov 23, 5:00 PM ET
 Source: posts/motivational-quotes/2026-11-19-join-before-ready/v10
 Placeholders: none

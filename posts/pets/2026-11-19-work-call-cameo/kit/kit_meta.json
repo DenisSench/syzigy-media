@@ -1,6 +1,6 @@
 {
   "post": "pets/2026-11-19-work-call-cameo",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "3",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:06:59-05:00",
+  "built": "2026-11-17T22:39:30-05:00",
   "files": {
     "cover.jpg": "546fde952aba957ffae6e8fadc2e52aa1d99bc20db397dc1225855751e6af973",
-    "kit/README.md": "56b85895373f589363299c6d081c503cc43a9918c4f6d2f7a06a6de5978ead37",
-    "kit/index.html": "2b8d2b498e6414644e70b260320bca07d093d3eaed3a8d036d71a18a341abdae",
+    "kit/README.md": "46f2eca0f3425805ce009909852a137638bc0908cf80e7d1800806ff4d1dc8d4",
+    "kit/index.html": "6ef98b5a04c5b90d7d4518a62cb91146a26ea914b682c148f463d7d98b5d4a8b",
     "kit/instagram_caption.txt": "baf48df84ebe70cd71d65adf67425163aa8321d17515bbe10723e4bfadfba6f9",
     "kit/snapchat_caption.txt": "f04c9e0e73a24551fb0ce71fb8e1a83eac444f3d67e6adc199c0d4efd425f7c7",
     "kit/tiktok_caption.txt": "688c0a3573a4fd310e6ebeeab60f6f3537adf73bfbff3325031c4e37789f9b96",

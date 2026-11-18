@@ -1,6 +1,6 @@
 # Kit: 2026-11-23-group-chat-pet-roles
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Mon Nov 23, 12:00 PM ET
 Source: posts/pets/2026-11-23-group-chat-pet-roles/v10
 Placeholders: none

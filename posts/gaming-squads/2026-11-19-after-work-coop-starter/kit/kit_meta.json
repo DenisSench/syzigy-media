@@ -1,6 +1,6 @@
 {
   "post": "gaming-squads/2026-11-19-after-work-coop-starter",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "1",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:06:59-05:00",
+  "built": "2026-11-17T22:39:30-05:00",
   "files": {
     "cover.jpg": "862c414bd0c22bff2fc7fb4595a3ea693a85689d3fab9f66b332ba05dff64db6",
-    "kit/README.md": "b3c881f76b1f95e0cff6057d4094e21ffc7a4cbfeb3d030d931e6ebea80e1168",
-    "kit/index.html": "74b704696562c8b843fe958b8756d58e6e3e3aa2b65ac6c9b4e0f8d2c8447566",
+    "kit/README.md": "b8fa05d1ab965fd9ccc165bc73e789f72ffac4d3c569a6da82f63830ab300db8",
+    "kit/index.html": "cc06656752e015647e41cbc1645c997cc08ed5f939ef4cdb589125dd2a02992e",
     "kit/instagram_caption.txt": "c4d5a17a27cbe8a5a2ca2f0698039549ed3dc0dd75edf9c115dc94ab63ed2451",
     "kit/snapchat_caption.txt": "726b7a261ce5e6df75a87e535818dffb431031485a0e9b6fab9a1f281ca1f136",
     "kit/tiktok_caption.txt": "bb0ea6e563f28a0862ef723414a28873ee3a5c631f68cf189efb08d36eb05f4d",

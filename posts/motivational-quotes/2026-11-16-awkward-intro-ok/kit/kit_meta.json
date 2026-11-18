@@ -1,6 +1,6 @@
 {
   "post": "motivational-quotes/2026-11-16-awkward-intro-ok",
-  "format": "carousel",
+  "format": "native-reel",
   "version": "v10",
   "review_status": "review",
   "slot": "2",
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:17:47-05:00",
+  "built": "2026-11-17T22:39:30-05:00",
   "files": {
     "cover.jpg": "2a0a20a1c4c455eb6fb6518eef7982685862df38091c2902f188c5ede510de95",
-    "kit/README.md": "2ecc6a8501e7c556b22a0e7b783988d06ac831ca51ef5fe26c7893aabd15db82",
-    "kit/index.html": "888c76aa65fd599c22f072eb0c736467a185a474395055cb16cd2b809170ad91",
+    "kit/README.md": "06f28c3c359aa7ea1835baf5b0f797d3cdc21fa21bfb7a38fb33eff9afd2366b",
+    "kit/index.html": "0683238837ec95f8f1b2962a101f5fc071901e8b3fb351b5c75b441eb84fc2a6",
     "kit/instagram_caption.txt": "bb4556e4b1a78511eb840b9b23b00cfe601fe571be1a437b0636a320163c19fb",
     "kit/snapchat_caption.txt": "83a9e5476be0bc8f396b175245d27ba7d2aae8c37a84d36c22fab031114065a1",
     "kit/tiktok_caption.txt": "4bb985a6beb710c1620a138c78676974e7257a364e9192fe6e63cd67f81cff2e",

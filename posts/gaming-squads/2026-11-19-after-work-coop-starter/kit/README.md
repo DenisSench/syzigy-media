@@ -1,6 +1,6 @@
 # Kit: 2026-11-19-after-work-coop-starter
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Thu Nov 19, 12:00 PM ET
 Source: posts/gaming-squads/2026-11-19-after-work-coop-starter/v10
 Placeholders: none

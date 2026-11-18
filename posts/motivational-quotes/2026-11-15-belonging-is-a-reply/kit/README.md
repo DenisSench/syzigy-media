@@ -1,6 +1,6 @@
 # Kit: 2026-11-15-belonging-is-a-reply
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Wed Nov 18, 9:00 PM ET
 Source: posts/motivational-quotes/2026-11-15-belonging-is-a-reply/v10
 Placeholders: none

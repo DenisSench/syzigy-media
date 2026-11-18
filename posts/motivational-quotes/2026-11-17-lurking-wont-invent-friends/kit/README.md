@@ -1,6 +1,6 @@
 # Kit: 2026-11-17-lurking-wont-invent-friends
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Thu Nov 19, 5:00 PM ET
 Source: posts/motivational-quotes/2026-11-17-lurking-wont-invent-friends/v10
 Placeholders: none

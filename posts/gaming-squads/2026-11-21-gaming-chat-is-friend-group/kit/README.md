@@ -1,6 +1,6 @@
 # Kit: 2026-11-21-gaming-chat-is-friend-group
 
-Approval: Carousel slides
+Approval: Review stills (not the TikTok posting file)
 Slot: Sat Nov 21, 12:00 PM ET
 Source: posts/gaming-squads/2026-11-21-gaming-chat-is-friend-group/v10
 Placeholders: none

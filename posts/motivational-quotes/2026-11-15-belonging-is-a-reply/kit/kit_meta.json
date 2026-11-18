@@ -2,7 +2,7 @@
   "post": "motivational-quotes/2026-11-15-belonging-is-a-reply",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:30-05:00",
+  "built": "2026-11-18T09:11:39-05:00",
   "files": {
     "cover.jpg": "73e799d27366350d3e96a92f9b9ac6ed28a9ebd636d52f71fad0969b153c1fdb",
     "kit/README.md": "c00efd65f0ca967f7267000b521164887d83174d4e0735cdbc9e2278512a4df7",
-    "kit/index.html": "dd5bed929e8bb9f795270b2e82430d65e7a3b333c396028c60db29312421a5b2",
+    "kit/index.html": "acb4623c122bf8597fe9ed233511be43297d61d80c5c9e4fa93ebc52eb1c8b63",
     "kit/instagram_caption.txt": "6c54cd4015faab67134229d91da306c215a50647a622b5e7793b9301c234b644",
     "kit/snapchat_caption.txt": "92e39f0488dd7627916f0f7dd53614dd8440869ea444f0a01946515ca99c29b2",
     "kit/tiktok_caption.txt": "c8577fc3f01d40df973878a23ab5733bbf1686f811ade3df7b7905d64f6abd29",

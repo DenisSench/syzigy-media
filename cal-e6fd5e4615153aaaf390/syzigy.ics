@@ -557,93 +557,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-belonging-is-a-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T090000
-DTEND;TZID=America/New_York:20261117T091500
-SUMMARY:Approve: Adult friendship is saying "we should hang out soon" for s
- ix months straight
-DESCRIPTION:belonging-is-a-reply is 'Approve' and is due 2026-11-18 21:00 E
- T on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instag
- ram and Snapchat. Approve or skip it in the Commander chat (or the dashboa
- rd Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/motiva
- tional-quotes/2026-11-15-belonging-is-a-reply/kit/\nDashboard: https://syz
- igy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 5-belonging-is-a-reply/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Adult friendship is saying "we should hang out soon" f
- or six months straight in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Adult friendship is saying "we should hang out soon" f
- or six months straight in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-cozy-mystery-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T090000
-DTEND;TZID=America/New_York:20261117T091500
-SUMMARY:Approve: Cozy-mystery starter kit for rainy evenings
-DESCRIPTION:cozy-mystery-starter is 'Approve' and is due 2026-11-18 17:00 E
- T on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instag
- ram and Snapchat. Approve or skip it in the Commander chat (or the dashboa
- rd Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/book-c
- lubs/2026-11-15-cozy-mystery-starter/kit/\nDashboard: https://syzigy-media
- .vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-cozy-my
- stery-starter/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Cozy-mystery starter kit for rainy evenings in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Cozy-mystery starter kit for rainy evenings in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-nickname-evolution@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261117T090000
-DTEND;TZID=America/New_York:20261117T091500
-SUMMARY:Approve: How your pet's nickname evolves
-DESCRIPTION:nickname-evolution is 'Approve' and is due 2026-11-18 12:00 ET 
- on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
- m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
-  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/pets/202
- 6-11-24-nickname-evolution/kit/\nDashboard: https://syzigy-media.vijostudi
- o.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
- ution/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: How your pet's nickname evolves in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: How your pet's nickname evolves in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:friendship-boring-tuesdays@syzigy-media.vijostudio.com
 DTSTAMP:20261117T201243Z
 SEQUENCE:11
@@ -846,115 +759,116 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nickname-evolution@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:3
+DTSTAMP:20261118T141138Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261118T120000
 DTEND;TZID=America/New_York:20261118T121500
-SUMMARY:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evolution/k
- it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT]
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evolution
+ /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
+ ew
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
  ution/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT] in 30
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT] in 30
   min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] How your pet's nickname evolves [TT/IG/SC/YT] in 5 
+DESCRIPTION:[Scheduled] How your pet's nickname evolves [TT/IG/SC/YT] in 5 
  min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-mystery-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:8
+DTSTAMP:20261118T141138Z
+SEQUENCE:9
 DTSTART;TZID=America/New_York:20261118T170000
 DTEND;TZID=America/New_York:20261118T171500
-SUMMARY:[Needs you] Cozy-mystery starter kit for rainy evenings [TT/IG/SC/Y
+SUMMARY:[Scheduled] Cozy-mystery starter kit for rainy evenings [TT/IG/SC/Y
  T]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-cozy-mystery-s
- tarter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
- overview
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-cozy-mystery
+ -starter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2
+ /#overview
 URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-15-cozy-my
  stery-starter/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy-mystery starter kit for rainy evenings [TT/IG/
+DESCRIPTION:[Scheduled] Cozy-mystery starter kit for rainy evenings [TT/IG/
  SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy-mystery starter kit for rainy evenings [TT/IG/
+DESCRIPTION:[Scheduled] Cozy-mystery starter kit for rainy evenings [TT/IG/
  SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belonging-is-a-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261118T010119Z
-SEQUENCE:8
+DTSTAMP:20261118T141138Z
+SEQUENCE:9
 DTSTART;TZID=America/New_York:20261118T210000
 DTEND;TZID=America/New_York:20261118T211500
-SUMMARY:[Needs you] Adult friendship is saying "we should hang out soon" fo
+SUMMARY:[Scheduled] Adult friendship is saying "we should hang out soon" fo
  r six months straight [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-15-belon
- ging-is-a-reply/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
+DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
+ \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
+ ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
+  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
+  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
+ s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
+  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
+  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
+ ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
+ kit. Title and description are in the kit's YouTube Shorts section when El
+ la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
+ tps://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-15-bel
+ onging-is-a-reply/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal
+ -tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  5-belonging-is-a-reply/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friendship is saying "we should hang out soon
+DESCRIPTION:[Scheduled] Adult friendship is saying "we should hang out soon
  " for six months straight [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friendship is saying "we should hang out soon
+DESCRIPTION:[Scheduled] Adult friendship is saying "we should hang out soon
  " for six months straight [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM

@@ -2,7 +2,7 @@
   "post": "pets/2026-11-24-nickname-evolution",
   "format": "native-reel",
   "version": "v13",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "1",
   "slot_time": "12:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:30-05:00",
+  "built": "2026-11-18T09:11:38-05:00",
   "files": {
     "cover.jpg": "4dd5ab9c049d1eec58d5fd44d7370d9cca56d8057c0d38fb2512a9df94cb3d28",
     "kit/README.md": "13dd36ac99d465efd905135b631e886848528b0b87e906de2bf24e00c3bd9e6a",
-    "kit/index.html": "b82fba61077fe2d177c34103e82e7d2c4d114e9925c5383a619c0569deae4c91",
+    "kit/index.html": "73ce2412144f411ec327df19cd780228d750b404b504f0bbb930e6bf5c979925",
     "kit/instagram_caption.txt": "87ab2997837ce9cf83c9ad5c17679e963154eb300dcc41436b0713a253203af2",
     "kit/snapchat_caption.txt": "9faf7c465120c9717f48f106244227a51c013bf9e133fde2890fe05ce35e8dd3",
     "kit/tiktok_caption.txt": "109f393d64be75b4255087a13c99c706dbc6339658c528164f2ff368345aa4ed",

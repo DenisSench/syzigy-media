@@ -2,7 +2,7 @@
   "post": "book-clubs/2026-11-15-cozy-mystery-starter",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
+  "review_status": "approved",
   "slot": "2",
   "slot_time": "17:00",
   "snapchat": {
@@ -15,11 +15,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:29-05:00",
+  "built": "2026-11-18T09:11:38-05:00",
   "files": {
     "cover.jpg": "bdb140e44c6691de4f599bdf1ea900388bbb86b1bc2fb17c3c2f0fc342f49ee8",
     "kit/README.md": "ac1e9c724eddccdfb8499886c8c1ee91f55c4069c3ae46c5783cfee04352d8b2",
-    "kit/index.html": "9daa750b7ce218a2089604f3f7bf2961aff07e4fde80695408a58fb43d5b6352",
+    "kit/index.html": "a6e9a79004a432f9dd80e1eca6f9b9d4b150a3ca2951861a46a606078e50496b",
     "kit/instagram_caption.txt": "3a5f9d019fea35e18b66a01c04c7fa2e336182b40ccb91c2b16070e3cac4b998",
     "kit/snapchat_caption.txt": "981249a2930d983643a40d6a1420e19466d9b277c7ec9a26d311c1e7351a28cc",
     "kit/tiktok_caption.txt": "17aba8c1e1218f03e28af16d19ce30adc72c10591b7ace5d71fa3b090e6ce321",

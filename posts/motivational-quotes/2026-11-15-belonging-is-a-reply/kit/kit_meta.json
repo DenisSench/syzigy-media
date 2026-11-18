@@ -1,0 +1,37 @@
+{
+  "post": "motivational-quotes/2026-11-15-belonging-is-a-reply",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 18.066667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:01:19-05:00",
+  "files": {
+    "cover.jpg": "73e799d27366350d3e96a92f9b9ac6ed28a9ebd636d52f71fad0969b153c1fdb",
+    "kit/README.md": "d71b663299d321a5f66dc34f7381e5769b2d6299addc0bade3a663a9bb623f5d",
+    "kit/index.html": "77c813372b9861ef84ffc8e589866832036b8bf83b76bdffcc02718482c2764f",
+    "kit/instagram_caption.txt": "6c54cd4015faab67134229d91da306c215a50647a622b5e7793b9301c234b644",
+    "kit/snapchat_caption.txt": "92e39f0488dd7627916f0f7dd53614dd8440869ea444f0a01946515ca99c29b2",
+    "kit/tiktok_caption.txt": "c8577fc3f01d40df973878a23ab5733bbf1686f811ade3df7b7905d64f6abd29",
+    "kit/youtube_description.txt": "b2c53c4f00496b1b67ec783a8f257b7c0ff82c3bc22e07eca3f82b60d599f9bf",
+    "kit/youtube_title.txt": "1dc27f06fc642d55067d4cc1d6a4d74a9140797d53776d98a7ebe1bc72c20dfb",
+    "reel.mp4": "6cea35aa0b92a4f51447337cd7c30c28178053a3c41224fb2ab21b8318342ee4",
+    "slides/01.jpg": "73e799d27366350d3e96a92f9b9ac6ed28a9ebd636d52f71fad0969b153c1fdb",
+    "slides/02.jpg": "a24f1513520d61f9d77aeeaf1a3717bd31b196ff35a5f1dfde6352b1ebb2ef7d",
+    "slides/03.jpg": "31e591c257d0c6eded28655132a3f32cbc0bd44628f850aa54c49e23d0ddd655",
+    "slides/04.jpg": "faaedf37a35d12d156a408761965a8f7c10c35a28f28be7987d48873c8afec16",
+    "slides/05.jpg": "82b6ec82671472e490b8733f5e2b3dfeef7fb74c4d0772d5f7195aa38714c8be",
+    "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "71cde8509f25e0d27137c6242aaaa8b8eee4bc504a27bc28bfafff23ecc68823"
+  }
+}

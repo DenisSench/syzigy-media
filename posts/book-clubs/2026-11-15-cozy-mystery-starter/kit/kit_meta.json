@@ -1,0 +1,39 @@
+{
+  "post": "book-clubs/2026-11-15-cozy-mystery-starter",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 25.333333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:01:19-05:00",
+  "files": {
+    "cover.jpg": "bdb140e44c6691de4f599bdf1ea900388bbb86b1bc2fb17c3c2f0fc342f49ee8",
+    "kit/README.md": "722bd2e0f740aba81e5363f6fcd1fd46bcf943ddb412ad6e5e64220740ba2100",
+    "kit/index.html": "88a3f705a162005544d5ec039d798a2b6d310aeb8f3e1e51cf21cb9a5de06c9e",
+    "kit/instagram_caption.txt": "3a5f9d019fea35e18b66a01c04c7fa2e336182b40ccb91c2b16070e3cac4b998",
+    "kit/snapchat_caption.txt": "981249a2930d983643a40d6a1420e19466d9b277c7ec9a26d311c1e7351a28cc",
+    "kit/tiktok_caption.txt": "17aba8c1e1218f03e28af16d19ce30adc72c10591b7ace5d71fa3b090e6ce321",
+    "kit/youtube_description.txt": "1aad1728b20ee78131365958809a68b7ae8ab9a2f81960c24f931da618f5c13d",
+    "kit/youtube_title.txt": "d7942809ca5b9d6f8bf43007ec8b7edf63a181f00746eda53d8b8790035029df",
+    "reel.mp4": "6819b38230440b3f8affe7b8169ee67ee28d525c0abf04a4c6be30f567e0d2c8",
+    "slides/01.jpg": "bdb140e44c6691de4f599bdf1ea900388bbb86b1bc2fb17c3c2f0fc342f49ee8",
+    "slides/02.jpg": "6a442c18676ca5f65b6588a6c2f0cc6c0bfad89f7bf86cf15875f3f9548d197a",
+    "slides/03.jpg": "b61fe37812b2c8938b07912b335388cb0a902ce5eeeac98d45912205d5b2002e",
+    "slides/04.jpg": "521d43e81be0d1a63d3f92dde81b2f846b22262aca5c6da9cf6bed9a216b6a3a",
+    "slides/05.jpg": "6ecd5253eacd785130d2e37a1619b41254315011ec076d708a331e6a6d5c5a6a",
+    "slides/06.jpg": "c2c4e1260ca58bc5cd15b8e639b2308cf074c7910772633fb7d17622ef2d909b",
+    "slides/07.jpg": "5774d78128f3e214fe9777c338954b15d41bb32b63de7c7728274cf2b7074164",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "e47bdd0194dc36101d6005351d12f80b63a13e91190f88639f252aa766900eaa"
+  }
+}

@@ -1,14 +1,14 @@
 # Kit: 2026-11-24-nickname-evolution
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Thu Nov 19, 5:00 PM ET
-Source: posts/pets/2026-11-24-nickname-evolution/v12
+Approval: In review: NOT approved yet. Do not post.
+Slot: Wed Nov 18, 12:00 PM ET
+Source: posts/pets/2026-11-24-nickname-evolution/v13
 Placeholders: none
 
 ## TikTok caption
 
 ```
-It started as Biscuit. It is no longer Biscuit. 🐾 Walk us through your pet's nickname timeline in the comments. Find people who get your weird pet nicknames on Syzigy. Link in bio.
+It started as Biscuit. It is no longer Biscuit. 🐾 Send this to the friend whose pet has six names. Find people who get your weird pet nicknames on Syzigy. Link in bio.
 
 #petnames #petsoftiktok #doglife #catsoftiktok #syzigy
 ```
@@ -16,7 +16,7 @@ It started as Biscuit. It is no longer Biscuit. 🐾 Walk us through your pet's 
 ## Instagram caption
 
 ```
-Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet's name at this point? People who get your weird pet nicknames are on Syzigy. Link in bio.
+Day 1: Biscuit. Now: Little Guy. 🐾 He answers to all of them, just not the one on his tag. Find people who get your weird pet nicknames on Syzigy. Link in bio.
 
 #petnames #petlife #doglife #syzigy
 ```
@@ -24,7 +24,7 @@ Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet's name at this point? Peop
 ## Snapchat caption (post.md)
 
 ```
-Day 1: Biscuit. Now: Little Guy. 🐾 What's your pet called these days? Find people who get your weird pet nicknames - link in bio. #petnames #doglife
+Day 1: Biscuit. Now: Little Guy. 🐾 Send this to your pet-nickname friend. Find people who get it on Syzigy - link in bio. #petnames #doglife
 ```
 
 ## YouTube Shorts (from post.md)
@@ -38,7 +38,7 @@ How your pet's nickname evolves #Shorts
 **Description**
 
 ```
-It started as Biscuit. It is no longer Biscuit. Walk us through your pet's nickname timeline.
-Find people who get your weird pet nicknames on Syzigy - link in channel.
+It started as Biscuit. It is no longer Biscuit.
+Find people who get your weird pet nicknames on Syzigy. Link in channel.
 #petnames #petlife #pets
 ```

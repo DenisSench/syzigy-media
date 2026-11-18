@@ -1,0 +1,37 @@
+{
+  "post": "motivational-quotes/2026-11-15-sunday-scaries-fyp",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 20.066667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:21:04-05:00",
+  "files": {
+    "cover.jpg": "082ddec3952b92d210e68306b14230e7a29887047262c26cfee62c39cf0dd822",
+    "kit/README.md": "f04579bff585fc151e7992d2a913fa73edcc808c18232dab2f8ebd9a1c91918d",
+    "kit/index.html": "3e31b6810e865a4ea69cd3259acf97dfe9f95782de5eedc67e94dad49047f9e7",
+    "kit/instagram_caption.txt": "699f0dabcc060d8098f2a7dff2409af05543c61ae7ce979cbf44c1d0667e62ea",
+    "kit/snapchat_caption.txt": "3949fd5e5a249d01c98ad315eab0206549262477bd53c772cc061b5d5e2d31e7",
+    "kit/tiktok_caption.txt": "de2803e6c7963a2ee5cb100da97db8ad8bd8ee84537755f5053c3819056d72c9",
+    "kit/youtube_description.txt": "43f986719d9211b54b23661bd3410f7c101651b7894cfea4b18b837d0691d305",
+    "kit/youtube_title.txt": "2574a4c0273898ffd5f236b82600147ea2b7300071b3c8e90bc62c4d9862e8f9",
+    "reel.mp4": "00fc0fad1b26a4f542c8a2ada17ad7cc882d83c6ebb02808d7a73c2304db238a",
+    "slides/01.jpg": "082ddec3952b92d210e68306b14230e7a29887047262c26cfee62c39cf0dd822",
+    "slides/02.jpg": "2834fc3156c43bd1a751fcdbf7eeb3d757427bddf94e5f94842c1b84521a90d4",
+    "slides/03.jpg": "4826a1c370a266e765e81742d7f993361167642d42713e1625b52fc30c3373b1",
+    "slides/04.jpg": "27dd38b4177cf43703e98c1933532f29b86c6c7cce0a85fba09147e95a1ce9ed",
+    "slides/05.jpg": "d9f712f1d9d85bb9d041baf65d3c0ee9a60a655b2a66669fb3359cdd40c8ae9e",
+    "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "c176c11395141144b27cf03c7b28a0d54b274c7def6668184173510e7a158515"
+  }
+}

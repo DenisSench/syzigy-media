@@ -26,35 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-isnt-friend-group@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:6
-DTSTART;TZID=America/New_York:20261110T190440
-DTEND;TZID=America/New_York:20261110T191940
-SUMMARY:[Partly: Snap] The feed isn’t a friend group [TT/IG/SC]
-DESCRIPTION:Status: Missing: Snap\nPlatforms: TikTok+Instagram+Snapchat\nTi
- kTok: posted.\nInstagram: posted.\nSnapchat: not posted.\n\nKit: https://s
- yzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-10-feed-isnt-
- friend-group/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
- 5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 0-feed-isnt-friend-group/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap] The feed isn’t a friend group [TT/IG/SC] in 30
-  min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap] The feed isn’t a friend group [TT/IG/SC] in 5 
- min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:bravest-text-is-hey@syzigy-media.vijostudio.com
 DTSTAMP:20261112T193201Z
 SEQUENCE:6

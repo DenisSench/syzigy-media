@@ -1,0 +1,39 @@
+{
+  "post": "pets/2026-11-18-dog-small-talk-vs-adult",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.533333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:32-05:00",
+  "files": {
+    "cover.jpg": "2db5881e470d16ab88a50a6ef45666fa706feec48123aab5e9d1fba893e62172",
+    "kit/README.md": "73bb1f679ede22511b999c88af06c71309d7a68e2c2ac2c80dfe5422921397a6",
+    "kit/index.html": "c476942decc9c46610cbd383fff68a29604e6b87e8c85f1c5ed7350467269d33",
+    "kit/instagram_caption.txt": "139fdd3ff38a3856167b537bf0354707f95186a3c985670920561ce59066ee49",
+    "kit/snapchat_caption.txt": "936e0eb15cfd4d62748f324cd7033efe21f4994b42953c0dd23fa1811259bc37",
+    "kit/tiktok_caption.txt": "f328f95fcd3332a2fda8e6a4d0d0c48a30aebad42240127773bfeb0bb742ba4a",
+    "kit/youtube_description.txt": "782708eee294e92c89fadb0dfeea352aa688f391c2b0549a0a55ce039580f007",
+    "kit/youtube_title.txt": "88ddb665ec9696117e2b280e9ed7916a87078818af111511b9afe9edd0a82d37",
+    "reel.mp4": "a42b8850577e2aa32e7d38ec0d6d82865e80ddc28813efda9ff94d94848daf07",
+    "slides/01.jpg": "2db5881e470d16ab88a50a6ef45666fa706feec48123aab5e9d1fba893e62172",
+    "slides/02.jpg": "7029c65a41a5505071322bfecce528f8a6ccd24496bd0280245887f5a95805a0",
+    "slides/03.jpg": "f4657b0984246f194fd4d55ce0872ce0e785731c6a42b8ace3daa14a36fd86c8",
+    "slides/04.jpg": "7fd79e739972450558bea7c1dfcecfea439533e0bedb0f986830845e4cc63c7d",
+    "slides/05.jpg": "05a9bc604fd6878f9ab05484fca9ab25ae2903fb81ecaca604f6256dca97c931",
+    "slides/06.jpg": "f4d5eed4be46571873a8c079c7f68c520e9e7959853aef3c580a69ba13ea929e",
+    "slides/07.jpg": "cd7dc7648f53bfb35385a5aee80b80d6e129cc39faf916c98aeb6e0ffd3f8cab",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "68324af537c4a341770b4af1b8f57719d06b24b3fc34ccc5ce76b2a2997b3dd8"
+  }
+}

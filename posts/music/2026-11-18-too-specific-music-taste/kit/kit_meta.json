@@ -1,0 +1,38 @@
+{
+  "post": "music/2026-11-18-too-specific-music-taste",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.3,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:30-05:00",
+  "files": {
+    "cover.jpg": "ff23adf628124de4f0c204a7a32165a25de38dbb094290af46a7f8e97105b3d3",
+    "kit/README.md": "e882b7e3bc575ce12feb414153ed9b63910e623a5fcdea25a65542e36020787b",
+    "kit/index.html": "d8d51090a768be0f97d3c527451a6994736ab5a58e4d62ca4819bf5793a590f1",
+    "kit/instagram_caption.txt": "7f743996014bd7d7bf0a5b33495b131d8e5e7e7b5ebeeb77b47aed58a476d9b2",
+    "kit/snapchat_caption.txt": "f516db71c6125cff1a2468abb265f0d21665866340840bae17b1d1388721bbaf",
+    "kit/tiktok_caption.txt": "0eae318a2558952473d3bdccdded408da0de55ea25065450d4d975b69417f592",
+    "kit/youtube_description.txt": "04aecac8a3ac610667a7e65d6cb3b4dc512040e0d0bc7a93e52a3c4f3a9b193d",
+    "kit/youtube_title.txt": "6b10a9290ca0a6da81e6a0d51cc6d46556fcf22267ca1ad1031ffdf9dbcd9127",
+    "reel.mp4": "98f42865f0922f0be44302d0416b1dffe6edb0bb1faeb8a8731339b5943857cc",
+    "slides/01.jpg": "ff23adf628124de4f0c204a7a32165a25de38dbb094290af46a7f8e97105b3d3",
+    "slides/02.jpg": "16e8ae4c8b064283218530477fabd08b7596cb8fedbd731fe741b638f1607cd5",
+    "slides/03.jpg": "2e5ac6b58dac7695a38ef3118e441a6b24ba6cc88bec78c1681af3e86f318a2a",
+    "slides/04.jpg": "a4515c7b489e321731b093bb2b79a4d137ee4889c337fc0398449015404a992f",
+    "slides/05.jpg": "7a18a836c96f6ebf318ff0eee5fcd3ccdf1a94d6181c239a0a26c42a4490144b",
+    "slides/06.jpg": "8ddfe8e478da1a21b3933618fee777cb7de94c01bd4c374d6c5d9c8553d08dd4",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "e6625713908e5d7bc9784b104246da583aabd9911b0b0afaa79385521f8937e6"
+  }
+}

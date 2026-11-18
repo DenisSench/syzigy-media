@@ -1,0 +1,38 @@
+{
+  "post": "pets/2026-11-18-pet-voice-new-friend",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 19.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:29-05:00",
+  "files": {
+    "cover.jpg": "88a55698407d51ce3caf044b1e6ea111eac9bd224a25b2b702fa9f0d117aff0c",
+    "kit/README.md": "07f5f8344f6fd2b23e20e9b325c0cc6d5c0d4e3a58b50415625a247cdeb4beed",
+    "kit/index.html": "171f4320eec6163d0d79fd44530704639c6b0d15119b3910e9856f00bf419d87",
+    "kit/instagram_caption.txt": "2f0fdeae1ce62b6ddd2e590ea1779709e25b4d4e00f8e773cddea08f87ff02f0",
+    "kit/snapchat_caption.txt": "64f0d7ea0f84f72c75c0c1f89d6a1d050379ae8e0e2c3503a90c8cd34ce970eb",
+    "kit/tiktok_caption.txt": "7b7c33c38c504d26a1c23fdfc6726703e36fea9b3aa4f2f7b019fdc5ba6c319c",
+    "kit/youtube_description.txt": "7b7b8cd31911e9e26499466af8de9cadfe55d649c6d68f6116e8ecdc3c28b1da",
+    "kit/youtube_title.txt": "7a4b018e618a52facf7a35eeb6958c636f844183d7484bca602a65b1e3bf41a8",
+    "reel.mp4": "26a7a9c1168c49d1994398f439ab5d739f92b482844d26b6aac2063eee06f9de",
+    "slides/01.jpg": "88a55698407d51ce3caf044b1e6ea111eac9bd224a25b2b702fa9f0d117aff0c",
+    "slides/02.jpg": "358c52e974b1af3e768ac1529e3941514fa18d5ed8d9b45fbbee92219a4a8196",
+    "slides/03.jpg": "5ea4331554b6d6241edeafdc237abfdc561fc3e02680769f52fe64c15f8c0957",
+    "slides/04.jpg": "e6c8c3fddc13cad86e73cb52dbcef2474cdc4200388d7d6cf00f208298393789",
+    "slides/05.jpg": "836c9e9181d428fea6ba90149642c9854c3d08e369950b5934ea174fef7255d3",
+    "slides/06.jpg": "65aed5a44093a27fb5c1ac42a7d9440ce61d9c6abcdb242625c8cee7bcc4dad8",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "702280a8ca8e65df850ef44e45031b32cc2cce111de06233c3bb0b8d038b6fcf"
+  }
+}

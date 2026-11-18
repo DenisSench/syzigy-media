@@ -1,0 +1,38 @@
+{
+  "post": "college/2026-11-18-student-creator-starter",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:28-05:00",
+  "files": {
+    "cover.jpg": "c1db2a0c5dd6b88e47b7f33220dbe1cb6f0bc5203a5642313d60fa72f02c4e95",
+    "kit/README.md": "cb833dbd27afaf1e5ee1580ca36038c33d79fab5378efb6f9f249bcb0c93ee63",
+    "kit/index.html": "942917ff1b3116b1ee43462ca87c446419220bff462d4462b50cce607cfe82cc",
+    "kit/instagram_caption.txt": "1884ba4e1e53a8e19958acf214563d97a3664c3c1c15aa157f08c32c87a6b790",
+    "kit/snapchat_caption.txt": "d38774d9fa10f66f23337289e2b6f27b499b849fd722729eb223c87f6309e3db",
+    "kit/tiktok_caption.txt": "bd4fe8f3da2e53db002784b509ddd50a7c6d15b713b79d5a502f839d1c5e097a",
+    "kit/youtube_description.txt": "db656ca25dc8fba572e85f1fb76eef7e9d1c87605acf17a46f08d76a9fd107f5",
+    "kit/youtube_title.txt": "1dd13fd56e6f182fc130adb734bd81e4a4558792fb99d617fba9e0dcc2eb47f1",
+    "reel.mp4": "0df378aa035ee19513ef31ac71a06353ae3ebd9bc2265f1b7980b119bf08480f",
+    "slides/01.jpg": "c1db2a0c5dd6b88e47b7f33220dbe1cb6f0bc5203a5642313d60fa72f02c4e95",
+    "slides/02.jpg": "c9241be024c438e64ece86d8eb22cb2c7de713d70633af8f1ea4deb5e2c4d9d7",
+    "slides/03.jpg": "a33663396ea5aabb0cfe32dc96643fb97fa672e3ef144a57c312031115545cd0",
+    "slides/04.jpg": "765dab6052c83ca1bf82c70c945240e3f18645dc42d55bb50228bd36ad4667e9",
+    "slides/05.jpg": "f009730d09a93b4fa22894414ba10e875117b8966dcc7c82b7276cf4b6a2b9d3",
+    "slides/06.jpg": "9cb3602ae8515bfe98a2a562e2392ef1ca8ede912c99b53c6c1905e2d05ef983",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "6dc1b51b601fbb765317fade637d9bb74fd4db383a61f66890cfa230d31d1a04"
+  }
+}

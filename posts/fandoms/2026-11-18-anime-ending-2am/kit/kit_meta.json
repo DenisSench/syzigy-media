@@ -1,0 +1,39 @@
+{
+  "post": "fandoms/2026-11-18-anime-ending-2am",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.933333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:31-05:00",
+  "files": {
+    "cover.jpg": "53688d1c59adced40fb365430a75d976e1e4958c31e3f5efc3d2751d79c87b51",
+    "kit/README.md": "2d108c8bf10c184f585ec11ec9c07de42f46f1003ab75298a85bbcd0fc9cfd15",
+    "kit/index.html": "14b3958ca27a4f68ce8f0054b2c00ab79b8956ba121a93f7e7130114c4bdc88e",
+    "kit/instagram_caption.txt": "0091a362733ebe02d5a9fc0dbbfd64bae6aca3437074e7d3a2afe628619b5129",
+    "kit/snapchat_caption.txt": "ea7e336620677414f9f4bb1e06f76406f2cec92af0e7456304908edd726cae85",
+    "kit/tiktok_caption.txt": "852fc1985bb87ed70c33166fc0d18f565a2cfd3967faa146a7a7d599d622861e",
+    "kit/youtube_description.txt": "13130cb0d9808e5302746fed9f321d82815024e917475fead61ed77da6cfeeab",
+    "kit/youtube_title.txt": "006ef72a9cde5b69a5d36b0b9e06451a16e32b4e73b039468c122eae54b98f62",
+    "reel.mp4": "97ac91834f782dd72863b354740553eeab86ed59a33b4123071eba7a9501fab5",
+    "slides/01.jpg": "53688d1c59adced40fb365430a75d976e1e4958c31e3f5efc3d2751d79c87b51",
+    "slides/02.jpg": "ac69444f3829d610e1924c769435d008c349ede1ba4961a57748bd6309d339d9",
+    "slides/03.jpg": "2ba741e1d0b4023ee9531ae2fe35d6d50800f048e30f492bf45224b06c31febb",
+    "slides/04.jpg": "dcc66e98d67b1d0c636c2ccf6f1e7bb19ad3f2b6a8e76bdb3345681e929fc4ef",
+    "slides/05.jpg": "767096e8615f27c73aceb24393b6238001ee7b849f11d338b9a5da0ea11eb289",
+    "slides/06.jpg": "e0c5234a2c688cdd67a79394958e7841a7e9742a0e335fe87dd474506381c065",
+    "slides/07.jpg": "24ec8be83983620e621707979c8779367ebf5a469658c0aa6df4128b9f8b4302",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "ae97c26e5ba0cbdebeee4fd81f99482f3ed925ace87cfc1048a89ab52881c311"
+  }
+}

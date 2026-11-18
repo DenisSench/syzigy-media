@@ -1,0 +1,38 @@
+{
+  "post": "gaming-squads/2026-11-18-cozy-games-company",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.5,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:31-05:00",
+  "files": {
+    "cover.jpg": "032037706271b970b0643373da8360faf4879794646d43371f96b19a4c09a2bf",
+    "kit/README.md": "36995a00d604ff446a28175b480ad68f2ea534df01a08cd6125b0f90f41a8c36",
+    "kit/index.html": "426776c9ae8f4dabbe3b3c7e3a7fe38dabc6933ed8357f944e0deb9b30ef7f20",
+    "kit/instagram_caption.txt": "26a17308301b177537b22b6a0e7ee1236ff4dd69c0c741ea52d522cc57c8a51f",
+    "kit/snapchat_caption.txt": "5272bbf6af102ce398a5a11bdc8d76010e67891e1ee280f982351b2ac53d8e70",
+    "kit/tiktok_caption.txt": "d32ae69f18a04dac1b5bf797ed43e696ddbe5024a932ec107be942e596796d62",
+    "kit/youtube_description.txt": "52e529f7953dbaaebe63f3faebae309ea3011e66a58c11d89e6f70abe400ddfe",
+    "kit/youtube_title.txt": "3bf94c8870cebe6417095cd481e6bfc45fd8256b51abb8217818ae50cb8c04ca",
+    "reel.mp4": "c11abed21b2a8502376637b42a975f9489768fcc32f0d2e8860573b5eaf5c514",
+    "slides/01.jpg": "032037706271b970b0643373da8360faf4879794646d43371f96b19a4c09a2bf",
+    "slides/02.jpg": "953999efac082a9f5165253e043de4e74dfaf1c242bb4a8736768b408f25bb5b",
+    "slides/03.jpg": "e644bb5bdd1f756fc8332f7a2c8242260c369f3e45f4cb2a857618c4a467240f",
+    "slides/04.jpg": "f9fbfb8a61b721b1eaa37046295cccb33d0880102796b3f69836b544424efcb7",
+    "slides/05.jpg": "cd7625a0f6fe3caf5d63b6d90fbe32f6ea4b6d9fabe3f1bb88739fa36d21f5b4",
+    "slides/06.jpg": "36b361740a599867a9784c79370f44bd5562a5f8fda289c29cff6f664ce9f364",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "c5539630dd8089e500dc11ba739a13e89068f968feb38242bca18ce8ea274d49"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "post": "pets/2026-11-18-pet-sitter-best-friend",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.3,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:31-05:00",
+  "files": {
+    "cover.jpg": "afa6e7029b4ed5363b2108c4c47aef41f42f5a95593b1e0566b3fe09b88387bf",
+    "kit/README.md": "3f78dca75fb9ff404087e0407404840566f70cffb588b5281bcd87f0f0557dc4",
+    "kit/index.html": "1af63a4ff0870008766bf46b5838f9f04d6485f07e35c4a87f9ba8bccdae09c8",
+    "kit/instagram_caption.txt": "e19238b2d2b9bc54cebe3f72e56ad12422e38750948a3e66973b7c20ddaef493",
+    "kit/snapchat_caption.txt": "d820728a9cf360650bea467905477da53e00ef6e1313400e6934f23190821e97",
+    "kit/tiktok_caption.txt": "df58a085b02ebb1f9e5475a31c01f967a092aa89ff445286ca70e990e80754bd",
+    "kit/youtube_description.txt": "87436a0a912d098702158bbcf0d37ad1a242e0f514d7c0849204aeb682daa56b",
+    "kit/youtube_title.txt": "42b1f021d96f7b5cdc9c07a025bd32b1282b1b69c6c115d70d0e52b06c5b435c",
+    "reel.mp4": "e47d7cfadc978a74e053f48150794508dbffadd3e9a0a8395725555b33cfaae6",
+    "slides/01.jpg": "afa6e7029b4ed5363b2108c4c47aef41f42f5a95593b1e0566b3fe09b88387bf",
+    "slides/02.jpg": "be1de7560cb4dced60472f8145aa0cb7d49838d576fb638b1df89ee394852cc1",
+    "slides/03.jpg": "a312f8d7b0531249033c50f1aeae6b94e8a0f3e4640c7ecbebff2c94407ad1e3",
+    "slides/04.jpg": "d69a601d3a1267ed3e2322fb5ed70a88eb422487280146532a08a526c17d7ac8",
+    "slides/05.jpg": "41812fae939483205dc42d86a5fb3c694beef1975b84572746b7ef7e907e3e42",
+    "slides/06.jpg": "a8b9c46d33cac2a9617fffbabb875da87daef844bbb74ab62defeddd1bfbb93b",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "395246c641220f46d26573d1b95dbc080a0879a80fb10243679b81d7fffa9acb"
+  }
+}

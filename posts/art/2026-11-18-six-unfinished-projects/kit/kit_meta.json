@@ -1,0 +1,38 @@
+{
+  "post": "art/2026-11-18-six-unfinished-projects",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.3,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:30-05:00",
+  "files": {
+    "cover.jpg": "55cba411b5a0631347885072522fb076a47bd8c85b6af1e03cd88db27dcfddcf",
+    "kit/README.md": "267bfcf041be42388cd00d4f6f752f4430aa20b4c31872f24e9e95e49a0077fa",
+    "kit/index.html": "b5cbb8b651c4b2339e97b8196931bf5259f76356d12b2488157fe9813d6316a4",
+    "kit/instagram_caption.txt": "3083b72c12d3e5e426192732eb1c4e4b42f678434e4745828175579e65f4e1c0",
+    "kit/snapchat_caption.txt": "e2b31ee4781e8a9dfdd72e5df97f4104934e3d574fa29ef98387cbf255cd45c6",
+    "kit/tiktok_caption.txt": "2b40c081deae56f3db17c74881d84e37c18afbf405e1b627518bf3d977c19914",
+    "kit/youtube_description.txt": "741ed93701a52d090775f3add542b17942b17d352776d7da51cde5c79cad0d26",
+    "kit/youtube_title.txt": "db4d0348c385df2550c49894ac9b182a04dbafc8e64f9a4bfb60a5e0e8da40d7",
+    "reel.mp4": "b1df2df86ffe251e7364623583f4c7cf13a7504251c283c4debc3e70e45ea5e1",
+    "slides/01.jpg": "55cba411b5a0631347885072522fb076a47bd8c85b6af1e03cd88db27dcfddcf",
+    "slides/02.jpg": "17a93066a7d626591f112755e608554de9dee09eef07dc1bbec2db146b50eae7",
+    "slides/03.jpg": "26131a7489ab0fb8b6b1047f0c955bd6a4e11c9f82acdad265e72137d9390d58",
+    "slides/04.jpg": "7c12b6369e3451e1d92c44da3054e9dcdeaf9b95b74af681a58771e027834172",
+    "slides/05.jpg": "f87d866c5e20856d384cfdabc793ae4399ea8748f77c4479e26b1007a023f536",
+    "slides/06.jpg": "606bed7d7d6f5a4f87578b48bea4d36ceae34f6908ca15a1f6a247d65d7c9be0",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "ad99ee511863b209f47b68443d9a9ad7b8ec760367a876ebde8d36aa7a2cda36"
+  }
+}

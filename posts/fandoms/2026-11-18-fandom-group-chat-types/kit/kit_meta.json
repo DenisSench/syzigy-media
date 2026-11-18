@@ -1,0 +1,39 @@
+{
+  "post": "fandoms/2026-11-18-fandom-group-chat-types",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.133333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:10:29-05:00",
+  "files": {
+    "cover.jpg": "07d3ef3f07193d223a59e2e2d6e94450b1ba5d8de956fa387d7b6bceba469dea",
+    "kit/README.md": "8cdf6de7049227e9ef37456ecbc46a31667e220519e3b41444e3fc6d1711f236",
+    "kit/index.html": "22845e5bcc855c9248a10af3381ce3521c53997dcee80e0d6631bba5b38cebec",
+    "kit/instagram_caption.txt": "c82cbf5f0e31a07b6c79f2972f5d4966e51c98961a1987e655057d52f55fcceb",
+    "kit/snapchat_caption.txt": "187eba8fd80d3e662a7fff5c376fcf9018615b611fc742bb1c582d88947e0202",
+    "kit/tiktok_caption.txt": "8af39fdc458de757ea0206149cd34addda25d5878dca4de5ec6617d1f0687287",
+    "kit/youtube_description.txt": "7647401d5c727df8eda8e76e2fab65c173ee24059a8ea8fa0d03d9dcf3a3a8be",
+    "kit/youtube_title.txt": "2f731481adde3b59a57d4b0e42ea88c2c778777617e06e8ef8c5db609b67f3a3",
+    "reel.mp4": "767a073538bed2e51c99615026b01e45b3a6ad8f442d25773d90cbc53c8a8058",
+    "slides/01.jpg": "07d3ef3f07193d223a59e2e2d6e94450b1ba5d8de956fa387d7b6bceba469dea",
+    "slides/02.jpg": "03b729c1c64a63d40add51f050fc8bd7851be0401ded65314b2b3b08c72e30dc",
+    "slides/03.jpg": "bd40836529c440812d64402cf57cd2c07c38cb974cd1f01b59319714f2a84df1",
+    "slides/04.jpg": "4ac2a42357392fcdb6589bd5cb2baae6427ebc1366c6a8cdd2a1547355ffd2aa",
+    "slides/05.jpg": "cc5475b217c7a293bdf1bc639c6b90d1fa826cb46b950285874c47ee9cdf4354",
+    "slides/06.jpg": "573bffb89711794de88e9269c720e0edad4b717f17974580a7dd4dd3f6483d56",
+    "slides/07.jpg": "b80b22b55d2f0c9c6623edb5dfd502cc36fa86f4e02cfa07cedcf54424ee2ce7",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "2b62626af552a21db94eb2a885e381830dc0ac44b44d3c7b427fdd97fee7b5f1"
+  }
+}

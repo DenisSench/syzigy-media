@@ -1,0 +1,39 @@
+{
+  "post": "music/2026-11-18-concerts-alone-starter",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.533333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:22-05:00",
+  "files": {
+    "cover.jpg": "38512433c9f99acc8e3af3d3978b9c4a1a6e5a89b172940a531c55bb34689e01",
+    "kit/README.md": "cc0dbeab1df3a89744ddefb96250ca629487096cce9205de2b5d8fd9fc128e68",
+    "kit/index.html": "4c1dab5778d3f62bd3b9a3b1196d175073ef975c56f934d597affc754030201a",
+    "kit/instagram_caption.txt": "db1e44e8cc077cd232df0fc85271c5dae3d4beee43aa73364055e0801b53fe2c",
+    "kit/snapchat_caption.txt": "e76c7e217aeed5b99d3217e28d0ddc2f66a4e6bb1dbe1021861b0953f2423524",
+    "kit/tiktok_caption.txt": "bb9f7a91519d70a7bfe2ef52074ad11d4eeeb37e80aabdf426a77c65e57ad6ec",
+    "kit/youtube_description.txt": "40600051d744d181d861cd8facdef5fdad3b26b5c3770e85a9c621565c28354a",
+    "kit/youtube_title.txt": "dfd646c37bc5b3529b6402e8e679bb3585198db090dddc0f83aad2e74f4b3fc5",
+    "reel.mp4": "458bcdd0cf5c0c2422d7e673831e51802b7c7b7dde344f6bbccd9eaa54d9d4af",
+    "slides/01.jpg": "38512433c9f99acc8e3af3d3978b9c4a1a6e5a89b172940a531c55bb34689e01",
+    "slides/02.jpg": "e88b938d34d2c784177b74a1dbcebabf2e06727bfdd064c2d8e260c79d4b992f",
+    "slides/03.jpg": "2a3eadc6366d17cf4f20835b6eab6f534a2f96d5baa0086a43d52f56281172c5",
+    "slides/04.jpg": "54edb455afb09dd8a38024ef1d1e5ad6618fc23eaff7af7d191f38342417d1e9",
+    "slides/05.jpg": "c188cfe8aab5100b191b23d9bab56bbc0efc3cb6bdfe939449b5a3d24e5190db",
+    "slides/06.jpg": "8bd8f2269f541d57aad61e11849bf054a7fb106779a1cbd30c3bcae6ffc4f5b0",
+    "slides/07.jpg": "997d8aad66d8e5ebd46d6dfa15278229a32bd1926a35512294533c29341e9528",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "31aeb27e537076547bac47a3398699b3ff4e1eb87ade44f5be677a80f91a1315"
+  }
+}

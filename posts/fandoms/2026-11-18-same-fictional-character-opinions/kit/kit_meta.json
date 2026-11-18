@@ -1,0 +1,39 @@
+{
+  "post": "fandoms/2026-11-18-same-fictional-character-opinions",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.533333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:21-05:00",
+  "files": {
+    "cover.jpg": "4e47b4be560e475a4d50a3423a505d7618bbe0d164b82098ab6a6e754a0b35fb",
+    "kit/README.md": "c172928140bd5acb14647361c26ae268ce632995ed0c90f6acab5cc70b5be9aa",
+    "kit/index.html": "94e0e2b5f2755e14592a54066cffffcfa9579d456f0682f66c4a98a54cbcd71e",
+    "kit/instagram_caption.txt": "0fe7e32e565d23038b54e53baeb553e34894ff800a8cf890c47b02f64a0b718c",
+    "kit/snapchat_caption.txt": "7753b562df706e2758289dff636f464c7325fefc03eec0b9c4fd572618f7bb04",
+    "kit/tiktok_caption.txt": "1c8a329bc3b326aef251ba0a16757c4f3c7b99bfe19bf06335f7ad5b8701c368",
+    "kit/youtube_description.txt": "a2a0df907fed36db3b467d8b8f612b5007f0bf5131a9ec78c6418e4440abcf5b",
+    "kit/youtube_title.txt": "bbfd79ef72b7f71706612fc84c94cb6fc56205ed9f342a67fb681cc9e6dc6db7",
+    "reel.mp4": "75b7eba1ca4a27f80a467373fce72778a59964bf9b3101b27129cffa2858ad34",
+    "slides/01.jpg": "4e47b4be560e475a4d50a3423a505d7618bbe0d164b82098ab6a6e754a0b35fb",
+    "slides/02.jpg": "db016c7df34edacc48d7078c7a77c8932bbd3815a4e59504910309687e1158c3",
+    "slides/03.jpg": "a92d4e8dedeca8cb3ebb708b79f186d044da8ec36ebe5d5011096cee9c7c14bb",
+    "slides/04.jpg": "5ca7d7ae7cb02f13b7f27a830b5a95c941f193b17ae4c85f9b1ed4958568fde7",
+    "slides/05.jpg": "36127facc374ed4cfb20bd9d9029473028e136f254d64e770f9bd5aab5ef309c",
+    "slides/06.jpg": "2f50b7b53fb8c907ea5e011eb3d04dffcb239bc130ab64a50f5b60fac821ebeb",
+    "slides/07.jpg": "ebd4a0fe2bcb015e5af14fd63146966b1505088f2a1f96227215684464171ee8",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "512f4036559bbe73ffe89751e0fbda11f15793b72cf7a86a7eecb1afbbe32980"
+  }
+}

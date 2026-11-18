@@ -1,0 +1,38 @@
+{
+  "post": "pets/2026-11-18-thanksgiving-family-greets-dog",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:20-05:00",
+  "files": {
+    "cover.jpg": "7649555ba6aadcc60ab38fef556c665124b85c27c4e3a66f21f7955587d41c51",
+    "kit/README.md": "bb0af8ac4e68ca029149fc7480d68bee7add4d33abc095e328e46a9c0dab7dee",
+    "kit/index.html": "be17662c7daf0aa3ac9757c6f0794ef4130eecd408fd3e3ac8c72bd7095eed62",
+    "kit/instagram_caption.txt": "84a74120b5b37c61b9c297af77b4bb48cdff3a91058c119f7d6867e2dd7efdeb",
+    "kit/snapchat_caption.txt": "3f6b1eabfccf34f67e77ecb4691b635c93433284debdfa6943ec9e451c234977",
+    "kit/tiktok_caption.txt": "0114063bf4d0a2390f9f0619c87c9da15a4e267b5ae52012fb48ae27c4729cf4",
+    "kit/youtube_description.txt": "12f0bd858cb767fb70f10db7de4c0dcbaa7511b921db3048d81c3f80653594e8",
+    "kit/youtube_title.txt": "4703593b720f1eef214a880e4163593cbf0bbfdf6604b17439a312ed04448aa4",
+    "reel.mp4": "39815e1e4a0185c35d613617014aa679cf8391882cd414e15c57a77f8f8e8e06",
+    "slides/01.jpg": "7649555ba6aadcc60ab38fef556c665124b85c27c4e3a66f21f7955587d41c51",
+    "slides/02.jpg": "d29f9c6b50e9c21b3557efe123c50b1128c0c7792be6cf2946e326c4b223aee2",
+    "slides/03.jpg": "bec5afad687ed77fab043521927267ba4a3d7a39ad8432e85f1019b991a148d2",
+    "slides/04.jpg": "ed2bc2e56d6dfd69b77029aeedce811ba6f574d3dea3d66d4f9534251a2247da",
+    "slides/05.jpg": "b83d2bd3008f2960df6cb53c87d941a45ac8725a8a4735d9332694fe3e5b0713",
+    "slides/06.jpg": "a1e8551dc5a50611a66384db3c0fe1817b254599d1a42657be8ccbeef0183742",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "8272cd5afaae62d10de082f18ebe9dbfda5fb9f1e2bc174f1777f93932292ecc"
+  }
+}

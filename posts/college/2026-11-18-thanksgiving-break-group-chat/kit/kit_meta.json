@@ -1,0 +1,39 @@
+{
+  "post": "college/2026-11-18-thanksgiving-break-group-chat",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.133333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:21-05:00",
+  "files": {
+    "cover.jpg": "f250a40dd93befef58bbeed31805e3fb058078f2f467af63010ee14d97b64c5d",
+    "kit/README.md": "6f7ad744532b1fd69bed11ea9d776283522113e24be4b3d601d8bdd5bb87e7bd",
+    "kit/index.html": "2fad0830b69191609d7e92ab0dfe69bb64326ef9a7f684806019cfe163d4c90e",
+    "kit/instagram_caption.txt": "ac8897d4e2a6b853405463f46623c1670d73170f39f7d0eff7468c8940c53be4",
+    "kit/snapchat_caption.txt": "545b86b42d3e06c3b0782f010f5a44440c9e50f4a68d8a4757c51b68dcb5ffe1",
+    "kit/tiktok_caption.txt": "909d80d4329b055891a463ba539ceba8fc5271df594311d5fbf20c2f604f8536",
+    "kit/youtube_description.txt": "e4f50e651a31a69c44bb60e5b439df17c9d35fb86f53ec1c2d1428d397977f50",
+    "kit/youtube_title.txt": "c43c5ace962f5da53e7d13ca8ec3c193e7205e2d0ec49d30ed0e513e11708a49",
+    "reel.mp4": "505c574171e9cefa65796922c1eed352885f7f23f88c9e8bc4b5777e17675807",
+    "slides/01.jpg": "f250a40dd93befef58bbeed31805e3fb058078f2f467af63010ee14d97b64c5d",
+    "slides/02.jpg": "e6f0b84dd0daf3066aafac1c3edc7315a47ac3e6b4c82275de0a5e22d50d0a3c",
+    "slides/03.jpg": "232b90768f8027fd0140dfcadd393ffe82aa102cb0adbfb4348a1f1fad91798a",
+    "slides/04.jpg": "d6dbb02c69040383d8665d29fb47dc7e466b1dc23e849197866e36683fa79f91",
+    "slides/05.jpg": "b7b952246eba7fcec81b52b2e469c35ee3f8810f37c0257897597370e82090de",
+    "slides/06.jpg": "c00f7a210e7fe0fd19db0cc2b1092b3075f9765b1b6873edbd85cf96ef798b70",
+    "slides/07.jpg": "5a90424ca0da2b8242d47cdfe50f26104cd0981b37298c60a44dde795630508d",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "8885b62ec0aa653747fc01d9025696de765652d412c40d83d7f2ae8327494835"
+  }
+}

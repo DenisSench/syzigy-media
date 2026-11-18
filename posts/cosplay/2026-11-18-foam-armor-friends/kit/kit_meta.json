@@ -1,0 +1,38 @@
+{
+  "post": "cosplay/2026-11-18-foam-armor-friends",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.1,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:23-05:00",
+  "files": {
+    "cover.jpg": "ff908ca43df7d022fe68ae40321aed1105cba900b1b9a2050a8cfe539920b4bc",
+    "kit/README.md": "bea29b4bb8ab3ac95fd7df3cd275b00700d82ba074b8280736f9ddc1f39c6641",
+    "kit/index.html": "88d1db97ca7791e0277d690d5cc24a745941107aac72770b49334806e5632e27",
+    "kit/instagram_caption.txt": "cda1c294abe1908879c809a35900c0645053c78f010ba660d039c4888b2308c6",
+    "kit/snapchat_caption.txt": "9bd288355b54253127b688d6285cef01ed35b89cae05c93ffbad24ad12338a07",
+    "kit/tiktok_caption.txt": "d23946b0fa02acf763b272d24da2998274e78352644a4afadf0b796a85a2e798",
+    "kit/youtube_description.txt": "8bb9e2516194874ac6029f19138b22de2f8a8c6711cdfa089315cefaf5e1dad3",
+    "kit/youtube_title.txt": "2d3a4be5ef8ffa80d7b2a3607ac6368c797bca00eaa2d352ba75d05d9f00c046",
+    "reel.mp4": "83334b77f9deca5e0a0705e7d044febdb1d5af69a67b0ff6075bf7532e6fb1cb",
+    "slides/01.jpg": "ff908ca43df7d022fe68ae40321aed1105cba900b1b9a2050a8cfe539920b4bc",
+    "slides/02.jpg": "b93f654d684a4ee73e1b03db2242da82d62c98b2574f0181b866b9e6768933a3",
+    "slides/03.jpg": "a918cf537496e3745d489484134fa41b73c76a2c67c685fb36964dd3ce9f9960",
+    "slides/04.jpg": "67031ea95c3585d8043050e0eaec7de11866097917a11f84b24fea3dd023cf0b",
+    "slides/05.jpg": "d9e385c6d3236bceb936e6f86eaf2ffe0a3c0c362df78bab9815ca6093c08e14",
+    "slides/06.jpg": "4c7c446b8ec58e44e9aa6ffe1bcf6bf457335945a31cba3257c4311f2f47ac82",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "fd23d866e4d8a968fa65b61d392b840540ec943cb679649711178a4b09c564b1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "post": "gaming-squads/2026-11-18-thanksgiving-old-squad-online",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-18T13:05:22-05:00",
+  "files": {
+    "cover.jpg": "16c7450b6592a88e94e864ce7bd977a2e87fbd89bfe9be5b6a8516d31fd4e64f",
+    "kit/README.md": "fb9441f0b1cfd23e87372bc3d5c041fc61e6a192f619f1d4e64463d994f7d10f",
+    "kit/index.html": "f83b4653c7014b0bf3c6ca6caa5df54238d5bc116b09e082568069ab4703fe5c",
+    "kit/instagram_caption.txt": "5938958e2b1d8e965f8d04496df897899d75ccc9003867b03d0cbad268e8e816",
+    "kit/snapchat_caption.txt": "77fd0c4846dc76b8d1986a4d5f038b0f667accc14bf2a162660728de469e169b",
+    "kit/tiktok_caption.txt": "7ab9fef0e840b866b6ff391946a4480ea7c4287f41cb455af420c18033a87918",
+    "kit/youtube_description.txt": "7f3eeed2c97e8724ee74a8186072411abb10168ca064d8568d3812539ab74522",
+    "kit/youtube_title.txt": "b2e79d45e95d3145a799fee4fffca59d74522aa92a6233cfdda60d05ccd90b3f",
+    "reel.mp4": "835b4a3e9881c85c3d8c563aac0929c9fe36fa63cae1398557f2f1d3a72d5e50",
+    "slides/01.jpg": "16c7450b6592a88e94e864ce7bd977a2e87fbd89bfe9be5b6a8516d31fd4e64f",
+    "slides/02.jpg": "88da1096f16842ad30174558c3d024957be7c6975659640181e14a839c98743f",
+    "slides/03.jpg": "a6b58b71544cd87393375ec9d167197c7c9d2af4e002b54b202b297ef69f37c7",
+    "slides/04.jpg": "5dc88e509df1de630248979c1f0326f5cacd63e7b0275ddf63e7bf7c6bd2d6ad",
+    "slides/05.jpg": "d95e654930096def335590f77f1a82d18a56201f4dd79d0e57c531124e81ab94",
+    "slides/06.jpg": "48d626ac4fb41ac62ca4f935ac0aa3fc29481f2f7fed6101a5910a76285408d9",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "610cd755055af36295ff1926a6c377aede87fe5f704c3c17a5ee387fcb22ed8c"
+  }
+}

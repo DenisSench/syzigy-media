@@ -1,7 +1,7 @@
 {
   "post": "book-clubs/2026-11-20-book-felt-like-friend",
-  "format": "carousel",
-  "version": "v10",
+  "format": "native-reel",
+  "version": "v11",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
@@ -15,23 +15,23 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T20:31:30-05:00",
+  "built": "2026-11-17T22:32:22-05:00",
   "files": {
-    "cover.jpg": "5dbb0cf06c93d9449bf721a889a0883d3ea0ba504695fe3d586de606016cd4a4",
-    "kit/README.md": "c67b9b9e984be7304ef48b29c7c752432a7f0f97b2629205c4a128e93d023aae",
-    "kit/index.html": "4ede686f75d2cb59b6931c1a8ee92b4bae3575e4a538b36a8f459ee1ff9c046e",
+    "cover.jpg": "8a5f4665a9f0f4b985e66189d2ece225c9b8d8cb1b04164cf68d181741b9a350",
+    "kit/README.md": "ab03d6853500c5e0a36e08b906a9848aca9e5ccca2393b3abf394cc3dc79a617",
+    "kit/index.html": "7df8759d93c3250fd9bdcc0b298b480068c8aec95a4cf77dfb77131216bc99d1",
     "kit/instagram_caption.txt": "5e620700097e4f2c229fa18ffa31107be41cb5a500aaeff721b28b15fe2992cb",
     "kit/snapchat_caption.txt": "66dc13edb6e9598a6a9c32a75d2cc4c76746cd388cedc59299a3d33bc7478bec",
-    "kit/tiktok_caption.txt": "763e46da1225ee5df668e6d2634f01664331fe49c6d233b720ac0dd29603f6f5",
+    "kit/tiktok_caption.txt": "ef65d79ca89290f8402b4acb0c00e723509879f8b2b269b2d234a2ffe4f86f80",
     "kit/youtube_description.txt": "b462989b86298aa66869d8300e25bc1f80a021824be56fe58db16fe88231a3fe",
     "kit/youtube_title.txt": "d938b571cb88fb06308c23dde9040896e6c0aa66ca8bf018e0ba0e9e3e7baba7",
-    "reel.mp4": "f8a6b20fa6817f147917a805d487a200dacac1595cda1337aae37fed1506d938",
-    "slides/01.jpg": "5dbb0cf06c93d9449bf721a889a0883d3ea0ba504695fe3d586de606016cd4a4",
+    "reel.mp4": "44257343864c303d37b2c98db5ffd2a9acba6465f9984cfe7388c4693a5cbfee",
+    "slides/01.jpg": "8a5f4665a9f0f4b985e66189d2ece225c9b8d8cb1b04164cf68d181741b9a350",
     "slides/02.jpg": "f108c78a37ca5b49d9b42457f0b8d1825f0ac850a2c5ee645ca4bda79461fdc3",
     "slides/03.jpg": "483c4e37d99ab0e5394c72b04850fea6d490636791b994274903d1b68423b09e",
     "slides/04.jpg": "520c3c1008a0fe63cc13d29f5e2aeb53c1198afc8b743bfbf6f84fab3e0c7c26",
     "slides/05.jpg": "71a7e0ad22af9e17c8bb9970c204ead93b23a4491ddd0a07f8805c804a07a17a",
     "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "271437d3799c924a2edcd14f0748fb33c0cc289d3d24dfa9f169d74a2a53a363"
+    "slides.zip": "1f50c27fd10c3c7e3995790094b94efebe2f9462a28cb73296eeecf78fd3b6e7"
   }
 }

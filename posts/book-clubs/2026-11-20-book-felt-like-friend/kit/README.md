@@ -2,13 +2,13 @@
 
 Approval: Carousel slides
 Slot: Tue Nov 24, 5:00 PM ET
-Source: posts/book-clubs/2026-11-20-book-felt-like-friend/v10
+Source: posts/book-clubs/2026-11-20-book-felt-like-friend/v11
 Placeholders: none
 
 ## TikTok caption
 
 ```
-5 slides: a book that felt like making a friend 📗🫶 This one is *Anne of Green Gables* (L. M. Montgomery, 1908). Kindred spirits, every chapter. Send this to the friend you'd hand it to.
+The book that felt like making a friend 📗🫶 This one is *Anne of Green Gables* (L. M. Montgomery, 1908). Kindred spirits, every chapter. Send this to the friend you'd hand it to.
 
 Join a small book Circle on Syzigy (up to 8 readers) - buddy reads that actually reply. Link in bio.
 

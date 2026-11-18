@@ -1,0 +1,39 @@
+{
+  "post": "gaming-squads/2026-11-17-last-friend-buys-the-game",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 24.133333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T22:32:22-05:00",
+  "files": {
+    "cover.jpg": "e6d7a6ca70a32021a6deb935700310187030533450a50e1e17c1e54d49f03c81",
+    "kit/README.md": "080f3c1b7107ac8e2c26fa472c6c9a531d7ba30ddf8e7d9db575cf2353118236",
+    "kit/index.html": "f1ab3f87c2717a6670a88f9f8dc858488af3777beff6ab175c1cdf66214c3c2a",
+    "kit/instagram_caption.txt": "398eb802e93c67350b5047c4730f38f9299d06f44eb4ba52f2ebda6055d03c1e",
+    "kit/snapchat_caption.txt": "b69ff74293c8595683c7e95fa0e66d1ad89150ba6bee9e15256e539bfdc48dfd",
+    "kit/tiktok_caption.txt": "695949299bf742e3fe325781285ac094765d8d4558e9b6d1426cab7522827349",
+    "kit/youtube_description.txt": "657ab792574334a76c27398632197ae5e91f0dd0d1e09e3bb8ea530e947cccad",
+    "kit/youtube_title.txt": "6a4a1ab845dc65b41a5630435bda7c95df41a675a1b3c4197872629a8e1075c9",
+    "reel.mp4": "c8cc112088674ac8a5702e787793788d1fb6c4e6d46dd16a84c635d657f73845",
+    "slides/01.jpg": "e6d7a6ca70a32021a6deb935700310187030533450a50e1e17c1e54d49f03c81",
+    "slides/02.jpg": "52d700451c75799aedb285b4d794f9766e497b82e7b01e838bb9deea0da93bcb",
+    "slides/03.jpg": "a7472903ca1f2d17d3a15b310b13329b24ad6b7ca2f54e80df189826f306451f",
+    "slides/04.jpg": "6792958af19e8cf98af036b06a5eea02f47563b3debff1b2112b4d0107464561",
+    "slides/05.jpg": "018a2d54acdc9b56e341beaa385a931bd463ae55646fe24a91526fd3b0bef080",
+    "slides/06.jpg": "c2eae34ad72be4bdafbef05796b2d5162e96597d7f8f7700e041df27489fbb2e",
+    "slides/07.jpg": "6a8724c7ea1ac77a291e8e3c458bab07676c5f2a9970a3bc127d6134cf21e11a",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "b2c401bfb707051b511a56d2559090fb66f585ccf561865c99d3a16ed6b330f4"
+  }
+}

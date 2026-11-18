@@ -1,0 +1,38 @@
+{
+  "post": "gaming-squads/2026-11-19-after-work-coop-starter",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:06:59-05:00",
+  "files": {
+    "cover.jpg": "862c414bd0c22bff2fc7fb4595a3ea693a85689d3fab9f66b332ba05dff64db6",
+    "kit/README.md": "b3c881f76b1f95e0cff6057d4094e21ffc7a4cbfeb3d030d931e6ebea80e1168",
+    "kit/index.html": "74b704696562c8b843fe958b8756d58e6e3e3aa2b65ac6c9b4e0f8d2c8447566",
+    "kit/instagram_caption.txt": "c4d5a17a27cbe8a5a2ca2f0698039549ed3dc0dd75edf9c115dc94ab63ed2451",
+    "kit/snapchat_caption.txt": "726b7a261ce5e6df75a87e535818dffb431031485a0e9b6fab9a1f281ca1f136",
+    "kit/tiktok_caption.txt": "bb0ea6e563f28a0862ef723414a28873ee3a5c631f68cf189efb08d36eb05f4d",
+    "kit/youtube_description.txt": "82d5afc68e7d74bd821649feee1d890c2b784c2f72c606aa90b70b46ea2052d4",
+    "kit/youtube_title.txt": "701f77472ff82c0824f4089a566dd4658a34d69c840495244e7072a55c8802b8",
+    "reel.mp4": "4982cd9bd5de50605df6b1a99c84ee1e4530ee91be3ad4d6173c49f41c74222c",
+    "slides/01.jpg": "862c414bd0c22bff2fc7fb4595a3ea693a85689d3fab9f66b332ba05dff64db6",
+    "slides/02.jpg": "9bebb1f079b73cc667abbe790d085d3be4490c189806116b92676e58cb1abfcb",
+    "slides/03.jpg": "1819e5e297ac9768499b2333aa75d3aa25b52a52b2400972b0878b6883d52733",
+    "slides/04.jpg": "7fa36cca563a9ef7ab9e33d61b090accb4746e0f0787e2543cbc72e4e2488569",
+    "slides/05.jpg": "89616feb30303e2486a9358735b255f0a3742fcf54725153031b210e6a185d3c",
+    "slides/06.jpg": "2c70b8744b3028cece1fd25e31544cb4641641c39560949939baece266bf8501",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "3fb5fd6d466dc07fcc726ab34f3b01afd3f292652ebb34a904b9bd968c81bdc4"
+  }
+}

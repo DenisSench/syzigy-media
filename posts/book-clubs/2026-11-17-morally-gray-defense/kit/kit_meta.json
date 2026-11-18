@@ -1,0 +1,38 @@
+{
+  "post": "book-clubs/2026-11-17-morally-gray-defense",
+  "format": "carousel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 21.7,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:13:32-05:00",
+  "files": {
+    "cover.jpg": "2a463077d4c298842eb08a95777c84a80494876ac417084cd8ce76dbf7599e94",
+    "kit/README.md": "d12377403b203e550d2ef4edb64725b4a208710461904bd3eb4b832abe28322a",
+    "kit/index.html": "d974eecf8c82af975e75689069e6e527c5a640f408b05bc87874dc6423aed44d",
+    "kit/instagram_caption.txt": "661d396f38b8b3b3e3af5096ec6305b7eca92ec1f3167ec68b410db4f2c1a828",
+    "kit/snapchat_caption.txt": "96ba8981fd1bac2f316794c7d80078637f38219953bcbf5812b0c3a662a9aed0",
+    "kit/tiktok_caption.txt": "2c81bd060fc13e7d4d18bfdf677370cff271489392bc9b72cfa00b999edb7ea4",
+    "kit/youtube_description.txt": "456cedd9b1a2acdd6dfbc8253002abab35b8ad6391e34bf35728abeb72251228",
+    "kit/youtube_title.txt": "4e591d1f10da4e96a311aa528860cb698372491d3e5240bcaee2ff4f660483dd",
+    "reel.mp4": "f262ef7d02e80a47fa07694bdf5fbd133ca26ba653212f8e4094a3fe6834c83b",
+    "slides/01.jpg": "2a463077d4c298842eb08a95777c84a80494876ac417084cd8ce76dbf7599e94",
+    "slides/02.jpg": "12267a638b7292e39d6500d2c154ffe86be743bd0f22e325135590ad527862d1",
+    "slides/03.jpg": "eb29837f1a72ee6793a49e90e150258802c9f67df719651bffefed71dce14637",
+    "slides/04.jpg": "92e6a58feedf31e44602b1334607fa529e70b38b80efa67967ac8d78f157791e",
+    "slides/05.jpg": "e6a715797fe6fee57633ffc9aaa5e85a40a099dd30e7fd76611025ff8cff1864",
+    "slides/06.jpg": "154c23aa1fdb6bb30ac57844749a6110a2bedd4d764afe1280b5d88625313d3d",
+    "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "33461831c11d80fc94b009f42f6d6be7ede896bcfa1ead6f177b46461c22a2ba"
+  }
+}

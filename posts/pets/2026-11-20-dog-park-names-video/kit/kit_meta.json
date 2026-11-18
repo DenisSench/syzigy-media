@@ -1,0 +1,41 @@
+{
+  "post": "pets/2026-11-20-dog-park-names-video",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 14.966667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-17T20:13:32-05:00",
+  "files": {
+    "cover.jpg": "01816e3ae811603f0b5ab863807d2f8e851b2e2be1ccad8bf273293afa0afa48",
+    "kit/README.md": "21a5c2399bee5e4696eb8c052cbfdc9343ef794aa46b01bf13df33963929029a",
+    "kit/index.html": "4920c637af6f86302536ef3a883e505c5cc08700682cfcac954ae7ba6b59d153",
+    "kit/instagram_caption.txt": "b7c9ce52be5709fb849bf49d0812f95d13f567d1e98dbfbad8ed2e48cb341703",
+    "kit/snapchat_caption.txt": "a4a1ba5dd37372a4e4c94a357a5911e51680e02991b57c0ddc6ee692678f8e29",
+    "kit/tiktok_caption.txt": "b9870f42867a2fb1988794ce07d5b82b455740f69158aa75c017577508419a0c",
+    "kit/youtube_description.txt": "b6ce94556f3a1beb671dcdcbca35dafc91e366227a707d2efb9f8dfd5193d11a",
+    "kit/youtube_title.txt": "b365f752a4d033ac4ea23d6bb8a3f81a3c3dfae0e2cda3e8486e5c0b5c8f37dc",
+    "reel.mp4": "b9da1bb99fd81b8e5598d9e36fb5aa1195cbc586340dd0abc5002dfb553c7746",
+    "slides/01.jpg": "01816e3ae811603f0b5ab863807d2f8e851b2e2be1ccad8bf273293afa0afa48",
+    "slides/02.jpg": "b102d0875d3f5487db1fedf0fcd9a234e763bb38827b3b0f024d9a4a5d330b74",
+    "slides/03.jpg": "51e0913b4c6fb04e8a446f0bcf56ad9fc8fd6e9b1874309fdee9fc4cc542a256",
+    "slides/04.jpg": "41e81c27b67b67aad141347e68b8fb2e020dbfd13b62bd54d0f57aa342e8c09a",
+    "slides/05.jpg": "f620e76b11d2729f52ac17d3cf65fee48b3a4d090ca4f80a289a0ae8cd7db605",
+    "slides/06.jpg": "bbad595cbdb3398e71c91a3fdf2d83e598379fd8e2605a8765f879a30f9a0491",
+    "slides/07.jpg": "c70406a585491d55771dbb96ee36d24cbd651ff610d561f567434097e6b64169",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "b7a1c7dfed4b1a8a8b1b0e232a517d3932cecaf0bf605f2bab3f7ed93b46ceb7",
+    "video/cover.jpg": "30d781367958c9264ee4d51b13861f6451da1186df943c4b2b71a377c323c8b0",
+    "video/pov.mp4": "69489c23e574ab5a7519538974a1262184cb58e6228502d7cdf4c74e406b696d"
+  }
+}

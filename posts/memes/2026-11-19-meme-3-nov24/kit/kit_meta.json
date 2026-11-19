@@ -1,14 +1,14 @@
 {
   "post": "memes/2026-11-19-meme-3-nov24",
   "format": "native-reel",
-  "version": "v1",
+  "version": "v2",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 9.633333,
+    "reel_seconds": 12.0,
     "over_60s": false
   },
   "youtube": {
@@ -16,15 +16,15 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T12:31:28-05:00",
+  "built": "2026-11-19T14:36:56-05:00",
   "files": {
-    "kit/README.md": "23495354b878a5c9a446602a398d5bba6ea6af41ce3714d94c859df519ed0405",
-    "kit/index.html": "4b25c907456c8850b2dceaa0c3672fc4f7cb0e3695fc17cf0857491b7cfc8f8f",
-    "kit/instagram_caption.txt": "695246a1982b411dd3ffc570c869f27fbd4c93830bcee0638bab94a2c90d8b50",
-    "kit/snapchat_caption.txt": "0d17a7bc2b9077376ecde7fe89fdc342b0eaedff0970b82b35dce595d0076853",
-    "kit/tiktok_caption.txt": "58bf199b4c0d3e22ca4b09e7dff8d2e4b5fb5e422ecbcb25fba559cdcb4d1b86",
-    "kit/youtube_description.txt": "dad59bd203e067125ea6650d75e4710a9c982cc462fdc0e550f3748b84858cf0",
-    "kit/youtube_title.txt": "e93b62df2a2669ed07bdf1155c69e1c6f5421b0d856a92cdc71e496a1335170f",
-    "reel.mp4": "c40b466977c98da8b5de3e2923fdcb1fc59b846166994f47f452ab3cfde05b9e"
+    "kit/README.md": "099a64e2b5439b0d56064f692aa576cc140ac8b2ca462e9fe0f0379ef2fea46d",
+    "kit/index.html": "55c49e52bc82487a89ea05acbfa0f8c1b123a8eb041786ab15f2ca28b8262525",
+    "kit/instagram_caption.txt": "794372c285fc0c0233cb403d369a74da390ea63ee49248ba972261a892199a95",
+    "kit/snapchat_caption.txt": "a93a170749340f1b21b09c8c3222e6bd3c918ca18ae97bf0323aefcb038c95ee",
+    "kit/tiktok_caption.txt": "445f84fc3c52a89e5fde7c3e97692dd745a86483d09ee74baef324a7d75a08bb",
+    "kit/youtube_description.txt": "8b205570b254fea387c4a8f98644f2bbc8dd015c63f98c2d53a2d029289804b7",
+    "kit/youtube_title.txt": "6c78cdd614ad661448ee1dc941548b46292a840f9f8db7fcf8d7664c97fe8ec2",
+    "reel.mp4": "7e58476d896d24eb6192b57070656c3a18b6685576bda9d6af091a869547f86f"
   }
 }

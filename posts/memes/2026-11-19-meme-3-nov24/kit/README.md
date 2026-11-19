@@ -2,29 +2,29 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Tue Nov 24, 5:00 PM ET
-Source: posts/memes/2026-11-19-meme-3-nov24/v1
+Source: posts/memes/2026-11-19-meme-3-nov24/v2
 Placeholders: none
 
 ## TikTok caption
 
 ```
-Expectation vs reality, adult friendship edition: the person you're nervous to invite was hoping you'd ask 💬📅 Find your people on Syzigy. Link in bio.
+Adult friendship bingo: left on read, rain check, booked the table anyway, and only two people came. Still counts 🎯💬 Find your people on Syzigy. Link in bio.
 
-#adultfriendship #makingfriends #relatable #memes #syzigy
+#adultfriendship #makingfriends #bingo #relatable #syzigy
 ```
 
 ## Instagram caption
 
 ```
-Expectation: they already have plans. Reality: they were hoping you'd ask 💬 Find your people on Syzigy. Link in bio.
+Making friends as an adult, one square at a time 🎯 Find your people on Syzigy. Link in bio.
 
-#adultfriendship #makingfriends #relatable #syzigy
+#adultfriendship #makingfriends #bingo #syzigy
 ```
 
 ## Snapchat caption (post.md)
 
 ```
-Expectation: they already have plans. Reality: they were hoping you'd ask. 💬 Find your people on Syzigy - link in bio. #adultfriendship #makingfriends
+Adult friendship bingo: booked the table anyway, only two people came. 🎯 Find your people on Syzigy - link in bio. #adultfriendship #bingo
 ```
 
 ## YouTube Shorts (from post.md)
@@ -32,13 +32,13 @@ Expectation: they already have plans. Reality: they were hoping you'd ask. 💬 
 **Title**
 
 ```
-Expectation vs reality: inviting a new friend #Shorts
+Adult friendship bingo #Shorts
 ```
 
 **Description**
 
 ```
-Expectation: they already have plans. Reality: they were hoping you'd ask 💬📅
+Left on read, offered Saturday, booked the table anyway. Only two people came 🎯💬
 Find your people on Syzigy. Link in channel.
-#adultfriendship #makingfriends #relatable
+#adultfriendship #makingfriends #bingo
 ```

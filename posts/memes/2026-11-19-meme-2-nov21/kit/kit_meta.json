@@ -16,15 +16,15 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T14:32:09-05:00",
+  "built": "2026-11-19T14:45:50-05:00",
   "files": {
     "kit/README.md": "d7ed30817649fa605acacf96c7edb6a5daf4b449c44c2a46a3b67edb7b9322d1",
-    "kit/index.html": "1edb087c1e00b2782776614ed855347373cfac12f7e37a11fbcdaf51839617a1",
+    "kit/index.html": "24e7dce5004020f938ba53a4750043b02d73721b3f63c2495b6432113523f2b5",
     "kit/instagram_caption.txt": "21707af517317713920688307c55a9e350a48b3f953d9d8667b22f97a6c3e193",
     "kit/snapchat_caption.txt": "ba4c46a209d5603d8d4d895081d46035d8a6127d9c0283b73c7293ed290c7553",
     "kit/tiktok_caption.txt": "8ebb6bc2d917214d916c320f135ee248d91d2b49ad77d3cad3490f690deb5076",
     "kit/youtube_description.txt": "43fa222f59dc5fea0dd9d702458f07cd08756b14425dfb19b28b2e5c285fbc60",
     "kit/youtube_title.txt": "9e18979c5439942f25a7884de837d1be9ff13c437b43abe13ffcfee0f0c6f34e",
-    "reel.mp4": "780b9ba4f646b4a294ca2d4f05c812b9f80fdb509e55ba719f276e5a1c9b405e"
+    "reel.mp4": "e6cfe86c800d61f95e749e37a9c5ddac5f580fad5cfff7a2bf5e4dbb0e40d564"
   }
 }

@@ -2,29 +2,29 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Sat Nov 21, 9:00 PM ET
-Source: posts/memes/2026-11-19-meme-2-nov21/v1
+Source: posts/memes/2026-11-19-meme-2-nov21/v2
 Placeholders: none
 
 ## TikTok caption
 
 ```
-Unpopular opinion: adult friendship doesn't need a giant friend list. One good group that actually replies is plenty 💬🫶 Find your people on Syzigy. Link in bio.
+Making friends as an adult: set out six chairs, put the snacks out, checked the group chat again 🪑📱 Find your people on Syzigy. Link in bio.
 
-#adultfriendship #makingfriends #relatable #memes #syzigy
+#adultfriendship #makingfriends #memes #relatable #syzigy
 ```
 
 ## Instagram caption
 
 ```
-One good group is enough 💬 Find your people on Syzigy. Link in bio.
+Six people said they were coming. The chairs are still optimistic 🪑 Adult friendship, table for six. Find your people on Syzigy. Link in bio.
 
-#adultfriendship #makingfriends #relatable #syzigy
+#adultfriendship #makingfriends #memes #syzigy
 ```
 
 ## Snapchat caption (post.md)
 
 ```
-Unpopular opinion: one good group is enough. 💬 Find your people on Syzigy - link in bio. #adultfriendship #makingfriends
+Six people said they were coming. The chairs are still optimistic. 🪑 Find your people on Syzigy - link in bio. #adultfriendship #makingfriends
 ```
 
 ## YouTube Shorts (from post.md)
@@ -32,13 +32,13 @@ Unpopular opinion: one good group is enough. 💬 Find your people on Syzigy - l
 **Title**
 
 ```
-Unpopular opinion: one good group is enough #Shorts
+Six people said they were coming #Shorts
 ```
 
 **Description**
 
 ```
-Adult friendship doesn't need a giant friend list. One good group that actually replies 💬🫶
+Adult friendship: six chairs, snacks out, and one more check of the group chat 🪑📱
 Find your people on Syzigy. Link in channel.
 #adultfriendship #makingfriends #relatable
 ```

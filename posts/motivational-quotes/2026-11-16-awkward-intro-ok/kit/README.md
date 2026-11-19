@@ -8,7 +8,7 @@ Placeholders: none
 ## TikTok caption
 
 ```
-Making friends after 25 comes with a lot of rehearsed texts 💬😅 All of it is completely normal. Send this to the friend who was worth the ten-minute draft.
+Making friends after 25 comes with a lot of rehearsed texts 💬😅 Send this to the friend who was worth the ten-minute draft.
 
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
 
@@ -28,7 +28,7 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 ## Snapchat caption (post.md)
 
 ```
-Making friends after 25 feels weird, and it's completely normal. 💬 Find small groups that talk back on Syzigy - link in bio. #makingfriends #adultfriendship
+Making friends after 25: so many rehearsed texts. 💬 Find small groups that talk back on Syzigy - link in bio. #makingfriends #adultfriendship
 ```
 
 ## YouTube Shorts (from post.md)
@@ -36,13 +36,13 @@ Making friends after 25 feels weird, and it's completely normal. 💬 Find small
 **Title**
 
 ```
-Making friends after 25 feels weird but it's normal #Shorts
+Making friends after 25: so many rehearsed texts #Shorts
 ```
 
 **Description**
 
 ```
-Asking for a number, planning three weeks out, rehearsing a two-line text. All normal 💬
+Asking for a number, planning three weeks out, rehearsing a two-line text 💬
 Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in channel.
 #makingfriends #adultfriendship #friendship
 ```

@@ -26,33 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:small-rooms-over-follows@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:8
-DTSTART;TZID=America/New_York:20261111T213845
-DTEND;TZID=America/New_York:20261111T215345
-SUMMARY:[Posted] Small rooms > big follow counts [TT/IG/SC]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
- osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
- .vijostudio.com/posts/motivational-quotes/2026-11-11-small-rooms-over-foll
- ows/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ove
- rview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 1-small-rooms-over-follows/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Small rooms > big follow counts [TT/IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Small rooms > big follow counts [TT/IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:found-family-28@syzigy-media.vijostudio.com
 DTSTAMP:20261112T193201Z
 SEQUENCE:9
@@ -681,40 +654,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:belonging-is-a-reply@syzigy-media.vijostudio.com
-DTSTAMP:20261119T021830Z
-SEQUENCE:10
+DTSTAMP:20261119T051508Z
+SEQUENCE:11
 DTSTART;TZID=America/New_York:20261118T210000
 DTEND;TZID=America/New_York:20261118T211500
-SUMMARY:[Needs you] Adult friendship is saying "we should hang out soon" fo
- r six months straight [TT/IG/SC/YT]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
- , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
- napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
- r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
-  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
- , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
- omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
- ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
- rom the kit. Title and description are in the kit's YouTube Shorts section
-  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
- 1-15-belonging-is-a-reply/kit/\nDashboard: https://syzigy-media.vijostudio
- .com/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: IG\, YT] Adult friendship is saying "we should hang out so
+ on" for six months straight [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, YT\nPlatforms: TikTok+Instagram+Snapchat+
+ YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\,
+  then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSn
+ apchat: posted.\nYouTube Shorts: hand-post the same 9:16 reel from the kit
+ . Title and description are in the kit's YouTube Shorts section when Ella 
+ has written a ### YouTube block\; otherwise copy is pending.\n\nKit: https
+ ://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-15-belong
+ ing-is-a-reply/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
+ 3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
  5-belonging-is-a-reply/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friendship is saying "we should hang out soon
- " for six months straight [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, YT] Adult friendship is saying "we should hang ou
+ t soon" for six months straight [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult friendship is saying "we should hang out soon
- " for six months straight [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, YT] Adult friendship is saying "we should hang ou
+ t soon" for six months straight [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1962,6 +1930,99 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Having friends over when you have a pet: a starter 
  pack [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-one-am-nobody-to-show@syzigy-media.vijostudio.com
+DTSTAMP:20261119T051508Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261125T090000
+DTEND;TZID=America/New_York:20261125T091500
+SUMMARY:Approve: You finish something you made at 1 AM and there's nobody t
+ o show it to who actually gets it
+DESCRIPTION:one-am-nobody-to-show is 'Approve' and is due 2026-11-26 21:00 
+ ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Insta
+ gram and Snapchat. Approve or skip it in the Commander chat (or the dashbo
+ ard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/art/2
+ 026-11-18-one-am-nobody-to-show/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/art/2026-11-18-one-am-nobody-
+ to-show/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: You finish something you made at 1 AM and there's nobo
+ dy to show it to who actually gets it in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: You finish something you made at 1 AM and there's nobo
+ dy to show it to who actually gets it in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-same-fictional-character-opinions@syzigy-media.vijostudio.com
+DTSTAMP:20261119T051508Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261125T090000
+DTEND;TZID=America/New_York:20261125T091500
+SUMMARY:Approve: The fastest way to make a friend after 25: find out you bo
+ th have strong opinions about the same fictional character
+DESCRIPTION:same-fictional-character-opinions is 'Approve' and is due 2026-
+ 11-26 12:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers Ti
+ kTok\, Instagram and Snapchat. Approve or skip it in the Commander chat (o
+ r the dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com
+ /posts/fandoms/2026-11-18-same-fictional-character-opinions/kit/\nDashboar
+ d: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/fandoms/2026-11-18-same-ficti
+ onal-character-opinions/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: The fastest way to make a friend after 25: find out yo
+ u both have strong opinions about the same fictional character in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: The fastest way to make a friend after 25: find out yo
+ u both have strong opinions about the same fictional character in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-thanksgiving-old-squad-online@syzigy-media.vijostudio.com
+DTSTAMP:20261119T051508Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261125T090000
+DTEND;TZID=America/New_York:20261125T091500
+SUMMARY:Approve: Everyone's home for Thanksgiving\, so the old squad is fin
+ ally online at the same time again
+DESCRIPTION:thanksgiving-old-squad-online is 'Approve' and is due 2026-11-2
+ 6 17:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok
+ \, Instagram and Snapchat. Approve or skip it in the Commander chat (or th
+ e dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/pos
+ ts/gaming-squads/2026-11-18-thanksgiving-old-squad-online/kit/\nDashboard:
+  https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-than
+ ksgiving-old-squad-online/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Everyone's home for Thanksgiving\, so the old squad is
+  finally online at the same time again in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Everyone's home for Thanksgiving\, so the old squad is
+  finally online at the same time again in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

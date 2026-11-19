@@ -24,7 +24,7 @@ Adult game night: two hours of picking, forty minutes of playing, and somebody a
 ## Snapchat caption (post.md)
 
 ```
-Two hours picking a game, 40 minutes playing. 🎮⏰ Find people who play what you play on Syzigy - link in bio. #gamenight #gamingfriends
+Adult game night: two hours picking, 40 minutes playing. 🎮⏰ Find people who play what you play on Syzigy - link in bio. #gamenight #gamingfriends
 ```
 
 ## YouTube Shorts (from post.md)
@@ -32,7 +32,7 @@ Two hours picking a game, 40 minutes playing. 🎮⏰ Find people who play what 
 **Title**
 
 ```
-Two hours picking a game, 40 minutes playing #Shorts
+Adult game night: two hours picking, 40 playing #Shorts
 ```
 
 **Description**

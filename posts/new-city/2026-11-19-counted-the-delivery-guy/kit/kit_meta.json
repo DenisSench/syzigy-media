@@ -1,0 +1,39 @@
+{
+  "post": "new-city/2026-11-19-counted-the-delivery-guy",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.533333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-19T12:10:51-05:00",
+  "files": {
+    "cover.jpg": "f18c0659ae61d657a5161af9ff0a2b49816bc93cbea0ca02982e72b30abd5b7c",
+    "kit/README.md": "f4c1ba3f281c173599681c90e843e8e29bc799a49cedfb368b3efaa52b587d43",
+    "kit/index.html": "a9b9598c65130c7714094a298532093a5740f47cd9d3b69b3d965a0d31627535",
+    "kit/instagram_caption.txt": "cfe72141f011666a0d703e0089b037a21a9959b0557e681742bf8d41541ebabb",
+    "kit/snapchat_caption.txt": "ff33984165295516761150e34c84ea7f10836a4abead8d169556024feb656e73",
+    "kit/tiktok_caption.txt": "9c5daf31aeafcc0efed22d2aa50c46652865b1bd1ef6206e6229a9365b999233",
+    "kit/youtube_description.txt": "3703f96a758afe9ba57dc3ce057d13a4eac4b4a0df98308c762d7e98296d669c",
+    "kit/youtube_title.txt": "8d3eaa8a4d0e5accfc6698287e02db83b21eb49c8a28c0c480dc08dc343ebc94",
+    "reel.mp4": "efb13a5384dd72cdb2e20de21efa9611de28c92446d57517d06b84713f2ce785",
+    "slides/01.jpg": "f18c0659ae61d657a5161af9ff0a2b49816bc93cbea0ca02982e72b30abd5b7c",
+    "slides/02.jpg": "ce65d0f24512000f7671c906ee2da7d96fbc6a1da867f536863a25f584855315",
+    "slides/03.jpg": "db30bfc8cf8946be0c333c55cf6052a961e29a17859159d6e3b88120f0422efe",
+    "slides/04.jpg": "94f2c654f5bc47b898e25eaa98a1a423a7ed88819326213d92f4cd76cc23bd89",
+    "slides/05.jpg": "fefcb0867af46239de78c7b888c8c7f3ea02af6824bfe5fbf086b84de93b4d3a",
+    "slides/06.jpg": "03aeb6ce93cf9c917054de3a57262b1e8fe0b4c53c3a1693b8eab70f6e4c1873",
+    "slides/07.jpg": "c9d244cae5b07ce099f3450b854396d3f34ee0f252df6726e3dd60b2795e6d89",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "6a7ea940c8302578a61044c8ae0bf1fdd2cec0511fff6bea50a551159544143f"
+  }
+}

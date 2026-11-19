@@ -764,38 +764,38 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:after-work-coop-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261118T155758Z
-SEQUENCE:2
+DTSTAMP:20261119T171051Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261119T120000
 DTEND;TZID=America/New_York:20261119T121500
-SUMMARY:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT]
-DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
- \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
- ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
-  hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone.
-  2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memorie
- s\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose
-  Spotlight\, paste the caption and hashtags\, then Post. Or on a computer:
-  my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Capt
- ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
- kit. Title and description are in the kit's YouTube Shorts section when El
- la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-after-wor
- k-coop-starter/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
- 3d5sy2/#overview
+SUMMARY:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT]
+DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
+ +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
+ , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
+ napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
+ r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
+  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
+ , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
+ omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
+ ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
+ rom the kit. Title and description are in the kit's YouTube Shorts section
+  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-a
+ fter-work-coop-starter/kit/\nDashboard: https://syzigy-media.vijostudio.co
+ m/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-afte
  r-work-coop-starter/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT] i
+DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
  n 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] After-work co-op night starter pack [TT/IG/SC/YT] i
+DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
  n 5 min
 TRIGGER:-PT5M
 END:VALARM
@@ -2406,13 +2406,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:time-zone-friend-group-games@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:barista-closest-friend@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261128T170000
 DTEND;TZID=America/New_York:20261128T171500
-SUMMARY:[Needs you] Games to play when your friend group lives in four diff
- erent time zones [TT/IG/SC/YT]
+SUMMARY:[Needs you] Three months in a new city and my closest friend is the
+  barista who knows my order. [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2424,23 +2424,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-time-zone-f
- riend-group-games/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal
- -tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-time
- -zone-friend-group-games/kit/
+ s://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-barista-closest-
+ friend/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
+ overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-barista-c
+ losest-friend/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Games to play when your friend group lives in four 
- different time zones [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Three months in a new city and my closest friend is
+  the barista who knows my order. [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Games to play when your friend group lives in four 
- different time zones [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Three months in a new city and my closest friend is
+  the barista who knows my order. [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2679,13 +2679,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cancel-everything-but-game-night@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:apartment-weekend-friends-year@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261130T210000
 DTEND;TZID=America/New_York:20261130T211500
-SUMMARY:[Needs you] Adult life is cancelling every plan except game night [
- TT/IG/SC/YT]
+SUMMARY:[Needs you] Moving cities: the apartment took one weekend. The frie
+ nds are taking a year. [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2697,33 +2697,34 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cancel-ever
- ything-but-game-night/kit/\nDashboard: https://syzigy-media.vijostudio.com
- /cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-canc
- el-everything-but-game-night/kit/
+ s://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-apartment-weeken
+ d-friends-year/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn
+ 3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-apartment
+ -weekend-friends-year/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult life is cancelling every plan except game nig
- ht [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Moving cities: the apartment took one weekend. The 
+ friends are taking a year. [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Adult life is cancelling every plan except game nig
- ht [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Moving cities: the apartment took one weekend. The 
+ friends are taking a year. [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:need-pet-friends-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:counted-the-delivery-guy@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261201T120000
 DTEND;TZID=America/New_York:20261201T121500
-SUMMARY:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT]
+SUMMARY:[Needs you] My mom asked if I've made friends here yet and I counte
+ d the delivery guy. [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2735,23 +2736,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-need-pet-friends-sig
- ns/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#over
- view
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-need-pet-frie
- nds-signs/kit/
+ s://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-counted-the-deli
+ very-guy/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2
+ /#overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-counted-t
+ he-delivery-guy/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT
- ] in 30 min
+DESCRIPTION:[Needs you] My mom asked if I've made friends here yet and I co
+ unted the delivery guy. [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT
- ] in 5 min
+DESCRIPTION:[Needs you] My mom asked if I've made friends here yet and I co
+ unted the delivery guy. [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -3066,6 +3067,122 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
  d's game night [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:need-pet-friends-signs@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261204T120000
+DTEND;TZID=America/New_York:20261204T121500
+SUMMARY:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-need-pet-friends-sig
+ ns/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#over
+ view
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-need-pet-frie
+ nds-signs/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT
+ ] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Signs you need more pet-person friends [TT/IG/SC/YT
+ ] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:time-zone-friend-group-games@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261204T170000
+DTEND;TZID=America/New_York:20261204T171500
+SUMMARY:[Needs you] Games to play when your friend group lives in four diff
+ erent time zones [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-time-zone-f
+ riend-group-games/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal
+ -tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-time
+ -zone-friend-group-games/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Games to play when your friend group lives in four 
+ different time zones [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Games to play when your friend group lives in four 
+ different time zones [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cancel-everything-but-game-night@syzigy-media.vijostudio.com
+DTSTAMP:20261119T171051Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261204T210000
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:[Needs you] Adult life is cancelling every plan except game night [
+ TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cancel-ever
+ ything-but-game-night/kit/\nDashboard: https://syzigy-media.vijostudio.com
+ /cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-canc
+ el-everything-but-game-night/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Adult life is cancelling every plan except game nig
+ ht [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Adult life is cancelling every plan except game nig
+ ht [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

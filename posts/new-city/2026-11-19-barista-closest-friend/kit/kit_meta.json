@@ -1,0 +1,39 @@
+{
+  "post": "new-city/2026-11-19-barista-closest-friend",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 22.933333,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-19T12:10:51-05:00",
+  "files": {
+    "cover.jpg": "41de444e5c9d52d69843bab7aeea797de59f60cb6103a831b704d91ff635431a",
+    "kit/README.md": "c359178bb510a1f0fe876d728f8fbc7afe4b48d40834ea893a301b5c7adf6078",
+    "kit/index.html": "33a6e97e8354635fc3d2417ba37e73c760229e156652cdb7c541fdf02a0c3210",
+    "kit/instagram_caption.txt": "992bbb7630a47d55872370230940b8a1caaf396f3473e07937576901f8cb400a",
+    "kit/snapchat_caption.txt": "80506ef188472462a09a3fbbda53b8136ea01df616eb277cb69a4eaca9edacff",
+    "kit/tiktok_caption.txt": "1483a0daef82ade844f6a4ab305ce14d876de0acd7ee948cbb8a9d3d19bb9ed6",
+    "kit/youtube_description.txt": "7c98c8d752155e0e61cbce2c7373f2c8dcfbb181a93cdc5a90967628baf1a369",
+    "kit/youtube_title.txt": "f51ca0b61c39ec1ddd223860492274ba4f03f8e7391982d9606b7ff7a17d21d9",
+    "reel.mp4": "b2160c1c75eb48450d0ae9700252b267e62664ecc86e6fcf09ba018845da9d75",
+    "slides/01.jpg": "41de444e5c9d52d69843bab7aeea797de59f60cb6103a831b704d91ff635431a",
+    "slides/02.jpg": "fbc4f7c67e5317dd8247ab62dee78bbdd43eab305dc75117c1efa9e2cc45bb18",
+    "slides/03.jpg": "3085af648351ffa2ee16e4bfc944ac297456aa52bc24a0a9faa639c3d0b7d00c",
+    "slides/04.jpg": "61448b63ddb46e6eb97a6b86029157b136ce2f83547baca88a8d5c05338e0887",
+    "slides/05.jpg": "22231096a5004cd381d62886bdc5e174b21c94809f8f429652b215f56b41bf5a",
+    "slides/06.jpg": "8cc82198e8860dcdeb806ea79a053c121bd5197ca518cd7bdc8a1aa1a1ac8bf6",
+    "slides/07.jpg": "5eab1b4882f52190edd847b0f7f96dee87d6621a5677d018953e6e88e4779814",
+    "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "0eb5361bd8429b009a16ec730fd66447b15518c81f35f3af8cde152c73226515"
+  }
+}

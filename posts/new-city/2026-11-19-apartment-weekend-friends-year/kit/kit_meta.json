@@ -1,0 +1,40 @@
+{
+  "post": "new-city/2026-11-19-apartment-weekend-friends-year",
+  "format": "native-reel",
+  "version": "v10",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 26.166667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-19T12:10:51-05:00",
+  "files": {
+    "cover.jpg": "d6ebe6efea03dffaf08e18dfe3fa21e324c1eeeb7b9292b8b18a8498ac357346",
+    "kit/README.md": "33e5d5f7a54d349da50b558d74792d4d4edb25004375012fdfeb80ac16c3f6a7",
+    "kit/index.html": "ba55d731e434437bb949ecc9ef377c7c4814cbffcf0f953cd7363fa63b3468d2",
+    "kit/instagram_caption.txt": "03ce2f87f9e19ffcf618ee4ef34e6634ff069ac9e85f2ca63e39f15d524a0175",
+    "kit/snapchat_caption.txt": "4a099ea5db947f0c505c4960687a48a7824e842dc4de7d3446dbb2497326b0ac",
+    "kit/tiktok_caption.txt": "a8e834830b83e39075d8aabdbac27fe94f8413425d4c58b480c008482d4add26",
+    "kit/youtube_description.txt": "0ae70d450bab3d6fce64f4bcea609ed3f987c65209c4dc46ba5f13207e7df62f",
+    "kit/youtube_title.txt": "ed8b4b4b2f713fd2793a93268407dd741b8a13bb52187604769672931616d8da",
+    "reel.mp4": "4070d388a506e51897ee221b4f07cb3fc2683e5f9b238d2bea5140baaf4cd5c5",
+    "slides/01.jpg": "d6ebe6efea03dffaf08e18dfe3fa21e324c1eeeb7b9292b8b18a8498ac357346",
+    "slides/02.jpg": "90598bd7762b171a64d2f189f0589c0cc475b961f4f660d71266c2d32a8063cc",
+    "slides/03.jpg": "f3c2fe91db25385865d726351b997b3fa0f7d0616deb40b25cdaaf1b9d94788e",
+    "slides/04.jpg": "baa0d5eea21f02dea1ca740bcbb0081eabda6e416bed4f4cecb8c132b7e5c83b",
+    "slides/05.jpg": "57c4f156ad32dfcb73a90940cac6fae14710e337303c17fc679670325907380a",
+    "slides/06.jpg": "cdf55d6a7a53542f4d836c41d6d59e97733e7eedd5f2a993c24b3db35f44a81c",
+    "slides/07.jpg": "4bf2a22b5c77a46c4270f9be4443f539b830974fbb551096bab5cd6e6bb59dd9",
+    "slides/08.jpg": "1b85f41ad4453826cdbf71eb9becafe0bcec603ea990fe26d7f51eb08c53a26d",
+    "slides/09.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
+    "slides.zip": "07ce2b0ee04f8385ecf2716ca4eca615de75c216efb1b82ad1ce37ed68f91d9f"
+  }
+}

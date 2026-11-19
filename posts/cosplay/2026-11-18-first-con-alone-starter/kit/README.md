@@ -32,7 +32,7 @@ First con alone: a two-hour line, then lunch with someone in the same costume. ð
 **Title**
 
 ```
-Your first con alone, a starter pack #Shorts
+Going to your first con without a single friend #Shorts
 ```
 
 **Description**

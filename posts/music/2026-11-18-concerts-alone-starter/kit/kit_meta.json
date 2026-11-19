@@ -5,6 +5,7 @@
   "review_status": "review",
   "slot": "1",
   "slot_time": "12:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
     "reel_seconds": 24.533333,
@@ -15,18 +16,18 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-18T13:05:22-05:00",
+  "built": "2026-11-19T12:38:25-05:00",
   "files": {
-    "cover.jpg": "38512433c9f99acc8e3af3d3978b9c4a1a6e5a89b172940a531c55bb34689e01",
-    "kit/README.md": "cc0dbeab1df3a89744ddefb96250ca629487096cce9205de2b5d8fd9fc128e68",
-    "kit/index.html": "4c1dab5778d3f62bd3b9a3b1196d175073ef975c56f934d597affc754030201a",
+    "cover.jpg": "67f13b5b50fcf3488daee51968241f0ddb6ba6dd46e6f65ae13e271d0624a569",
+    "kit/README.md": "6244562991541f6c29dfde1a3b9597bfb66450031b4fc23691e5d918a400e533",
+    "kit/index.html": "b9265d30324b6e00fdee0a6f2376e41d6955029d93bb9b89a16b695df1b136f3",
     "kit/instagram_caption.txt": "db1e44e8cc077cd232df0fc85271c5dae3d4beee43aa73364055e0801b53fe2c",
     "kit/snapchat_caption.txt": "e76c7e217aeed5b99d3217e28d0ddc2f66a4e6bb1dbe1021861b0953f2423524",
     "kit/tiktok_caption.txt": "bb9f7a91519d70a7bfe2ef52074ad11d4eeeb37e80aabdf426a77c65e57ad6ec",
     "kit/youtube_description.txt": "40600051d744d181d861cd8facdef5fdad3b26b5c3770e85a9c621565c28354a",
-    "kit/youtube_title.txt": "dfd646c37bc5b3529b6402e8e679bb3585198db090dddc0f83aad2e74f4b3fc5",
-    "reel.mp4": "458bcdd0cf5c0c2422d7e673831e51802b7c7b7dde344f6bbccd9eaa54d9d4af",
-    "slides/01.jpg": "38512433c9f99acc8e3af3d3978b9c4a1a6e5a89b172940a531c55bb34689e01",
+    "kit/youtube_title.txt": "cc2507dd2b1a3456da108d3a8e764beb47655e86c20b67f099f6d17d6f776b95",
+    "reel.mp4": "736f105dbf3b384277d4860495317c9eaf5e5117e29f4627a3856bf2b3f68573",
+    "slides/01.jpg": "67f13b5b50fcf3488daee51968241f0ddb6ba6dd46e6f65ae13e271d0624a569",
     "slides/02.jpg": "e88b938d34d2c784177b74a1dbcebabf2e06727bfdd064c2d8e260c79d4b992f",
     "slides/03.jpg": "2a3eadc6366d17cf4f20835b6eab6f534a2f96d5baa0086a43d52f56281172c5",
     "slides/04.jpg": "54edb455afb09dd8a38024ef1d1e5ad6618fc23eaff7af7d191f38342417d1e9",
@@ -34,6 +35,6 @@
     "slides/06.jpg": "8bd8f2269f541d57aad61e11849bf054a7fb106779a1cbd30c3bcae6ffc4f5b0",
     "slides/07.jpg": "997d8aad66d8e5ebd46d6dfa15278229a32bd1926a35512294533c29341e9528",
     "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "31aeb27e537076547bac47a3398699b3ff4e1eb87ade44f5be677a80f91a1315"
+    "slides.zip": "6e1e88024e1b128f62869690eb7f499a770e7d720e2cd5373775488b3b7ea565"
   }
 }

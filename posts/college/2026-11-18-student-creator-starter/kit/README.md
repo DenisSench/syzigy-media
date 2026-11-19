@@ -32,7 +32,7 @@ Full-time student, part-time creator, zero-time social life. 🎬📚 Find other
 **Title**
 
 ```
-Full-time student, part-time creator, a starter pack #Shorts
+Student creator, zero-time social life #Shorts
 ```
 
 **Description**

@@ -32,7 +32,7 @@ Concerts alone: party of one at doors, someone to text by the next show. ðŸŽ¤ðŸŽ
 **Title**
 
 ```
-Going to concerts alone as an adult, a starter pack #Shorts
+Nobody could come, so you went to the concert alone #Shorts
 ```
 
 **Description**

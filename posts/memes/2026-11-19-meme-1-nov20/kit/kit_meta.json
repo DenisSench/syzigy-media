@@ -1,13 +1,14 @@
 {
   "post": "memes/2026-11-19-meme-1-nov20",
   "format": "native-reel",
-  "version": "v1",
+  "version": "v2",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
+  "ai_imagery": true,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 9.733333,
+    "reel_seconds": 8.0,
     "over_60s": false
   },
   "youtube": {
@@ -15,15 +16,15 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T12:23:14-05:00",
+  "built": "2026-11-19T14:24:24-05:00",
   "files": {
-    "kit/README.md": "1a3faa40dc4b14b773bf420f9fbe0a36687e28cc838288b7984518390bd5f381",
-    "kit/index.html": "0fb95e412dde50e1c0bfe6b22763b6fdccd830c4c87fefdd92a9012be87f6119",
-    "kit/instagram_caption.txt": "c8047e77ce1f85cd18f3d2cf870f76d44a20a9cd0d0bfcb68e11579f393dda63",
-    "kit/snapchat_caption.txt": "454578179244a0002bf3fb2138194ec86e9d4f83aedb5a9f1482fd231cc54c73",
-    "kit/tiktok_caption.txt": "db97911664094139a3f9f804f3274822c343f289c101dd8058bd50f6ff14bd25",
-    "kit/youtube_description.txt": "265b2d8c44af4900950e0d4b0bf5868a4d07d1165925d4e267c243ce8100b93a",
-    "kit/youtube_title.txt": "7fc1de5a7d1106f8dd80ce9f4d0c18131c568153d14b1a6edaa268e0502d21b8",
-    "reel.mp4": "51264032e0ea03410b95ad85b1550df2c0fb8708a7544f7d2a416306836d2c60"
+    "kit/README.md": "be5c91d2294c8b9637754b11309827c691c49fd253c718f1ecf0f25f72cce223",
+    "kit/index.html": "a27ac92c77d5e8298a56cb699639f82fce35636e5a409487b17111eb594f77b7",
+    "kit/instagram_caption.txt": "2312ac52b5687b3ec5f73405a6d6fd9250fa050081d5366eeca568cc51b50928",
+    "kit/snapchat_caption.txt": "34fbd26ffe7d52286792f209b13e8c9dd4899dff14b0117420c3557f28439df2",
+    "kit/tiktok_caption.txt": "271553dd2d0448ebaa6c84eb5187acbf956c4e0b1944a99b2cc0d95160d2233c",
+    "kit/youtube_description.txt": "b7a39a534cc522cb5087175a923bef70a16ef71c418b3dbfc77e9204254feaa0",
+    "kit/youtube_title.txt": "9b0f2a76419f22334c6e7b9c900ba448367e573818bf6e6eb9ef4e7d85454f80",
+    "reel.mp4": "0a97406a6f790b9d8257f4c740419c80c3cadf0a90d0063f8e70f01cdd8c8799"
   }
 }

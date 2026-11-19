@@ -26,35 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:found-family-28@syzigy-media.vijostudio.com
-DTSTAMP:20261112T193201Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261112T133002
-DTEND;TZID=America/New_York:20261112T134502
-SUMMARY:[Posted] Found-family books hit different when you’re 28+ [TT/IG/
- SC]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat\nTikTok: p
- osted.\nInstagram: posted.\nSnapchat: posted.\n\nKit: https://syzigy-media
- .vijostudio.com/posts/book-clubs/2026-11-11-found-family-28/kit/\nDashboar
- d: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-11-found-f
- amily-28/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Found-family books hit different when you’re 28+ [TT
- /IG/SC] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Found-family books hit different when you’re 28+ [TT
- /IG/SC] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:belong-without-perform@syzigy-media.vijostudio.com
 DTSTAMP:20261113T033244Z
 SEQUENCE:10
@@ -1330,12 +1301,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:approve-hand-demo-1-nov23@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T091500
-SUMMARY:Approve: AI hand-on-phone app demo 1 (script from Ella in the Socia
- l sheet\; final wording is Ella's)
+SUMMARY:Approve: Making friends after 25 is a slow start
 DESCRIPTION:hand-demo-1-nov23 is 'Approve' and is due 2026-11-23 12:00 ET o
  n TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram
   and Snapchat. Approve or skip it in the Commander chat (or the dashboard 
@@ -1348,14 +1318,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: AI hand-on-phone app demo 1 (script from Ella in the S
- ocial sheet\; final wording is Ella's) in 30 min
+DESCRIPTION:Approve: Making friends after 25 is a slow start in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: AI hand-on-phone app demo 1 (script from Ella in the S
- ocial sheet\; final wording is Ella's) in 5 min
+DESCRIPTION:Approve: Making friends after 25 is a slow start in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1509,12 +1477,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:approve-hand-demo-2-nov24@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261123T090000
 DTEND;TZID=America/New_York:20261123T091500
-SUMMARY:Approve: AI hand-on-phone app demo 2 (script from Ella in the Socia
- l sheet\; final wording is Ella's)
+SUMMARY:Approve: New city\, and Friday is still just takeout
 DESCRIPTION:hand-demo-2-nov24 is 'Approve' and is due 2026-11-24 21:00 ET o
  n TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram
   and Snapchat. Approve or skip it in the Commander chat (or the dashboard 
@@ -1527,14 +1494,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: AI hand-on-phone app demo 2 (script from Ella in the S
- ocial sheet\; final wording is Ella's) in 30 min
+DESCRIPTION:Approve: New city\, and Friday is still just takeout in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: AI hand-on-phone app demo 2 (script from Ella in the S
- ocial sheet\; final wording is Ella's) in 5 min
+DESCRIPTION:Approve: New city\, and Friday is still just takeout in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1602,12 +1567,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hand-demo-1-nov23@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261123T120000
 DTEND;TZID=America/New_York:20261123T121500
-SUMMARY:[Needs you] AI hand-on-phone app demo 1 (script from Ella in the So
- cial sheet\; final wording is Ella's) [TT/IG/SC/YT]
+SUMMARY:[Needs you] Making friends after 25 is a slow start [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -1627,14 +1591,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 1 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Making friends after 25 is a slow start [TT/IG/SC/Y
+ T] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 1 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Making friends after 25 is a slow start [TT/IG/SC/Y
+ T] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1888,12 +1852,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hand-demo-2-nov24@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261124T210000
 DTEND;TZID=America/New_York:20261124T211500
-SUMMARY:[Needs you] AI hand-on-phone app demo 2 (script from Ella in the So
- cial sheet\; final wording is Ella's) [TT/IG/SC/YT]
+SUMMARY:[Needs you] New city\, and Friday is still just takeout [TT/IG/SC/Y
+ T]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -1913,14 +1877,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 2 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] New city\, and Friday is still just takeout [TT/IG/
+ SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 2 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] New city\, and Friday is still just takeout [TT/IG/
+ SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2333,13 +2297,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pet-people-first-30-seconds@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:hand-demo-4-music-nov27@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261127T210000
 DTEND;TZID=America/New_York:20261127T211500
-SUMMARY:[Needs you] Things pet people say to each other within 30 seconds o
- f meeting [TT/IG/SC/YT]
+SUMMARY:[Needs you] Music-themed hand-on-phone app demo (on-screen text fro
+ m Ella\; Ella has final say on wording) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2351,23 +2315,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-people-first-30-
- seconds/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
- #overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-people-fi
- rst-30-seconds/kit/
+ s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-4-music-n
+ ov27/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
+ erview
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-4-
+ music-nov27/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Things pet people say to each other within 30 secon
- ds of meeting [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Music-themed hand-on-phone app demo (on-screen text
+  from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Things pet people say to each other within 30 secon
- ds of meeting [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Music-themed hand-on-phone app demo (on-screen text
+  from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2567,13 +2531,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pet-voice-new-friend@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:hand-demo-5-art-nov29@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261129T210000
 DTEND;TZID=America/New_York:20261129T211500
-SUMMARY:[Needs you] The moment a new friend admits they also do a full voic
- e for their pet [TT/IG/SC/YT]
+SUMMARY:[Needs you] Art-themed hand-on-phone app demo (on-screen text from 
+ Ella\; Ella has final say on wording) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2585,23 +2549,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-voice-new-friend
- /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
- ew
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-voice-new
- -friend/kit/
+ s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-art-nov
+ 29/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#over
+ view
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-
+ art-nov29/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] The moment a new friend admits they also do a full 
- voice for their pet [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Art-themed hand-on-phone app demo (on-screen text f
+ rom Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] The moment a new friend admits they also do a full 
- voice for their pet [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Art-themed hand-on-phone app demo (on-screen text f
+ rom Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2840,13 +2804,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cozy-games-company@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:hand-demo-6-fandoms-dec02@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261202T120000
 DTEND;TZID=America/New_York:20261202T121500
-SUMMARY:[Needs you] Cozy games for when you want company\, not competition 
- [TT/IG/SC/YT]
+SUMMARY:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen text f
+ rom Ella\; Ella has final say on wording) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2858,23 +2822,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cozy-games-
- company/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
- #overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cozy
- -games-company/kit/
+ s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-fandoms
+ -dec02/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
+ overview
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-
+ fandoms-dec02/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy games for when you want company\, not competit
- ion [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen te
+ xt from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Cozy games for when you want company\, not competit
- ion [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen te
+ xt from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2960,12 +2924,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hand-demo-3-dec03@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261203T120000
 DTEND;TZID=America/New_York:20261203T121500
-SUMMARY:[Needs you] AI hand-on-phone app demo 3 (script from Ella in the So
- cial sheet\; final wording is Ella's) [TT/IG/SC/YT]
+SUMMARY:[Needs you] Weeknights after 30\, the group chat goes quiet [TT/IG/
+ SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -2985,14 +2949,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 3 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Weeknights after 30\, the group chat goes quiet [TT
+ /IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] AI hand-on-phone app demo 3 (script from Ella in th
- e Social sheet\; final wording is Ella's) [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Weeknights after 30\, the group chat goes quiet [TT
+ /IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -3036,13 +3000,13 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:new-person-joins-squad@syzigy-media.vijostudio.com
-DTSTAMP:20261118T175920Z
+UID:hand-demo-7-new-city-dec03@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261203T210000
 DTEND;TZID=America/New_York:20261203T211500
-SUMMARY:[Needs you] Things that happen when a new person joins the squad's 
- game night [TT/IG/SC/YT]
+SUMMARY:[Needs you] New-city-themed hand-on-phone app demo (on-screen text 
+ from Ella\; Ella has final say on wording) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -3054,23 +3018,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-new-person-
- joins-squad/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
- sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-new-
- person-joins-squad/kit/
+ s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-7-new-cit
+ y-dec03/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
+ #overview
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-7-
+ new-city-dec03/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
- d's game night [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] New-city-themed hand-on-phone app demo (on-screen t
+ ext from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
- d's game night [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] New-city-themed hand-on-phone app demo (on-screen t
+ ext from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -3420,6 +3384,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] 5 slides: a book that felt like making a friend [TT
  /IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pet-people-first-30-seconds@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261207T120000
+DTEND;TZID=America/New_York:20261207T121500
+SUMMARY:[Needs you] Things pet people say to each other within 30 seconds o
+ f meeting [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-people-first-30-
+ seconds/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
+ #overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-people-fi
+ rst-30-seconds/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Things pet people say to each other within 30 secon
+ ds of meeting [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Things pet people say to each other within 30 secon
+ ds of meeting [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pet-voice-new-friend@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T171500
+SUMMARY:[Needs you] The moment a new friend admits they also do a full voic
+ e for their pet [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-voice-new-friend
+ /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
+ ew
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-18-pet-voice-new
+ -friend/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] The moment a new friend admits they also do a full 
+ voice for their pet [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] The moment a new friend admits they also do a full 
+ voice for their pet [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cozy-games-company@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261207T210000
+DTEND;TZID=America/New_York:20261207T211500
+SUMMARY:[Needs you] Cozy games for when you want company\, not competition 
+ [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cozy-games-
+ company/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
+ #overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-cozy
+ -games-company/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Cozy games for when you want company\, not competit
+ ion [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Cozy games for when you want company\, not competit
+ ion [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-person-joins-squad@syzigy-media.vijostudio.com
+DTSTAMP:20261119T192424Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261208T120000
+DTEND;TZID=America/New_York:20261208T121500
+SUMMARY:[Needs you] Things that happen when a new person joins the squad's 
+ game night [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-new-person-
+ joins-squad/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
+ sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-18-new-
+ person-joins-squad/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
+ d's game night [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
+ d's game night [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

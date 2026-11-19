@@ -2,29 +2,29 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Fri Nov 20, 5:00 PM ET
-Source: posts/memes/2026-11-19-meme-1-nov20/v1
+Source: posts/memes/2026-11-19-meme-1-nov20/v2
 Placeholders: none
 
 ## TikTok caption
 
 ```
-Adult friendship: you ask the group chat about Saturday, it leaves you on read, and you offer Sunday anyway 💬👀 Find your people on Syzigy. Link in bio.
+Making friends as an adult: finally texted first. Now sitting very still, pretending I'm not waiting for the reply 🐈📱 Find your people on Syzigy. Link in bio.
 
-#adultfriendship #groupchat #makingfriends #relatable #syzigy
+#adultfriendship #makingfriends #memes #relatable #syzigy
 ```
 
 ## Instagram caption
 
 ```
-Left on read by the group chat, still offering Sunday 💬 Find your people on Syzigy. Link in bio.
+Texted first. Became a loaf. Adult friendship is going great 🐈 Find your people on Syzigy. Link in bio.
 
-#adultfriendship #groupchat #makingfriends #syzigy
+#adultfriendship #makingfriends #memes #syzigy
 ```
 
 ## Snapchat caption (post.md)
 
 ```
-The group chat left you on read, so you offered Sunday too. 💬 Find your people on Syzigy - link in bio. #adultfriendship #groupchat
+Finally texted first. Now sitting very still until they reply. 🐈 Find your people on Syzigy - link in bio. #adultfriendship #makingfriends
 ```
 
 ## YouTube Shorts (from post.md)
@@ -32,13 +32,13 @@ The group chat left you on read, so you offered Sunday too. 💬 Find your peopl
 **Title**
 
 ```
-Left on read by the group chat, so you offer Sunday #Shorts
+Me after I finally text first #Shorts
 ```
 
 **Description**
 
 ```
-Adult friendship: the group chat leaves you on read and you still offer Sunday 💬👀
+Making friends as an adult: sent the text, became a loaf, waiting for the reply 🐈📱
 Find your people on Syzigy. Link in channel.
-#adultfriendship #groupchat #relatable
+#adultfriendship #makingfriends #relatable
 ```

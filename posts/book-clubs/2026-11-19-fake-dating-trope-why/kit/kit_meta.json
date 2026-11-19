@@ -3,8 +3,9 @@
   "format": "native-reel",
   "version": "v10",
   "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "slot": "2",
+  "slot_time": "17:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
     "reel_seconds": 16.866667,
@@ -15,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:30-05:00",
+  "built": "2026-11-19T12:31:28-05:00",
   "files": {
     "cover.jpg": "6fc2ac2be9bf915ba791f8d0e9de5ced1a530844d16cebb5721656510c019769",
-    "kit/README.md": "ed7322a2346f9c33ecbdfba8818fdb0df514c6efda01bc9de268bbb6ec5302bb",
-    "kit/index.html": "b5e64595ebb3d2c1773f89bae7ab57028680b35ecaf6a3ee8d64df79335d23d7",
+    "kit/README.md": "34b796b1ae99866817c8093a3ed6263697baf016a896d9b7dca4a54d04aa65c4",
+    "kit/index.html": "e88d183d4e98ae6e90d22022b6ad390b9eb9fb87518fa9eeca7b53042b0afd72",
     "kit/instagram_caption.txt": "ac5371c7231d566a9f8fdfc18c38f26214efaea549cdfda28ef09fe24d718faa",
     "kit/snapchat_caption.txt": "5006991c7422b61e18ec9cf555349647a37a8bad92ed67fed129c9ca5f8a0407",
     "kit/tiktok_caption.txt": "6046a0cf0ad7b0897dea76200228528f7a85e24f1ba7561c3103e73b78d8ddae",
@@ -33,5 +34,9 @@
     "slides/05.jpg": "865c159aa09c5d60df1541f5301527412bf5543d583cf0307c6758de5a566cf4",
     "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
     "slides.zip": "29554fd540ff6f0ba120377b1bad6ac11517232aa242e74530a09ca37f5843cd"
-  }
+  },
+  "notes": "post.md sha changed because Ella updated only the Slot line; on-frame copy and captions are unchanged. v10 reel reused (sha 4d6f52d8d626abef7023deebd613f453008ed8f59413d3c16d3eca0de3420504); not re-rendered. 1 line(s) differ vs post.md.bak-20261119-slot; slot-only=True (- **Slot:** Sat Nov 21, 2026 \u00b7 9:00 PM ET (America/New_York, ET) -> - **Slot:** Sun Dec 6, 2026 \u00b7 5:00 PM ET (America/New_York, ET)).",
+  "reel_reused": true,
+  "reel_sha": "4d6f52d8d626abef7023deebd613f453008ed8f59413d3c16d3eca0de3420504",
+  "slot_date": "2026-12-06"
 }

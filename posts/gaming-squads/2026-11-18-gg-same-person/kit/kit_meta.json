@@ -3,8 +3,9 @@
   "format": "native-reel",
   "version": "v10",
   "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "slot": "3",
+  "slot_time": "21:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
     "reel_seconds": 20.9,
@@ -15,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-18T13:10:32-05:00",
+  "built": "2026-11-19T12:31:28-05:00",
   "files": {
     "cover.jpg": "55791ff3bec6727c792b70008d10216c6fb520414e0b97f093b4f95c361e1173",
-    "kit/README.md": "62556ea29db1723b9fccc08171c53c04c31908b23fcdc79db8d58edfbef219fd",
-    "kit/index.html": "3565ff5854a8ceb0ef9a30c94fc3a679d18f3c8932dcda8bf3b7f8ba6862049b",
+    "kit/README.md": "ce48bf73d2e149cef0fdefa5c9a2dc28c995129ad51cf0790f742814ff10a6de",
+    "kit/index.html": "ea19a38147ff25535c341f73d8ecfdeea44e634afbdb49391700ac0078c713f4",
     "kit/instagram_caption.txt": "c99ddd6867f0d5ccd1f87da7828eb2fa135a9390ec375c8b77dd265709639d64",
     "kit/snapchat_caption.txt": "25f3bcb6d9b21b27690fda5706f35069d3fe8e9fd8a55f148e518e889327c84f",
     "kit/tiktok_caption.txt": "d44b878de32fc7c8dfdb3885120bea1e6c3e6af9321777caa86eb6c8f81f80f6",
@@ -34,5 +35,9 @@
     "slides/06.jpg": "700e79b45d8a91a7d3c26f77aa72fb7e879feb1c307d133fd5898430c8c98d22",
     "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
     "slides.zip": "8361b16a264af79d4aeb2ea56e349b13bfb6ba65f20aac566df6af2208226571"
-  }
+  },
+  "notes": "post.md sha changed because Ella updated only the Slot line; on-frame copy and captions are unchanged. v10 reel reused (sha f64c34c2757aa74ea2aa045bc7882dc128c388c156357cc992e6ca0e68b2baf2); not re-rendered. 1 line(s) differ vs post.md.bak-20261119-slot; slot-only=True (- **Slot:** Thu Dec 3, 2026 \u00b7 12:00 PM ET (America/New_York, ET) -> - **Slot:** Sat Dec 5, 2026 \u00b7 9:00 PM ET (America/New_York, ET)).",
+  "reel_reused": true,
+  "reel_sha": "f64c34c2757aa74ea2aa045bc7882dc128c388c156357cc992e6ca0e68b2baf2",
+  "slot_date": "2026-12-05"
 }

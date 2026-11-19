@@ -738,39 +738,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:after-work-coop-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261119T171051Z
-SEQUENCE:3
+DTSTAMP:20261119T201608Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261119T120000
 DTEND;TZID=America/New_York:20261119T121500
-SUMMARY:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
- , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
- napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
- r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
-  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
- , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
- omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
- ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
- rom the kit. Title and description are in the kit's YouTube Shorts section
-  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-a
- fter-work-coop-starter/kit/\nDashboard: https://syzigy-media.vijostudio.co
- m/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] After-work co-op night starter pack [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then publ
+ ish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: po
+ sted.\nYouTube: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/
+ gaming-squads/2026-11-19-after-work-coop-starter/kit/\nDashboard: https://
+ syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-19-afte
  r-work-coop-starter/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
- n 30 min
+DESCRIPTION:[Posted] After-work co-op night starter pack [TT/IG/SC/YT] in 3
+ 0 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] After-work co-op night starter pack [TT/IG/SC/YT] i
- n 5 min
+DESCRIPTION:[Posted] After-work co-op night starter pack [TT/IG/SC/YT] in 5
+  min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

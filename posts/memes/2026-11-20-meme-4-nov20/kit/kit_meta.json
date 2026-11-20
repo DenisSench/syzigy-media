@@ -1,0 +1,30 @@
+{
+  "post": "memes/2026-11-20-meme-4-nov20",
+  "format": "native-reel",
+  "version": "v3",
+  "review_status": "review",
+  "slot": "3",
+  "slot_time": "21:00",
+  "ai_imagery": true,
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 8.5,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-20T13:03:38-05:00",
+  "files": {
+    "kit/README.md": "0fd912ee7982d09c4be92097c2b6240330271db1323cd184eceaab6b275d9390",
+    "kit/index.html": "ecee85dd05ce9b252e8fbe38304a561026d5cebe3574f0abd7fc970574da1422",
+    "kit/instagram_caption.txt": "75abdd70a3ddbb24cd5af985d0d5053a64c95c4b2df8332aa26dfb75007a958c",
+    "kit/snapchat_caption.txt": "d9627cf1bb6084fb85e80aaf55de36f14ae431b25e10a717b697fe29789a0d47",
+    "kit/tiktok_caption.txt": "4274a7ededbcc393a0794709bf5a9937afadc40d6e03cc7e46958f072aef8d99",
+    "kit/youtube_description.txt": "e8cfc5536cb4500f1a1e72d55ff4007789a73b4231bc67a10e7d1f4e03faeba1",
+    "kit/youtube_title.txt": "f2d4545530e998e50a6fd0b65f8009ab7d8ec9cbb001b71d0a42cc715f545f98",
+    "reel.mp4": "17f9586ab13b7189012990611077db51fae18127989d694249990cee2a863a52"
+  }
+}

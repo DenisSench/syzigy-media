@@ -2,7 +2,7 @@
 
 Approval: In review: NOT approved yet. Do not post.
 Slot: Tue Nov 24, 5:00 PM ET
-Source: posts/memes/2026-11-19-meme-3-nov24/v2
+Source: posts/memes/2026-11-19-meme-3-nov24/v3
 Placeholders: none
 
 ## TikTok caption

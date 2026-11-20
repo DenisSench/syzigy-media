@@ -1,7 +1,7 @@
 {
   "post": "memes/2026-11-19-meme-3-nov24",
   "format": "native-reel",
-  "version": "v2",
+  "version": "v3",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
@@ -16,15 +16,15 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T14:36:56-05:00",
+  "built": "2026-11-20T13:03:37-05:00",
   "files": {
-    "kit/README.md": "099a64e2b5439b0d56064f692aa576cc140ac8b2ca462e9fe0f0379ef2fea46d",
-    "kit/index.html": "55c49e52bc82487a89ea05acbfa0f8c1b123a8eb041786ab15f2ca28b8262525",
+    "kit/README.md": "6cd35a7655e05170681e6199848d89a4d2c89ac89d4e13e6035080b324d10f38",
+    "kit/index.html": "ae9a132e2f6afc317c27b26a4631df202b09b49d0eb3ba711ed33b57526623fd",
     "kit/instagram_caption.txt": "794372c285fc0c0233cb403d369a74da390ea63ee49248ba972261a892199a95",
     "kit/snapchat_caption.txt": "a93a170749340f1b21b09c8c3222e6bd3c918ca18ae97bf0323aefcb038c95ee",
     "kit/tiktok_caption.txt": "445f84fc3c52a89e5fde7c3e97692dd745a86483d09ee74baef324a7d75a08bb",
     "kit/youtube_description.txt": "8b205570b254fea387c4a8f98644f2bbc8dd015c63f98c2d53a2d029289804b7",
     "kit/youtube_title.txt": "6c78cdd614ad661448ee1dc941548b46292a840f9f8db7fcf8d7664c97fe8ec2",
-    "reel.mp4": "7e58476d896d24eb6192b57070656c3a18b6685576bda9d6af091a869547f86f"
+    "reel.mp4": "b8168c51403fb023dcc2f9c40a78be888c76eafc97bc30aeec8aaf5ab83f6a38"
   }
 }

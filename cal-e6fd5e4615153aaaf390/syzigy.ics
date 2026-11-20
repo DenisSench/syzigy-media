@@ -616,37 +616,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-pet-saw-whole-week@syzigy-media.vijostudio.com
-DTSTAMP:20261118T033222Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T090000
-DTEND;TZID=America/New_York:20261119T091500
-SUMMARY:Approve: Your cat saw your entire week. Your friends got "busy lol.
- "
-DESCRIPTION:pet-saw-whole-week is 'Approve' and is due 2026-11-20 21:00 ET 
- on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
- m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
-  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/pets/202
- 6-11-17-pet-saw-whole-week/kit/\nDashboard: https://syzigy-media.vijostudi
- o.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole
- -week/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Your cat saw your entire week. Your friends got "busy 
- lol." in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Your cat saw your entire week. Your friends got "busy 
- lol." in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:after-work-coop-starter@syzigy-media.vijostudio.com
 DTSTAMP:20261119T201608Z
 SEQUENCE:4
@@ -709,32 +678,32 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:work-call-cameo@syzigy-media.vijostudio.com
-DTSTAMP:20261120T051434Z
-SEQUENCE:4
+DTSTAMP:20261120T181104Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261119T210000
 DTEND;TZID=America/New_York:20261119T211500
-SUMMARY:[Partly: TikTok] Your pet knows exactly when you unmute on a work c
- all [TT/IG/SC/YT]
-DESCRIPTION:Status: Missing: TikTok\nPlatforms: TikTok+Instagram+Snapchat+Y
- ouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, 
- then publish in the app.\nInstagram: hand-post the Reel from the kit.\nSna
- pchat: posted.\nYouTube: posted.\n\nKit: https://syzigy-media.vijostudio.c
- om/posts/pets/2026-11-19-work-call-cameo/kit/\nDashboard: https://syzigy-m
- edia.vijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Posted] Your pet knows exactly when you unmute on a work call [TT/
+ IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then publ
+ ish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: po
+ sted.\nYouTube: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/
+ pets/2026-11-19-work-call-cameo/kit/\nDashboard: https://syzigy-media.vijo
+ studio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cam
  eo/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: TikTok] Your pet knows exactly when you unmute on a wo
- rk call [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] Your pet knows exactly when you unmute on a work call 
+ [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: TikTok] Your pet knows exactly when you unmute on a wo
- rk call [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] Your pet knows exactly when you unmute on a work call 
+ [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -935,44 +904,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Kangaroo Dad-reveal meme (final on-image text in po
  st.md\; Ella) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pet-saw-whole-week@syzigy-media.vijostudio.com
-DTSTAMP:20261118T033222Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T210000
-DTEND;TZID=America/New_York:20261120T211500
-SUMMARY:[Needs you] Your cat saw your entire week. Your friends got "busy l
- ol." [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole-week/k
- it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole
- -week/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
- sy lol." [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
- sy lol." [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -3549,6 +3480,44 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Things that happen when a new person joins the squa
  d's game night [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pet-saw-whole-week@syzigy-media.vijostudio.com
+DTSTAMP:20261120T181104Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261208T170000
+DTEND;TZID=America/New_York:20261208T171500
+SUMMARY:[Needs you] Your cat saw your entire week. Your friends got "busy l
+ ol." [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole-week/k
+ it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-17-pet-saw-whole
+ -week/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
+ sy lol." [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Your cat saw your entire week. Your friends got "bu
+ sy lol." [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

@@ -802,32 +802,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dog-park-names-video@syzigy-media.vijostudio.com
-DTSTAMP:20261120T175319Z
-SEQUENCE:2
+DTSTAMP:20261120T201526Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261120T123033
 DTEND;TZID=America/New_York:20261120T124533
-SUMMARY:[Partly: IG\, Snap\, YT] You know every dog at the park by name. Th
- eir owners? No idea. [TT/IG/SC/YT]
-DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
- apchat+YouTube\nTikTok: posted.\nInstagram: posted (or still open if the t
- racker says so).\nSnapchat: not posted.\nYouTube: not posted.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-names-video
- /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
- ew
+SUMMARY:[Posted] You know every dog at the park by name. Their owners? No i
+ dea. [TT/IG/SC/YT]
+DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-n
+ ames-video/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5s
+ y2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-name
  s-video/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] You know every dog at the park by name
- . Their owners? No idea. [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Posted] You know every dog at the park by name. Their owners? 
+ No idea. [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: IG\, Snap\, YT] You know every dog at the park by name
- . Their owners? No idea. [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Posted] You know every dog at the park by name. Their owners? 
+ No idea. [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

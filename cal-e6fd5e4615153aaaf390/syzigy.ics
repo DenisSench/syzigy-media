@@ -26,36 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:friend-group-games@syzigy-media.vijostudio.com
-DTSTAMP:20261114T025359Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261113T174132
-DTEND;TZID=America/New_York:20261113T175632
-SUMMARY:[Posted] Games to play with your friend group after work [TT/IG/SC/
- YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-f
- riend-group-games/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal
- -tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-23-frie
- nd-group-games/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Games to play with your friend group after work [TT/IG
- /SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Games to play with your friend group after work [TT/IG
- /SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
 DTSTAMP:20261114T192629Z
 SEQUENCE:13

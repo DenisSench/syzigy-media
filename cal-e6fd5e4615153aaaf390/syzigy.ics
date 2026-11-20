@@ -26,35 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:average-day-counts@syzigy-media.vijostudio.com
-DTSTAMP:20261113T200100Z
-SEQUENCE:12
-DTSTART;TZID=America/New_York:20261113T122037
-DTEND;TZID=America/New_York:20261113T123537
-SUMMARY:[Posted] Permission slip: average day still counts [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
- 1-12-average-day-counts/kit/\nDashboard: https://syzigy-media.vijostudio.c
- om/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 2-average-day-counts/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Permission slip: average day still counts [TT/IG/SC/YT
- ] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Permission slip: average day still counts [TT/IG/SC/YT
- ] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:friend-group-games@syzigy-media.vijostudio.com
 DTSTAMP:20261114T025359Z
 SEQUENCE:5
@@ -583,37 +554,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-dog-park-names-video@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011332Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T090000
-DTEND;TZID=America/New_York:20261119T091500
-SUMMARY:Approve: You know every dog at the park by name. Their owners? No i
- dea.
-DESCRIPTION:dog-park-names-video is 'Approve' and is due 2026-11-20 12:00 E
- T on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instag
- ram and Snapchat. Approve or skip it in the Commander chat (or the dashboa
- rd Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/pets/2
- 026-11-20-dog-park-names-video/kit/\nDashboard: https://syzigy-media.vijos
- tudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-name
- s-video/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: You know every dog at the park by name. Their owners? 
- No idea. in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: You know every dog at the park by name. Their owners? 
- No idea. in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:approve-meme-1-nov20@syzigy-media.vijostudio.com
 DTSTAMP:20261119T172231Z
 SEQUENCE:0
@@ -641,6 +581,37 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Approve: Meme-template remix 1 (hook from Zara research/meme-fo
  rmats-2026-11-19.md\; final wording is Ella's) in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-meme-4-nov20@syzigy-media.vijostudio.com
+DTSTAMP:20261120T175319Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261119T090000
+DTEND;TZID=America/New_York:20261119T091500
+SUMMARY:Approve: Kangaroo Dad-reveal meme (final on-image text in post.md\;
+  Ella)
+DESCRIPTION:meme-4-nov20 is 'Approve' and is due 2026-11-20 21:00 ET on Tik
+ Tok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram and 
+ Snapchat. Approve or skip it in the Commander chat (or the dashboard Appro
+ ve button).\nKit: https://syzigy-media.vijostudio.com/posts/memes/2026-11-
+ 20-meme-4-nov20/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
+ n3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-20-meme-4-nov20
+ /kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Kangaroo Dad-reveal meme (final on-image text in post.
+ md\; Ella) in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Kangaroo Dad-reveal meme (final on-image text in post.
+ md\; Ella) in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -862,23 +833,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dog-park-names-video@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011332Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261120T120000
-DTEND;TZID=America/New_York:20261120T121500
-SUMMARY:[Needs you] You know every dog at the park by name. Their owners? N
- o idea. [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+DTSTAMP:20261120T175319Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20261120T123033
+DTEND;TZID=America/New_York:20261120T124533
+SUMMARY:[Partly: IG\, Snap\, YT] You know every dog at the park by name. Th
+ eir owners? No idea. [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
+ apchat+YouTube\nTikTok: posted.\nInstagram: posted (or still open if the t
+ racker says so).\nSnapchat: not posted.\nYouTube: not posted.\n\nKit: http
  s://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-names-video
  /kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overvi
  ew
@@ -888,14 +851,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] You know every dog at the park by name. Their owner
- s? No idea. [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] You know every dog at the park by name
+ . Their owners? No idea. [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] You know every dog at the park by name. Their owner
- s? No idea. [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] You know every dog at the park by name
+ . Their owners? No idea. [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -934,6 +897,44 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Meme-template remix 1 (hook from Zara research/meme
  -formats-2026-11-19.md\; final wording is Ella's) [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:meme-4-nov20@syzigy-media.vijostudio.com
+DTSTAMP:20261120T175319Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261120T210000
+DTEND;TZID=America/New_York:20261120T211500
+SUMMARY:[Needs you] Kangaroo Dad-reveal meme (final on-image text in post.m
+ d\; Ella) [TT/IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/memes/2026-11-20-meme-4-nov20/kit/\n
+ Dashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-20-meme-4-nov20
+ /kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Kangaroo Dad-reveal meme (final on-image text in po
+ st.md\; Ella) [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Kangaroo Dad-reveal meme (final on-image text in po
+ st.md\; Ella) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

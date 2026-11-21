@@ -26,35 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:thriller-thursday-locked-room@syzigy-media.vijostudio.com
-DTSTAMP:20261114T192629Z
-SEQUENCE:13
-DTSTART;TZID=America/New_York:20261113T213744
-DTEND;TZID=America/New_York:20261113T215244
-SUMMARY:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-thri
- ller-thursday-locked-room/kit/\nDashboard: https://syzigy-media.vijostudio
- .com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-12-thrille
- r-thursday-locked-room/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
- ] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Thriller Thursday: locked-room vibes only [TT/IG/SC/YT
- ] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:stop-refreshing-reply@syzigy-media.vijostudio.com
 DTSTAMP:20261113T184748Z
 SEQUENCE:7
@@ -520,68 +491,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Posted] Adult friendship is saying "we should hang out soon" f
  or six months straight [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-meme-1-nov20@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T090000
-DTEND;TZID=America/New_York:20261119T091500
-SUMMARY:Approve: Meme-template remix 1 (hook from Zara research/meme-format
- s-2026-11-19.md\; final wording is Ella's)
-DESCRIPTION:meme-1-nov20 is 'Approve' and is due 2026-11-20 17:00 ET on Tik
- Tok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram and 
- Snapchat. Approve or skip it in the Commander chat (or the dashboard Appro
- ve button).\nKit: https://syzigy-media.vijostudio.com/posts/memes/2026-11-
- 19-meme-1-nov20/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-19-meme-1-nov20
- /kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Meme-template remix 1 (hook from Zara research/meme-fo
- rmats-2026-11-19.md\; final wording is Ella's) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Meme-template remix 1 (hook from Zara research/meme-fo
- rmats-2026-11-19.md\; final wording is Ella's) in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-meme-4-nov20@syzigy-media.vijostudio.com
-DTSTAMP:20261120T175319Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261119T090000
-DTEND;TZID=America/New_York:20261119T091500
-SUMMARY:Approve: Kangaroo Dad-reveal meme (final on-image text in post.md\;
-  Ella)
-DESCRIPTION:meme-4-nov20 is 'Approve' and is due 2026-11-20 21:00 ET on Tik
- Tok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram and 
- Snapchat. Approve or skip it in the Commander chat (or the dashboard Appro
- ve button).\nKit: https://syzigy-media.vijostudio.com/posts/memes/2026-11-
- 20-meme-4-nov20/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-20-meme-4-nov20
- /kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Kangaroo Dad-reveal meme (final on-image text in post.
- md\; Ella) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Kangaroo Dad-reveal meme (final on-image text in post.
- md\; Ella) in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2124,6 +2033,96 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] You finish something you made at 1 AM and there's n
  obody to show it to who actually gets it [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-barista-closest-friend@syzigy-media.vijostudio.com
+DTSTAMP:20261121T051216Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T091500
+SUMMARY:Approve: Three months in a new city and my closest friend is the ba
+ rista who knows my order.
+DESCRIPTION:barista-closest-friend is 'Approve' and is due 2026-11-28 17:00
+  ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Inst
+ agram and Snapchat. Approve or skip it in the Commander chat (or the dashb
+ oard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/new-
+ city/2026-11-19-barista-closest-friend/kit/\nDashboard: https://syzigy-med
+ ia.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-barista-c
+ losest-friend/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Three months in a new city and my closest friend is th
+ e barista who knows my order. in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Three months in a new city and my closest friend is th
+ e barista who knows my order. in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-first-craft-fair-things@syzigy-media.vijostudio.com
+DTSTAMP:20261121T051216Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T091500
+SUMMARY:Approve: Things that happen at your first craft fair
+DESCRIPTION:first-craft-fair-things is 'Approve' and is due 2026-11-28 12:0
+ 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
+ tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
+ board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/art
+ /2026-11-18-first-craft-fair-things/kit/\nDashboard: https://syzigy-media.
+ vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/art/2026-11-18-first-craft-fa
+ ir-things/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Things that happen at your first craft fair in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Things that happen at your first craft fair in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-student-creator-starter@syzigy-media.vijostudio.com
+DTSTAMP:20261121T051216Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T091500
+SUMMARY:Approve: Full-time student\, part-time creator\, zero-time social l
+ ife: a starter pack
+DESCRIPTION:student-creator-starter is 'Approve' and is due 2026-11-28 21:0
+ 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
+ tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
+ board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/col
+ lege/2026-11-18-student-creator-starter/kit/\nDashboard: https://syzigy-me
+ dia.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/college/2026-11-18-student-cr
+ eator-starter/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Full-time student\, part-time creator\, zero-time soci
+ al life: a starter pack in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Full-time student\, part-time creator\, zero-time soci
+ al life: a starter pack in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

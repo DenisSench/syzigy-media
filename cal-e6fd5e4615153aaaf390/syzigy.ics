@@ -64,36 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nicknames-make-zero-sense@syzigy-media.vijostudio.com
-DTSTAMP:20261114T192629Z
-SEQUENCE:3
-DTSTART;TZID=America/New_York:20261114T140815
-DTEND;TZID=America/New_York:20261114T142315
-SUMMARY:[Posted] The nicknames we call our pets that make zero sense out lo
- ud [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-
- make-zero-sense/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-23-nicknames-mak
- e-zero-sense/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] The nicknames we call our pets that make zero sense ou
- t loud [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] The nicknames we call our pets that make zero sense ou
- t loud [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:want-a-third-place@syzigy-media.vijostudio.com
 DTSTAMP:20261115T224237Z
 SEQUENCE:11

@@ -1,13 +1,14 @@
 {
   "post": "motivational-quotes/2026-11-15-sunday-scaries-fyp",
   "format": "native-reel",
-  "version": "v10",
+  "version": "v11",
   "review_status": "review",
   "slot": "2",
   "slot_time": "17:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 20.066667,
+    "reel_seconds": 19.666667,
     "over_60s": false
   },
   "youtube": {
@@ -15,23 +16,23 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:30-05:00",
+  "built": "2026-11-22T08:50:53-05:00",
   "files": {
     "cover.jpg": "082ddec3952b92d210e68306b14230e7a29887047262c26cfee62c39cf0dd822",
-    "kit/README.md": "84c36c0765daa57bfccee68feae1699fd85e163101b79cfa86c599fe80aff464",
-    "kit/index.html": "f77e9d561f59a3c252d271ca7f0e16b9e565c18f6f9dc93e830139323ae6a75a",
-    "kit/instagram_caption.txt": "699f0dabcc060d8098f2a7dff2409af05543c61ae7ce979cbf44c1d0667e62ea",
+    "kit/README.md": "b75a29fd4f899010424383a3923d678b7ce559f05718cdf63401f54bf98f0a58",
+    "kit/index.html": "b79d0fd60c2e978300686ef8d84b4e7e8b509e3ce3d2c3f22c31c60939d99e63",
+    "kit/instagram_caption.txt": "a70a3c5ca4aa4fe7ca167d5018913003f53110930f527b033e73ebf8df51c1ed",
     "kit/snapchat_caption.txt": "3949fd5e5a249d01c98ad315eab0206549262477bd53c772cc061b5d5e2d31e7",
-    "kit/tiktok_caption.txt": "de2803e6c7963a2ee5cb100da97db8ad8bd8ee84537755f5053c3819056d72c9",
-    "kit/youtube_description.txt": "43f986719d9211b54b23661bd3410f7c101651b7894cfea4b18b837d0691d305",
+    "kit/tiktok_caption.txt": "7dfc4e312ced12c58c45d51bd0c4b4056d9d835962487b48322755257bb5e2ee",
+    "kit/youtube_description.txt": "c5195a7c17ea4f76459c660a1abcdff4b886d8b71ff5a90240cfad8c0e6d2279",
     "kit/youtube_title.txt": "2574a4c0273898ffd5f236b82600147ea2b7300071b3c8e90bc62c4d9862e8f9",
-    "reel.mp4": "00fc0fad1b26a4f542c8a2ada17ad7cc882d83c6ebb02808d7a73c2304db238a",
+    "reel.mp4": "821f987ca261c234927498829ca11614b0fde1bb17afede793486b90e43edaa7",
     "slides/01.jpg": "082ddec3952b92d210e68306b14230e7a29887047262c26cfee62c39cf0dd822",
-    "slides/02.jpg": "2834fc3156c43bd1a751fcdbf7eeb3d757427bddf94e5f94842c1b84521a90d4",
+    "slides/02.jpg": "7230cd1ef032322ed6a6f2e7591537c6365afc35bc5588d983d44ceb6234bdfc",
     "slides/03.jpg": "4826a1c370a266e765e81742d7f993361167642d42713e1625b52fc30c3373b1",
     "slides/04.jpg": "27dd38b4177cf43703e98c1933532f29b86c6c7cce0a85fba09147e95a1ce9ed",
-    "slides/05.jpg": "d9f712f1d9d85bb9d041baf65d3c0ee9a60a655b2a66669fb3359cdd40c8ae9e",
+    "slides/05.jpg": "520853c2733bb2616be26cbe3af6327b745eb98c4c9ec8ec4fc757a555206e28",
     "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "c176c11395141144b27cf03c7b28a0d54b274c7def6668184173510e7a158515"
+    "slides.zip": "3a1b519e2b13b182ab35746a7e53e103fe0f77331f17cc57b07e1dda2218067d"
   }
 }

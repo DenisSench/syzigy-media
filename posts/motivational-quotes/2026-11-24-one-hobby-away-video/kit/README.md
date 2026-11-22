@@ -8,9 +8,8 @@ Placeholders: none
 ## TikTok caption
 
 ```
-Not the party. The same Tuesday thing, every week, until one day there's a group chat 💛📅 Send this to your Tuesday people.
-
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
+Adult friends don't come from parties. They come from the same Tuesday thing, every week.
+Find your people on Syzigy. Link in bio.
 
 #adultfriendship #makingfriends #hobbies #relatable #syzigy
 ```
@@ -18,9 +17,8 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 ## Instagram caption
 
 ```
-Week 1: a nod. Week 12: a group chat. 💛 Send this to your Tuesday people.
-
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
+Adult friends don't come from parties. They come from the same Tuesday thing, every week.
+Find your people on Syzigy. Link in bio.
 
 #adultfriendship #makingfriends #hobbies #syzigy
 ```
@@ -42,7 +40,6 @@ Adult friends come from the same Tuesday thing #Shorts
 **Description**
 
 ```
-Week 1: you nod at each other. Week 12: you have a group chat 💛📅
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in channel.
-#adultfriendship #makingfriends #hobbies
+Adult friends don't come from parties. They come from the same Tuesday thing, every week.
+Find your people on Syzigy. Link in channel.
 ```

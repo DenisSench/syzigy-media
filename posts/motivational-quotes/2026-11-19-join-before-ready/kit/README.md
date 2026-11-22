@@ -8,9 +8,8 @@ Placeholders: none
 ## TikTok caption
 
 ```
-The first hangout is a job interview with snacks. By the third, someone says the weird thing and it finally feels easy 💛☕ Send this to your third-hangout friend.
-
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
+Nobody tells you adult friendships start at the third hangout, not the first
+Find your people on Syzigy. Link in bio.
 
 #adultfriendship #makingfriends #friendship #relatable #syzigy
 ```
@@ -18,9 +17,8 @@ Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link i
 ## Instagram caption
 
 ```
-First hangout: polite. Third hangout: the weird thing gets said. 💛 Send this to the friend who made it to hangout three.
-
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in bio.
+Nobody tells you adult friendships start at the third hangout, not the first
+Find your people on Syzigy. Link in bio.
 
 #adultfriendship #makingfriends #friendship #syzigy
 ```
@@ -42,7 +40,6 @@ Adult friendships start at the third hangout #Shorts
 **Description**
 
 ```
-First hangout: polite and a bit stiff. Third: someone finally says the weird thing 💛☕
-Join a small Circle on Syzigy - groups of up to 8 who actually talk back. Link in channel.
-#adultfriendship #makingfriends #friendship
+Nobody tells you adult friendships start at the third hangout, not the first
+Find your people on Syzigy. Link in channel.
 ```

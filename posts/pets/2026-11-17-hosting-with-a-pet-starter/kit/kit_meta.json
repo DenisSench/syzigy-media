@@ -1,13 +1,14 @@
 {
   "post": "pets/2026-11-17-hosting-with-a-pet-starter",
   "format": "native-reel",
-  "version": "v10",
+  "version": "v11",
   "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "slot": "2",
+  "slot_time": "17:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 24.533333,
+    "reel_seconds": 23.733333,
     "over_60s": false
   },
   "youtube": {
@@ -15,25 +16,25 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:31-05:00",
+  "built": "2026-11-22T08:48:20-05:00",
   "files": {
-    "cover.jpg": "cb8fc4c6e78dcdda3ca72d891028a25ab1e38317c49c8f424afe71edf838c740",
-    "kit/README.md": "86708804c517faa75caabee56ed86a0374d0075e108c534cdacbbdfcf03dce91",
-    "kit/index.html": "04be5b4802a189c2ecebda33b833e87d14590b5b29ceb90858b5a807ecd57545",
-    "kit/instagram_caption.txt": "ed0646b6576520391a4bac815769483be7bdedd441ee690da421e443caefc2fc",
-    "kit/snapchat_caption.txt": "0881d507ecd267223d0c25f00991b83b3b8abc89b864438a067fd15ca5c1e7d4",
-    "kit/tiktok_caption.txt": "c28ca86e537530c6e3a9d0900746fc417ebdbb0c51aa497deaaea516fd0dd7c1",
-    "kit/youtube_description.txt": "51f4a90a9f1f4d5dada096a5e71a0189d194505456076a9c68194d4a3aee4dc1",
-    "kit/youtube_title.txt": "933eebe8dd65b3d8c6008f3a43605c4f97847b92f7df7c8134c4e39a85ad73e9",
-    "reel.mp4": "4946494feef48e098d826d660e44d1e9a006b898c30bd9d37f6a9d2467482374",
-    "slides/01.jpg": "cb8fc4c6e78dcdda3ca72d891028a25ab1e38317c49c8f424afe71edf838c740",
-    "slides/02.jpg": "605931de9821f7dca271cdb1c19623a0f3df9cf8bcbe0575988698deec893f2a",
-    "slides/03.jpg": "dbfd386ad974a425dac8e6deb4ff5dcecc13e650360adf8525de073ff9a23499",
-    "slides/04.jpg": "012d12f38a7fb617345296581873b909418dc56929894bfa79b1ca2d861b271f",
-    "slides/05.jpg": "ebb18d7a1b0923bf0bc19bab2b37836da5e5613ffeb4bea6b8a627c77239cb4c",
-    "slides/06.jpg": "237639cbd80dfaa508dc270ce9e6f802051b04d730a82617b67db6e6acf1e1ad",
-    "slides/07.jpg": "0908886db1c1ff8b137f378e91266b5af4d0e06cdcd56651101c062042ba30d4",
+    "cover.jpg": "fc24574116859cc2aa1594be602e97a91f5fe0dd400a5e6e86d86f97068c7b8f",
+    "kit/README.md": "3011558d72147a94e93a980e4e9e2920b34b73b0fc60e387dcce589145941474",
+    "kit/index.html": "21c36990c2bb63834d0894106adc791389ca61fcde9b95fae4f77f68fe6a29d8",
+    "kit/instagram_caption.txt": "98b64b27e829dde02d44b77ca43edc336e1c9c62f31818858ea49f6665e56c8b",
+    "kit/snapchat_caption.txt": "3b51d09d8c8dd97d7774fa4a52aea66cb39b8c850de394e2d8e6f2829f958ab0",
+    "kit/tiktok_caption.txt": "2f8b22f6da4bed214543bb15a4e835815f03bd2cf4199cebe6a8ceabe58279c9",
+    "kit/youtube_description.txt": "0b69982c308a5d1caee4cf176e2a42a87058e462877cf0ddb68040ee71bbfce1",
+    "kit/youtube_title.txt": "68f518d508d2d6a64a31bf1abd056b8ae81f5f0a1e42bd2fd92d4a19c240e713",
+    "reel.mp4": "65e02e7577ab43d5270fe256a26a404b4087f90921efceb1b303f5406f105d30",
+    "slides/01.jpg": "fc24574116859cc2aa1594be602e97a91f5fe0dd400a5e6e86d86f97068c7b8f",
+    "slides/02.jpg": "c6010e01ce3918b5764510325e159c6af739a6b0d22a09ed1b1e3567a3d909cc",
+    "slides/03.jpg": "811b2e65689e13273f8e6d4645ec1fa3c8dfa5b1855cac2e69b800c055de8703",
+    "slides/04.jpg": "0ef22efb3e894a2ab19c86e719c18fcf124f0623f13b731c9f3618b6b0a5d417",
+    "slides/05.jpg": "36ac071099b56d8ac3c7f5eb67f3e6c82d6d3d34754d13fe7817474c274ba3d8",
+    "slides/06.jpg": "56be9d9b645655ca7584faee3982cfe7ca42749e9ffc8ddc0f76483dad61d431",
+    "slides/07.jpg": "07b9e2e6a54f99746ab5bf26ed170fe1b660725571eedbe5d3ad35b6fd4b086e",
     "slides/08.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "89ad1ca4c5d85d1e0da3e5812e6f9b27c5996cd14aac7e85a24d3699eaf97229"
+    "slides.zip": "6480ee2c5c9405837e7749ec7b9c6ab7565e0a8e302117dda4c022ee28dbfe34"
   }
 }

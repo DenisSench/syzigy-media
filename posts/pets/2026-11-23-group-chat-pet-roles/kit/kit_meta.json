@@ -1,13 +1,14 @@
 {
   "post": "pets/2026-11-23-group-chat-pet-roles",
   "format": "native-reel",
-  "version": "v10",
+  "version": "v12",
   "review_status": "review",
   "slot": "1",
   "slot_time": "12:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 22.5,
+    "reel_seconds": 20.9,
     "over_60s": false
   },
   "youtube": {
@@ -15,24 +16,24 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-17T22:39:31-05:00",
+  "built": "2026-11-22T08:53:10-05:00",
   "files": {
-    "cover.jpg": "f07ea72f58ee7e180b1d93a713122fba23c227a5f4ffdd3ba5b8c7e0f6225554",
-    "kit/README.md": "b49536eb03d348cb10be5a29b0b7d6d027271e08fd804e9065289512f5642260",
-    "kit/index.html": "a24fdc5068b93b31a8458fb0218191843e6f1aa7fe14115f64bf5d45e0fb467a",
-    "kit/instagram_caption.txt": "050a2e8c8dde5ff7d1522922069b0e9031dd595d31554d2c611979baa361f474",
-    "kit/snapchat_caption.txt": "cb06e929b5522426201ff8a65bf9253b654a0c38b9219e1684412a6e0db75de2",
-    "kit/tiktok_caption.txt": "daf1398e451ae669c56a7f5961a8e5fbe17b793ad9e5baea6fa43f14555b08a0",
-    "kit/youtube_description.txt": "fec94f6afa5f1912006e3b4ac6174c30da59f47436e29e377583d92ffce86589",
-    "kit/youtube_title.txt": "672c720a4b045a1cbb14c76aaa7057ef613b7c294144316275cf9c4e4ed07688",
-    "reel.mp4": "2c225d9aca2a01e9b646ffc230b70837a92ffa3e614b42ade026f551da8f0bc5",
-    "slides/01.jpg": "f07ea72f58ee7e180b1d93a713122fba23c227a5f4ffdd3ba5b8c7e0f6225554",
-    "slides/02.jpg": "142409ee5a4b22b7ab49f2ea9d8b99b15708386bd3a68dddf6077d7959786101",
-    "slides/03.jpg": "6e029c7c0955c129b9aadb474d429d54c027974692749c6c045945e2b7189582",
-    "slides/04.jpg": "27e0fdfb35d04113f5a70690d0159af999550a53145dcee204bba807f498892f",
-    "slides/05.jpg": "bb1c48d9dfe54926006088b2f8014722b3856bdb5fee40e64818c807c9ba6517",
-    "slides/06.jpg": "656b18e618c4c409df3aef8c383f85cff94650e0e8a9f9994915305b533fc9e4",
+    "cover.jpg": "dc765ca10060caf9b2790a4d062a854b85e225bfdef9de376a7a46a3b412162d",
+    "kit/README.md": "9cf67090352c688ba3b515cab9b9ecef738da57a9c06fa33afbe35c95385d702",
+    "kit/index.html": "d1fb4effbeac1e91546b5facbd4386eacb21e8940d683c86a39911f79d863502",
+    "kit/instagram_caption.txt": "e439374933c2bc69800d6234628db4d5c53f5cf167bef137b4d2131573ad6164",
+    "kit/snapchat_caption.txt": "5beb72613cf454569f37ea86343329e226979e7d416f05efca3eee9785db78fd",
+    "kit/tiktok_caption.txt": "f7a994562cca73e7f030fc1133b6e8f45092c9e6cc90c7a3b23a9d734ede6110",
+    "kit/youtube_description.txt": "522c98f97f277a4fa64fc97b6de5a47ad80f5bd4948ce4e7780c8846ba43ef9a",
+    "kit/youtube_title.txt": "dda2f9dedc231bc080229077d95568b7e298690ef5676808b1a13be3a722cf13",
+    "reel.mp4": "edfb981b5959cf3a81dc39fea65a82e3779310571c411f4fe34a085c90ebd84d",
+    "slides/01.jpg": "dc765ca10060caf9b2790a4d062a854b85e225bfdef9de376a7a46a3b412162d",
+    "slides/02.jpg": "27c87780785af27d824c4633e2c4d70260a66fb10f7e8771adde27850a132d8d",
+    "slides/03.jpg": "9c41537e3e133ac27c2d5245a26d0b959996015eecd8b8b115eeec7b9d684b2c",
+    "slides/04.jpg": "ee5692dc55fd417ffd4165227b49be3c9561b5d8c3d83df949cd766558596d33",
+    "slides/05.jpg": "99440f172f4cf1e28a6655f621ecd8aa426428c215e24a82d56373896927f215",
+    "slides/06.jpg": "a54780e957882fec1f75a00953f2d10ddc91996b12d5a3dbc6aa764f1c00916a",
     "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "e4aa56c15ab0f3facc50a2d4fa8f13e282441862adf756f2e794429a34c1aeac"
+    "slides.zip": "4aaf3159ccb643c434214a39a3a33473d3e4f0a1778d2e82d050b4d8ceb99285"
   }
 }

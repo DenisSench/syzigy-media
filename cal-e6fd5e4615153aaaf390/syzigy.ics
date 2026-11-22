@@ -64,35 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:romance-like-groupchat@syzigy-media.vijostudio.com
-DTSTAMP:20261115T224237Z
-SEQUENCE:11
-DTSTART;TZID=America/New_York:20261115T144642
-DTEND;TZID=America/New_York:20261115T150142
-SUMMARY:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-roma
- nce-like-groupchat/kit/\nDashboard: https://syzigy-media.vijostudio.com/ca
- l-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-romance
- -like-groupchat/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
-  in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Romance that felt like a warm group chat [TT/IG/SC/YT]
-  in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:slow-burn-signs@syzigy-media.vijostudio.com
 DTSTAMP:20261115T224237Z
 SEQUENCE:9

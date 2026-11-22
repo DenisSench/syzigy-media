@@ -331,36 +331,37 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nickname-evolution@syzigy-media.vijostudio.com
-DTSTAMP:20261120T051434Z
-SEQUENCE:7
+DTSTAMP:20261122T135442Z
+SEQUENCE:8
 DTSTART;TZID=America/New_York:20261118T120000
 DTEND;TZID=America/New_York:20261118T121500
-SUMMARY:[Partly: Snap] How your pet's nickname evolves [TT/IG/SC/YT]
-DESCRIPTION:Status: Missing: Snap\nPlatforms: TikTok+Instagram+Snapchat+You
- Tube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, th
- en publish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapc
- hat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to your ph
- one. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open Mem
- ories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\, ch
- oose Spotlight\, paste the caption and hashtags\, then Post. Or on a compu
- ter: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. 
- Caption is in the kit.\nYouTube: posted.\n\nKit: https://syzigy-media.vijo
- studio.com/posts/pets/2026-11-24-nickname-evolution/kit/\nDashboard: https
- ://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+SUMMARY:[Partly: TikTok\, Snap] How your pet's nickname evolves [TT/IG/SC/Y
+ T]
+DESCRIPTION:Status: Missing: TikTok\, Snap\nPlatforms: TikTok+Instagram+Sna
+ pchat+YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the s
+ lot)\, then publish in the app.\nInstagram: hand-post the Reel from the ki
+ t.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel t
+ o your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to
+  open Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Sen
+ d To\, choose Spotlight\, paste the caption and hashtags\, then Post. Or o
+ n a computer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s 
+ or less. Caption is in the kit.\nYouTube: posted.\n\nKit: https://syzigy-m
+ edia.vijostudio.com/posts/pets/2026-11-24-nickname-evolution/kit/\nDashboa
+ rd: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-24-nickname-evol
  ution/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap] How your pet's nickname evolves [TT/IG/SC/YT] in
-  30 min
+DESCRIPTION:[Partly: TikTok\, Snap] How your pet's nickname evolves [TT/IG/
+ SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Partly: Snap] How your pet's nickname evolves [TT/IG/SC/YT] in
-  5 min
+DESCRIPTION:[Partly: TikTok\, Snap] How your pet's nickname evolves [TT/IG/
+ SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -497,18 +498,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:work-call-cameo@syzigy-media.vijostudio.com
-DTSTAMP:20261120T181104Z
-SEQUENCE:5
-DTSTART;TZID=America/New_York:20261119T210000
-DTEND;TZID=America/New_York:20261119T211500
+DTSTAMP:20261122T135442Z
+SEQUENCE:6
+DTSTART;TZID=America/New_York:20261119T213043
+DTEND;TZID=America/New_York:20261119T214543
 SUMMARY:[Posted] Your pet knows exactly when you unmute on a work call [TT/
  IG/SC/YT]
 DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then publ
- ish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: po
- sted.\nYouTube: posted.\n\nKit: https://syzigy-media.vijostudio.com/posts/
- pets/2026-11-19-work-call-cameo/kit/\nDashboard: https://syzigy-media.vijo
- studio.com/cal-tn3d5sy2/#overview
+ ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
+ nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-
+ cameo/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#o
+ verview
 URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cam
  eo/kit/
 TRANSP:TRANSPARENT
@@ -3002,11 +3002,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:group-chat-pet-roles@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:2
+DTSTAMP:20261122T134820Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261205T120000
 DTEND;TZID=America/New_York:20261205T121500
-SUMMARY:[Needs you] Group chat roles once someone gets a pet [TT/IG/SC/YT]
+SUMMARY:[Needs you] Group chat roles once someone gets a pet (relatable obs
+ ervation\; Ella rewrite pending) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -3027,25 +3028,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Group chat roles once someone gets a pet [TT/IG/SC/
- YT] in 30 min
+DESCRIPTION:[Needs you] Group chat roles once someone gets a pet (relatable
+  observation\; Ella rewrite pending) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Group chat roles once someone gets a pet [TT/IG/SC/
- YT] in 5 min
+DESCRIPTION:[Needs you] Group chat roles once someone gets a pet (relatable
+  observation\; Ella rewrite pending) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hosting-with-a-pet-starter@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:1
+DTSTAMP:20261122T134820Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261205T170000
 DTEND;TZID=America/New_York:20261205T171500
-SUMMARY:[Needs you] Having friends over when you have a pet: a starter pack
-  [TT/IG/SC/YT]
+SUMMARY:[Needs you] Having friends over when you have a pet (relatable obse
+ rvation\; Ella rewrite pending) [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -3066,14 +3067,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Having friends over when you have a pet: a starter 
- pack [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Having friends over when you have a pet (relatable 
+ observation\; Ella rewrite pending) [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Having friends over when you have a pet: a starter 
- pack [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Having friends over when you have a pet (relatable 
+ observation\; Ella rewrite pending) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

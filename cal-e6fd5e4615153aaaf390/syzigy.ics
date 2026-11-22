@@ -64,36 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:want-a-third-place@syzigy-media.vijostudio.com
-DTSTAMP:20261115T224237Z
-SEQUENCE:11
-DTSTART;TZID=America/New_York:20261114T211331
-DTEND;TZID=America/New_York:20261114T212831
-SUMMARY:[Posted] You’re allowed to want a third place online [TT/IG/SC/YT
- ]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
- 1-13-want-a-third-place/kit/\nDashboard: https://syzigy-media.vijostudio.c
- om/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 3-want-a-third-place/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] You’re allowed to want a third place online [TT/IG/S
- C/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] You’re allowed to want a third place online [TT/IG/S
- C/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:romance-like-groupchat@syzigy-media.vijostudio.com
 DTSTAMP:20261115T224237Z
 SEQUENCE:11
@@ -553,99 +523,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Posted] Your pet knows exactly when you unmute on a work call 
  [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-awkward-intro-ok@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011747Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T090000
-DTEND;TZID=America/New_York:20261120T091500
-SUMMARY:Approve: Things about making friends after 25 that feel weird but a
- re completely normal
-DESCRIPTION:awkward-intro-ok is 'Approve' and is due 2026-11-21 17:00 ET on
-  TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram 
- and Snapchat. Approve or skip it in the Commander chat (or the dashboard A
- pprove button).\nKit: https://syzigy-media.vijostudio.com/posts/motivation
- al-quotes/2026-11-16-awkward-intro-ok/kit/\nDashboard: https://syzigy-medi
- a.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 6-awkward-intro-ok/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Things about making friends after 25 that feel weird b
- ut are completely normal in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Things about making friends after 25 that feel weird b
- ut are completely normal in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-gaming-chat-is-friend-group@syzigy-media.vijostudio.com
-DTSTAMP:20261118T011747Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T090000
-DTEND;TZID=America/New_York:20261120T091500
-SUMMARY:Approve: Signs your gaming group chat is secretly your friend group
-  now
-DESCRIPTION:gaming-chat-is-friend-group is 'Approve' and is due 2026-11-21 
- 12:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\,
-  Instagram and Snapchat. Approve or skip it in the Commander chat (or the 
- dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts
- /gaming-squads/2026-11-21-gaming-chat-is-friend-group/kit/\nDashboard: htt
- ps://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-21-gami
- ng-chat-is-friend-group/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Signs your gaming group chat is secretly your friend g
- roup now in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Signs your gaming group chat is secretly your friend g
- roup now in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-meme-2-nov21@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261120T090000
-DTEND;TZID=America/New_York:20261120T091500
-SUMMARY:Approve: Meme-template remix 2 (hook from Zara research/meme-format
- s-2026-11-19.md\; final wording is Ella's)
-DESCRIPTION:meme-2-nov21 is 'Approve' and is due 2026-11-21 21:00 ET on Tik
- Tok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram and 
- Snapchat. Approve or skip it in the Commander chat (or the dashboard Appro
- ve button).\nKit: https://syzigy-media.vijostudio.com/posts/memes/2026-11-
- 19-meme-2-nov21/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-t
- n3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-19-meme-2-nov21
- /kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Meme-template remix 2 (hook from Zara research/meme-fo
- rmats-2026-11-19.md\; final wording is Ella's) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Meme-template remix 2 (hook from Zara research/meme-fo
- rmats-2026-11-19.md\; final wording is Ella's) in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2210,6 +2087,97 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Music-themed hand-on-phone app demo (on-screen text
   from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-fandom-group-chat-types@syzigy-media.vijostudio.com
+DTSTAMP:20261122T051614Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261128T090000
+DTEND;TZID=America/New_York:20261128T091500
+SUMMARY:Approve: Types of friends you meet in a fandom group chat
+DESCRIPTION:fandom-group-chat-types is 'Approve' and is due 2026-11-29 17:0
+ 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
+ tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
+ board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/fan
+ doms/2026-11-18-fandom-group-chat-types/kit/\nDashboard: https://syzigy-me
+ dia.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/fandoms/2026-11-18-fandom-gro
+ up-chat-types/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Types of friends you meet in a fandom group chat in 30
+  min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Types of friends you meet in a fandom group chat in 5 
+ min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-first-con-alone-starter@syzigy-media.vijostudio.com
+DTSTAMP:20261122T051614Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261128T090000
+DTEND;TZID=America/New_York:20261128T091500
+SUMMARY:Approve: Going to a con alone for the first time: a starter pack
+DESCRIPTION:first-con-alone-starter is 'Approve' and is due 2026-11-29 12:0
+ 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
+ tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
+ board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/cos
+ play/2026-11-18-first-con-alone-starter/kit/\nDashboard: https://syzigy-me
+ dia.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/cosplay/2026-11-18-first-con-
+ alone-starter/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Going to a con alone for the first time: a starter pac
+ k in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Going to a con alone for the first time: a starter pac
+ k in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-hand-demo-5-art-nov29@syzigy-media.vijostudio.com
+DTSTAMP:20261122T051614Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261128T090000
+DTEND;TZID=America/New_York:20261128T091500
+SUMMARY:Approve: Art-themed hand-on-phone app demo (on-screen text from Ell
+ a\; Ella has final say on wording)
+DESCRIPTION:hand-demo-5-art-nov29 is 'Approve' and is due 2026-11-29 21:00 
+ ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Insta
+ gram and Snapchat. Approve or skip it in the Commander chat (or the dashbo
+ ard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/demos
+ /2026-11-19-hand-demo-5-art-nov29/kit/\nDashboard: https://syzigy-media.vi
+ jostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-
+ art-nov29/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Art-themed hand-on-phone app demo (on-screen text from
+  Ella\; Ella has final say on wording) in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Art-themed hand-on-phone app demo (on-screen text from
+  Ella\; Ella has final say on wording) in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

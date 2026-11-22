@@ -64,33 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:slow-burn-signs@syzigy-media.vijostudio.com
-DTSTAMP:20261115T224237Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261115T174026
-DTEND;TZID=America/New_York:20261115T175526
-SUMMARY:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow
- -burn-signs/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
- sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-13-slow-bu
- rn-signs/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Slow-burn signs (book edition) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
 DTSTAMP:20261117T023653Z
 SEQUENCE:10

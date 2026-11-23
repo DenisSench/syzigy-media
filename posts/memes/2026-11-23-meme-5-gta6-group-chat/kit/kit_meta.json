@@ -1,0 +1,29 @@
+{
+  "post": "memes/2026-11-23-meme-5-gta6-group-chat",
+  "format": "native-reel",
+  "version": "v2",
+  "review_status": "rejected",
+  "slot": "",
+  "slot_time": "",
+  "ai_imagery": false,
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 10.0,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-23T15:57:32-05:00",
+  "files": {
+    "kit/README.md": "66bfa8384a2387382e0b0cd822b7bfe61a6b1c3c1aeedae4d6f3c3af2745c935",
+    "kit/index.html": "4a98ce49cf4b5042ba2b32781281de52ba57368fc118fad4bab88a7409ce34c4",
+    "kit/instagram_caption.txt": "9b9649355797086af88670f43c4074435409f13aee8e640496ee9eb737af9649",
+    "kit/snapchat_caption.txt": "7407743cedbbbe6c5eca20a7a0e62cb84050563f56b279a9248bacf3fba926c3",
+    "kit/tiktok_caption.txt": "739dfffe18fe02370faa515f9c57a082cc4c85bddb263ed59fd3bfa350b0c1c9",
+    "kit/youtube_description.txt": "6322b9721eb412e3bdbcc6c98b81461668c375b24bcf7944dd22185e50821724",
+    "kit/youtube_title.txt": "f4d4c5e41a86c9e4ac3d8babaafcc71241b4c02617a76ad8ce2f2baaef42a105"
+  }
+}

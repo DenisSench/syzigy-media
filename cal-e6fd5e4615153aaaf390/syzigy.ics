@@ -64,35 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:scripts-for-saying-hi@syzigy-media.vijostudio.com
-DTSTAMP:20261117T023653Z
-SEQUENCE:10
-DTSTART;TZID=America/New_York:20261115T220915
-DTEND;TZID=America/New_York:20261115T222415
-SUMMARY:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
- 1-13-scripts-for-saying-hi/kit/\nDashboard: https://syzigy-media.vijostudi
- o.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 3-scripts-for-saying-hi/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT
- ] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Scripts for saying hi in a new group chat [TT/IG/SC/YT
- ] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:saturday-currently-reading@syzigy-media.vijostudio.com
 DTSTAMP:20261116T183858Z
 SEQUENCE:9
@@ -573,99 +544,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Kangaroo Dad-reveal meme (final on-image text in po
  st.md\; Ella) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-game-night-lifecycle-video@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012104Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T091500
-SUMMARY:Approve: "We should play something" -> 2 hours picking a game -> 40
-  minutes of actually playing
-DESCRIPTION:game-night-lifecycle-video is 'Approve' and is due 2026-11-22 2
- 1:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
- Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
- ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
- gaming-squads/2026-11-22-game-night-lifecycle-video/kit/\nDashboard: https
- ://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-22-game
- -night-lifecycle-video/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: "We should play something" -> 2 hours picking a game -
- > 40 minutes of actually playing in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: "We should play something" -> 2 hours picking a game -
- > 40 minutes of actually playing in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-last-friend-buys-the-game@syzigy-media.vijostudio.com
-DTSTAMP:20261118T033222Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T091500
-SUMMARY:Approve: What happens when the last friend finally buys the game th
- e group chat has been begging them to get
-DESCRIPTION:last-friend-buys-the-game is 'Approve' and is due 2026-11-22 12
- :00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, I
- nstagram and Snapchat. Approve or skip it in the Commander chat (or the da
- shboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/g
- aming-squads/2026-11-17-last-friend-buys-the-game/kit/\nDashboard: https:/
- /syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-17-last
- -friend-buys-the-game/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: What happens when the last friend finally buys the gam
- e the group chat has been begging them to get in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: What happens when the last friend finally buys the gam
- e the group chat has been begging them to get in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-sunday-scaries-fyp@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012104Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T091500
-SUMMARY:Approve: Sunday night at 30: the group chat is quiet and you scroll
-  instead of texting first
-DESCRIPTION:sunday-scaries-fyp is 'Approve' and is due 2026-11-22 17:00 ET 
- on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
- m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
-  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/motivati
- onal-quotes/2026-11-15-sunday-scaries-fyp/kit/\nDashboard: https://syzigy-
- media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 5-sunday-scaries-fyp/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Sunday night at 30: the group chat is quiet and you sc
- roll instead of texting first in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Sunday night at 30: the group chat is quiet and you sc
- roll instead of texting first in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2239,6 +2117,99 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Full-time student\, part-time creator\, zero-time s
  ocial life: a starter pack [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-apartment-weekend-friends-year@syzigy-media.vijostudio.com
+DTSTAMP:20261123T051930Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T091500
+SUMMARY:Approve: Moving cities: the apartment took one weekend. The friends
+  are taking a year.
+DESCRIPTION:apartment-weekend-friends-year is 'Approve' and is due 2026-11-
+ 30 21:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTo
+ k\, Instagram and Snapchat. Approve or skip it in the Commander chat (or t
+ he dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/po
+ sts/new-city/2026-11-19-apartment-weekend-friends-year/kit/\nDashboard: ht
+ tps://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-apartment
+ -weekend-friends-year/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Moving cities: the apartment took one weekend. The fri
+ ends are taking a year. in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Moving cities: the apartment took one weekend. The fri
+ ends are taking a year. in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-no-next-to-someone@syzigy-media.vijostudio.com
+DTSTAMP:20261123T051930Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T091500
+SUMMARY:Approve: In college you made friends by sitting next to someone. Af
+ ter college there's no "next to someone."
+DESCRIPTION:no-next-to-someone is 'Approve' and is due 2026-11-30 12:00 ET 
+ on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
+ m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
+  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/college/
+ 2026-11-18-no-next-to-someone/kit/\nDashboard: https://syzigy-media.vijost
+ udio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/college/2026-11-18-no-next-to
+ -someone/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: In college you made friends by sitting next to someone
+ . After college there's no "next to someone." in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: In college you made friends by sitting next to someone
+ . After college there's no "next to someone." in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-too-specific-music-taste@syzigy-media.vijostudio.com
+DTSTAMP:20261123T051930Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T091500
+SUMMARY:Approve: Your music taste got so specific that nobody in your life 
+ gets your recs anymore
+DESCRIPTION:too-specific-music-taste is 'Approve' and is due 2026-11-30 17:
+ 00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, In
+ stagram and Snapchat. Approve or skip it in the Commander chat (or the das
+ hboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/mu
+ sic/2026-11-18-too-specific-music-taste/kit/\nDashboard: https://syzigy-me
+ dia.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/music/2026-11-18-too-specific
+ -music-taste/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Your music taste got so specific that nobody in your l
+ ife gets your recs anymore in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Your music taste got so specific that nobody in your l
+ ife gets your recs anymore in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

@@ -2,9 +2,9 @@
   "post": "memes/2026-11-23-static-3-player-2-controller",
   "format": "native-reel",
   "version": "v1",
-  "review_status": "review",
-  "slot": "",
-  "slot_time": "",
+  "review_status": "approved",
+  "slot": "1",
+  "slot_time": "12:00",
   "ai_imagery": true,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T15:31:48-05:00",
+  "built": "2026-11-23T15:54:31-05:00",
   "files": {
     "cover.jpg": "8249081a82a64e8263bccd6de63978e39f64a38b04493f6ec615249fbe14a073",
-    "kit/README.md": "2caa463b311797d7382c06583b1de7a2c05f3424b30a1795c4f354daff0cf463",
-    "kit/index.html": "51f230186040874e1e913a22e68677c960b7c3f316415b702f137fb3c18b1eb0",
+    "kit/README.md": "15329c8ffccadfc2fad06dc0675415eeb638baf7aed95ae9332076311faf293a",
+    "kit/index.html": "65a73404d4060716d94139d7627342dc4e03eed325e8812e2c5d77547a120120",
     "kit/instagram_caption.txt": "fff67b57cc53c2d9163654fbdf3a7a8a482778f9d9e22fde8c1ba2f699082eed",
     "kit/snapchat_caption.txt": "c7c4287025a47a22ea5b890acd9a03b371e9b2f759ac482614ca9b72fbd0aa49",
     "kit/tiktok_caption.txt": "1ee321c32618879c6069084b50772b013b5d2bc94c67886a6044a6a6129d1ce5",
@@ -29,9 +29,5 @@
     "reel.mp4": "3cae13c53bee80f412f588b853fd8d8cc05095931600691022cb024435afebfc",
     "still.png": "bd6c8cdec8618d91d0379adb85caadcf8b030a1fea82b088ffd048e807a3d8a2",
     "still_4x5.png": "3245cf7631cdf6fcd38a572c67a7c03c4506d96a138ed09e1a4377370da2b66c"
-  },
-  "static_approved": true,
-  "video_approved": false,
-  "caption_source": "Ella post.md STATUS=copy-ready 3:19 PM ET",
-  "noindex": true
+  }
 }

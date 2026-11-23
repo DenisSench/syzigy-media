@@ -2,9 +2,9 @@
   "post": "memes/2026-11-23-static-1-dog-bathroom-door",
   "format": "native-reel",
   "version": "v1",
-  "review_status": "review",
-  "slot": "",
-  "slot_time": "",
+  "review_status": "approved",
+  "slot": "3",
+  "slot_time": "21:00",
   "ai_imagery": true,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T15:31:48-05:00",
+  "built": "2026-11-23T15:54:31-05:00",
   "files": {
     "cover.jpg": "5a9f8ec024d483d6066f8b36f67a589eed6ff1ca2c9aed5149b9c054272d1595",
-    "kit/README.md": "159b1d2fa2e63d234daad6d04ec6e68bb2c26c4ce4cc577b2f5f6120aa5265be",
-    "kit/index.html": "872029ba85b786be6443c8fab8b3297984d02686bf1c37d6d0ed8f54e2b20ad1",
+    "kit/README.md": "c46433f5122799f926fecb9714a9cd4d8db85dee505b40c8269a11cf30dcb896",
+    "kit/index.html": "6443c4b0a8adf3df273527ae6fa2cc7505e32d6bd69cf51268371e1e2d0e56d1",
     "kit/instagram_caption.txt": "c09da68fbcb54b38770c59f06bfbc38d4b915328480c86a1b762f0fc652d8a7c",
     "kit/snapchat_caption.txt": "93f55d5ec4ca2cdefa946ea774e813ef79c6199ebdc5fcf5b212e4429c4e1893",
     "kit/tiktok_caption.txt": "ca91b996e777ff8afddc80b6c7ff17e024936132d392342cc10b204444aecbd9",
@@ -29,9 +29,5 @@
     "reel.mp4": "fb6a3ef57edea64eabcb57715d28576df6be61770606efd291a26c2f3ab2ea82",
     "still.png": "4bba91e94407fe954d7e9f255d38a60a023c8aff2f74a6ddf859506b9988232d",
     "still_4x5.png": "d1866b0dd6e6880dc607f0fc96bb1da82d69034a4862fc3477f057bf1e3cf978"
-  },
-  "static_approved": true,
-  "video_approved": false,
-  "caption_source": "Ella post.md STATUS=copy-ready 3:19 PM ET",
-  "noindex": true
+  }
 }

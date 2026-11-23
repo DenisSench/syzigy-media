@@ -64,35 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:weekend-soft-no-flex@syzigy-media.vijostudio.com
-DTSTAMP:20261116T221020Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261116T170447
-DTEND;TZID=America/New_York:20261116T171947
-SUMMARY:[Posted] Weekend soft life without the flex [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-1
- 1-14-weekend-soft-no-flex/kit/\nDashboard: https://syzigy-media.vijostudio
- .com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 4-weekend-soft-no-flex/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Weekend soft life without the flex [TT/IG/SC/YT] in 30
-  min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Weekend soft life without the flex [TT/IG/SC/YT] in 5 
- min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
 DTSTAMP:20261117T051159Z
 SEQUENCE:11

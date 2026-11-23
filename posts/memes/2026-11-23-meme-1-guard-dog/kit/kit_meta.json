@@ -1,0 +1,30 @@
+{
+  "post": "memes/2026-11-23-meme-1-guard-dog",
+  "format": "native-reel",
+  "version": "v1",
+  "review_status": "review",
+  "slot": "",
+  "slot_time": "",
+  "ai_imagery": true,
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 8.0,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-23T14:39:50-05:00",
+  "files": {
+    "kit/README.md": "568d4a2c68c103a825a06c621fa8a804aa4fd5dfb66795748e4f63a75475b8cd",
+    "kit/index.html": "3cadc555ee74d2793cd9a64d87fd035f7d5354424148793ba9c7f15a31535845",
+    "kit/instagram_caption.txt": "2c9efb3712dae36bc82a8665e14c022179337989c2d8e7f17c57eb47138277e1",
+    "kit/snapchat_caption.txt": "c6452596d712ae2e513f59dd6a12526f6a7428a7dcfcf1f8044f4762c120c882",
+    "kit/tiktok_caption.txt": "686e129ad5969e9c61ef10839e60e3fc197d905439eb21201b59a0de9ed5f544",
+    "kit/youtube_description.txt": "8f1f90f3841d8b466a0a4c752ac792cbe45bf6fcce0e47153a4b256c41b12e4e",
+    "kit/youtube_title.txt": "1a678db124f28ab9f535379ec80c8a9bc7cb0f8612782111f1c0a406fa99f4b5",
+    "reel.mp4": "b65c17757b1f97acf4db80d8cbcc8b60d1698684fa028495ae7acee78c00a09b"
+  }
+}

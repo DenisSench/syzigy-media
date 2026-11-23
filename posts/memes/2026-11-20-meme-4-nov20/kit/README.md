@@ -1,8 +1,8 @@
 # Kit: 2026-11-20-meme-4-nov20
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
 Slot: Fri Nov 20, 9:00 PM ET
-Source: posts/memes/2026-11-20-meme-4-nov20/v3
+Source: posts/memes/2026-11-20-meme-4-nov20/v4
 Placeholders: none
 
 ## TikTok caption

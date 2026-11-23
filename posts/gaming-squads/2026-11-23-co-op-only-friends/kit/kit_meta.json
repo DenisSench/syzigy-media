@@ -1,14 +1,14 @@
 {
   "post": "gaming-squads/2026-11-23-co-op-only-friends",
   "format": "native-reel",
-  "version": "v11",
+  "version": "v12",
   "review_status": "review",
   "slot": "3",
   "slot_time": "21:00",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 16.9,
+    "reel_seconds": 15.566667,
     "over_60s": false
   },
   "youtube": {
@@ -16,23 +16,22 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T12:48:54-05:00",
+  "built": "2026-11-23T13:24:41-05:00",
   "files": {
     "cover.jpg": "badf9b602a3a0817e6b81764e046a3d853a49004a9f1e3f7d6c407662f3e3ddd",
-    "kit/README.md": "5e04ee2b43b781161b4397059741db936941de22fac6804c75b9b6117f3bc9c4",
-    "kit/index.html": "5c894e7bf95aa86b83713a350bcb95460407f494c542428634708fa246a65b41",
+    "kit/README.md": "4cd06b7238dc2fc4757a58957f6c916859a91d79893e0588a92df53a186e8af0",
+    "kit/index.html": "86660cd2411aa31337b2c17f7005097dad412c20302d6d4c63c6f1ac1bc351d3",
     "kit/instagram_caption.txt": "69574febcfb4b92a466228a5149df02d8bf79bdda8ecf72e49d3dfcc45cf668d",
     "kit/snapchat_caption.txt": "d257c71eb96331e801e13cfced13936b8247f7adefaa0fcaf2e0b6f34152f306",
     "kit/tiktok_caption.txt": "af81bee5b33bda354b7e47215cb6aef26ec06492351fb62f283e7cd76ea2d58d",
     "kit/youtube_description.txt": "45aa134baf7db8fa2acfb23dfc7d6dcd87c27c8ee714fb4ec2dd7276233ae876",
     "kit/youtube_title.txt": "9440d4cfff93c3fc804ea7b37ff3df744333a3594ff593eb935c028c667e7fcf",
-    "reel.mp4": "43cc1ee584ac50b50a797db976de9b30c65d3fd3d271e3c7032c4c3b60ef5862",
+    "reel.mp4": "f80cf1d5f68bec086e4591c489c8668f6242b7de4396c5b0b39551cfd10608c1",
     "slides/01.jpg": "badf9b602a3a0817e6b81764e046a3d853a49004a9f1e3f7d6c407662f3e3ddd",
     "slides/02.jpg": "b03005c4c65e07f1f50d0f1b3bc70d1d9357dad1a5d742ace7353fe266ea7774",
     "slides/03.jpg": "7dbed13a036795988609e9942a1f755e17d7be73744c8d7e4b616754fa654d8f",
     "slides/04.jpg": "5c7e5c8ea744c632964cdc70b4ece8927b305d4b9220a88d13c277e011bdd2a4",
     "slides/05.jpg": "22e369242673bb9b482441c642d324eb03a100fba1ee4aaa2f52d300294fc949",
-    "slides/06.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
-    "slides.zip": "92d1ba3ca1c038ca3ae353e5a8f7afdfdc3bd33ff35e27d9cf6615b86bf0057b"
+    "slides.zip": "ba8748a2a32cdf46da8f70ecc07104369e159cddafd372a6f87d1ce0c6554b9d"
   }
 }

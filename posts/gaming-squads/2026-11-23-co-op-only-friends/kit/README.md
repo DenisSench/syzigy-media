@@ -2,7 +2,7 @@
 
 Approval: Review stills (not the TikTok posting file)
 Slot: Mon Nov 23, 9:00 PM ET
-Source: posts/gaming-squads/2026-11-23-co-op-only-friends/v11
+Source: posts/gaming-squads/2026-11-23-co-op-only-friends/v12
 Placeholders: none
 
 ## TikTok caption

@@ -2,7 +2,7 @@
   "post": "memes/2026-11-23-meme-5-gta6-group-chat",
   "format": "native-reel",
   "version": "v2",
-  "review_status": "review",
+  "review_status": "rejected",
   "slot": "",
   "slot_time": "",
   "ai_imagery": false,
@@ -16,19 +16,14 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T14:43:43-05:00",
+  "built": "2026-11-23T15:13:09-05:00",
   "files": {
-    "cover.jpg": "af36ac50fa00c633c7f778aea02d3ef8949113b861c7a5282765432239cd631a",
-    "kit/README.md": "7b3d5604c75365f94dde764873f04a62e2449a210d485add8fa8bffa92d3d4ad",
-    "kit/index.html": "bebcb4ec49bb8d209b1a5f096ca8e74f20bc5708624ee14f4feef138da712870",
+    "kit/README.md": "66bfa8384a2387382e0b0cd822b7bfe61a6b1c3c1aeedae4d6f3c3af2745c935",
+    "kit/index.html": "6742eaaaf10eca67e7337272ef97c2d72d4a7ff9e9acbf2ea34d19b6d5015622",
     "kit/instagram_caption.txt": "9b9649355797086af88670f43c4074435409f13aee8e640496ee9eb737af9649",
     "kit/snapchat_caption.txt": "7407743cedbbbe6c5eca20a7a0e62cb84050563f56b279a9248bacf3fba926c3",
     "kit/tiktok_caption.txt": "739dfffe18fe02370faa515f9c57a082cc4c85bddb263ed59fd3bfa350b0c1c9",
     "kit/youtube_description.txt": "6322b9721eb412e3bdbcc6c98b81461668c375b24bcf7944dd22185e50821724",
-    "kit/youtube_title.txt": "f4d4c5e41a86c9e4ac3d8babaafcc71241b4c02617a76ad8ce2f2baaef42a105",
-    "reel.mp4": "df50f0045ebf3dc970683fa523e950fbeec47bccce831c26fb19d3d33798b7b0",
-    "slides/01.jpg": "af36ac50fa00c633c7f778aea02d3ef8949113b861c7a5282765432239cd631a",
-    "slides/02.jpg": "cb7494be7ebad8832bd26b4810042afeeec6bcc0e6038a025963278e7f25292b",
-    "slides.zip": "70a727a5bef9eb6bb65f2d4fe721e15c7d5f1a6fed7438fe50f50076c63a0b50"
+    "kit/youtube_title.txt": "f4d4c5e41a86c9e4ac3d8babaafcc71241b4c02617a76ad8ce2f2baaef42a105"
   }
 }

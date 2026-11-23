@@ -1,6 +1,6 @@
 # Kit: 2026-11-23-meme-2-gta-dog
 
-Approval: Review stills (not the TikTok posting file)
+Approval: In review: NOT approved yet. Do not post.
 Slot: Mon Nov 23, time TBD
 Source: posts/memes/2026-11-23-meme-2-gta-dog/v1
 Placeholders: none

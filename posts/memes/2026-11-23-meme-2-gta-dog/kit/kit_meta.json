@@ -2,7 +2,7 @@
   "post": "memes/2026-11-23-meme-2-gta-dog",
   "format": "native-reel",
   "version": "v1",
-  "review_status": "review",
+  "review_status": "rejected",
   "slot": "",
   "slot_time": "",
   "ai_imagery": true,
@@ -16,19 +16,14 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T14:43:43-05:00",
+  "built": "2026-11-23T15:13:09-05:00",
   "files": {
-    "cover.jpg": "53d286f17850272e653ace51aacfb28a838d44f1e0ef8154c4ea7e55b278dda1",
-    "kit/README.md": "dc3d055f5bdc30b318b69b78ed2fab9e18c4c8bb77cb73e9badf0f9603382809",
-    "kit/index.html": "11de548fa81126b1d7195e0adb86613637d6fd72b518855f9a7dbee71d3da56f",
+    "kit/README.md": "5a2e7e0661bad49593a503e0536b5c2321ab73ec75c9a02e629790c1612678d2",
+    "kit/index.html": "761f853dc3ed858230ae5123321b7c5fe745da95888a7214921c1a85a4a80583",
     "kit/instagram_caption.txt": "b59f17ccf4c86a9e01381045848dfaa1392448db2b8e8daf493602b2596dfa21",
     "kit/snapchat_caption.txt": "508959d630e0c2473a70a530d46823c36379d376a8a97a7707e87aacf68378c0",
     "kit/tiktok_caption.txt": "1e03d9d8d16d22cd5b35174566e0a9671ec2753e824d1a004e515d8b88b9dfbd",
     "kit/youtube_description.txt": "ae06fe7d753d651a001242a1c20f33d17dc94a76dbeeba888fb7b972f61a5a05",
-    "kit/youtube_title.txt": "ddd0dbe301cc9aa76b4173dd9757733f491ed44fb98fd3a6f556bd67d785fab8",
-    "reel.mp4": "50a57f7b065d2d6708e81acc6c077027eaa6b279fa940f2dba949a910d2dd0d1",
-    "slides/01.jpg": "53d286f17850272e653ace51aacfb28a838d44f1e0ef8154c4ea7e55b278dda1",
-    "slides/02.jpg": "e7f49309670b0ee3670a9ef54e3aa8660ad6f802ad2f577e00067ff2eb29ffc3",
-    "slides.zip": "f01d461b31f74251aa3b6e49e670feb6cf62127cb80e307463c1f440c5175fb1"
+    "kit/youtube_title.txt": "ddd0dbe301cc9aa76b4173dd9757733f491ed44fb98fd3a6f556bd67d785fab8"
   }
 }

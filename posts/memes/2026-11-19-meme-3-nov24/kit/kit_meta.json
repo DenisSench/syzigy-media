@@ -2,9 +2,9 @@
   "post": "memes/2026-11-19-meme-3-nov24",
   "format": "native-reel",
   "version": "v4",
-  "review_status": "approved",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,15 +16,16 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:31:39-05:00",
+  "built": "2026-11-23T14:03:11-05:00",
   "files": {
-    "kit/README.md": "bdfb6d3796904f7090299d895d18952717232779c7d01ae3e5680bb3c9e43f9c",
-    "kit/index.html": "97cec8e42e6e3746ca46768f7ef51a9ffa323206808d23c64f3541feb404e6f2",
+    "kit/README.md": "c313568998d060864c51230a63262033dd8e30a4a6e2d69f3ec6b762e2172644",
+    "kit/index.html": "a549c9d0318c4778bc524b9926ef5a6c536cc7d225600c6a425215737baa591b",
     "kit/instagram_caption.txt": "794372c285fc0c0233cb403d369a74da390ea63ee49248ba972261a892199a95",
     "kit/snapchat_caption.txt": "a93a170749340f1b21b09c8c3222e6bd3c918ca18ae97bf0323aefcb038c95ee",
     "kit/tiktok_caption.txt": "445f84fc3c52a89e5fde7c3e97692dd745a86483d09ee74baef324a7d75a08bb",
     "kit/youtube_description.txt": "8b205570b254fea387c4a8f98644f2bbc8dd015c63f98c2d53a2d029289804b7",
     "kit/youtube_title.txt": "6c78cdd614ad661448ee1dc941548b46292a840f9f8db7fcf8d7664c97fe8ec2",
-    "reel.mp4": "1e8ad9ea604f2c0201ec3926ea421da239350774ad17eadb0c5ac357fa32a2df"
+    "reel.mp4": "1e8ad9ea604f2c0201ec3926ea421da239350774ad17eadb0c5ac357fa32a2df",
+    "v4/reel.mp4": "1e8ad9ea604f2c0201ec3926ea421da239350774ad17eadb0c5ac357fa32a2df"
   }
 }

@@ -1,7 +1,7 @@
 # Kit: 2026-11-19-meme-3-nov24
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Tue Nov 24, 5:00 PM ET
+Status: Held: pulled by Denis. NOT approved. Do not post.
+Slot: Thu Nov 19, time TBD
 Source: posts/memes/2026-11-19-meme-3-nov24/v4
 Placeholders: none
 

@@ -64,35 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:saturday-currently-reading@syzigy-media.vijostudio.com
-DTSTAMP:20261116T183858Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261116T131502
-DTEND;TZID=America/New_York:20261116T133002
-SUMMARY:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-satu
- rday-currently-reading/kit/\nDashboard: https://syzigy-media.vijostudio.co
- m/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-saturda
- y-currently-reading/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT] in 
- 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Saturday currently-reading roll call [TT/IG/SC/YT] in 
- 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:weekend-soft-no-flex@syzigy-media.vijostudio.com
 DTSTAMP:20261116T221020Z
 SEQUENCE:9
@@ -473,13 +444,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:meme-1-nov20@syzigy-media.vijostudio.com
-DTSTAMP:20261119T172231Z
-SEQUENCE:0
+DTSTAMP:20261123T182659Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T171500
 SUMMARY:[Needs you] Meme-template remix 1 (hook from Zara research/meme-for
  mats-2026-11-19.md\; final wording is Ella's) [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+DESCRIPTION:Status: Overdue\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
  and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2

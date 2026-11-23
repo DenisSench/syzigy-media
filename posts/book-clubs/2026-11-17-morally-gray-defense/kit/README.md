@@ -1,7 +1,7 @@
 # Kit: 2026-11-17-morally-gray-defense
 
 Approval: Review stills (not the TikTok posting file)
-Slot: Fri Nov 20, 5:00 PM ET
+Slot: Sun Dec 6, 12:00 PM ET
 Source: posts/book-clubs/2026-11-17-morally-gray-defense/v10
 Placeholders: none
 

@@ -20,25 +20,3 @@ Two years of small talk, still "Moose's dad" 🐾 Send this to your dog park reg
 
 #dogpark #doglife #dogsofinstagram #syzigy
 ```
-
-## Snapchat caption (post.md)
-
-```
-You know every park dog by name. Their owners, no idea. 🐾 Find people who get it on Syzigy - link in bio. #dogpark #doglife
-```
-
-## YouTube Shorts (from post.md)
-
-**Title**
-
-```
-You know every dog at the park by name #Shorts
-```
-
-**Description**
-
-```
-Their owners, no idea. Two years of small talk, still "Moose's dad" 🐾
-Find people who get your weird pet nicknames on Syzigy. Link in channel.
-#dogs #dogpark #doglife
-```

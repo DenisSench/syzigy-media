@@ -1,7 +1,7 @@
 # Kit: 2026-11-20-book-felt-like-friend
 
 Approval: Review stills (not the TikTok posting file)
-Slot: Tue Nov 24, 5:00 PM ET
+Slot: Sun Dec 6, 9:00 PM ET
 Source: posts/book-clubs/2026-11-20-book-felt-like-friend/v11
 Placeholders: none
 

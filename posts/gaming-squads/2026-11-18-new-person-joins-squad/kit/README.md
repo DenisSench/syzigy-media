@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-new-person-joins-squad
 
 Approval: Review stills (not the TikTok posting file)
-Slot: Thu Dec 3, 9:00 PM ET
+Slot: Tue Dec 8, 12:00 PM ET
 Source: posts/gaming-squads/2026-11-18-new-person-joins-squad/v10
 Placeholders: none
 

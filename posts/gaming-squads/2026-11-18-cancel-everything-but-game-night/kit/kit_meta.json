@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T12:31:28-05:00",
+  "built": "2026-11-23T13:49:50-05:00",
   "files": {
     "cover.jpg": "7f2d3649ecdff3e8345a54d78168fe479bf51a2091d4f1c9511fec6fb90a0588",
     "kit/README.md": "509533380775576a65c431c8d4b55297f3511fe1dab1107e0d883382a2017c95",
-    "kit/index.html": "03dbec3a150d72e0daeb87a06226b72364e9a92f18873c0cc0c66506ad70cb62",
+    "kit/index.html": "47722531fd4f71234d5d06c4c03d1d114db9612778351d08e1f14e013f7f6d6f",
     "kit/instagram_caption.txt": "2d9ba33b6ffbb37f7a2e42db90a31ccedf1a8d6b05e1e05daa9dcaa2fef0fb91",
     "kit/snapchat_caption.txt": "79006b24f401206c4726a7fe639ff197177f1d6128e34cccd186ba77add0a1ae",
     "kit/tiktok_caption.txt": "c297c9c8437847dcb76b00552c01679c1534f9e91dedb7a83cdc41509ff57d87",
@@ -35,9 +35,5 @@
     "slides/06.jpg": "3431a669c1f592d2d94f584d81b555c3df58f982996e642323e49edf6e7bf17a",
     "slides/07.jpg": "a80a2307bef94ae86c2756afb416b20cf92a2b5b17fd8de1857a44ba2b3346d3",
     "slides.zip": "75f54f28b06bbe0be423e069c73680649ca26053fce4e825aa7a65cb03596fc8"
-  },
-  "notes": "post.md sha changed because Ella updated only the Slot line; on-frame copy and captions are unchanged. v10 reel reused (sha 75d7b331928d99e2fa13021fd0e1e06c579d0013ee03f1562dc449f531037223); not re-rendered. 1 line(s) differ vs post.md.bak-20261119-slot; slot-only=True (- **Slot:** Mon Nov 30, 2026 \u00b7 9:00 PM ET (America/New_York, ET) -> - **Slot:** Fri Dec 4, 2026 \u00b7 9:00 PM ET (America/New_York, ET)).",
-  "reel_reused": true,
-  "reel_sha": "75d7b331928d99e2fa13021fd0e1e06c579d0013ee03f1562dc449f531037223",
-  "slot_date": "2026-12-04"
+  }
 }

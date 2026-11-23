@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-pet-voice-new-friend
 
 Approval: Review stills (not the TikTok posting file)
-Slot: Sun Nov 29, 9:00 PM ET
+Slot: Mon Dec 7, 5:00 PM ET
 Source: posts/pets/2026-11-18-pet-voice-new-friend/v10
 Placeholders: none
 

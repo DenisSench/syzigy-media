@@ -1,7 +1,7 @@
 # Kit: 2026-11-24-gta6-single-player
 
-Approval: In review: NOT approved yet. Do not post.
-Slot: Tue Nov 24, time TBD
+Approval: Review stills (not the TikTok posting file)
+Slot: Tue Nov 24, 12:00 PM ET
 Source: posts/gaming-squads/2026-11-24-gta6-single-player/v2
 Placeholders: none
 

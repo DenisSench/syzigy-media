@@ -5,6 +5,7 @@
   "review_status": "review",
   "slot": "1",
   "slot_time": "12:00",
+  "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
     "reel_seconds": 22.533333,
@@ -15,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-19T12:10:51-05:00",
+  "built": "2026-11-23T13:49:52-05:00",
   "files": {
     "cover.jpg": "f18c0659ae61d657a5161af9ff0a2b49816bc93cbea0ca02982e72b30abd5b7c",
     "kit/README.md": "f4c1ba3f281c173599681c90e843e8e29bc799a49cedfb368b3efaa52b587d43",
-    "kit/index.html": "a9b9598c65130c7714094a298532093a5740f47cd9d3b69b3d965a0d31627535",
+    "kit/index.html": "5f4d9ad96a27df33e2432b7c43dadc3c3536bf6fb3bae3587792143f704f47ff",
     "kit/instagram_caption.txt": "cfe72141f011666a0d703e0089b037a21a9959b0557e681742bf8d41541ebabb",
     "kit/snapchat_caption.txt": "ff33984165295516761150e34c84ea7f10836a4abead8d169556024feb656e73",
     "kit/tiktok_caption.txt": "9c5daf31aeafcc0efed22d2aa50c46652865b1bd1ef6206e6229a9365b999233",

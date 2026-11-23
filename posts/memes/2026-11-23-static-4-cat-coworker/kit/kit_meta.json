@@ -1,0 +1,37 @@
+{
+  "post": "memes/2026-11-23-static-4-cat-coworker",
+  "format": "native-reel",
+  "version": "v1",
+  "review_status": "review",
+  "slot": "",
+  "slot_time": "",
+  "ai_imagery": true,
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 7.916667,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-23T15:31:48-05:00",
+  "files": {
+    "cover.jpg": "3c601a19fc82752cc50ef9cac2a3bda56687141cc2935dccd887f892888ac92d",
+    "kit/README.md": "2fd459055f87418eac7b5ce3196d2441c3ec0a4a741f2fea14ea9d063361c0e1",
+    "kit/index.html": "951aea6720722468aafb16ec5f405700896d91c6d2a974dd4bffaee6d6484edb",
+    "kit/instagram_caption.txt": "0615c924731de456f6de8b1663c6723589387e7490bfa50224cfbf45c862b34d",
+    "kit/snapchat_caption.txt": "d2adca6deb3b4890d6ccc76aeafe37014386e6287f04a88efa784c773bd6b76f",
+    "kit/tiktok_caption.txt": "1956b3cf6054674893f4c030afccdfad8494dffe21d771d535fe51c3aa803033",
+    "kit/youtube_description.txt": "8abc8b95ffc665244893197e020db9972e42c132f38ed9f455d689a0fc88f231",
+    "kit/youtube_title.txt": "d29c5ddb71c775d3c694a4beb6b56c26bde3e13c77b659242f582644e99c6361",
+    "reel.mp4": "830f9d179a3e1ad9ef1e132b66177c8ca4d216cd4cd404dd39dca6150fb1aff3",
+    "still.png": "7f42fdfc933cae6720c5574103f94d635ad55497f505e415e9b6fab6d836513e",
+    "still_4x5.png": "cc65c4d5f8c966a30336458b25525a11760453ac7544f13dbdc2a3c6732c9891"
+  },
+  "static_approved": true,
+  "video_approved": false,
+  "caption_source": "Ella post.md STATUS=copy-ready 3:19 PM ET",
+  "noindex": true
+}

@@ -1,6 +1,6 @@
 # Kit: 2026-11-23-meme-5-gta6-group-chat
 
-Approval: In review: NOT approved yet. Do not post.
+Approval: Review stills (not the TikTok posting file)
 Slot: Mon Nov 23, time TBD
 Source: posts/memes/2026-11-23-meme-5-gta6-group-chat/v2
 Placeholders: none

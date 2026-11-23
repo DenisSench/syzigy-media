@@ -1,0 +1,28 @@
+{
+  "post": "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20",
+  "version": "v5",
+  "format": "image-caption",
+  "layout": "fullscreen",
+  "duration": 12.0,
+  "fps": 30,
+  "size": [
+    1080,
+    1920
+  ],
+  "silent": true,
+  "copy": [
+    "POV: me after I finally text first"
+  ],
+  "beats": 1,
+  "media": [
+    "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/assets/loaf-cat-loop.mp4"
+  ],
+  "ai_imagery": true,
+  "reel": "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/v5/reel.mp4",
+  "stills": [
+    "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/v5/stills/01-beat1-start.png",
+    "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/v5/stills/02-beat1-hold.png",
+    "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/v5/stills/03-end.png",
+    "/workspace/syzigy-social/posts/memes/2026-11-19-meme-1-nov20/v5/stills/contact-sheet.jpg"
+  ]
+}

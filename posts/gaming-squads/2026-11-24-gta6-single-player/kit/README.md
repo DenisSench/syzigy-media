@@ -2,7 +2,7 @@
 
 Approval: Review stills (not the TikTok posting file)
 Slot: Tue Nov 24, 9:00 PM ET
-Source: posts/gaming-squads/2026-11-24-gta6-single-player/v3
+Source: posts/gaming-squads/2026-11-24-gta6-single-player/v4
 Placeholders: none
 
 ## TikTok caption

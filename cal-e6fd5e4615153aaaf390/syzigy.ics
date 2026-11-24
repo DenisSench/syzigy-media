@@ -64,36 +64,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cozy-saturday-short-book@syzigy-media.vijostudio.com
-DTSTAMP:20261117T051159Z
-SEQUENCE:11
-DTSTART;TZID=America/New_York:20261116T212826
-DTEND;TZID=America/New_York:20261116T214326
-SUMMARY:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/IG/S
- C/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy
- -saturday-short-book/kit/\nDashboard: https://syzigy-media.vijostudio.com/
- cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/book-clubs/2026-11-14-cozy-sa
- turday-short-book/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/
- IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Cozy Saturday: pick a short book\, talk as you go [TT/
- IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:friendship-boring-tuesdays@syzigy-media.vijostudio.com
 DTSTAMP:20261119T135926Z
 SEQUENCE:12
@@ -488,65 +458,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Things about making friends after 25 that feel weir
  d but are completely normal [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-hand-demo-1-nov23@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261122T090000
-DTEND;TZID=America/New_York:20261122T091500
-SUMMARY:Approve: Making friends after 25 is a slow start
-DESCRIPTION:hand-demo-1-nov23 is 'Approve' and is due 2026-11-23 12:00 ET o
- n TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram
-  and Snapchat. Approve or skip it in the Commander chat (or the dashboard 
- Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/demos/202
- 6-11-19-hand-demo-1-nov23/kit/\nDashboard: https://syzigy-media.vijostudio
- .com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-1-
- nov23/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Making friends after 25 is a slow start in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Making friends after 25 is a slow start in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-join-before-ready@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012844Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261122T090000
-DTEND;TZID=America/New_York:20261122T091500
-SUMMARY:Approve: Nobody tells you adult friendships start at the third hang
- out\, not the first
-DESCRIPTION:join-before-ready is 'Approve' and is due 2026-11-23 17:00 ET o
- n TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram
-  and Snapchat. Approve or skip it in the Commander chat (or the dashboard 
- Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/motivatio
- nal-quotes/2026-11-19-join-before-ready/kit/\nDashboard: https://syzigy-me
- dia.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 9-join-before-ready/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nobody tells you adult friendships start at the third 
- hangout\, not the first in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nobody tells you adult friendships start at the third 
- hangout\, not the first in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1957,6 +1868,99 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Art-themed hand-on-phone app demo (on-screen text f
  rom Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-anime-ending-2am@syzigy-media.vijostudio.com
+DTSTAMP:20261124T051648Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T090000
+DTEND;TZID=America/New_York:20261130T091500
+SUMMARY:Approve: You finish an anime at 2 AM and there's nobody to talk to 
+ about the ending
+DESCRIPTION:anime-ending-2am is 'Approve' and is due 2026-12-01 21:00 ET on
+  TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagram 
+ and Snapchat. Approve or skip it in the Commander chat (or the dashboard A
+ pprove button).\nKit: https://syzigy-media.vijostudio.com/posts/fandoms/20
+ 26-11-18-anime-ending-2am/kit/\nDashboard: https://syzigy-media.vijostudio
+ .com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/fandoms/2026-11-18-anime-endi
+ ng-2am/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: You finish an anime at 2 AM and there's nobody to talk
+  to about the ending in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: You finish an anime at 2 AM and there's nobody to talk
+  to about the ending in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-counted-the-delivery-guy@syzigy-media.vijostudio.com
+DTSTAMP:20261124T051648Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T090000
+DTEND;TZID=America/New_York:20261130T091500
+SUMMARY:Approve: My mom asked if I've made friends here yet and I counted t
+ he delivery guy.
+DESCRIPTION:counted-the-delivery-guy is 'Approve' and is due 2026-12-01 12:
+ 00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, In
+ stagram and Snapchat. Approve or skip it in the Commander chat (or the das
+ hboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/ne
+ w-city/2026-11-19-counted-the-delivery-guy/kit/\nDashboard: https://syzigy
+ -media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/new-city/2026-11-19-counted-t
+ he-delivery-guy/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: My mom asked if I've made friends here yet and I count
+ ed the delivery guy. in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: My mom asked if I've made friends here yet and I count
+ ed the delivery guy. in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-six-unfinished-projects@syzigy-media.vijostudio.com
+DTSTAMP:20261124T051648Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T090000
+DTEND;TZID=America/New_York:20261130T091500
+SUMMARY:Approve: Making friends as an adult is finding one person who also 
+ has six unfinished projects
+DESCRIPTION:six-unfinished-projects is 'Approve' and is due 2026-12-01 17:0
+ 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
+ tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
+ board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/art
+ /2026-11-18-six-unfinished-projects/kit/\nDashboard: https://syzigy-media.
+ vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/art/2026-11-18-six-unfinished
+ -projects/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Making friends as an adult is finding one person who a
+ lso has six unfinished projects in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Making friends as an adult is finding one person who a
+ lso has six unfinished projects in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

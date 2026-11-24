@@ -1,14 +1,14 @@
 {
   "post": "gaming-squads/2026-11-24-gta6-single-player",
   "format": "native-reel",
-  "version": "v2",
+  "version": "v3",
   "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "slot": "3",
+  "slot_time": "21:00",
   "ai_imagery": true,
   "snapchat": {
     "caption_source": "post.md",
-    "reel_seconds": 10.5,
+    "reel_seconds": 9.0,
     "over_60s": false
   },
   "youtube": {
@@ -16,21 +16,20 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:45-05:00",
+  "built": "2026-11-24T10:51:55-05:00",
   "files": {
-    "cover.jpg": "7c836a3282e02fd674b3c2fedbe3b447e5b18dcb96cca91035448b6a8fabeaeb",
-    "kit/README.md": "8d907a7571d17a07cf75f4172506288b2832d5937b00ed909bbff8932ceab9fe",
-    "kit/index.html": "3d67519f043cb94fe64335a69b178ab4c2bba39bf1be46b22536898660e48986",
-    "kit/instagram_caption.txt": "8a379b4bf4cdc644180d79d09896b261256d878703ef6ca149b4779b2ed5c097",
-    "kit/snapchat_caption.txt": "934cbc3b07f37128475039751bd3cb8664190a1dde68758bae73c58b05c92719",
-    "kit/tiktok_caption.txt": "fe6cd5100851e87fe8e27865bd1b485c0933d93062cd25bb5d8f0306a19bbd81",
-    "kit/youtube_description.txt": "1e1c8c060478163228682480e67bb9ccb68aa663d1092abcddb5f48708acb0b6",
-    "kit/youtube_title.txt": "6664513be8fbbab49090cdba921c31ee3411b703ada560dfaf28bcbbebc79118",
-    "reel.mp4": "d496df41e45a193c5a8d544d71dfab5f9000d25f8a0b909306f37a5a9faf80fa",
-    "slides/01.jpg": "7c836a3282e02fd674b3c2fedbe3b447e5b18dcb96cca91035448b6a8fabeaeb",
-    "slides/02.jpg": "2b3e125160ba5ee2938b2b361a2bd1264cce5045a2786b4312f8a03a0cd31b82",
-    "slides/03.jpg": "a2847ba127baee5a457c485998a5e4c3accf7afdca80543367b803e88bbf1270",
-    "slides/04.jpg": "75fee9b79806be78adfb19d82c38b36e0b1aef2dc9df5049c26c62d17b9ea191",
-    "slides.zip": "3c3c6ed8f421a28ec3bf8aa2e54678e25fb272a2dc407f865e875ad61c29725d"
+    "cover.jpg": "c5d1a04692eb53e392198903705cbbff1922212fa14d0df3fc612ba02d9d813e",
+    "kit/README.md": "b53c6bb094a8253806d8900f432f1611b3be32a60aeba94c90e1d55665d897c8",
+    "kit/index.html": "9086be704c548ff099d66af606b16db41ef176b2aad922711dba57ed8a6ca784",
+    "kit/instagram_caption.txt": "4adfde13f14269daa50105b291db0cac9dee86b0aecf33d550b50ea70b906f24",
+    "kit/snapchat_caption.txt": "42783892c5dadadb06487af52ee1adde6994f6b02916052181e517dcc75dae4a",
+    "kit/tiktok_caption.txt": "167bf26bafd5aca58e2b9d188c0b1066fca6ecda55d9499adc82ded665c0e88d",
+    "kit/youtube_description.txt": "578d985ce7b43bdb2e8981bd3d5a9c86838cdb2a904675890a361131534341aa",
+    "kit/youtube_title.txt": "ca2867e68a6ee538220b4883da1d0ed762583d0992486c009f23df80dec6883a",
+    "reel.mp4": "f4408d8cd3bba8fe885b285f2e919b2e85163195f51fd512c56fd6ada9a7de1d",
+    "slides/01.jpg": "c5d1a04692eb53e392198903705cbbff1922212fa14d0df3fc612ba02d9d813e",
+    "slides/02.jpg": "b136005b3f30c891a9d87b3fd92818be9ec841e8c5aee523f25c5b366edbb5ff",
+    "slides/03.jpg": "9d74fd6b22076d9804b4db49d62e86278ad0d176849ac8a697b3c2f714947070",
+    "slides.zip": "57b7d9515a789de4dfbbe7b2d0b64c6fda3c3bf6a687e733818c0af1238bc993"
   }
 }

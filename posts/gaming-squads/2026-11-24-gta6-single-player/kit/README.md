@@ -1,16 +1,15 @@
 # Kit: 2026-11-24-gta6-single-player
 
 Approval: Review stills (not the TikTok posting file)
-Slot: Tue Nov 24, 12:00 PM ET
-Source: posts/gaming-squads/2026-11-24-gta6-single-player/v2
+Slot: Tue Nov 24, 9:00 PM ET
+Source: posts/gaming-squads/2026-11-24-gta6-single-player/v3
 Placeholders: none
 
 ## TikTok caption
 
 ```
-GTA 6 made $3.79B on day one and it's still a solo game
-Find your GTA 6 crew on Syzigy. Link in bio.
-Sources: $3.79B day-one retail sales, Take-Two, Nov 20. Single-player, PlayStation Store FAQ. Online expected 2027, Bloomberg, unconfirmed.
+GTA 6 is finally out, and I still want someone to talk about it with
+Find your people on Syzigy. Link in bio.
 
 #gta6 #gtavi #gamingfriends #gamertok #syzigy
 ```
@@ -18,9 +17,8 @@ Sources: $3.79B day-one retail sales, Take-Two, Nov 20. Single-player, PlayStati
 ## Instagram caption
 
 ```
-GTA 6 made $3.79B on day one and it's still a solo game
-Find your GTA 6 crew on Syzigy. Link in bio.
-Sources: $3.79B day-one retail sales, Take-Two, Nov 20. Single-player, PlayStation Store FAQ. Online expected 2027, Bloomberg, unconfirmed.
+GTA 6 is finally out, and I still want someone to talk about it with
+Find your people on Syzigy. Link in bio.
 
 #gta6 #gtavi #gamingfriends #syzigy
 ```
@@ -28,7 +26,7 @@ Sources: $3.79B day-one retail sales, Take-Two, Nov 20. Single-player, PlayStati
 ## Snapchat caption (post.md)
 
 ```
-GTA 6 made $3.79B on day one and it's still a solo game. Find your GTA 6 crew on Syzigy - link in bio. #gta6 #gamingfriends #syzigy
+GTA 6 is finally out, and I still want someone to talk about it with. Find your people on Syzigy. Link in bio. #gta6 #gamingfriends #syzigy
 ```
 
 ## YouTube Shorts (from post.md)
@@ -36,13 +34,12 @@ GTA 6 made $3.79B on day one and it's still a solo game. Find your GTA 6 crew on
 **Title**
 
 ```
-GTA 6 made $3.79B and it's single-player #Shorts
+GTA 6 is finally out, and it's a solo game #Shorts
 ```
 
 **Description**
 
 ```
-GTA 6 made $3.79B on day one and it's still a solo game
-Find your GTA 6 crew on Syzigy. Link in channel.
-Sources: $3.79B day-one retail sales, Take-Two, Nov 20. Single-player, PlayStation Store FAQ. Online expected 2027, Bloomberg, unconfirmed.
+GTA 6 is finally out, and I still want someone to talk about it with
+Find your people on Syzigy. Link in channel.
 ```

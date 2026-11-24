@@ -2,9 +2,9 @@
   "post": "motivational-quotes/2026-11-24-one-hobby-away-video",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:47-05:00",
+  "built": "2026-11-24T11:15:32-05:00",
   "files": {
     "cover.jpg": "d6ec129848543414e0ddba5ff0920f553f886527647014f94a72152b5fbea227",
-    "kit/README.md": "b708dcc3331150411ed408e69ecf4f4cf9f1f61880d6318ce2687ea257b60f48",
-    "kit/index.html": "d09294bb4750d104946dce316eef62fd93a3ab4549fa8f62b7e40069a3566786",
+    "kit/README.md": "27c7a9cf6765a94f34e205fd9f4c79e52d346b7ca817b43e4b0c9ee7d3a1a4b4",
+    "kit/index.html": "54d52fe5ae5963a20fca30ede8a27f3557278d57d29bcdc381956183879efbd9",
     "kit/instagram_caption.txt": "327ac373afb7ecb2dd269c9200914fddcf53bad792d7fa8bb579d8aa21c6512f",
     "kit/snapchat_caption.txt": "52bda36f83d240be794fde3cbfbef47b58c6cae8ea3aecab3874521e2fa47831",
     "kit/tiktok_caption.txt": "23202a4004e38e3f76b4af6a0c77b8992d7029058d2636700135dbd99ae258f9",

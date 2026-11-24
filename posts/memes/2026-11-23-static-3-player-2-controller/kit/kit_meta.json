@@ -3,8 +3,8 @@
   "format": "native-reel",
   "version": "v1",
   "review_status": "approved",
-  "slot": "1",
-  "slot_time": "12:00",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": true,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T15:54:31-05:00",
+  "built": "2026-11-24T11:15:32-05:00",
   "files": {
     "cover.jpg": "8249081a82a64e8263bccd6de63978e39f64a38b04493f6ec615249fbe14a073",
-    "kit/README.md": "15329c8ffccadfc2fad06dc0675415eeb638baf7aed95ae9332076311faf293a",
-    "kit/index.html": "65a73404d4060716d94139d7627342dc4e03eed325e8812e2c5d77547a120120",
+    "kit/README.md": "12a0de3218e87dcad0a6871f26adfeb32cddd36041b6641c142f5a7aa78a8da0",
+    "kit/index.html": "1945a596cd026985eabfe1ac21f8c2143e2539fed4691ab72f73827f4467ad8d",
     "kit/instagram_caption.txt": "fff67b57cc53c2d9163654fbdf3a7a8a482778f9d9e22fde8c1ba2f699082eed",
     "kit/snapchat_caption.txt": "c7c4287025a47a22ea5b890acd9a03b371e9b2f759ac482614ca9b72fbd0aa49",
     "kit/tiktok_caption.txt": "1ee321c32618879c6069084b50772b013b5d2bc94c67886a6044a6a6129d1ce5",

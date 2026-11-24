@@ -1,7 +1,7 @@
 # Kit: 2026-11-23-static-3-player-2-controller
 
 Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
-Slot: Tue Nov 24, 12:00 PM ET
+Slot: Mon Nov 23, time TBD
 Source: posts/memes/2026-11-23-static-3-player-2-controller/v1
 Placeholders: none
 

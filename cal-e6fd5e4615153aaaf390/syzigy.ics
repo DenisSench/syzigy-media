@@ -579,34 +579,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-gta6-single-player@syzigy-media.vijostudio.com
-DTSTAMP:20261124T155155Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261123T090000
-DTEND;TZID=America/New_York:20261123T091500
-SUMMARY:Approve: GTA 6 is finally out
-DESCRIPTION:gta6-single-player is 'Approve' and is due 2026-11-24 21:00 ET 
- on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Instagra
- m and Snapchat. Approve or skip it in the Commander chat (or the dashboard
-  Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/gaming-s
- quads/2026-11-24-gta6-single-player/kit/\nDashboard: https://syzigy-media.
- vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6
- -single-player/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: GTA 6 is finally out in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: GTA 6 is finally out in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:hand-demo-1-nov23@syzigy-media.vijostudio.com
 DTSTAMP:20261119T192424Z
 SEQUENCE:1
@@ -722,12 +694,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:static-3-player-2-controller@syzigy-media.vijostudio.com
-DTSTAMP:20261123T205431Z
+UID:approve-static-7-dog-guarding-oven@syzigy-media.vijostudio.com
+DTSTAMP:20261124T161532Z
 SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T120000
-DTEND;TZID=America/New_York:20261124T121500
-SUMMARY:[Scheduled] Player 2 controller\, unused since 2019 [TT/IG/SC/YT]
+DTSTART;TZID=America/New_York:20261124T090000
+DTEND;TZID=America/New_York:20261124T091500
+SUMMARY:Approve: My dog has been guarding the oven since 6 AM.
+DESCRIPTION:static-7-dog-guarding-oven is 'Approve' and is due 2026-11-25 1
+ 2:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
+ Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
+ ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
+ memes/2026-11-25-static-7-dog-guarding-oven/kit/\nDashboard: https://syzig
+ y-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-25-static-7-dog
+ -guarding-oven/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: My dog has been guarding the oven since 6 AM. in 30 mi
+ n
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: My dog has been guarding the oven since 6 AM. in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gta6-single-player@syzigy-media.vijostudio.com
+DTSTAMP:20261124T161733Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261124T210000
+DTEND;TZID=America/New_York:20261124T211500
+SUMMARY:[Scheduled] GTA 6 is finally out [TT/IG/SC/YT]
 DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
  \nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then p
  ublish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat:
@@ -739,33 +740,62 @@ DESCRIPTION:Status: Scheduled\nPlatforms: TikTok+Instagram+Snapchat+YouTube
  ion is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the 
  kit. Title and description are in the kit's YouTube Shorts section when El
  la has written a ### YouTube block\; otherwise copy is pending.\n\nKit: ht
- tps://syzigy-media.vijostudio.com/posts/memes/2026-11-23-static-3-player-2
- -controller/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5
- sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-23-static-3-pla
- yer-2-controller/kit/
+ tps://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6-sing
+ le-player/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy
+ 2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6
+ -single-player/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Player 2 controller\, unused since 2019 [TT/IG/SC/Y
- T] in 30 min
+DESCRIPTION:[Scheduled] GTA 6 is finally out [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Scheduled] Player 2 controller\, unused since 2019 [TT/IG/SC/Y
- T] in 5 min
+DESCRIPTION:[Scheduled] GTA 6 is finally out [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gta6-single-player@syzigy-media.vijostudio.com
-DTSTAMP:20261124T155155Z
+UID:approve-static-8-squad-on-under-table@syzigy-media.vijostudio.com
+DTSTAMP:20261124T161532Z
 SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T210000
-DTEND;TZID=America/New_York:20261124T211500
-SUMMARY:[Needs you] GTA 6 is finally out [TT/IG/SC/YT]
+DTSTART;TZID=America/New_York:20261125T090000
+DTEND;TZID=America/New_York:20261125T091500
+SUMMARY:Approve: Me at Thanksgiving dinner when the squad says "on?"
+DESCRIPTION:static-8-squad-on-under-table is 'Approve' and is due 2026-11-2
+ 6 17:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok
+ \, Instagram and Snapchat. Approve or skip it in the Commander chat (or th
+ e dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/pos
+ ts/memes/2026-11-26-static-8-squad-on-under-table/kit/\nDashboard: https:/
+ /syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squ
+ ad-on-under-table/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me at Thanksgiving dinner when the squad says "on?" in
+  30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me at Thanksgiving dinner when the squad says "on?" in
+  5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:static-7-dog-guarding-oven@syzigy-media.vijostudio.com
+DTSTAMP:20261124T161532Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261125T120000
+DTEND;TZID=America/New_York:20261125T121500
+SUMMARY:[Needs you] My dog has been guarding the oven since 6 AM. [TT/IG/SC
+ /YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -777,21 +807,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6-single
- -player/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
+ s://syzigy-media.vijostudio.com/posts/memes/2026-11-25-static-7-dog-guardi
+ ng-oven/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
  #overview
-URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6
- -single-player/kit/
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-25-static-7-dog
+ -guarding-oven/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] GTA 6 is finally out [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] My dog has been guarding the oven since 6 AM. [TT/I
+ G/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] GTA 6 is finally out [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] My dog has been guarding the oven since 6 AM. [TT/I
+ G/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -823,6 +855,45 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Approve: Music-themed hand-on-phone app demo (on-screen text fr
  om Ella\; Ella has final say on wording) in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:static-8-squad-on-under-table@syzigy-media.vijostudio.com
+DTSTAMP:20261124T161532Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261126T170000
+DTEND;TZID=America/New_York:20261126T171500
+SUMMARY:[Needs you] Me at Thanksgiving dinner when the squad says "on?" [TT
+ /IG/SC/YT]
+DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
+ TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
+ lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
+ and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
+ ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
+ , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
+ potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
+ y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
+ n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
+ t. Title and description are in the kit's YouTube Shorts section when Ella
+  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
+ s://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squad-on-u
+ nder-table/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5s
+ y2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squ
+ ad-on-under-table/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Me at Thanksgiving dinner when the squad says "on?"
+  [TT/IG/SC/YT] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Needs you] Me at Thanksgiving dinner when the squad says "on?"
+  [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

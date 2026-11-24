@@ -1,8 +1,8 @@
 {
   "post": "gaming-squads/2026-11-24-gta6-single-player",
   "format": "native-reel",
-  "version": "v4",
-  "review_status": "review",
+  "version": "v5",
+  "review_status": "approved",
   "slot": "3",
   "slot_time": "21:00",
   "ai_imagery": true,
@@ -16,20 +16,20 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-24T11:07:17-05:00",
+  "built": "2026-11-24T11:17:33-05:00",
   "files": {
-    "cover.jpg": "456856b56b8f440a901d00112fd19e30fab4b83fae41fa9f3d324a001151a2e4",
-    "kit/README.md": "b8f884b1674dd8d804f243bce8d812e03c5cf6dd3f3008a33bbce643c7834317",
-    "kit/index.html": "a52fb7db6f562d870f3c4ee9ba43a2aa10ebaaa23e241577aae243ea2a68c4e2",
+    "cover.jpg": "7ae5059782618b806510c0b1aaeb087b7aaaba4eaadee26a7c6d2314ff164cac",
+    "kit/README.md": "8eb33968eaa328081732b043ec84193544bbdea2062c7094df96c5b3069ad08b",
+    "kit/index.html": "adbe1027947b0b738fa16e1028801cd4b48942165f44a799471806ea760873bd",
     "kit/instagram_caption.txt": "4adfde13f14269daa50105b291db0cac9dee86b0aecf33d550b50ea70b906f24",
     "kit/snapchat_caption.txt": "42783892c5dadadb06487af52ee1adde6994f6b02916052181e517dcc75dae4a",
     "kit/tiktok_caption.txt": "167bf26bafd5aca58e2b9d188c0b1066fca6ecda55d9499adc82ded665c0e88d",
     "kit/youtube_description.txt": "578d985ce7b43bdb2e8981bd3d5a9c86838cdb2a904675890a361131534341aa",
     "kit/youtube_title.txt": "ca2867e68a6ee538220b4883da1d0ed762583d0992486c009f23df80dec6883a",
-    "reel.mp4": "9f9efbdf317ddfe9bddbfb798e0190980a230cecea33222d07b28c31d6017e56",
-    "slides/01.jpg": "456856b56b8f440a901d00112fd19e30fab4b83fae41fa9f3d324a001151a2e4",
-    "slides/02.jpg": "39398512e3a0d8d199a8e2fbac87d8ccd1f13e60fc7afdd430080f31929a04d4",
-    "slides/03.jpg": "8be0dc6113e43a24ad586b4c12580e772cba330ecf9006c697af68200376bcc8",
-    "slides.zip": "48d28450405844e28604c8d33bfaaef99778b336e63fb4c2123d3f7ecfa5d4c6"
+    "reel.mp4": "b91e69041fafe87f575bd830a13d2e9a1a1adac3eae92b80c745f788d1739fde",
+    "slides/01.jpg": "7ae5059782618b806510c0b1aaeb087b7aaaba4eaadee26a7c6d2314ff164cac",
+    "slides/02.jpg": "125eedeb6952eae08fa6a141de33eec06005f1f5f197a1c05b5d666f00e08d0d",
+    "slides/03.jpg": "9dee4e8c8b2c57752e6b2905383aa2794e4656a354eaf8b82db148756c168e9e",
+    "slides.zip": "f679baf3d00f82d6b80467968a1f31ad634a9aa5aed3dcff2805a709a4f4b3b9"
   }
 }

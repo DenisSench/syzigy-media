@@ -2,9 +2,9 @@
   "post": "book-clubs/2026-11-20-book-felt-like-friend",
   "format": "native-reel",
   "version": "v11",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:47-05:00",
+  "built": "2026-11-24T10:52:16-05:00",
   "files": {
     "cover.jpg": "8a5f4665a9f0f4b985e66189d2ece225c9b8d8cb1b04164cf68d181741b9a350",
-    "kit/README.md": "d2bbc153322da44de5a0338ee9c9412dddd82dc39850e4217d4679905a295597",
-    "kit/index.html": "50a383f8f0b0ae40468085a190d3049bff0417d6968800eb8871f1c064cb4af4",
+    "kit/README.md": "1bd4afa4b406cfc58f4718155744b7140664732ff2c865b2c97efd51855d5210",
+    "kit/index.html": "defebe1a4b11adbd030876d0bcb688430260967e86de7a796e424f2221e295e4",
     "kit/instagram_caption.txt": "5e620700097e4f2c229fa18ffa31107be41cb5a500aaeff721b28b15fe2992cb",
     "kit/snapchat_caption.txt": "66dc13edb6e9598a6a9c32a75d2cc4c76746cd388cedc59299a3d33bc7478bec",
     "kit/tiktok_caption.txt": "ef65d79ca89290f8402b4acb0c00e723509879f8b2b269b2d234a2ffe4f86f80",

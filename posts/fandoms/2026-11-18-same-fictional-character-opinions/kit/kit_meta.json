@@ -2,9 +2,9 @@
   "post": "fandoms/2026-11-18-same-fictional-character-opinions",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "4e47b4be560e475a4d50a3423a505d7618bbe0d164b82098ab6a6e754a0b35fb",
-    "kit/README.md": "c172928140bd5acb14647361c26ae268ce632995ed0c90f6acab5cc70b5be9aa",
-    "kit/index.html": "e9eb217f07fb2a98a27f0abf77f38cc23ff056d4b37fe8c38a1c2cad4dcb19e0",
+    "kit/README.md": "c3fe720db57d6ed9296326798e38419ee8339708d2a219874d8d636d4600c16d",
+    "kit/index.html": "a1b943767b45d64d220b252357188068662ee536ee4be2239cd28d6d6761cd19",
     "kit/instagram_caption.txt": "0fe7e32e565d23038b54e53baeb553e34894ff800a8cf890c47b02f64a0b718c",
     "kit/snapchat_caption.txt": "7753b562df706e2758289dff636f464c7325fefc03eec0b9c4fd572618f7bb04",
     "kit/tiktok_caption.txt": "1c8a329bc3b326aef251ba0a16757c4f3c7b99bfe19bf06335f7ad5b8701c368",

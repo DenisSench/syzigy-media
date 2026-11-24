@@ -2,9 +2,9 @@
   "post": "fandoms/2026-11-18-fandom-group-chat-types",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "a1fae6bc5bdd7dde7e12ff4355005946cd26222533395229ff3b13b6ede24399",
-    "kit/README.md": "8cdf6de7049227e9ef37456ecbc46a31667e220519e3b41444e3fc6d1711f236",
-    "kit/index.html": "b9ef126c7e3ae0772e7cfe3eab940ae5bb59a7a1872f73d135e87ce97bf6cc5d",
+    "kit/README.md": "d1240f13b1fb5c629906d7c137ca5db7eb98002064dbbd9ccf7d0aa773e72086",
+    "kit/index.html": "6c3d3aa2a817e84ab22dcb72d607a37ff1f482581be3c7f91f2cf5f29ec5d7d7",
     "kit/instagram_caption.txt": "c82cbf5f0e31a07b6c79f2972f5d4966e51c98961a1987e655057d52f55fcceb",
     "kit/snapchat_caption.txt": "187eba8fd80d3e662a7fff5c376fcf9018615b611fc742bb1c582d88947e0202",
     "kit/tiktok_caption.txt": "8af39fdc458de757ea0206149cd34addda25d5878dca4de5ec6617d1f0687287",

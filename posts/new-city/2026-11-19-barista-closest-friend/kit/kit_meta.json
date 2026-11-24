@@ -2,9 +2,9 @@
   "post": "new-city/2026-11-19-barista-closest-friend",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:51-05:00",
+  "built": "2026-11-24T10:52:20-05:00",
   "files": {
     "cover.jpg": "41de444e5c9d52d69843bab7aeea797de59f60cb6103a831b704d91ff635431a",
-    "kit/README.md": "c359178bb510a1f0fe876d728f8fbc7afe4b48d40834ea893a301b5c7adf6078",
-    "kit/index.html": "30fb8276dffadf8d7fcc81217e48affbed4e4a6299403418f630f22f09adef47",
+    "kit/README.md": "ba9f26e1a9935090eaf94328c98d07e4e724ff92a4ef33dc7cc68ed911f6d86b",
+    "kit/index.html": "ec0fd3f00af16f5d272d043b19bb4360eb38d0a8df2b4f2c5d741ff93746181b",
     "kit/instagram_caption.txt": "992bbb7630a47d55872370230940b8a1caaf396f3473e07937576901f8cb400a",
     "kit/snapchat_caption.txt": "80506ef188472462a09a3fbbda53b8136ea01df616eb277cb69a4eaca9edacff",
     "kit/tiktok_caption.txt": "1483a0daef82ade844f6a4ab305ce14d876de0acd7ee948cbb8a9d3d19bb9ed6",

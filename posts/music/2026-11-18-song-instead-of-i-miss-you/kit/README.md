@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-song-instead-of-i-miss-you
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Wed Nov 25, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/music/2026-11-18-song-instead-of-i-miss-you/v10
 Placeholders: none
 

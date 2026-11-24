@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-gg-same-person
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sat Dec 5, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/gaming-squads/2026-11-18-gg-same-person/v10
 Placeholders: none
 

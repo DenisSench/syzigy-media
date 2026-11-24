@@ -2,9 +2,9 @@
   "post": "gaming-squads/2026-11-18-gg-same-person",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:51-05:00",
+  "built": "2026-11-24T10:52:19-05:00",
   "files": {
     "cover.jpg": "55791ff3bec6727c792b70008d10216c6fb520414e0b97f093b4f95c361e1173",
-    "kit/README.md": "ce48bf73d2e149cef0fdefa5c9a2dc28c995129ad51cf0790f742814ff10a6de",
-    "kit/index.html": "75f8f988a9958d945fc6b3f2f9c797572003404430f5347a82b90a8ea38ffdda",
+    "kit/README.md": "1dbe9c50b407e0ec87a1554ecaae733abe820c44f903d9ff7a9deaef49057a80",
+    "kit/index.html": "2b7d67dc7140e5c4feeffaa3139b4ef09d1f1fbf1162e16e71108391cfa75c9d",
     "kit/instagram_caption.txt": "c99ddd6867f0d5ccd1f87da7828eb2fa135a9390ec375c8b77dd265709639d64",
     "kit/snapchat_caption.txt": "25f3bcb6d9b21b27690fda5706f35069d3fe8e9fd8a55f148e518e889327c84f",
     "kit/tiktok_caption.txt": "d44b878de32fc7c8dfdb3885120bea1e6c3e6af9321777caa86eb6c8f81f80f6",

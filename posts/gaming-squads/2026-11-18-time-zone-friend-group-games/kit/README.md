@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-time-zone-friend-group-games
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Fri Dec 4, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/gaming-squads/2026-11-18-time-zone-friend-group-games/v10
 Placeholders: none
 

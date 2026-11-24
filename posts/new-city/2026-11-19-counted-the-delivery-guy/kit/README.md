@@ -1,7 +1,7 @@
 # Kit: 2026-11-19-counted-the-delivery-guy
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Tue Dec 1, 12:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Thu Nov 19, time TBD
 Source: posts/new-city/2026-11-19-counted-the-delivery-guy/v10
 Placeholders: none
 

@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-cancel-everything-but-game-night
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Fri Dec 4, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/gaming-squads/2026-11-18-cancel-everything-but-game-night/v10
 Placeholders: none
 

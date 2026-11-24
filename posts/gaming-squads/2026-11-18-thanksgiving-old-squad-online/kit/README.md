@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-thanksgiving-old-squad-online
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Thu Nov 26, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/gaming-squads/2026-11-18-thanksgiving-old-squad-online/v10
 Placeholders: none
 

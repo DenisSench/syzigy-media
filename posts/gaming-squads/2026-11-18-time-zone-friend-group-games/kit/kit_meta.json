@@ -2,9 +2,9 @@
   "post": "gaming-squads/2026-11-18-time-zone-friend-group-games",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "02351507065691674a9c28d42896ee98ed4eba00fe5d14200db4cb4d9830f35e",
-    "kit/README.md": "7778ddf9583cf0e93aae143b5f89b63a9276dd46a1bdf1e4b56d133855bc30c7",
-    "kit/index.html": "d221bc0054ac5a76095cbdc18835844b0a0a70c5541b3bb94d8fd8581d33a198",
+    "kit/README.md": "9c9d6cf56c99d7a85aa802081bf8c70a1d95beeef86647bd9c1ce77b08b7d3d5",
+    "kit/index.html": "2c35ab6e438e8c5f245be0ed98dbfbc43e42bdfce1f1aeacbec7eee1410278ff",
     "kit/instagram_caption.txt": "b7d58a788fc592ea8ba97719864e6ab0222d37320b82820cd6dacdf2afacb797",
     "kit/snapchat_caption.txt": "44e4e9a98a8fc4562d857d46c5aed102345219034a6bb815cddec1f2adbd0b52",
     "kit/tiktok_caption.txt": "df1ebb59b1e165d9e09f09e6a7d28965c5c424bd3b9d7e2cd4ebc8a9b4465c0d",

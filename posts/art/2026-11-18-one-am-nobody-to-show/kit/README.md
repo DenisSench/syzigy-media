@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-one-am-nobody-to-show
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Thu Nov 26, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/art/2026-11-18-one-am-nobody-to-show/v10
 Placeholders: none
 

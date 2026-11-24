@@ -2,9 +2,9 @@
   "post": "pets/2026-11-17-pet-saw-whole-week",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:47-05:00",
+  "built": "2026-11-24T10:52:16-05:00",
   "files": {
     "cover.jpg": "88fe0e3932ff8be83b33ee642b7898596a232501348db4a89b4fc06f13c949de",
-    "kit/README.md": "6bafd5a6ecf6756769ccdaee1a9ed3638a5c105abed0fd7834ab36e7ec5bbcd7",
-    "kit/index.html": "95c7e753a6cda6cecffcb773d720012691b8ab844d4d14bba92c8b9c5430bb52",
+    "kit/README.md": "601bfe49773684934b5f12a4aefab47cd9b3e6c3b9cbb439e2025594fa165dbd",
+    "kit/index.html": "8ff2cd3c9724267020ec6a4b9afad58a85dfab38b283907b5cd332807e33d6a1",
     "kit/instagram_caption.txt": "cbae8306371469f50337d652798479a20a6c628bc7bf390f7649e4b0c0f22cef",
     "kit/snapchat_caption.txt": "056ccba77ea64655f7caeb165976523f5373650976b8f60e4d8d32d74def7a9f",
     "kit/tiktok_caption.txt": "9a95f493b37f53fd9f59abcd2620dac5e017651b5fa4140697823c05309835ca",

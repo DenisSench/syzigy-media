@@ -1,7 +1,7 @@
 # Kit: 2026-11-17-pet-saw-whole-week
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Tue Dec 8, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Tue Nov 17, time TBD
 Source: posts/pets/2026-11-17-pet-saw-whole-week/v10
 Placeholders: none
 

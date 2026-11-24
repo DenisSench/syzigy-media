@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-first-craft-fair-things
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sat Nov 28, 12:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/art/2026-11-18-first-craft-fair-things/v10
 Placeholders: none
 

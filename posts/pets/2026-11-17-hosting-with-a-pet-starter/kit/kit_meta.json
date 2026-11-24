@@ -2,9 +2,9 @@
   "post": "pets/2026-11-17-hosting-with-a-pet-starter",
   "format": "native-reel",
   "version": "v11",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "fc24574116859cc2aa1594be602e97a91f5fe0dd400a5e6e86d86f97068c7b8f",
-    "kit/README.md": "3011558d72147a94e93a980e4e9e2920b34b73b0fc60e387dcce589145941474",
-    "kit/index.html": "0fc53eb30f5ef04befae9e5d499c1b96580c56f359b4f0a8c9cc9b80494580de",
+    "kit/README.md": "52a092a42d42c5abb8138e4c2ff51d0656591ba28d3847fd380e6f9a3454ccbd",
+    "kit/index.html": "6af22cb0de95755cabf1795e132894f93f27e39f380c9146bccfe53dabed458e",
     "kit/instagram_caption.txt": "98b64b27e829dde02d44b77ca43edc336e1c9c62f31818858ea49f6665e56c8b",
     "kit/snapchat_caption.txt": "3b51d09d8c8dd97d7774fa4a52aea66cb39b8c850de394e2d8e6f2829f958ab0",
     "kit/tiktok_caption.txt": "2f8b22f6da4bed214543bb15a4e835815f03bd2cf4199cebe6a8ceabe58279c9",

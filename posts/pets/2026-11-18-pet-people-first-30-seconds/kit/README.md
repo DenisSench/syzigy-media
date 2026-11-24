@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-pet-people-first-30-seconds
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Mon Dec 7, 12:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/pets/2026-11-18-pet-people-first-30-seconds/v10
 Placeholders: none
 

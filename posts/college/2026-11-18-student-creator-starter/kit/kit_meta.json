@@ -2,9 +2,9 @@
   "post": "college/2026-11-18-student-creator-starter",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "b1c3c11da88ee357a3960ee690b6817815e696fbe17de2783b7d3e90949c2315",
-    "kit/README.md": "875affcf31cd545790ec87c14ec47c675d82d7c0b6fca71d7e058ca180885306",
-    "kit/index.html": "054412ec9cc93a52393a44e289f2a6d52401906b5c2277608dfc9ec946a113dc",
+    "kit/README.md": "2a805b3fde80e7450cde4b6e7310bf7682d7c119c8121103fd94e0c5af433e2d",
+    "kit/index.html": "ae981b59682b44f0fc5b77c0dbd66f6d834207a9c325511a06fc2b7dd9cd8880",
     "kit/instagram_caption.txt": "1884ba4e1e53a8e19958acf214563d97a3664c3c1c15aa157f08c32c87a6b790",
     "kit/snapchat_caption.txt": "d38774d9fa10f66f23337289e2b6f27b499b849fd722729eb223c87f6309e3db",
     "kit/tiktok_caption.txt": "bd4fe8f3da2e53db002784b509ddd50a7c6d15b713b79d5a502f839d1c5e097a",

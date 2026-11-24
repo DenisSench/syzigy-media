@@ -2,9 +2,9 @@
   "post": "cosplay/2026-11-18-con-line-strangers",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:51-05:00",
+  "built": "2026-11-24T10:52:19-05:00",
   "files": {
     "cover.jpg": "1fd06dbaea54d15f536908ca4c4d6ae191132262565381ffc422461dfc706927",
-    "kit/README.md": "a1f9fc65d21e8724af5e6bb948197a1d3b980b0c92464d987db613935d15f067",
-    "kit/index.html": "9802fcac8d36a84b891c6dc948d95453081119faf922bb3bb91795cb37312959",
+    "kit/README.md": "58c3e9d1e88e45be92d5c70c02db024e6ee3e7c85ce7e8e4b14ef2cc75e04e8e",
+    "kit/index.html": "3b768ea710673a9081f6926f3101ea5ac2a52402f3c146bee13482a8d11e1674",
     "kit/instagram_caption.txt": "37181b4e5d393768100f8b0c6d289bb8004fd7f47ac3ef5e092f3308d532ef17",
     "kit/snapchat_caption.txt": "d555302d6ffe6b9bab54bdfaab4ac701b78314adfe7a8bd172018f2c5f17465a",
     "kit/tiktok_caption.txt": "a95d0132458ff04de8143b5b963e2ef84c3170d88b9da90030f7d0b8fa592e68",

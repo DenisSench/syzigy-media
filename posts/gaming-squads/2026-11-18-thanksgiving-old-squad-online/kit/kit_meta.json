@@ -2,9 +2,9 @@
   "post": "gaming-squads/2026-11-18-thanksgiving-old-squad-online",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "16c7450b6592a88e94e864ce7bd977a2e87fbd89bfe9be5b6a8516d31fd4e64f",
-    "kit/README.md": "fb9441f0b1cfd23e87372bc3d5c041fc61e6a192f619f1d4e64463d994f7d10f",
-    "kit/index.html": "f394acc07df749d001e914da84beda330092c155f6f942671b0f26c4a2519bc5",
+    "kit/README.md": "f25a6747d293509a26e1b0d21e8e4b109a7079408699dbc3da8f97327a6eb33a",
+    "kit/index.html": "2c535502f314e710f3fdd933a777927b888ebd4328b831eae9f4b0d63d39cb35",
     "kit/instagram_caption.txt": "5938958e2b1d8e965f8d04496df897899d75ccc9003867b03d0cbad268e8e816",
     "kit/snapchat_caption.txt": "77fd0c4846dc76b8d1986a4d5f038b0f667accc14bf2a162660728de469e169b",
     "kit/tiktok_caption.txt": "7ab9fef0e840b866b6ff391946a4480ea7c4287f41cb455af420c18033a87918",

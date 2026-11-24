@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-thanksgiving-break-group-chat
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Wed Nov 25, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/college/2026-11-18-thanksgiving-break-group-chat/v10
 Placeholders: none
 

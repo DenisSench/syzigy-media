@@ -2,9 +2,9 @@
   "post": "book-clubs/2026-11-19-fake-dating-trope-why",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:46-05:00",
+  "built": "2026-11-24T10:52:16-05:00",
   "files": {
     "cover.jpg": "6fc2ac2be9bf915ba791f8d0e9de5ced1a530844d16cebb5721656510c019769",
-    "kit/README.md": "34b796b1ae99866817c8093a3ed6263697baf016a896d9b7dca4a54d04aa65c4",
-    "kit/index.html": "532d9b6548fe034bd6c983d4d471436e8003fff10db7131e83819b4e18eb6123",
+    "kit/README.md": "ed10960f03644bd300d714cbac9c43065f325a987e67ffb79f6cbb76787069dc",
+    "kit/index.html": "98f8fe8bf9ac3b7a7caac9fc31391f01a592135cb2c19c1b0448e6635bf6f3f7",
     "kit/instagram_caption.txt": "ac5371c7231d566a9f8fdfc18c38f26214efaea549cdfda28ef09fe24d718faa",
     "kit/snapchat_caption.txt": "5006991c7422b61e18ec9cf555349647a37a8bad92ed67fed129c9ca5f8a0407",
     "kit/tiktok_caption.txt": "6046a0cf0ad7b0897dea76200228528f7a85e24f1ba7561c3103e73b78d8ddae",

@@ -1,7 +1,7 @@
 # Kit: 2026-11-17-hosting-with-a-pet-starter
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sat Dec 5, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Tue Nov 17, time TBD
 Source: posts/pets/2026-11-17-hosting-with-a-pet-starter/v11
 Placeholders: none
 

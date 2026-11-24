@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-six-unfinished-projects
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Tue Dec 1, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/art/2026-11-18-six-unfinished-projects/v10
 Placeholders: none
 

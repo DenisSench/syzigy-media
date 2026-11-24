@@ -2,9 +2,9 @@
   "post": "music/2026-11-18-song-instead-of-i-miss-you",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "dfc24b1d8946493c7f7230de3f711a21e83a8f6fe0837986bb356e6821004ab6",
-    "kit/README.md": "c8ff986d6c807a7d54cad099b98b7d4af94d1e86ee66404f724254b2f162b56d",
-    "kit/index.html": "28f392fb51b88797654133f16b8abfb32a114c7e044d06cd43193a61013625c0",
+    "kit/README.md": "f2924e293d86ed11218bb1cde7be20ae0e9898597d48c8b9bf3254fafccb3d6e",
+    "kit/index.html": "923328cc92c9e70f5f80f9751eba9c97ffaad1946111c6ced2cad9f451c3fbcb",
     "kit/instagram_caption.txt": "1259f70ce70480cea539ce61fc6d1f7151855fc0a0eae965a5b7ff72e4aa8736",
     "kit/snapchat_caption.txt": "10042f1f5953ec1aeb33cb6ebabda6e1e6a249ab367899459fa5658ab7533429",
     "kit/tiktok_caption.txt": "09ff6cd4f7fbf6a80c9847d85dbc96868b30a6af9ee4c3e8094ad98499430a72",

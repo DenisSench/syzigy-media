@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-anime-ending-2am
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Tue Dec 1, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/fandoms/2026-11-18-anime-ending-2am/v10
 Placeholders: none
 

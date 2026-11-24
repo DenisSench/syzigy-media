@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-need-pet-friends-signs
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Fri Dec 4, 12:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/pets/2026-11-18-need-pet-friends-signs/v10
 Placeholders: none
 

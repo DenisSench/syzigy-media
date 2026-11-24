@@ -2,9 +2,9 @@
   "post": "college/2026-11-18-thanksgiving-break-group-chat",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "f250a40dd93befef58bbeed31805e3fb058078f2f467af63010ee14d97b64c5d",
-    "kit/README.md": "6f7ad744532b1fd69bed11ea9d776283522113e24be4b3d601d8bdd5bb87e7bd",
-    "kit/index.html": "a87afe104144bda95069b279ceb0cd8f06c2539f3ac1d1ebeee3e81a5ad57ad1",
+    "kit/README.md": "1fc78e09e21367ce9e22ae3f60831b0bfcf0541736b5100fd0216c544352f685",
+    "kit/index.html": "30b547d5d1143c8f27080418655ead94a3cab13ccc3d89e560cb0f3fa3c39c9b",
     "kit/instagram_caption.txt": "ac8897d4e2a6b853405463f46623c1670d73170f39f7d0eff7468c8940c53be4",
     "kit/snapchat_caption.txt": "545b86b42d3e06c3b0782f010f5a44440c9e50f4a68d8a4757c51b68dcb5ffe1",
     "kit/tiktok_caption.txt": "909d80d4329b055891a463ba539ceba8fc5271df594311d5fbf20c2f604f8536",

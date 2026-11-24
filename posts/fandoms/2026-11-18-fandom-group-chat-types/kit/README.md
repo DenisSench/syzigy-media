@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-fandom-group-chat-types
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sun Nov 29, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/fandoms/2026-11-18-fandom-group-chat-types/v10
 Placeholders: none
 

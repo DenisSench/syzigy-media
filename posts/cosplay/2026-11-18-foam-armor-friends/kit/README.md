@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-foam-armor-friends
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Fri Nov 27, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/cosplay/2026-11-18-foam-armor-friends/v10
 Placeholders: none
 

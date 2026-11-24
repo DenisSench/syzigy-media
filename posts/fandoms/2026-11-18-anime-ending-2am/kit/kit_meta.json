@@ -2,9 +2,9 @@
   "post": "fandoms/2026-11-18-anime-ending-2am",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:51-05:00",
+  "built": "2026-11-24T10:52:19-05:00",
   "files": {
     "cover.jpg": "6b2c8fb6b1893b4d5518298c4bba79ffb0b17147442a334d5e916d63cbf2aeb7",
-    "kit/README.md": "2d108c8bf10c184f585ec11ec9c07de42f46f1003ab75298a85bbcd0fc9cfd15",
-    "kit/index.html": "e003adb561e4f769d66086e599cda301555154ee5184c9f0dd9beebc51eecf1a",
+    "kit/README.md": "27a4f9cdcb605b8ca74c33fe115c0e3cc70ee7fbd55a0315468c2cda15c0857b",
+    "kit/index.html": "cf991ad27d2acf88d0a8215c47544db1512761b2b58600edd2c8e20213497019",
     "kit/instagram_caption.txt": "0091a362733ebe02d5a9fc0dbbfd64bae6aca3437074e7d3a2afe628619b5129",
     "kit/snapchat_caption.txt": "ea7e336620677414f9f4bb1e06f76406f2cec92af0e7456304908edd726cae85",
     "kit/tiktok_caption.txt": "852fc1985bb87ed70c33166fc0d18f565a2cfd3967faa146a7a7d599d622861e",

@@ -2,9 +2,9 @@
   "post": "music/2026-11-18-too-specific-music-taste",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:50-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "722de2eb266cfd204cf68f170cd0a932488b6eb74ae4168b68b648f5031bb10e",
-    "kit/README.md": "e882b7e3bc575ce12feb414153ed9b63910e623a5fcdea25a65542e36020787b",
-    "kit/index.html": "7f3bde6a0deb7922c6b429026ef115ec01e9ce733f9254e3653f1aa1309654a8",
+    "kit/README.md": "c90c8c49c1afa00f854b8e06b71411a0cf986d2c5a20fa575daf98ef26b9f814",
+    "kit/index.html": "8b32299a21ee304d4f3d24c7a1be02a97ed381423eeea570da7b610ab420d752",
     "kit/instagram_caption.txt": "7f743996014bd7d7bf0a5b33495b131d8e5e7e7b5ebeeb77b47aed58a476d9b2",
     "kit/snapchat_caption.txt": "f516db71c6125cff1a2468abb265f0d21665866340840bae17b1d1388721bbaf",
     "kit/tiktok_caption.txt": "0eae318a2558952473d3bdccdded408da0de55ea25065450d4d975b69417f592",

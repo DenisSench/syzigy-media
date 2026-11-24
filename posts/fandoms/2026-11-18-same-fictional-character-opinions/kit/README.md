@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-same-fictional-character-opinions
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Thu Nov 26, 12:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/fandoms/2026-11-18-same-fictional-character-opinions/v10
 Placeholders: none
 

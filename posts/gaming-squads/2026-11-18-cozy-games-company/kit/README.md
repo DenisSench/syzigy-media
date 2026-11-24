@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-cozy-games-company
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Mon Dec 7, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/gaming-squads/2026-11-18-cozy-games-company/v10
 Placeholders: none
 

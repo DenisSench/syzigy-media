@@ -2,9 +2,9 @@
   "post": "art/2026-11-18-six-unfinished-projects",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:50-05:00",
+  "built": "2026-11-24T10:52:19-05:00",
   "files": {
     "cover.jpg": "55cba411b5a0631347885072522fb076a47bd8c85b6af1e03cd88db27dcfddcf",
-    "kit/README.md": "267bfcf041be42388cd00d4f6f752f4430aa20b4c31872f24e9e95e49a0077fa",
-    "kit/index.html": "1d05396e8be0bd096ae2f6cfb1360d142ef00e516ddaf404c419f1ef0350d5da",
+    "kit/README.md": "8ff003c472dd87dbd51f62f2418600e5a38a0a6d768db010e42efaa76daf10e1",
+    "kit/index.html": "1a896aaa24728bc33c27109f9820e094282feccd799e568e3b67d5f76d91838b",
     "kit/instagram_caption.txt": "3083b72c12d3e5e426192732eb1c4e4b42f678434e4745828175579e65f4e1c0",
     "kit/snapchat_caption.txt": "e2b31ee4781e8a9dfdd72e5df97f4104934e3d574fa29ef98387cbf255cd45c6",
     "kit/tiktok_caption.txt": "2b40c081deae56f3db17c74881d84e37c18afbf405e1b627518bf3d977c19914",

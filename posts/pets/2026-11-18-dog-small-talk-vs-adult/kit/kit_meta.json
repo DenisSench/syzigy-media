@@ -2,9 +2,9 @@
   "post": "pets/2026-11-18-dog-small-talk-vs-adult",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:51-05:00",
+  "built": "2026-11-24T10:52:19-05:00",
   "files": {
     "cover.jpg": "56e4eb5923ae966c413fd6afad7514debd715ad9c27f09f5280eaac4efa47cfb",
-    "kit/README.md": "73bb1f679ede22511b999c88af06c71309d7a68e2c2ac2c80dfe5422921397a6",
-    "kit/index.html": "4b0ddcaac7a3c01d9783837a0a2273700f8581291782b4da5487c705bd93063e",
+    "kit/README.md": "a1c65ff2695ed09a83aeb678caecfe8b16a181446a0abcd853bdfb07a88dbac8",
+    "kit/index.html": "a24ee5b2d9668098fbc7ab348598d7cf521849383790c05cfd62c1cbdd4d1283",
     "kit/instagram_caption.txt": "139fdd3ff38a3856167b537bf0354707f95186a3c985670920561ce59066ee49",
     "kit/snapchat_caption.txt": "936e0eb15cfd4d62748f324cd7033efe21f4994b42953c0dd23fa1811259bc37",
     "kit/tiktok_caption.txt": "f328f95fcd3332a2fda8e6a4d0d0c48a30aebad42240127773bfeb0bb742ba4a",

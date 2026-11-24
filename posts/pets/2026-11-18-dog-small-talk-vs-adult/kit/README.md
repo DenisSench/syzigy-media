@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-dog-small-talk-vs-adult
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Thu Dec 3, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/pets/2026-11-18-dog-small-talk-vs-adult/v10
 Placeholders: none
 

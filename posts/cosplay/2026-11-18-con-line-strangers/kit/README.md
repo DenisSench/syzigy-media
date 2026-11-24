@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-con-line-strangers
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Wed Dec 2, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/cosplay/2026-11-18-con-line-strangers/v10
 Placeholders: none
 

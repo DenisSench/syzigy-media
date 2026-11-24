@@ -2,9 +2,9 @@
   "post": "cosplay/2026-11-18-foam-armor-friends",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "2",
-  "slot_time": "17:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "ff908ca43df7d022fe68ae40321aed1105cba900b1b9a2050a8cfe539920b4bc",
-    "kit/README.md": "bea29b4bb8ab3ac95fd7df3cd275b00700d82ba074b8280736f9ddc1f39c6641",
-    "kit/index.html": "4ab47559970d7309a3161d63c12fc871ef8232d5783541e6ed72790c790e3f4a",
+    "kit/README.md": "7af44fdeaf6b544e4555613e7bed9cbc97dbd71f06f6c0b80446d496f1f92313",
+    "kit/index.html": "a34e4218c42379bd8038de3e6692523db7f668dd632dfed6e2105cf96c123653",
     "kit/instagram_caption.txt": "cda1c294abe1908879c809a35900c0645053c78f010ba660d039c4888b2308c6",
     "kit/snapchat_caption.txt": "9bd288355b54253127b688d6285cef01ed35b89cae05c93ffbad24ad12338a07",
     "kit/tiktok_caption.txt": "d23946b0fa02acf763b272d24da2998274e78352644a4afadf0b796a85a2e798",

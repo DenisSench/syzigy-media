@@ -2,9 +2,9 @@
   "post": "pets/2026-11-18-thanksgiving-family-greets-dog",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:48-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "e40613f1b4851bf6263e0e63157c92cb01959a0cd7f486e532732d859b03c74f",
-    "kit/README.md": "bb0af8ac4e68ca029149fc7480d68bee7add4d33abc095e328e46a9c0dab7dee",
-    "kit/index.html": "d62ec059ebce18dc69fbd16419d45d218db1d1ff0be738a64f5ad9bf776ccf68",
+    "kit/README.md": "13d88b2759ce010cd6217bc3fdbcc916bbc406cd3225f67ac0843d625a5c51b9",
+    "kit/index.html": "9cf7ba75a3218e0794177d5439652f15a1ae3c50486d2fe85ad17d2f2d78ac28",
     "kit/instagram_caption.txt": "84a74120b5b37c61b9c297af77b4bb48cdff3a91058c119f7d6867e2dd7efdeb",
     "kit/snapchat_caption.txt": "3f6b1eabfccf34f67e77ecb4691b635c93433284debdfa6943ec9e451c234977",
     "kit/tiktok_caption.txt": "0114063bf4d0a2390f9f0619c87c9da15a4e267b5ae52012fb48ae27c4729cf4",

@@ -2,9 +2,9 @@
   "post": "gaming-squads/2026-11-18-cancel-everything-but-game-night",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:50-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "7f2d3649ecdff3e8345a54d78168fe479bf51a2091d4f1c9511fec6fb90a0588",
-    "kit/README.md": "509533380775576a65c431c8d4b55297f3511fe1dab1107e0d883382a2017c95",
-    "kit/index.html": "47722531fd4f71234d5d06c4c03d1d114db9612778351d08e1f14e013f7f6d6f",
+    "kit/README.md": "fe984745b79b930c05efecbb0c0d8ac1ed1b7993b032387c90956c3d981dc7e6",
+    "kit/index.html": "d61a53956a1e31469c1bfbe5d10c035c84a49f1eaa820cbfd598653bac675e94",
     "kit/instagram_caption.txt": "2d9ba33b6ffbb37f7a2e42db90a31ccedf1a8d6b05e1e05daa9dcaa2fef0fb91",
     "kit/snapchat_caption.txt": "79006b24f401206c4726a7fe639ff197177f1d6128e34cccd186ba77add0a1ae",
     "kit/tiktok_caption.txt": "c297c9c8437847dcb76b00552c01679c1534f9e91dedb7a83cdc41509ff57d87",

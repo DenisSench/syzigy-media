@@ -1,7 +1,7 @@
 # Kit: 2026-11-19-barista-closest-friend
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sat Nov 28, 5:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Thu Nov 19, time TBD
 Source: posts/new-city/2026-11-19-barista-closest-friend/v10
 Placeholders: none
 

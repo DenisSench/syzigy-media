@@ -1,7 +1,7 @@
 # Kit: 2026-11-19-apartment-weekend-friends-year
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Mon Nov 30, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Thu Nov 19, time TBD
 Source: posts/new-city/2026-11-19-apartment-weekend-friends-year/v10
 Placeholders: none
 

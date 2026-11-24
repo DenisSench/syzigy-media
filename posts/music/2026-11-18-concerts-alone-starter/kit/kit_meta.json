@@ -2,9 +2,9 @@
   "post": "music/2026-11-18-concerts-alone-starter",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:17-05:00",
   "files": {
     "cover.jpg": "67f13b5b50fcf3488daee51968241f0ddb6ba6dd46e6f65ae13e271d0624a569",
-    "kit/README.md": "6244562991541f6c29dfde1a3b9597bfb66450031b4fc23691e5d918a400e533",
-    "kit/index.html": "25761764d766f9030f2a545aba00cd6c44a066365088284bf1236b7cd5ef6f3b",
+    "kit/README.md": "8922f831676d486709f4f02dbda68460a82d0bb52d7de7ceca89ab2f722a0224",
+    "kit/index.html": "7d2ed56f46f18a302bd1ccc4ee80c374205d87b08cc3cd1b5e6ba72deb45ccfe",
     "kit/instagram_caption.txt": "db1e44e8cc077cd232df0fc85271c5dae3d4beee43aa73364055e0801b53fe2c",
     "kit/snapchat_caption.txt": "e76c7e217aeed5b99d3217e28d0ddc2f66a4e6bb1dbe1021861b0953f2423524",
     "kit/tiktok_caption.txt": "bb9f7a91519d70a7bfe2ef52074ad11d4eeeb37e80aabdf426a77c65e57ad6ec",

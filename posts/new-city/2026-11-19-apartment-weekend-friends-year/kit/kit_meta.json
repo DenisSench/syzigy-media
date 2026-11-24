@@ -2,9 +2,9 @@
   "post": "new-city/2026-11-19-apartment-weekend-friends-year",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "3",
-  "slot_time": "21:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:52-05:00",
+  "built": "2026-11-24T10:52:20-05:00",
   "files": {
     "cover.jpg": "d6ebe6efea03dffaf08e18dfe3fa21e324c1eeeb7b9292b8b18a8498ac357346",
-    "kit/README.md": "33e5d5f7a54d349da50b558d74792d4d4edb25004375012fdfeb80ac16c3f6a7",
-    "kit/index.html": "7d5616f048a01d755a7d598ba4098202867260283684a0005fa2e6b733b77b79",
+    "kit/README.md": "10a32d82c1c7eb0f03b136d90cd9ddd185734a062a529fa7c3e183bfe842574d",
+    "kit/index.html": "674879eecd2120515d963e6a02cbe196a8a74877829efd807f4b73145bafe063",
     "kit/instagram_caption.txt": "03ce2f87f9e19ffcf618ee4ef34e6634ff069ac9e85f2ca63e39f15d524a0175",
     "kit/snapchat_caption.txt": "4a099ea5db947f0c505c4960687a48a7824e842dc4de7d3446dbb2497326b0ac",
     "kit/tiktok_caption.txt": "a8e834830b83e39075d8aabdbac27fe94f8413425d4c58b480c008482d4add26",

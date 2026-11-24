@@ -1,7 +1,7 @@
 # Kit: 2026-11-18-student-creator-starter
 
-Approval: Review stills (not the TikTok posting file)
-Slot: Sat Nov 28, 9:00 PM ET
+Status: Review stills (not the TikTok posting file)
+Slot: Wed Nov 18, time TBD
 Source: posts/college/2026-11-18-student-creator-starter/v10
 Placeholders: none
 

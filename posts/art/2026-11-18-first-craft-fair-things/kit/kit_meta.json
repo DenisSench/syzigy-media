@@ -2,9 +2,9 @@
   "post": "art/2026-11-18-first-craft-fair-things",
   "format": "native-reel",
   "version": "v10",
-  "review_status": "review",
-  "slot": "1",
-  "slot_time": "12:00",
+  "review_status": "held",
+  "slot": "",
+  "slot_time": "",
   "ai_imagery": false,
   "snapchat": {
     "caption_source": "post.md",
@@ -16,11 +16,11 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T13:49:49-05:00",
+  "built": "2026-11-24T10:52:18-05:00",
   "files": {
     "cover.jpg": "cc88c4c51ad1708c29a1e26a498057a1d576d69245de0cf317f84136b752c1b7",
-    "kit/README.md": "bdfe79b1efd8d1b6be3d00896392ba86b3a0a2dbe5dcfaa52e5abdb0ed2ce7ae",
-    "kit/index.html": "06ecc2cb777be335f3cae2dde1ca2405adf5cd88079dbd2d9d06b51361710fde",
+    "kit/README.md": "a19ec882fa7fd8a3e49937ab20b16b99ee1508ba4d30070afca724ed078d9fa7",
+    "kit/index.html": "8ac1a733d2dfd16b0840d074a8cfa281f5d1a8e8bac51f61f50fd2a1ad0fb463",
     "kit/instagram_caption.txt": "e842d2aca2c6705ef64c8c53002d9913c1f160b5c4bad0eb9062f0d0cb7fe915",
     "kit/snapchat_caption.txt": "903217c4b5ae3da188e66004cf30f81017643ae10f8a4c61c3806e92a4e76cc0",
     "kit/tiktok_caption.txt": "9d67717068b1c435c26d1607f76412434ad9dbdb4ff6e69cca33e7150ce30efc",

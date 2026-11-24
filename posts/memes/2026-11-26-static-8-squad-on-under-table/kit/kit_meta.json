@@ -1,21 +1,31 @@
 {
   "post": "memes/2026-11-26-static-8-squad-on-under-table",
-  "format": "static-still",
-  "version": "still",
+  "format": "native-reel",
+  "version": "v1",
   "review_status": "review",
+  "slot": "2",
+  "slot_time": "17:00",
   "ai_imagery": true,
-  "caption_source": "Kai proposal (Ella may revise)",
-  "built": "2026-11-24T11:23:26-05:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 8.0,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-24T13:33:52-05:00",
   "files": {
-    "cover.jpg": "61aa553a38e0778e952c708e991661845deb4942068dfe6fb0118071ab375c34",
-    "kit/README.md": "2ecee4c0b361de4dbc2e1ff4d802e40f1fadcd362a50c8368cfa46943a41e4ae",
-    "kit/index.html": "22220b3f2ee388b862b4b759318e0ec21f505278f8b8444223cf26491b0630b2",
+    "cover.jpg": "d70fe64f000df6d0ddf41d555bdc2d0636b0f17e33f297014fd2c82f36ae7197",
+    "kit/README.md": "00832c6b0e0fb5e0857f21e4a7ce7310d8d559da154c511a65d39578b65b2856",
+    "kit/index.html": "c96e1f3fd076336b58655decaab46076b1930b0f5030335f9fae1a5c9136c70e",
     "kit/instagram_caption.txt": "222e8bf473cb1baedda78cec80951598ba4dfb53af92f53d70574f4255d582f3",
     "kit/snapchat_caption.txt": "5bfdd9fade41d6261bd014912ecdcb8d5d429612c9183f9809821e25822d3da5",
     "kit/tiktok_caption.txt": "e481de3198b9245a9a8b48fd86b82e078b92202716831f3753854888d1f02254",
     "kit/youtube_description.txt": "282c46223c91fa77fb14548146bf3f05467a556b27d7b088bf7618bc72aab198",
     "kit/youtube_title.txt": "600a74c1767a90eaf206aec8e80f9e55eb6a07ab56923178dadbae7aff23b662",
-    "still.png": "bbe424e082965a94963091a0c8972752196464967a90ec7122f4933ef5cd98f3",
-    "still_4x5.png": "cdc704aea29244ddc25c039fc8c1b6fb44fecae497e16e0d06aa23ae9fb9c909"
+    "reel.mp4": "5d92944c3704702ee3814918f1f7ec3d08952987d70436ff850528aa52dd51b3"
   }
 }

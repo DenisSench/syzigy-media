@@ -5,17 +5,17 @@
   "review_status": "review",
   "ai_imagery": true,
   "caption_source": "Kai proposal (Ella may revise)",
-  "built": "2026-11-24T11:23:26-05:00",
+  "built": "2026-11-24T13:33:52-05:00",
   "files": {
-    "cover.jpg": "a2980e7ebc80c80df2883b33dd6af2d6d9a46ebd821690aaa59f6a894d5eca5c",
-    "kit/README.md": "25b1b43fb50618cbe675ee41acb5de573e4d52ff761e66dc2209493bbb06c699",
-    "kit/index.html": "d5518e24584a283c16ac545ebe4c31ed24cae85da38a1ce3fe949f6dfa8b99b8",
+    "cover.jpg": "8b5efe4a08d2efb8508aeb2305f7f067735974e67e5b04b51a9c68c6a6f8b8d7",
+    "kit/README.md": "b0ebf542104f83672a2e7ec9f5fbd394b393ef8b8e9190ce3edd505feb9575e2",
+    "kit/index.html": "b9328020ec75af27e3468709daf851d923b94fd99ad9c4a8071174f497e0b9fb",
     "kit/instagram_caption.txt": "168680ffbbc0a3d5b665ad515584fd9cb41b662bd13acc664bc78ed6ba8323f4",
     "kit/snapchat_caption.txt": "16250c1c14d502e9a52cef946578eed46128e167c087b342e1be41eeb9dfefd1",
     "kit/tiktok_caption.txt": "c64d66bc83daa8b5b53c7ed9983cc335533c475fc71264c49d872ca1a0978fa6",
     "kit/youtube_description.txt": "3bf61740e7fb53a0f62d3de9d8b7b11a15eaa3759793d6281d61a58530154b69",
     "kit/youtube_title.txt": "e67f0b33570a227cb13633057877b3f2fbecd0b65d9b29c563c2becb2b69fd16",
-    "still.png": "698e17198265ec5b36ba00d6e7520e2d7f6655cf21f1c6b3ca42576f30857661",
-    "still_4x5.png": "61a41625f6f32d5961b5aaca93d8b42feaee5fab01cfcd42e4b7516fdd95f6ba"
+    "still.png": "fc99c1c7855e598c4f399ded9ba9e9ee49975e87e024dc90959b255a9d1dba99",
+    "still_4x5.png": "cb41823eb141105f881098eac17657f33d5005e2f68a4467b3db679732450277"
   }
 }

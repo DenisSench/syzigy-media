@@ -1,21 +1,31 @@
 {
   "post": "memes/2026-11-25-static-7-dog-guarding-oven",
-  "format": "static-still",
-  "version": "still",
+  "format": "native-reel",
+  "version": "v1",
   "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
   "ai_imagery": true,
-  "caption_source": "Kai proposal (Ella may revise)",
-  "built": "2026-11-24T13:33:52-05:00",
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": 8.0,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-24T14:45:14-05:00",
   "files": {
-    "cover.jpg": "8b5efe4a08d2efb8508aeb2305f7f067735974e67e5b04b51a9c68c6a6f8b8d7",
-    "kit/README.md": "b0ebf542104f83672a2e7ec9f5fbd394b393ef8b8e9190ce3edd505feb9575e2",
-    "kit/index.html": "b9328020ec75af27e3468709daf851d923b94fd99ad9c4a8071174f497e0b9fb",
+    "cover.jpg": "3740adc95cc46f49c3b2a0a8ab95e91ccefb81155046a9ac336aa13b6da9350b",
+    "kit/README.md": "ce969529f78f9d3d2890455f2711dfdea5db92db135df1a4ee930a6f8937ae45",
+    "kit/index.html": "c99ebffcb02d3b588f1a5fa558fd1c9d9d69fd9991bc35cff7616b894a113a40",
     "kit/instagram_caption.txt": "168680ffbbc0a3d5b665ad515584fd9cb41b662bd13acc664bc78ed6ba8323f4",
     "kit/snapchat_caption.txt": "16250c1c14d502e9a52cef946578eed46128e167c087b342e1be41eeb9dfefd1",
     "kit/tiktok_caption.txt": "c64d66bc83daa8b5b53c7ed9983cc335533c475fc71264c49d872ca1a0978fa6",
     "kit/youtube_description.txt": "3bf61740e7fb53a0f62d3de9d8b7b11a15eaa3759793d6281d61a58530154b69",
     "kit/youtube_title.txt": "e67f0b33570a227cb13633057877b3f2fbecd0b65d9b29c563c2becb2b69fd16",
-    "still.png": "fc99c1c7855e598c4f399ded9ba9e9ee49975e87e024dc90959b255a9d1dba99",
-    "still_4x5.png": "cb41823eb141105f881098eac17657f33d5005e2f68a4467b3db679732450277"
+    "reel.mp4": "81837e99aa34829bf70aadcf3a7c9c0784c8bdca6d67b2df6091f56386e2dea7"
   }
 }

@@ -501,45 +501,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sunday-scaries-fyp@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012104Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261122T170000
-DTEND;TZID=America/New_York:20261122T171500
-SUMMARY:[Needs you] Sunday night at 30: the group chat is quiet and you scr
- oll instead of texting first [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-15-sunda
- y-scaries-fyp/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3
- d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 5-sunday-scaries-fyp/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Sunday night at 30: the group chat is quiet and you
-  scroll instead of texting first [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Sunday night at 30: the group chat is quiet and you
-  scroll instead of texting first [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-night-lifecycle-video@syzigy-media.vijostudio.com
 DTSTAMP:20261118T012104Z
 SEQUENCE:1
@@ -616,45 +577,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:join-before-ready@syzigy-media.vijostudio.com
-DTSTAMP:20261118T012844Z
-SEQUENCE:9
-DTSTART;TZID=America/New_York:20261123T170000
-DTEND;TZID=America/New_York:20261123T171500
-SUMMARY:[Needs you] Nobody tells you adult friendships start at the third h
- angout\, not the first [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-19-join-
- before-ready/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d
- 5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/motivational-quotes/2026-11-1
- 9-join-before-ready/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Nobody tells you adult friendships start at the thi
- rd hangout\, not the first [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Nobody tells you adult friendships start at the thi
- rd hangout\, not the first [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:static-1-dog-bathroom-door@syzigy-media.vijostudio.com
 DTSTAMP:20261124T021158Z
 SEQUENCE:1
@@ -724,37 +646,39 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gta6-single-player@syzigy-media.vijostudio.com
-DTSTAMP:20261125T021411Z
-SEQUENCE:2
+DTSTAMP:20261125T135507Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261124T210000
 DTEND;TZID=America/New_York:20261124T211500
-SUMMARY:[Needs you] GTA 6 is finally out [TT/IG/SC/YT]
-DESCRIPTION:Status: Publish in TikTok\nPlatforms: TikTok+Instagram+Snapchat
- +YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the slot)\
- , then publish in the app.\nInstagram: hand-post the Reel from the kit.\nS
- napchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel to you
- r phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera to open
-  Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Send To\
- , choose Spotlight\, paste the caption and hashtags\, then Post. Or on a c
- omputer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s or le
- ss. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel f
- rom the kit. Title and description are in the kit's YouTube Shorts section
-  when Ella has written a ### YouTube block\; otherwise copy is pending.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-g
- ta6-single-player/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal
- -tn3d5sy2/#overview
+SUMMARY:[Partly: IG\, Snap\, YT] GTA 6 is finally out [TT/IG/SC/YT]
+DESCRIPTION:Status: Missing: IG\, Snap\, YT\nPlatforms: TikTok+Instagram+Sn
+ apchat+YouTube\nTikTok: photo-carousel inbox draft (lands ~2 h before the 
+ slot)\, then publish in the app.\nInstagram: hand-post the Reel from the k
+ it.\nSnapchat: hand-post the Reel to Spotlight. 1) Download the 9:16 reel 
+ to your phone. 2) Open Snapchat as @syzigyapp\, swipe up from the camera t
+ o open Memories\, then the Camera Roll tab\, and pick the video. 3) Tap Se
+ nd To\, choose Spotlight\, paste the caption and hashtags\, then Post. Or 
+ on a computer: my.snapchat.com > Upload to Spotlight. Vertical video\, 60s
+  or less. Caption is in the kit.\nYouTube Shorts: hand-post the same 9:16 
+ reel from the kit. Title and description are in the kit's YouTube Shorts s
+ ection when Ella has written a ### YouTube block\; otherwise copy is pendi
+ ng.\n\nKit: https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-1
+ 1-24-gta6-single-player/kit/\nDashboard: https://syzigy-media.vijostudio.c
+ om/cal-tn3d5sy2/#overview
 URL:https://syzigy-media.vijostudio.com/posts/gaming-squads/2026-11-24-gta6
  -single-player/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] GTA 6 is finally out [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] GTA 6 is finally out [TT/IG/SC/YT] in 
+ 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] GTA 6 is finally out [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Partly: IG\, Snap\, YT] GTA 6 is finally out [TT/IG/SC/YT] in 
+ 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -828,37 +752,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-hand-demo-4-music-nov27@syzigy-media.vijostudio.com
-DTSTAMP:20261120T051434Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261126T090000
-DTEND;TZID=America/New_York:20261126T091500
-SUMMARY:Approve: Music-themed hand-on-phone app demo (on-screen text from E
- lla\; Ella has final say on wording)
-DESCRIPTION:hand-demo-4-music-nov27 is 'Approve' and is due 2026-11-27 21:0
- 0 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Ins
- tagram and Snapchat. Approve or skip it in the Commander chat (or the dash
- board Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/dem
- os/2026-11-19-hand-demo-4-music-nov27/kit/\nDashboard: https://syzigy-medi
- a.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-4-
- music-nov27/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Music-themed hand-on-phone app demo (on-screen text fr
- om Ella\; Ella has final say on wording) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Music-themed hand-on-phone app demo (on-screen text fr
- om Ella\; Ella has final say on wording) in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:static-8-squad-on-under-table@syzigy-media.vijostudio.com
 DTSTAMP:20261124T161532Z
 SEQUENCE:0
@@ -894,262 +787,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Needs you] Me at Thanksgiving dinner when the squad says "on?"
   [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hand-demo-4-music-nov27@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261127T210000
-DTEND;TZID=America/New_York:20261127T211500
-SUMMARY:[Needs you] Music-themed hand-on-phone app demo (on-screen text fro
- m Ella\; Ella has final say on wording) [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-4-music-n
- ov27/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#ov
- erview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-4-
- music-nov27/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Music-themed hand-on-phone app demo (on-screen text
-  from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Music-themed hand-on-phone app demo (on-screen text
-  from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-hand-demo-5-art-nov29@syzigy-media.vijostudio.com
-DTSTAMP:20261122T051614Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261128T090000
-DTEND;TZID=America/New_York:20261128T091500
-SUMMARY:Approve: Art-themed hand-on-phone app demo (on-screen text from Ell
- a\; Ella has final say on wording)
-DESCRIPTION:hand-demo-5-art-nov29 is 'Approve' and is due 2026-11-29 21:00 
- ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, Insta
- gram and Snapchat. Approve or skip it in the Commander chat (or the dashbo
- ard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/demos
- /2026-11-19-hand-demo-5-art-nov29/kit/\nDashboard: https://syzigy-media.vi
- jostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-
- art-nov29/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Art-themed hand-on-phone app demo (on-screen text from
-  Ella\; Ella has final say on wording) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Art-themed hand-on-phone app demo (on-screen text from
-  Ella\; Ella has final say on wording) in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hand-demo-5-art-nov29@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261129T210000
-DTEND;TZID=America/New_York:20261129T211500
-SUMMARY:[Needs you] Art-themed hand-on-phone app demo (on-screen text from 
- Ella\; Ella has final say on wording) [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-art-nov
- 29/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#over
- view
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-5-
- art-nov29/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Art-themed hand-on-phone app demo (on-screen text f
- rom Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Art-themed hand-on-phone app demo (on-screen text f
- rom Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-hand-demo-6-fandoms-dec02@syzigy-media.vijostudio.com
-DTSTAMP:20261125T051446Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261201T090000
-DTEND;TZID=America/New_York:20261201T091500
-SUMMARY:Approve: Fandoms-themed hand-on-phone app demo (on-screen text from
-  Ella\; Ella has final say on wording)
-DESCRIPTION:hand-demo-6-fandoms-dec02 is 'Approve' and is due 2026-12-02 12
- :00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, I
- nstagram and Snapchat. Approve or skip it in the Commander chat (or the da
- shboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/d
- emos/2026-11-19-hand-demo-6-fandoms-dec02/kit/\nDashboard: https://syzigy-
- media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-
- fandoms-dec02/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Fandoms-themed hand-on-phone app demo (on-screen text 
- from Ella\; Ella has final say on wording) in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Fandoms-themed hand-on-phone app demo (on-screen text 
- from Ella\; Ella has final say on wording) in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hand-demo-6-fandoms-dec02@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261202T120000
-DTEND;TZID=America/New_York:20261202T121500
-SUMMARY:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen text f
- rom Ella\; Ella has final say on wording) [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-fandoms
- -dec02/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#
- overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-
- fandoms-dec02/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen te
- xt from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Fandoms-themed hand-on-phone app demo (on-screen te
- xt from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hand-demo-3-dec03@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261203T120000
-DTEND;TZID=America/New_York:20261203T121500
-SUMMARY:[Needs you] Weeknights after 30\, the group chat goes quiet [TT/IG/
- SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-3-dec03/k
- it/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-3-
- dec03/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Weeknights after 30\, the group chat goes quiet [TT
- /IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] Weeknights after 30\, the group chat goes quiet [TT
- /IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hand-demo-7-new-city-dec03@syzigy-media.vijostudio.com
-DTSTAMP:20261119T192424Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261203T210000
-DTEND;TZID=America/New_York:20261203T211500
-SUMMARY:[Needs you] New-city-themed hand-on-phone app demo (on-screen text 
- from Ella\; Ella has final say on wording) [TT/IG/SC/YT]
-DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
- TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
- lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
- and-post the Reel to Spotlight. 1) Download the 9:16 reel to your phone. 2
- ) Open Snapchat as @syzigyapp\, swipe up from the camera to open Memories\
- , then the Camera Roll tab\, and pick the video. 3) Tap Send To\, choose S
- potlight\, paste the caption and hashtags\, then Post. Or on a computer: m
- y.snapchat.com > Upload to Spotlight. Vertical video\, 60s or less. Captio
- n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
- t. Title and description are in the kit's YouTube Shorts section when Ella
-  has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-7-new-cit
- y-dec03/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
- #overview
-URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-7-
- new-city-dec03/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] New-city-themed hand-on-phone app demo (on-screen t
- ext from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Needs you] New-city-themed hand-on-phone app demo (on-screen t
- ext from Ella\; Ella has final say on wording) [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

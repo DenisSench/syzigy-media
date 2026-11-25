@@ -8,16 +8,16 @@ Placeholders: none
 ## TikTok caption
 
 ```
-The turkey has had a security guard since 6 AM
+The turkey has not been left alone since 6 AM
 Find your people on Syzigy. Link in bio.
 
-#thanksgiving #dogsoftiktok #petlife #memes #syzigy
+#thanksgiving #dogsoftiktok #petlife #petsoftiktok #syzigy
 ```
 
 ## Instagram caption
 
 ```
-The turkey has had a security guard since 6 AM
+The turkey has not been left alone since 6 AM
 Find your people on Syzigy. Link in bio.
 
 #thanksgiving #dogsoftiktok #petlife #syzigy
@@ -26,7 +26,7 @@ Find your people on Syzigy. Link in bio.
 ## Snapchat caption (post.md)
 
 ```
-The turkey has had a security guard since 6 AM. Link in bio. #thanksgiving #dogsoftiktok #syzigy
+The turkey has not been left alone since 6 AM. Find your people on Syzigy - link in bio. #thanksgiving #dogsoftiktok #syzigy
 ```
 
 ## YouTube Shorts (from post.md)
@@ -34,12 +34,12 @@ The turkey has had a security guard since 6 AM. Link in bio. #thanksgiving #dogs
 **Title**
 
 ```
-The turkey has had a security guard since 6 AM #Shorts
+The turkey has not been left alone since 6 AM #Shorts
 ```
 
 **Description**
 
 ```
-The turkey has had a security guard since 6 AM
+The turkey has not been left alone since 6 AM
 Find your people on Syzigy. Link in channel.
 ```

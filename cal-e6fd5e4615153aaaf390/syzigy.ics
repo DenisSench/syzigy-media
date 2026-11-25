@@ -1007,6 +1007,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-hand-demo-6-fandoms-dec02@syzigy-media.vijostudio.com
+DTSTAMP:20261125T051446Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T090000
+DTEND;TZID=America/New_York:20261201T091500
+SUMMARY:Approve: Fandoms-themed hand-on-phone app demo (on-screen text from
+  Ella\; Ella has final say on wording)
+DESCRIPTION:hand-demo-6-fandoms-dec02 is 'Approve' and is due 2026-12-02 12
+ :00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, I
+ nstagram and Snapchat. Approve or skip it in the Commander chat (or the da
+ shboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/d
+ emos/2026-11-19-hand-demo-6-fandoms-dec02/kit/\nDashboard: https://syzigy-
+ media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/demos/2026-11-19-hand-demo-6-
+ fandoms-dec02/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Fandoms-themed hand-on-phone app demo (on-screen text 
+ from Ella\; Ella has final say on wording) in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Fandoms-themed hand-on-phone app demo (on-screen text 
+ from Ella\; Ella has final say on wording) in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hand-demo-6-fandoms-dec02@syzigy-media.vijostudio.com
 DTSTAMP:20261119T192424Z
 SEQUENCE:0

@@ -16,18 +16,18 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-24T15:14:44-05:00",
+  "built": "2026-11-25T09:19:12-05:00",
   "files": {
-    "cover.jpg": "c2e7a41243eec9e13a7d8f56c15375125244eb494c92847618fc28a6c050c0b5",
-    "kit/README.md": "48a3e7fceb4c779809360b2147ee31ae0dda222bd012dd072217f94728f51be3",
-    "kit/index.html": "c80f8e762470d2d9c8b2ff8e1a10784756348474c5455178a4663e981e80f2ce",
-    "kit/instagram_caption.txt": "222e8bf473cb1baedda78cec80951598ba4dfb53af92f53d70574f4255d582f3",
-    "kit/snapchat_caption.txt": "5bfdd9fade41d6261bd014912ecdcb8d5d429612c9183f9809821e25822d3da5",
-    "kit/tiktok_caption.txt": "e481de3198b9245a9a8b48fd86b82e078b92202716831f3753854888d1f02254",
-    "kit/youtube_description.txt": "282c46223c91fa77fb14548146bf3f05467a556b27d7b088bf7618bc72aab198",
-    "kit/youtube_title.txt": "600a74c1767a90eaf206aec8e80f9e55eb6a07ab56923178dadbae7aff23b662",
-    "reel-alt.mp4": "4da7e02de888ab783b0628206e3b0490bf02eddfd430825d4629fac570c3d494",
-    "reel.mp4": "e0351436d07f1103a790e1f3d2d969e4eeca873391e7beb86c870f9bae1ef7f8"
-  },
-  "noindex": true
+    "cover.jpg": "386a45ec6d02a1b66dcc121c80d47b11edfe1ed01174f6981be191d5c90a7467",
+    "kit/README.md": "e709b00421fcfc4ab52b97438c9eceae10ac581992df6ad821f5b8f90b22bcd1",
+    "kit/index.html": "ca60844c206c7a5c72648a595da1cfa91185acec997c8acacdd4f693b8253576",
+    "kit/instagram_caption.txt": "91ee21d16e667414ca69c6e11f5118dfa8f654c768e9b133db9ce1e6e4dc4b94",
+    "kit/kit_meta.json": "a5ee1ff2f5d1710ce2c3ab13f7021c1f5a889f7f799c8923c5ff65ede0873396",
+    "kit/snapchat_caption.txt": "b1fdc42a065396d07b067763da153b61912ba8d61b3e839f36f459d7648eaf6f",
+    "kit/tiktok_caption.txt": "4fef3e1b42d3b30706965e46e59dec1159003553e8e60637d370ba7a8d508f33",
+    "kit/youtube_description.txt": "f44cca13ecc5f3fd494047f3eabfa319502b13ed6c1233065ea63f8b7df4ac37",
+    "kit/youtube_title.txt": "88ce7ff2e621b9c22dbfc9e79200d5389e7125250e5a8bf617d996c4aed97ba3",
+    "reel-alt.mp4": "4933691a5fd36021a0e8fb142b79321c0ad4352343271d297b43d7843522b232",
+    "reel.mp4": "d42d022e6cdc048028164ee4421091a4939ff1cdd4072f41676e3e5ef8a4ef63"
+  }
 }

@@ -16,10 +16,10 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-25T14:56:52-05:00",
+  "built": "2026-11-25T15:07:13-05:00",
   "files": {
     "kit/README.md": "66bfa8384a2387382e0b0cd822b7bfe61a6b1c3c1aeedae4d6f3c3af2745c935",
-    "kit/index.html": "04cad75597b97c1567cfb2c208f26132294afe558ac85a44860c5a42bb7163bd",
+    "kit/index.html": "dfb7c63a02c746b6be39c5fc7be09e160abd8ba91ea295249aca8571328166d9",
     "kit/instagram_caption.txt": "9b9649355797086af88670f43c4074435409f13aee8e640496ee9eb737af9649",
     "kit/snapchat_caption.txt": "7407743cedbbbe6c5eca20a7a0e62cb84050563f56b279a9248bacf3fba926c3",
     "kit/tiktok_caption.txt": "739dfffe18fe02370faa515f9c57a082cc4c85bddb263ed59fd3bfa350b0c1c9",

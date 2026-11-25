@@ -1,0 +1,172 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer"><title>Syzigy creator tracking</title><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+:root{--cream:#F8F4EA;--ink:#1C1C1C;--soft-ink:#4A4A4A;--accent:#44C8FC;--accent-deep:#1b78a8;--line:#d8cfb5;--card:#fffdf7;--soft:#fff9ee;--muted:#8a8270;
+ --tt:#E5484D;--ig:#FF6FB0;--yt:#FFAF3F;--ok:#2E9A5E;--navy:#0f3a4f;--lav:#9ad9f7}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.45 Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+h1,h2,h3{font-family:Nunito,-apple-system,sans-serif;font-weight:800;margin:0;color:var(--ink)}
+h1{font-size:22px}h2{font-size:18px;margin-bottom:10px}h3{font:700 14px/1.3 Nunito,sans-serif;margin:0 0 8px}
+a{color:var(--accent-deep)}
+header{background:var(--navy);color:#fff}header h1{color:#fff}
+.wrap{max-width:980px;margin:0 auto;padding-left:12px;padding-right:12px}
+.hd{display:flex;align-items:center;gap:12px;padding-top:16px;padding-bottom:14px}
+.logo{background:#fff;border-radius:10px;padding:6px 9px;display:inline-flex;flex:none}.logo img{display:block;height:28px;width:auto}
+.bar{background:var(--navy);border-top:1px solid rgba(68,200,252,.25)}
+.navrow{display:flex;align-items:center;gap:10px;justify-content:space-between;padding-top:8px;padding-bottom:8px;flex-wrap:wrap}
+.lu{font-size:12px;color:var(--lav);white-space:nowrap}.lu b{color:#fff;font-weight:700}
+.ctl{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ctl label{font:700 12px Nunito,sans-serif;color:var(--lav);display:inline-flex;align-items:center;gap:6px}
+select#crrange{font:700 12px Nunito,sans-serif;border-radius:8px;border:1px solid rgba(68,200,252,.45);background:#0a2e40;color:#fff;padding:5px 8px;height:32px}
+main{max-width:980px;margin:0 auto;padding:14px 12px 40px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin:0 0 14px;box-shadow:0 1px 2px rgba(28,28,28,.04)}
+.chead{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.chead h2{margin:0}
+.sub,.asof,.tiny,.note{font-size:13px;color:var(--soft-ink);margin:4px 0 8px}
+.tiny,.note{font-size:11px}
+.headline{margin:4px 0 12px}
+.headline .hl{font:800 36px/1.1 Nunito,sans-serif;color:var(--ink)}
+.headline .hlab{font:700 13px Nunito,sans-serif;color:var(--soft-ink);margin-bottom:4px}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:0 0 12px}
+.tile{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:10px 12px;min-width:0}
+.tile .tl{display:flex;align-items:center;gap:7px;font-size:12px;font-weight:700;color:var(--soft-ink)}
+.tile .tv{font:800 22px/1.2 Nunito,sans-serif;margin-top:8px;color:var(--ink);white-space:nowrap}
+.tile .tn{font-size:11px;color:var(--muted);margin-top:2px}
+.app-tiles{grid-template-columns:repeat(3,minmax(0,1fr));max-width:640px}
+.dtw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:6px 0 12px}
+.dt{border-collapse:separate;border-spacing:0;width:100%;font-size:13px}
+.dt th{color:var(--soft-ink);font-weight:700;font-size:12px;padding:8px 10px;text-align:center;white-space:nowrap;border-bottom:1px solid var(--line);background:var(--card)}
+.dt td{padding:8px 10px;text-align:center;white-space:nowrap;border-bottom:1px solid var(--line)}
+.dt tr:last-child td{border-bottom:0}
+.dt th:first-child,.dt td:first-child{text-align:left}
+.dt td.crpost{text-align:left;white-space:normal;word-break:break-word}
+.pf{display:flex;align-items:center;gap:8px}.pf span{font-weight:700}
+.picon,.pf img{display:block;flex:none;width:30px;height:30px;border-radius:8px;box-shadow:0 0 0 1px var(--line);background:#fff}
+.sec-label{font:800 15px Nunito,sans-serif;margin:16px 0 6px;color:var(--accent-deep)}
+footer{text-align:center;font-size:12px;color:var(--muted);margin-top:8px}
+.empty{padding:14px;border:1px dashed var(--line);border-radius:12px;background:var(--soft);color:var(--soft-ink);font-size:14px}
+@media(max-width:720px){h1{font-size:20px}.headline .hl{font-size:28px}
+ .tiles,.app-tiles{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .wrap{padding-left:12px;padding-right:12px}}
+</style></head><body><header><div class="wrap hd"><span class="logo"><img src="/logo.png" alt="Syzigy" height="28" width="96"></span><h1>Creator Tracking</h1></div></header><nav class="bar"><div class="wrap navrow"><span class="lu" title="Last updated Wed Nov 25, 3:06 PM ET">Last update: <b>Wed Nov 25, 3:06 PM ET</b></span><div class="ctl"><label for="crrange">Date range <select id="crrange" aria-label="Filter by date range"><option value="7">Last 7 days</option><option value="14">Last 14 days</option><option value="30" selected>Last 30 days</option><option value="all">All in window</option></select></label></div></div></nav><main><p class="asof">Social as of Nov 25, 2:47 PM ET; app clicks and installs as of Nov 25, 2:53 PM ET.</p><p class="note">Each creator's headline is total views across their platforms in the selected range, by post date. Platforms with no views data are shown as N/A and are left out of the total, never counted as zero. Installs, clicks and conversion rate are attributed to that creator's unique OneLink only.</p><section class="card" id="c-von-afterlight" data-creator="von-afterlight"><div class="chead"><h2>Zac (@von.afterlight)</h2></div><p class="tiny">OneLink: <a href="https://syzigy.onelink.me/yDy5/ze" target="_blank" rel="noopener noreferrer">syzigy.onelink.me/yDy5/ze</a></p><p class="tiny">Media source: Zach_Eichelberger</p><div class="headline"><div class="hlab">Total views</div><div class="hl" data-total-views>7,382</div></div><p class="tiny" data-views-note>Some Snapchat posts have no views reading and are left out of that platform&#x27;s total.</p><div class="tiles" data-plat-tiles><div class="tile" data-plat="tiktok"><div class="tl"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div><div class="tv" data-plat-views>501</div></div><div class="tile" data-plat="instagram"><div class="tl"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div><div class="tv" data-plat-views>801</div></div><div class="tile" data-plat="snapchat"><div class="tl"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div><div class="tv" data-plat-views>6,080</div></div></div><h3 class="sec-label">App installs from this creator's link</h3><div data-af-block><div class="tiles app-tiles"><div class="tile"><div class="tl">Installs</div><div class="tv" data-af-installs>0</div></div><div class="tile"><div class="tl">Clicks</div><div class="tv" data-af-clicks>2</div></div><div class="tile"><div class="tl">Conversion rate</div><div class="tv" data-af-cvr>0.0%</div></div></div><p class="tiny">By day</p><div class="dtw"><table class="dt" data-af-days><thead><tr><th>Day</th><th>Campaign</th><th>Clicks</th><th>Installs</th><th>Conversion rate</th></tr></thead><tbody><tr><td>2026-11-04</td><td>Canvas</td><td>2</td><td>0</td><td>0.0%</td></tr></tbody></table></div><p class="tiny">By campaign</p><div class="dtw"><table class="dt" data-af-campaigns><thead><tr><th>Campaign</th><th>Media source</th><th>Clicks</th><th>Installs</th><th>Conversion rate</th></tr></thead><tbody><tr><td>Canvas</td><td>Zach_Eichelberger</td><td>2</td><td>0</td><td>0.0%</td></tr></tbody></table></div></div><h3 class="sec-label">Posts</h3><div class="dtw"><table class="dt" data-posts><thead><tr><th>Platform</th><th>Posted</th><th>Post</th><th>Views</th><th>Likes</th><th>Comments</th><th>Shares</th><th>Saves</th></tr></thead><tbody><tr data-day="2026-11-24"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 24, 5:05 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeW1xZ2V4dHNyAaIPl4ZZAaIPl4ZBAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>N/A</td><td>N/A</td><td>0</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-24"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 24, 5:02 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/DgI-pQwhUiQ/" target="_blank" rel="noopener noreferrer">Don&#x27;t let the major social media platforms waste your time.
+
+Go ahead and hop...</a></td><td>116</td><td>0</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-24"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 24, 5:00 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7711861136106261791" target="_blank" rel="noopener noreferrer">Don&#x27;t let the major social media platforms waste your time.
+
+Go ahead and hop...</a></td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-23"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 23, 5:26 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGVpcWVmaGNiAaIKhNIJAaIKhNHsAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>N/A</td><td>N/A</td><td>0</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-23"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 23, 5:23 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7711496178231151902" target="_blank" rel="noopener noreferrer">Can&#x27;t believe I&#x27;ve just now found out about this.
+
+Go ahead and hop in my Cir...</a></td><td>37</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-23"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 23, 5:23 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/DgGcAYdhH1j/" target="_blank" rel="noopener noreferrer">Can&#x27;t believe I&#x27;ve just now found out about this.
+
+Go ahead and hop in my Cir...</a></td><td>131</td><td>0</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-18"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 18, 12:37 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeGxyb3N3aGtnAaHvu80iAaHvu80DAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>N/A</td><td>N/A</td><td>0</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-18"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 18, 12:34 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7709566063486274847" target="_blank" rel="noopener noreferrer">This could bring people together better than ever!
+
+Go ahead and hop in my Ci...</a></td><td>99</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-18"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 18, 12:31 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/Df5CYFUNQ3N/" target="_blank" rel="noopener noreferrer">This could bring people together better than ever!
+
+Go ahead and hop in my Ci...</a></td><td>117</td><td>3</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-17"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 17, 12:21 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc3ZudGdkdGJoAaHqhuykAaHqhuyKAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>N/A</td><td>N/A</td><td>0</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-17"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 17, 12:18 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7709190824034061599" target="_blank" rel="noopener noreferrer">One of the greatest assets to any artist is their community.
+
+This is a great...</a></td><td>67</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-17"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 17, 12:15 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/Df2bBFTPaFc/" target="_blank" rel="noopener noreferrer">One of the greatest assets to any artist is their community.
+
+This is a great...</a></td><td>114</td><td>0</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-16"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 16, 1:21 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaXJicGpzenl6AaHll5ZAAaHll5YiAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>6,080</td><td>N/A</td><td>1</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-16"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 16, 1:20 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7708835810468023582" target="_blank" rel="noopener noreferrer">We all know the feeling.
+
+Check out my Circle if you want, link in the bio, l...</a></td><td>82</td><td>2</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-16"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 16, 1:18 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/Dfz-cnKhPIS/" target="_blank" rel="noopener noreferrer">We all know the feeling.
+
+Check out my Circle if you want, link in the bio, l...</a></td><td>138</td><td>1</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-13"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 13, 4:52 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/Dfsow4eOw2Y/" target="_blank" rel="noopener noreferrer">Creators, I think this is what our community is missing. if you want hop in m...</a></td><td>47</td><td>1</td><td>0</td><td>N/A</td><td>N/A</td></tr><tr data-day="2026-11-13"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 13, 4:47 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7707776000603540767" target="_blank" rel="noopener noreferrer">Creators, I think this is what our community is missing.
+
+#photographer #phot...</a></td><td>57</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-12"><td><div class="pf"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div></td><td>Nov 12, 7:21 PM ET</td><td class="crpost"><a href="https://www.tiktok.com/@von.afterlight/video/7707444501547158815" target="_blank" rel="noopener noreferrer">This is the answer. Hop in my Circle and hang!
+
+https://app.syzigy.com/invita...</a></td><td>110</td><td>3</td><td>0</td><td>0</td><td>0</td></tr><tr data-day="2026-11-12"><td><div class="pf"><img class="picon" src="/icon-snapchat.svg" width="30" height="30" alt=""><span>Snapchat</span></div></td><td>Nov 12, 7:03 PM ET</td><td class="crpost"><a href="https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYamFraWd6anNtAaHSNxSqAaHSNxSUAAAAAA" target="_blank" rel="noopener noreferrer">Spotlight Snap</a></td><td>N/A</td><td>N/A</td><td>0</td><td>0</td><td>N/A</td></tr><tr data-day="2026-11-12"><td><div class="pf"><img class="picon" src="/icon-instagram.svg" width="30" height="30" alt=""><span>Instagram</span></div></td><td>Nov 12, 6:54 PM ET</td><td class="crpost"><a href="https://www.instagram.com/p/DfqRtP6P0zn/" target="_blank" rel="noopener noreferrer">This is the answer. Hop in my Circle and hang!
+
+https://app.syzigy.com/invita...</a></td><td>138</td><td>1</td><td>0</td><td>N/A</td><td>N/A</td></tr></tbody></table></div></section><section class="card" id="c-gianna" data-creator="gianna"><div class="chead"><h2>Gianna (@bookedandbusywith)</h2></div><p class="tiny">Media source: Gianna</p><div class="headline"><div class="hlab">Total views</div><div class="hl" data-total-views>N/A</div></div><p class="tiny" data-views-note></p><div class="tiles" data-plat-tiles><div class="tile" data-plat="tiktok"><div class="tl"><img class="picon" src="/icon-tiktok.svg" width="30" height="30" alt=""><span>TikTok</span></div><div class="tv" data-plat-views>N/A</div></div><div class="tile" data-plat="youtube"><div class="tl"><img class="picon" src="/icon-youtube.svg" width="30" height="30" alt=""><span>YouTube</span></div><div class="tv" data-plat-views>N/A</div></div></div><h3 class="sec-label">App installs from this creator's link</h3><div data-af-block><div class="tiles app-tiles"><div class="tile"><div class="tl">Installs</div><div class="tv" data-af-installs>0</div></div><div class="tile"><div class="tl">Clicks</div><div class="tv" data-af-clicks>2</div></div><div class="tile"><div class="tl">Conversion rate</div><div class="tv" data-af-cvr>0.0%</div></div></div><p class="tiny">By day</p><div class="dtw"><table class="dt" data-af-days><thead><tr><th>Day</th><th>Campaign</th><th>Clicks</th><th>Installs</th><th>Conversion rate</th></tr></thead><tbody><tr><td>2026-11-22</td><td>Community Sphere</td><td>1</td><td>0</td><td>0.0%</td></tr><tr><td>2026-11-16</td><td>Community Sphere</td><td>1</td><td>0</td><td>0.0%</td></tr></tbody></table></div><p class="tiny">By campaign</p><div class="dtw"><table class="dt" data-af-campaigns><thead><tr><th>Campaign</th><th>Media source</th><th>Clicks</th><th>Installs</th><th>Conversion rate</th></tr></thead><tbody><tr><td>Community Sphere</td><td>Gianna</td><td>2</td><td>0</td><td>0.0%</td></tr></tbody></table></div></div><h3 class="sec-label">Posts</h3><p class="empty" data-posts-empty>No posts in this range.</p></section><footer>External creators who post about Syzigy · built Wed Nov 25, 3:06 PM ET</footer></main><script type="application/json" id="cr-data">{"creators": [{"id": "von-afterlight", "label": "Zac (@von.afterlight)", "onelink": "https://syzigy.onelink.me/yDy5/ze", "platforms": ["tiktok", "instagram", "snapchat"], "posts": [{"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeW1xZ2V4dHNyAaIPl4ZZAaIPl4ZBAAAAAA", "posted_at": "2026-11-24T17:05:18-05:00", "day": "2026-11-24", "views": null, "likes": null, "comments": 0, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "instagram", "url": "https://www.instagram.com/p/DgI-pQwhUiQ/", "posted_at": "2026-11-24T17:02:47-05:00", "day": "2026-11-24", "views": 116, "likes": 0, "comments": 0, "shares": null, "saves": null, "title": "Don't let the major social media platforms waste your time.\n\nGo ahead and hop in my Circle if you want, link in the bio!"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7711861136106261791", "posted_at": "2026-11-24T17:00:14-05:00", "day": "2026-11-24", "views": 49, "likes": 0, "comments": 0, "shares": 0, "saves": 0, "title": "Don't let the major social media platforms waste your time.\n\nGo ahead and hop in my Circle if you want, link in the bio!"}, {"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGVpcWVmaGNiAaIKhNIJAaIKhNHsAAAAAA", "posted_at": "2026-11-23T17:26:46-05:00", "day": "2026-11-23", "views": null, "likes": null, "comments": 0, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7711496178231151902", "posted_at": "2026-11-23T17:23:57-05:00", "day": "2026-11-23", "views": 37, "likes": 0, "comments": 0, "shares": 0, "saves": 0, "title": "Can't believe I've just now found out about this.\n\nGo ahead and hop in my Circle if you want, link in the bio!\n\n#syzigyp"}, {"platform": "instagram", "url": "https://www.instagram.com/p/DgGcAYdhH1j/", "posted_at": "2026-11-23T17:23:02-05:00", "day": "2026-11-23", "views": 131, "likes": 0, "comments": 0, "shares": null, "saves": null, "title": "Can't believe I've just now found out about this.\n\nGo ahead and hop in my Circle if you want, link in the bio!\n\n#syzigyp"}, {"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeGxyb3N3aGtnAaHvu80iAaHvu80DAAAAAA", "posted_at": "2026-11-18T12:37:04-05:00", "day": "2026-11-18", "views": null, "likes": null, "comments": 0, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7709566063486274847", "posted_at": "2026-11-18T12:34:16-05:00", "day": "2026-11-18", "views": 99, "likes": 1, "comments": 0, "shares": 0, "saves": 0, "title": "This could bring people together better than ever!\n\nGo ahead and hop in my Circle if you want, link in the bio!\n\n#creato"}, {"platform": "instagram", "url": "https://www.instagram.com/p/Df5CYFUNQ3N/", "posted_at": "2026-11-18T12:31:02-05:00", "day": "2026-11-18", "views": 117, "likes": 3, "comments": 0, "shares": null, "saves": null, "title": "This could bring people together better than ever!\n\nGo ahead and hop in my Circle if you want, link in the bio!\n\n#creato"}, {"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc3ZudGdkdGJoAaHqhuykAaHqhuyKAAAAAA", "posted_at": "2026-11-17T12:21:13-05:00", "day": "2026-11-17", "views": null, "likes": null, "comments": 0, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7709190824034061599", "posted_at": "2026-11-17T12:18:06-05:00", "day": "2026-11-17", "views": 67, "likes": 1, "comments": 0, "shares": 0, "saves": 0, "title": "One of the greatest assets to any artist is their community.\n\nThis is a great opportunity to build one that stands out f"}, {"platform": "instagram", "url": "https://www.instagram.com/p/Df2bBFTPaFc/", "posted_at": "2026-11-17T12:15:38-05:00", "day": "2026-11-17", "views": 114, "likes": 0, "comments": 0, "shares": null, "saves": null, "title": "One of the greatest assets to any artist is their community.\n\nThis is a great opportunity to build one that stands out f"}, {"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaXJicGpzenl6AaHll5ZAAaHll5YiAAAAAA", "posted_at": "2026-11-16T13:21:19-05:00", "day": "2026-11-16", "views": 6080, "likes": null, "comments": 1, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7708835810468023582", "posted_at": "2026-11-16T13:20:17-05:00", "day": "2026-11-16", "views": 82, "likes": 2, "comments": 0, "shares": 0, "saves": 0, "title": "We all know the feeling.\n\nCheck out my Circle if you want, link in the bio, let's hang!\n\n#photography #community #memes "}, {"platform": "instagram", "url": "https://www.instagram.com/p/Dfz-cnKhPIS/", "posted_at": "2026-11-16T13:18:11-05:00", "day": "2026-11-16", "views": 138, "likes": 1, "comments": 0, "shares": null, "saves": null, "title": "We all know the feeling.\n\nCheck out my Circle if you want, link in the bio, let's hang!\n\n#photography #community #memes "}, {"platform": "instagram", "url": "https://www.instagram.com/p/Dfsow4eOw2Y/", "posted_at": "2026-11-13T16:52:26-05:00", "day": "2026-11-13", "views": 47, "likes": 1, "comments": 0, "shares": null, "saves": null, "title": "Creators, I think this is what our community is missing. if you want hop in my Circle check out the link in my bio, let'"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7707776000603540767", "posted_at": "2026-11-13T16:47:39-05:00", "day": "2026-11-13", "views": 57, "likes": 1, "comments": 0, "shares": 0, "saves": 0, "title": "Creators, I think this is what our community is missing.\n\n#photographer #photography #artists #friendships #syzigypartne"}, {"platform": "tiktok", "url": "https://www.tiktok.com/@von.afterlight/video/7707444501547158815", "posted_at": "2026-11-12T19:21:13-05:00", "day": "2026-11-12", "views": 110, "likes": 3, "comments": 0, "shares": 0, "saves": 0, "title": "This is the answer. Hop in my Circle and hang!\n\nhttps://app.syzigy.com/invitation/4b2e7680\n\n#photographer #photography #"}, {"platform": "snapchat", "url": "https://www.snapchat.com/@von.afterlight/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYamFraWd6anNtAaHSNxSqAaHSNxSUAAAAAA", "posted_at": "2026-11-12T19:03:07-05:00", "day": "2026-11-12", "views": null, "likes": null, "comments": 0, "shares": 0, "saves": null, "title": "Spotlight Snap"}, {"platform": "instagram", "url": "https://www.instagram.com/p/DfqRtP6P0zn/", "posted_at": "2026-11-12T18:54:02-05:00", "day": "2026-11-12", "views": 138, "likes": 1, "comments": 0, "shares": null, "saves": null, "title": "This is the answer. Hop in my Circle and hang!\n\nhttps://app.syzigy.com/invitation/4b2e7680\n\n#photographer #photography #"}], "appsflyer": {"sources": ["Zach_Eichelberger"], "onelink": "https://syzigy.onelink.me/yDy5/ze", "days": [{"date": "2026-11-04", "source": "Zach_Eichelberger", "campaign": "Canvas", "clicks": 2, "installs": 0, "conversion_rate": 0.0}]}}, {"id": "gianna", "label": "Gianna (@bookedandbusywith)", "onelink": "", "platforms": ["tiktok", "youtube"], "posts": [], "appsflyer": {"sources": ["Gianna"], "onelink": "", "days": [{"date": "2026-11-22", "source": "Gianna", "campaign": "Community Sphere", "clicks": 1, "installs": 0, "conversion_rate": 0.0}, {"date": "2026-11-16", "source": "Gianna", "campaign": "Community Sphere", "clicks": 1, "installs": 0, "conversion_rate": 0.0}]}}], "windowFrom": "2026-10-27", "windowTo": "2026-11-25"}</script><script>
+(function(){
+  var data=JSON.parse(document.getElementById('cr-data').textContent);
+  var sel=document.getElementById('crrange');
+  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+  function fmtNum(v){if(v==null)return'N/A';var n=Number(v);if(!isFinite(n))return'N/A';return Math.round(n).toLocaleString('en-US')}
+  function fmtPct(v){if(v==null)return'N/A';return(v*100).toFixed(1)+'%'}
+  function inRange(day,start,end){if(!start&&!end)return true;if(!day)return false;if(start&&day<start)return false;if(end&&day>end)return false;return true}
+  function range(){
+    var v=sel?sel.value:'30';
+    var end=data.windowTo||null;
+    if(!end){var d=new Date();end=d.toISOString().slice(0,10)}
+    if(v==='all') return {start:null,end:null};
+    var n=parseInt(v,10)||30;
+    var dt=new Date(end+'T00:00:00');
+    dt.setDate(dt.getDate()-(n-1));
+    var m=String(dt.getMonth()+1).padStart(2,'0'), day=String(dt.getDate()).padStart(2,'0');
+    return {start:dt.getFullYear()+'-'+m+'-'+day,end:end};
+  }
+  function viewsBreakdown(posts){
+    var plats=['tiktok','instagram','youtube','snapchat'];
+    var parts={}, excluded=[], partial=[], present=[];
+    plats.forEach(function(plat){
+      var rows=posts.filter(function(p){return p.platform===plat});
+      if(!rows.length) return;
+      present.push(plat);
+      var known=rows.map(function(p){return p.views}).filter(function(v){return v!=null && isFinite(Number(v)) && Number(v)>=0});
+      if(!known.length){parts[plat]=null;excluded.push(plat)}
+      else {parts[plat]=known.reduce(function(a,b){return a+Number(b)},0); if(known.length<rows.length) partial.push(plat)}
+    });
+    var vals=Object.keys(parts).map(function(k){return parts[k]}).filter(function(v){return v!=null});
+    return {total:vals.length?vals.reduce(function(a,b){return a+b},0):null, parts:parts, excluded:excluded, partial:partial, present:present};
+  }
+  function sumKnown(vals){var n=vals.filter(function(v){return v!=null}); return n.length?n.reduce(function(a,b){return a+Number(b)},0):null}
+  function cvr(inst,clicks){if(clicks==null||clicks===0||inst==null)return null;return inst/clicks}
+  function names(list){var m={tiktok:'TikTok',instagram:'Instagram',youtube:'YouTube',snapchat:'Snapchat'};return list.map(function(p){return m[p]||p}).join(', ')}
+  function apply(){
+    var r=range();
+    (data.creators||[]).forEach(function(c){
+      var card=document.querySelector('[data-creator="'+c.id+'"]');
+      if(!card) return;
+      var posts=(c.posts||[]).filter(function(p){return inRange(p.day,r.start,r.end)});
+      var vb=viewsBreakdown(posts);
+      var hl=card.querySelector('[data-total-views]');
+      if(hl) hl.textContent=fmtNum(vb.total);
+      var note=card.querySelector('[data-views-note]');
+      if(note){
+        var bits=[];
+        if(vb.excluded.length) bits.push('Total excludes platforms with no views data, shown as N/A ('+names(vb.excluded)+').');
+        if(vb.partial.length) bits.push('Some '+names(vb.partial)+' posts have no views reading and are left out of that platform\'s total.');
+        note.textContent=bits.join(' ');
+      }
+      card.querySelectorAll('[data-plat]').forEach(function(tile){
+        var plat=tile.getAttribute('data-plat');
+        var el=tile.querySelector('[data-plat-views]');
+        if(!el) return;
+        el.textContent=(plat in vb.parts)?fmtNum(vb.parts[plat]):'N/A';
+      });
+      var days=((c.appsflyer||{}).days||[]).filter(function(d){return inRange(d.date,r.start,r.end)});
+      var clicks=sumKnown(days.map(function(d){return d.clicks}));
+      var installs=sumKnown(days.map(function(d){return d.installs}));
+      var rate=cvr(installs,clicks);
+      var iEl=card.querySelector('[data-af-installs]'); if(iEl) iEl.textContent=fmtNum(installs);
+      var cEl=card.querySelector('[data-af-clicks]'); if(cEl) cEl.textContent=fmtNum(clicks);
+      var rEl=card.querySelector('[data-af-cvr]'); if(rEl) rEl.textContent=fmtPct(rate);
+      var dayTbl=card.querySelector('[data-af-days] tbody');
+      if(dayTbl){
+        dayTbl.innerHTML=days.map(function(d){
+          return '<tr><td>'+esc(d.date||'N/A')+'</td><td>'+esc(d.campaign||d.source||'')+'</td><td>'+esc(fmtNum(d.clicks))+'</td><td>'+esc(fmtNum(d.installs))+'</td><td>'+esc(fmtPct(cvr(d.installs,d.clicks)))+'</td></tr>';
+        }).join('');
+      }
+      var camps={};
+      days.forEach(function(d){
+        var name=d.campaign||'';
+        if(!camps[name]) camps[name]={campaign:name,source:d.source||'',clicks:null,installs:null};
+        camps[name].clicks=sumKnown([camps[name].clicks,d.clicks]);
+        camps[name].installs=sumKnown([camps[name].installs,d.installs]);
+      });
+      var campTbl=card.querySelector('[data-af-campaigns] tbody');
+      if(campTbl){
+        var list=Object.keys(camps).map(function(k){return camps[k]});
+        campTbl.innerHTML=list.map(function(c){
+          return '<tr><td>'+esc(c.campaign||'N/A')+'</td><td>'+esc(c.source||'')+'</td><td>'+esc(fmtNum(c.clicks))+'</td><td>'+esc(fmtNum(c.installs))+'</td><td>'+esc(fmtPct(cvr(c.installs,c.clicks)))+'</td></tr>';
+        }).join('');
+      }
+      var empty=card.querySelector('[data-af-empty]');
+      if(empty) empty.style.display=days.length?'none':'';
+      card.querySelectorAll('[data-posts] tbody tr').forEach(function(tr){
+        var day=tr.getAttribute('data-day')||'';
+        tr.style.display=inRange(day,r.start,r.end)?'':'none';
+      });
+    });
+  }
+  if(sel) sel.addEventListener('change',apply);
+  apply();
+})();
+</script></body></html>

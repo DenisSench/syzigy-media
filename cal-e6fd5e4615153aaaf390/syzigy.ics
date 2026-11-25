@@ -679,11 +679,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:approve-static-8-squad-on-under-table@syzigy-media.vijostudio.com
-DTSTAMP:20261124T161532Z
-SEQUENCE:0
+DTSTAMP:20261125T152135Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261125T090000
 DTEND;TZID=America/New_York:20261125T091500
-SUMMARY:Approve: Me at Thanksgiving dinner when the squad says "on?"
+SUMMARY:Approve: Me at Thanksgiving dinner checking the group chat every 5 
+ minutes
 DESCRIPTION:static-8-squad-on-under-table is 'Approve' and is due 2026-11-2
  6 17:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok
  \, Instagram and Snapchat. Approve or skip it in the Commander chat (or th
@@ -696,14 +697,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: Me at Thanksgiving dinner when the squad says "on?" in
-  30 min
+DESCRIPTION:Approve: Me at Thanksgiving dinner checking the group chat ever
+ y 5 minutes in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Approve: Me at Thanksgiving dinner when the squad says "on?" in
-  5 min
+DESCRIPTION:Approve: Me at Thanksgiving dinner checking the group chat ever
+ y 5 minutes in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -748,12 +749,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:static-8-squad-on-under-table@syzigy-media.vijostudio.com
-DTSTAMP:20261124T161532Z
-SEQUENCE:0
+DTSTAMP:20261125T152135Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T171500
-SUMMARY:[Needs you] Me at Thanksgiving dinner when the squad says "on?" [TT
- /IG/SC/YT]
+SUMMARY:[Needs you] Me at Thanksgiving dinner checking the group chat every
+  5 minutes [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -774,14 +775,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Me at Thanksgiving dinner when the squad says "on?"
-  [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Me at Thanksgiving dinner checking the group chat e
+ very 5 minutes [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Me at Thanksgiving dinner when the squad says "on?"
-  [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Me at Thanksgiving dinner checking the group chat e
+ very 5 minutes [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

@@ -616,35 +616,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-static-7-dog-guarding-oven@syzigy-media.vijostudio.com
-DTSTAMP:20261124T161532Z
-SEQUENCE:0
-DTSTART;TZID=America/New_York:20261124T090000
-DTEND;TZID=America/New_York:20261124T091500
-SUMMARY:Approve: My dog has been guarding the oven since 6 AM.
-DESCRIPTION:static-7-dog-guarding-oven is 'Approve' and is due 2026-11-25 1
- 2:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
- Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
- ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
- memes/2026-11-25-static-7-dog-guarding-oven/kit/\nDashboard: https://syzig
- y-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-25-static-7-dog
- -guarding-oven/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: My dog has been guarding the oven since 6 AM. in 30 mi
- n
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: My dog has been guarding the oven since 6 AM. in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gta6-single-player@syzigy-media.vijostudio.com
 DTSTAMP:20261125T140236Z
 SEQUENCE:4

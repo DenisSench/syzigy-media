@@ -324,36 +324,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dog-park-names-video@syzigy-media.vijostudio.com
-DTSTAMP:20261120T201526Z
-SEQUENCE:3
-DTSTART;TZID=America/New_York:20261120T123033
-DTEND;TZID=America/New_York:20261120T124533
-SUMMARY:[Posted] You know every dog at the park by name. Their owners? No i
- dea. [TT/IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-n
- ames-video/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5s
- y2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-20-dog-park-name
- s-video/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] You know every dog at the park by name. Their owners? 
- No idea. [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] You know every dog at the park by name. Their owners? 
- No idea. [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gaming-chat-is-friend-group@syzigy-media.vijostudio.com
 DTSTAMP:20261118T011747Z
 SEQUENCE:1

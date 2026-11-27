@@ -658,13 +658,44 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:static-8-squad-on-under-table@syzigy-media.vijostudio.com
-DTSTAMP:20261125T152135Z
+UID:approve-static-9-muted-mic-headset@syzigy-media.vijostudio.com
+DTSTAMP:20261127T160626Z
 SEQUENCE:1
-DTSTART;TZID=America/New_York:20261126T170000
-DTEND;TZID=America/New_York:20261126T171500
-SUMMARY:[Needs you] Me at Thanksgiving dinner checking the group chat every
-  5 minutes [TT/IG/SC/YT]
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T091500
+SUMMARY:Approve: Me explaining the whole strategy for 10 minutes with my mi
+ c muted
+DESCRIPTION:static-9-muted-mic-headset is 'Approve' and is due 2026-11-28 1
+ 2:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok\, 
+ Instagram and Snapchat. Approve or skip it in the Commander chat (or the d
+ ashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/posts/
+ memes/2026-11-28-static-9-muted-mic-headset/kit/\nDashboard: https://syzig
+ y-media.vijostudio.com/cal-tn3d5sy2/#overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-28-static-9-mut
+ ed-mic-headset/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me explaining the whole strategy for 10 minutes with m
+ y mic muted in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me explaining the whole strategy for 10 minutes with m
+ y mic muted in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:static-9-muted-mic-headset@syzigy-media.vijostudio.com
+DTSTAMP:20261127T160626Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T121500
+SUMMARY:[Needs you] Me explaining the whole strategy for 10 minutes with my
+  mic muted [TT/IG/SC/YT]
 DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  TikTok: photo-carousel inbox draft (lands ~2 h before the slot)\, then pub
  lish in the app.\nInstagram: hand-post the Reel from the kit.\nSnapchat: h
@@ -676,23 +707,23 @@ DESCRIPTION:Status: Approve\nPlatforms: TikTok+Instagram+Snapchat+YouTube\n
  n is in the kit.\nYouTube Shorts: hand-post the same 9:16 reel from the ki
  t. Title and description are in the kit's YouTube Shorts section when Ella
   has written a ### YouTube block\; otherwise copy is pending.\n\nKit: http
- s://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squad-on-u
- nder-table/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5s
- y2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squ
- ad-on-under-table/kit/
+ s://syzigy-media.vijostudio.com/posts/memes/2026-11-28-static-9-muted-mic-
+ headset/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/
+ #overview
+URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-28-static-9-mut
+ ed-mic-headset/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Me at Thanksgiving dinner checking the group chat e
- very 5 minutes [TT/IG/SC/YT] in 30 min
+DESCRIPTION:[Needs you] Me explaining the whole strategy for 10 minutes wit
+ h my mic muted [TT/IG/SC/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Needs you] Me at Thanksgiving dinner checking the group chat e
- very 5 minutes [TT/IG/SC/YT] in 5 min
+DESCRIPTION:[Needs you] Me explaining the whole strategy for 10 minutes wit
+ h my mic muted [TT/IG/SC/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

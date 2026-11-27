@@ -1,0 +1,31 @@
+{
+  "post": "memes/2026-11-28-static-9-muted-mic-headset",
+  "format": "static-still",
+  "version": "v1",
+  "review_status": "review",
+  "slot": "1",
+  "slot_time": "12:00",
+  "ai_imagery": true,
+  "snapchat": {
+    "caption_source": "post.md",
+    "reel_seconds": null,
+    "over_60s": false
+  },
+  "youtube": {
+    "copy_source": "post.md",
+    "pending": false
+  },
+  "placeholders": [],
+  "built": "2026-11-27T11:06:01-05:00",
+  "files": {
+    "cover.jpg": "9264fedaaea0f4bb74b35983a66bf72d34256180ab36b44aab8a546e0f7c6fb8",
+    "kit/README.md": "04743461cecaf98b2bee5a45c3891305899ac0a37586b013e1f83c7e901db29e",
+    "kit/index.html": "55014e3b295e56c68878e0719c681b2b4d434c25fdcfefccdeb0b62907053835",
+    "kit/instagram_caption.txt": "11317acc17fed5c1740190cbf349d37b4ce43f6a32e0b3852dfde57368a3294c",
+    "kit/snapchat_caption.txt": "877ce5d02b413db7030bc386d3190822878b1132a66e013192115a43c6a6a6c3",
+    "kit/tiktok_caption.txt": "11317acc17fed5c1740190cbf349d37b4ce43f6a32e0b3852dfde57368a3294c",
+    "kit/youtube_description.txt": "446d9a03dbcd3009a9ae09d1b4dbfe667389abe66c610f8b7be9f01eab12b2c3",
+    "kit/youtube_title.txt": "337091cef9a5e7c9b704262bdef22be18d0c397a392cc6b58d65e8b728e2977d",
+    "still.png": "af8b5db4d5f6c3fa4de871a30f54c46bbb8f8c9a10b77bfeea80f510e5f21fac"
+  }
+}

@@ -324,36 +324,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:work-call-cameo@syzigy-media.vijostudio.com
-DTSTAMP:20261122T135442Z
-SEQUENCE:6
-DTSTART;TZID=America/New_York:20261119T213043
-DTEND;TZID=America/New_York:20261119T214543
-SUMMARY:[Posted] Your pet knows exactly when you unmute on a work call [TT/
- IG/SC/YT]
-DESCRIPTION:Status: Posted\nPlatforms: TikTok+Instagram+Snapchat+YouTube\nT
- ikTok: posted.\nInstagram: posted.\nSnapchat: posted.\nYouTube: posted.\n\
- nKit: https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-
- cameo/kit/\nDashboard: https://syzigy-media.vijostudio.com/cal-tn3d5sy2/#o
- verview
-URL:https://syzigy-media.vijostudio.com/posts/pets/2026-11-19-work-call-cam
- eo/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Your pet knows exactly when you unmute on a work call 
- [TT/IG/SC/YT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Posted] Your pet knows exactly when you unmute on a work call 
- [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dog-park-names-video@syzigy-media.vijostudio.com
 DTSTAMP:20261120T201526Z
 SEQUENCE:3
@@ -645,37 +615,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Partly: Snap] GTA 6 is finally out [TT/IG/SC/YT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-static-8-squad-on-under-table@syzigy-media.vijostudio.com
-DTSTAMP:20261125T152135Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261125T090000
-DTEND;TZID=America/New_York:20261125T091500
-SUMMARY:Approve: Me at Thanksgiving dinner checking the group chat every 5 
- minutes
-DESCRIPTION:static-8-squad-on-under-table is 'Approve' and is due 2026-11-2
- 6 17:00 ET on TikTok\, Instagram and Snapchat.\nOne approval covers TikTok
- \, Instagram and Snapchat. Approve or skip it in the Commander chat (or th
- e dashboard Approve button).\nKit: https://syzigy-media.vijostudio.com/pos
- ts/memes/2026-11-26-static-8-squad-on-under-table/kit/\nDashboard: https:/
- /syzigy-media.vijostudio.com/cal-tn3d5sy2/#overview
-URL:https://syzigy-media.vijostudio.com/posts/memes/2026-11-26-static-8-squ
- ad-on-under-table/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Me at Thanksgiving dinner checking the group chat ever
- y 5 minutes in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Me at Thanksgiving dinner checking the group chat ever
- y 5 minutes in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT

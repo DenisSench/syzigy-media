@@ -1,8 +1,8 @@
 {
   "post": "memes/2026-11-23-static-1-dog-bathroom-door",
-  "format": "native-reel",
-  "version": "v1",
-  "review_status": "approved",
+  "format": "static-still",
+  "version": "v2",
+  "review_status": "review",
   "slot": "3",
   "slot_time": "21:00",
   "ai_imagery": true,
@@ -16,18 +16,16 @@
     "pending": false
   },
   "placeholders": [],
-  "built": "2026-11-23T15:54:31-05:00",
+  "built": "2026-11-28T08:59:35-05:00",
   "files": {
-    "cover.jpg": "5a9f8ec024d483d6066f8b36f67a589eed6ff1ca2c9aed5149b9c054272d1595",
-    "kit/README.md": "c46433f5122799f926fecb9714a9cd4d8db85dee505b40c8269a11cf30dcb896",
-    "kit/index.html": "6443c4b0a8adf3df273527ae6fa2cc7505e32d6bd69cf51268371e1e2d0e56d1",
-    "kit/instagram_caption.txt": "c09da68fbcb54b38770c59f06bfbc38d4b915328480c86a1b762f0fc652d8a7c",
-    "kit/snapchat_caption.txt": "93f55d5ec4ca2cdefa946ea774e813ef79c6199ebdc5fcf5b212e4429c4e1893",
-    "kit/tiktok_caption.txt": "ca91b996e777ff8afddc80b6c7ff17e024936132d392342cc10b204444aecbd9",
-    "kit/youtube_description.txt": "d3cb774f57d65e300775588ae789a125454791d8d9947532bc4196d333816f2a",
-    "kit/youtube_title.txt": "8b99cfdef9ee0ad00654e12bb437b75b8b14eb546dc3996a58ce91354dda7e43",
-    "reel.mp4": "fb6a3ef57edea64eabcb57715d28576df6be61770606efd291a26c2f3ab2ea82",
-    "still.png": "4bba91e94407fe954d7e9f255d38a60a023c8aff2f74a6ddf859506b9988232d",
-    "still_4x5.png": "d1866b0dd6e6880dc607f0fc96bb1da82d69034a4862fc3477f057bf1e3cf978"
+    "cover.jpg": "a4e408e229dcc6be9778b9366340023ce0a4c32e930c373da26f032abba20f76",
+    "kit/README.md": "79a205363c9390032b0fa02e0429666016d3b1e63b7cc80ca841c647d476be37",
+    "kit/index.html": "a78086bc015d78a89a07765e333ff3020a384a259477f822f0f9de5ce5d2393d",
+    "kit/instagram_caption.txt": "e5a38b48c551af812b3f80058236b7adb18691b20fa58e5a0266838ee07e2496",
+    "kit/snapchat_caption.txt": "b7f464a414bd9370dc147a13023f6fa7cb2dc00b93387d33afdaf1b0706c1c2c",
+    "kit/tiktok_caption.txt": "7cf9603bed89d4001f921b512d2b917b3df61fbba3b91a56bc7e87f15440919e",
+    "kit/youtube_description.txt": "fa045626e58e944a1227bc30eab0c0b822a6bb829caac62f1397c21cb337447f",
+    "kit/youtube_title.txt": "30f3cc34c62856f6320c93289379d828331a41072165558222d73b9e7d60ed5d",
+    "still.png": "69d9389a7cbe5328f9f8ec3cec367670aecce276bf29bb23cdf840725a825b8a"
   }
 }

@@ -1,14 +1,14 @@
 # Kit: 2026-11-23-static-1-dog-bathroom-door
 
-Approval: Approved by Denis: one approval for TikTok, Instagram and Snapchat (same asset).
+Approval: In review: NOT approved yet. Do not post.
 Slot: Mon Nov 23, 9:00 PM ET
-Source: posts/memes/2026-11-23-static-1-dog-bathroom-door/v1
+Source: posts/memes/2026-11-23-static-1-dog-bathroom-door/v2
 Placeholders: none
 
 ## TikTok caption
 
 ```
-The dog is already at the bathroom door when it closes
+My dog is already at the bathroom door when I close it
 Find your people on Syzigy. Link in bio.
 
 #petlife #dogsoftiktok #petsoftiktok #memes #syzigy
@@ -17,7 +17,7 @@ Find your people on Syzigy. Link in bio.
 ## Instagram caption
 
 ```
-The dog is already at the bathroom door when it closes
+My dog is already at the bathroom door when I close it
 Find your people on Syzigy. Link in bio.
 
 #petlife #dogsoftiktok #petsoftiktok #syzigy
@@ -26,7 +26,7 @@ Find your people on Syzigy. Link in bio.
 ## Snapchat caption (post.md)
 
 ```
-The dog is already at the bathroom door when it closes. Find your people on Syzigy - link in bio. #petlife #dogsoftiktok #syzigy
+My dog is already at the bathroom door when I close it. Find your people on Syzigy - link in bio. #petlife #dogsoftiktok #syzigy
 ```
 
 ## YouTube Shorts (from post.md)
@@ -34,12 +34,12 @@ The dog is already at the bathroom door when it closes. Find your people on Syzi
 **Title**
 
 ```
-The dog is already at the bathroom door when it closes #Shorts
+My dog is already at the bathroom door when I close it #Shorts
 ```
 
 **Description**
 
 ```
-The dog is already at the bathroom door when it closes
+My dog is already at the bathroom door when I close it
 Find your people on Syzigy. Link in channel.
 ```
